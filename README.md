@@ -1,5 +1,5 @@
 # CopperMT - Cognate Prediction per MT
-This repository contains the code for ACL 2021 Findings paper: Can Cognate Prediction Be Modelled as a Machine Translation Task?
+This repository contains the code for ACL 2021 Findings paper: Can Cognate Prediction Be Modelled as a Low-Resource Machine Translation Task?
 
 ## Overview
 We provide a pipeline, based on fairseq, to train bilingual or multilingual NMT models, with either pretraining or backtranslation. They can also be compared to SMT models (using MOSES). The scripts can be used as such to reproduce our results, or modified to fit your analyses.
