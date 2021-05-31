@@ -1,0 +1,21 @@
+# RNN libs
+torch
+torchvision
+fairseq
+sacrebleu
+sentencepiece
+
+# Plot and vector manipulation
+numpy
+sklearn
+
+# For data extraction
+pandas
+networkx
+
+# Notebooks
+jupyter
+matplotlib
+
+# to be installed with brew or apt:
+# espeak

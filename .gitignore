@@ -1,0 +1,19 @@
+# Pycache
+*__pycache__*
+
+# Jupyter notebooks checkpoints
+*/.ipynb_checkpoints/*
+
+# Ignore the run results
+workspace/*
+
+# Ignore the virtualenv and submodules
+pyenv/*
+
+# Ignore the logs
+*.out
+*.log
+
+# Ignore the backtranslated inputs
+inputs/raw_data/backtrad/*
+inputs/split_data/backtrad/*
