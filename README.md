@@ -61,10 +61,15 @@ MIT licence) and has been added here for convenience. My code is under GNU GPL 3
 If you use the code, models or algorithms, please cite:
 ```
 @inproceedings{fourrier21,
-  title = {Is Cognate Prediction a Machine Translation Task?},
-  author = {Fourrier, Cl{\'e}mentine, Bawden, Rachel and Sagot, Beno{\^i}t},
-  booktitle={Findings of the 59th Annual Meeting of the Association for Computational Linguistics},
-  volume={1},
-  year={2021}
+  TITLE = {{Can Cognate Prediction Be Modelled as a Low-Resource Machine Translation Task?}},
+  AUTHOR = {Fourrier, Cl{\'e}mentine and Bawden, Rachel and Sagot, Beno{\^i}t},
+  URL = {https://hal.inria.fr/hal-03243380},
+  BOOKTITLE = {{ACL-IJCNLP 2021 - Findings of the Association for Computational Linguistics}},
+  ADDRESS = {Bangkok, Thailand},
+  YEAR = {2021},
+  MONTH = Aug,
+  HAL_ID = {hal-03243380},
+  HAL_VERSION = {v1},
 }
+
 ```
