@@ -1,7 +1,4 @@
-# Copyright (c) Facebook, Inc. and its affiliates.
-#
-# This source code is licensed under the MIT license found in the
-# LICENSE file in the root directory of this source tree.
+# This code is in the process of being integrated in fairseq, and is inspired by MultilingualTransformers
 
 from collections import OrderedDict
 from dataclasses import dataclass, field
