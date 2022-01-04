@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Fourrier"
+  given-names: " Cl{\'e}mentine"
+  orcid: "https://orcid.org/0000-0001-6500-6030"
+title: "CopperMT: Cognate Prediction per MT"
+version: 1.0
+url: "https://github.com/github/linguist"
+preferred-citation:
+  type: conference-paper
+  authors:
+  - family-names: "Fourrier"
+    given-names: " Cl{\'e}mentine"
+    orcid: "https://orcid.org/0000-0001-6500-6030"
+  - family-names: "Bawden"
+    given-names: "Rachel"
+  - family-names: "Sagot"
+    given-names: "Beno{\^i}t"
+  booktitle: "Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021",
+  month: 8,
+  year: 2021,
+  address: "Online",
+  publisher: "Association for Computational Linguistics",
+  url: "https://aclanthology.org/2021.findings-acl.75",
+  doi: "10.18653/v1/2021.findings-acl.75",
+  start: 847
+  end: 861,
+  title: "Can Cognate Prediction Be Modelled as a Low-Resource Machine Translation Task?"
