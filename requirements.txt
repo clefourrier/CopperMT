@@ -16,6 +16,3 @@ networkx
 # Notebooks
 jupyter
 matplotlib
-
-# to be installed with brew or apt:
-# espeak
