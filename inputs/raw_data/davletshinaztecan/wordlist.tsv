@@ -1,0 +1,855 @@
+ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	LATITUDE	LONGITUDE	LANGUAGE_FAMILY	COGID
+354	42_i	I 	ClassicalNahuatl	Classical Nahuatl	neʔwaː-tl	neʔwaː-tl	n e ʔ w aː + tɬ	clas1250	19.72	-96.97	Uto-Aztecan	138
+355	42_i	I 	TetelcingoNahuatl	Tetelcingo Nahuatl	naha	naha	n a h a	tete1251	18.8854	-98.893	Uto-Aztecan	138
+356	42_i	I 	NorthPueblaNahuatl	North Puebla Nahuatl	nehwa-tl	nehwa-tl	n e h w a + tɬ	nort2957	20.1356	-97.9814	Uto-Aztecan	138
+357	42_i	I 	MecayapanNahuat	Mecayapan Nahuat	neh	neh	n e h	isth1242	18.2	-94.7547	Uto-Aztecan	138
+358	42_i	I 	PajapanNahuat	Pajapán Nahuat	neha	neha	n e h a	isth1241	18.2513	-94.6647	Uto-Aztecan	138
+359	42_i	I 	JalupaNahuat	Jalupa Nahuat	nehe	nehe	n e h e	taba1265	17.9371	-93.5688	Uto-Aztecan	138
+360	42_i	I 	Pipil	Pipil	na ~ nah ~ naha	na	n a	pipi1250	13.8931	-89.443	Uto-Aztecan	138
+361	42_i	I 	Pochutec	Pochutec	nen	nen	n e n	poch1244	15.735073	-96.468076	Uto-Aztecan	138
+362	42_i	I 	ProtoAztecan	Proto-Aztecan	*naha	*naha	n a h a	azte1234			Uto-Aztecan	138
+1	1_alltodos	all (todos) 	ClassicalNahuatl	Classical Nahuatl	mochi-n	mochi-n	m o tʃ i + n	clas1250	19.72	-96.97	Uto-Aztecan	1
+2	1_alltodos	all (todos) 	TetelcingoNahuatl	Tetelcingo Nahuatl	nochiː	nochiː	n o tʃ iː	tete1251	18.8854	-98.893	Uto-Aztecan	1
+3	1_alltodos	all (todos) 	NorthPueblaNahuatl	North Puebla Nahuatl	nochi-n	nochi-n	n o tʃ i + n	nort2957	20.1356	-97.9814	Uto-Aztecan	1
+4	1_alltodos	all (todos) 	MecayapanNahuat	Mecayapan Nahuat	(i)nochi	nochi	n o tʃ i	isth1242	18.2	-94.7547	Uto-Aztecan	1
+5	1_alltodos	all (todos) 	PajapanNahuat	Pajapán Nahuat	nochi	nochi	n o tʃ i	isth1241	18.2513	-94.6647	Uto-Aztecan	1
+6	1_alltodos	all (todos) 	JalupaNahuat	Jalupa Nahuat	muchi	muchi	m u tʃ i	taba1265	17.9371	-93.5688	Uto-Aztecan	1
+7	1_alltodos	all (todos) 	Pipil	Pipil	muchi	muchi	m u tʃ i	pipi1250	13.8931	-89.443	Uto-Aztecan	1
+8	1_alltodos	all (todos) 	Pochutec	Pochutec	nochó	nochó	n o tʃ ó/o	poch1244	15.735073	-96.468076	Uto-Aztecan	1
+9	1_alltodos	all (todos) 	ProtoAztecan	Proto-Aztecan	*mochɨ-m	*mochɨ-m	m o tʃ ɨ + m	azte1234			Uto-Aztecan	1
+10	2_ashes	ashes 	ClassicalNahuatl	Classical Nahuatl	nex-tli	nex-tli	n e x + tɬ i	clas1250	19.72	-96.97	Uto-Aztecan	2
+11	2_ashes	ashes 	TetelcingoNahuatl	Tetelcingo Nahuatl	tlako-nex-tliː	tlako-nex-tliː	tɬ a k o + n e x + tɬ iː	tete1251	18.8854	-98.893	Uto-Aztecan	2
+12	2_ashes	ashes 	NorthPueblaNahuatl	North Puebla Nahuatl	tleko-nex-tli	tleko-nex-tli	tɬ e k o + n e x + tɬ i	nort2957	20.1356	-97.9814	Uto-Aztecan	2
+13	2_ashes	ashes 	MecayapanNahuat	Mecayapan Nahuat	kwa-neːx	kwa-neːx	k w a + n eː x	isth1242	18.2	-94.7547	Uto-Aztecan	2
+14	2_ashes	ashes 	PajapanNahuat	Pajapán Nahuat	ba-neːx	ba-neːx	b a + n eː x	isth1241	18.2513	-94.6647	Uto-Aztecan	2
+15	2_ashes	ashes 	JalupaNahuat	Jalupa Nahuat	kó-nex-ti	kó-nex-ti	k ó/o + n e x + t i	taba1265	17.9371	-93.5688	Uto-Aztecan	2
+16	2_ashes	ashes 	Pipil	Pipil	nex-ti	nex-ti	n e x + t i	pipi1250	13.8931	-89.443	Uto-Aztecan	2
+17	2_ashes	ashes 	Pochutec	Pochutec	nox-t	nox-t	n o x + t	poch1244	15.735073	-96.468076	Uto-Aztecan	2
+18	2_ashes	ashes 	ProtoAztecan	Proto-Aztecan	*nɨx-tlɨ	*nɨx-tlɨ	n ɨ x + tɬ ɨ	azte1234			Uto-Aztecan	2
+19	3_bark	bark 	ClassicalNahuatl	Classical Nahuatl	eːwa-tl	eːwa-tl	eː w a + tɬ	clas1250	19.72	-96.97	Uto-Aztecan	3
+20	3_bark	bark 	TetelcingoNahuatl	Tetelcingo Nahuatl	yewa-yu-tl	yewa-yu-tl	j e w a + j u + tɬ	tete1251	18.8854	-98.893	Uto-Aztecan	3
+21	3_bark	bark 	NorthPueblaNahuatl	North Puebla Nahuatl	-yewa-yo	-yewa-yo	j e w a + j o	nort2957	20.1356	-97.9814	Uto-Aztecan	3
+22	3_bark	bark 	MecayapanNahuat	Mecayapan Nahuat	kwa-kahloː-ʔ	kwa-kahloː-ʔ	k w a + k a h l oː + ʔ	isth1242	18.2	-94.7547	Uto-Aztecan	4
+23	3_bark	bark 	PajapanNahuat	Pajapán Nahuat	-ba-gahlo	-ba-gahlo	b a + g a h l o	isth1241	18.2513	-94.6647	Uto-Aztecan	4
+24	3_bark	bark 	JalupaNahuat	Jalupa Nahuat	-sul-koi	-sul-koi	s u l + k o i	taba1265	17.9371	-93.5688	Uto-Aztecan	5
+25	3_bark	bark 	Pipil	Pipil	-eːwa-yu	-eːwa-yu	eː w a + j u	pipi1250	13.8931	-89.443	Uto-Aztecan	3
+26	3_bark	bark 	ProtoAztecan	Proto-Aztecan	*ɨwaː-yoː-tl	*ɨwaː-yoː-tl	ɨ w aː + j oː + tɬ	azte1234			Uto-Aztecan	3
+27	4_belly	belly 	ClassicalNahuatl	Classical Nahuatl	-iʔte	-iʔte	i ʔ t e	clas1250	19.72	-96.97	Uto-Aztecan	6
+28	4_belly	belly 	TetelcingoNahuatl	Tetelcingo Nahuatl	-ihte	-ihte	i h t e	tete1251	18.8854	-98.893	Uto-Aztecan	6
+29	4_belly	belly 	NorthPueblaNahuatl	North Puebla Nahuatl	-ihte, -pox	-ihte	i h t e	nort2957	20.1356	-97.9814	Uto-Aztecan	6
+30	4_belly	belly 	MecayapanNahuat	Mecayapan Nahuat	-talax (exterior)	-talax_	t a l a x	isth1242	18.2	-94.7547	Uto-Aztecan	7
+31	4_belly	belly 	PajapanNahuat	Pajapán Nahuat	-ihti	-ihti	i h t i	isth1241	18.2513	-94.6647	Uto-Aztecan	6
+32	4_belly	belly 	JalupaNahuat	Jalupa Nahuat	-ihti	-ihti	i h t i	taba1265	17.9371	-93.5688	Uto-Aztecan	6
+33	4_belly	belly 	Pipil	Pipil	-ihti	-ihti	i h t i	pipi1250	13.8931	-89.443	Uto-Aztecan	6
+34	4_belly	belly 	ProtoAztecan	Proto-Aztecan	*-ɨhtɨ	*-ɨhtɨ	ɨ h t ɨ	azte1234			Uto-Aztecan	6
+35	5_big	big 	ClassicalNahuatl	Classical Nahuatl	weː(i)	weː	w eː	clas1250	19.72	-96.97	Uto-Aztecan	8
+36	5_big	big 	TetelcingoNahuatl	Tetelcingo Nahuatl	bieyiː	bieyiː	b i e j iː	tete1251	18.8854	-98.893	Uto-Aztecan	8
+37	5_big	big 	NorthPueblaNahuatl	North Puebla Nahuatl	weyi	weyi	w e j i	nort2957	20.1356	-97.9814	Uto-Aztecan	8
+38	5_big	big 	MecayapanNahuat	Mecayapan Nahuat	weyi	weyi	w e j i	isth1242	18.2	-94.7547	Uto-Aztecan	8
+39	5_big	big 	PajapanNahuat	Pajapán Nahuat	weːy	weːy	w eː j	isth1241	18.2513	-94.6647	Uto-Aztecan	8
+40	5_big	big 	JalupaNahuat	Jalupa Nahuat	wey	wey	w e j	taba1265	17.9371	-93.5688	Uto-Aztecan	8
+41	5_big	big 	Pipil	Pipil	weːy	weːy	w eː j	pipi1250	13.8931	-89.443	Uto-Aztecan	8
+42	5_big	big 	Pochutec	Pochutec	huhióm	huhióm	h u h i ó/o m	poch1244	15.735073	-96.468076	Uto-Aztecan	8
+43	5_big	big 	ProtoAztecan	Proto-Aztecan	*wehey(ɨ)	*wehey	w e h e j	azte1234			Uto-Aztecan	8
+44	6_bird	bird 	ClassicalNahuatl	Classical Nahuatl	toːtoː-tl	toːtoː-tl	t oː t oː + tɬ	clas1250	19.72	-96.97	Uto-Aztecan	9
+45	6_bird	bird 	TetelcingoNahuatl	Tetelcingo Nahuatl	tutu-tl	tutu-tl	t u t u + tɬ	tete1251	18.8854	-98.893	Uto-Aztecan	9
+46	6_bird	bird 	NorthPueblaNahuatl	North Puebla Nahuatl	toto-tl	toto-tl	t o t o + tɬ	nort2957	20.1356	-97.9814	Uto-Aztecan	9
+47	6_bird	bird 	MecayapanNahuat	Mecayapan Nahuat	toːtoː-ʔ	toːtoː-ʔ	t oː t oː + ʔ	isth1242	18.2	-94.7547	Uto-Aztecan	9
+48	6_bird	bird 	PajapanNahuat	Pajapán Nahuat	toːto-t	toːto-t	t oː t o + t	isth1241	18.2513	-94.6647	Uto-Aztecan	9
+49	6_bird	bird 	JalupaNahuat	Jalupa Nahuat	tuːru-t	tuːru-t	t uː r u + t	taba1265	17.9371	-93.5688	Uto-Aztecan	9
+50	6_bird	bird 	Pipil	Pipil	tuːtu-t (Santo Domingo de Guzmán), wiːlu-t (Cuisnahuat)	tuːtu-t_	t uː t u + t	pipi1250	13.8931	-89.443	Uto-Aztecan	9
+51	6_bird	bird 	ProtoAztecan	Proto-Aztecan	*toːtoː-tl	*toːtoː-tl	t oː t oː + tɬ	azte1234			Uto-Aztecan	9
+52	7_bite	bite 	ClassicalNahuatl	Classical Nahuatl	-keʔtzom(a)	-keʔtzom	k e ʔ ts o m	clas1250	19.72	-96.97	Uto-Aztecan	10
+53	7_bite	bite 	TetelcingoNahuatl	Tetelcingo Nahuatl	-ketzoma	-ketzoma	k e ts o m a	tete1251	18.8854	-98.893	Uto-Aztecan	10
+54	7_bite	bite 	NorthPueblaNahuatl	North Puebla Nahuatl	-tlan-kechiya	-tlan-kechiya	tɬ a n + k e tʃ i j a	nort2957	20.1356	-97.9814	Uto-Aztecan	11
+55	7_bite	bite 	MecayapanNahuat	Mecayapan Nahuat	-tan-kwa	-tan-kwa	t a n + k w a	isth1242	18.2	-94.7547	Uto-Aztecan	12
+56	7_bite	bite 	PajapanNahuat	Pajapán Nahuat	-tam-ba	-tam-ba	t a m + b a	isth1241	18.2513	-94.6647	Uto-Aztecan	12
+57	7_bite	bite 	Pipil	Pipil	-tan-kwa	-tan-kwa	t a n + k w a	pipi1250	13.8931	-89.443	Uto-Aztecan	12
+58	7_bite	bite 	ProtoAztecan	Proto-Aztecan	*-kɨh-tzoma	*-kɨh-tzoma	k ɨ h + ts o m a	azte1234			Uto-Aztecan	12
+59	8_black	black 	ClassicalNahuatl	Classical Nahuatl	tliːl-tik	tliːl-tik	tɬ iː l + t i k	clas1250	19.72	-96.97	Uto-Aztecan	13
+60	8_black	black 	TetelcingoNahuatl	Tetelcingo Nahuatl	tlil-tiːk, kapotz-tiːk	tlil-tiːk	tɬ i l + t iː k	tete1251	18.8854	-98.893	Uto-Aztecan	13
+61	8_black	black 	NorthPueblaNahuatl	North Puebla Nahuatl	tlil-tik	tlil-tik	tɬ i l + t i k	nort2957	20.1356	-97.9814	Uto-Aztecan	13
+62	8_black	black 	MecayapanNahuat	Mecayapan Nahuat	piːs-tiʔ, chaːpo-tiʔ	piːs-tiʔ	p iː s + t i ʔ	isth1242	18.2	-94.7547	Uto-Aztecan	14
+63	8_black	black 	PajapanNahuat	Pajapán Nahuat	pis-tik	pis-tik	p i s + t i k	isth1241	18.2513	-94.6647	Uto-Aztecan	14
+64	8_black	black 	JalupaNahuat	Jalupa Nahuat	yayák	yayák	j a j á/a k	taba1265	17.9371	-93.5688	Uto-Aztecan	15
+65	8_black	black 	Pipil	Pipil	tiːl-tik (Santo Domingo de Guzmán), kuː-tiːl-tik (Cuisnahuat)	tiːl-tik_	t iː l + t i k	pipi1250	13.8931	-89.443	Uto-Aztecan	13
+66	8_black	black 	ProtoAztecan	Proto-Aztecan	*tliːl-tɨ-k	*tliːl-tɨ-k	tɬ iː l + t ɨ + k	azte1234			Uto-Aztecan	13
+67	9_blood	blood 	ClassicalNahuatl	Classical Nahuatl	es-tli	es-tli	e s + tɬ i	clas1250	19.72	-96.97	Uto-Aztecan	16
+68	9_blood	blood 	TetelcingoNahuatl	Tetelcingo Nahuatl	yes-tliː	yes-tliː	j e s + tɬ iː	tete1251	18.8854	-98.893	Uto-Aztecan	16
+69	9_blood	blood 	NorthPueblaNahuatl	North Puebla Nahuatl	yes-tli	yes-tli	j e s + tɬ i	nort2957	20.1356	-97.9814	Uto-Aztecan	16
+70	9_blood	blood 	MecayapanNahuat	Mecayapan Nahuat	es-ti	es-ti	e s + t i	isth1242	18.2	-94.7547	Uto-Aztecan	16
+71	9_blood	blood 	PajapanNahuat	Pajapán Nahuat	es-ti	es-ti	e s + t i	isth1241	18.2513	-94.6647	Uto-Aztecan	16
+72	9_blood	blood 	JalupaNahuat	Jalupa Nahuat	es-ti	es-ti	e s + t i	taba1265	17.9371	-93.5688	Uto-Aztecan	16
+73	9_blood	blood 	Pipil	Pipil	es-ti	es-ti	e s + t i	pipi1250	13.8931	-89.443	Uto-Aztecan	16
+74	9_blood	blood 	Pochutec	Pochutec	es-t	es-t	e s + t	poch1244	15.735073	-96.468076	Uto-Aztecan	16
+75	9_blood	blood 	ProtoAztecan	Proto-Aztecan	*ɨs-tlɨ	*ɨs-tlɨ	ɨ s + tɬ ɨ	azte1234			Uto-Aztecan	16
+76	10_bone	bone 	ClassicalNahuatl	Classical Nahuatl	omi-tl	omi-tl	o m i + tɬ	clas1250	19.72	-96.97	Uto-Aztecan	17
+77	10_bone	bone 	TetelcingoNahuatl	Tetelcingo Nahuatl	miːmiːte-tl	miːmiːte-tl	m iː m iː t e + tɬ	tete1251	18.8854	-98.893	Uto-Aztecan	18
+78	10_bone	bone 	NorthPueblaNahuatl	North Puebla Nahuatl	ohmi-tl	ohmi-tl	o h m i + tɬ	nort2957	20.1356	-97.9814	Uto-Aztecan	17
+79	10_bone	bone 	MecayapanNahuat	Mecayapan Nahuat	omi-ʔ	omi-ʔ	o m i + ʔ	isth1242	18.2	-94.7547	Uto-Aztecan	17
+80	10_bone	bone 	PajapanNahuat	Pajapán Nahuat	omi-t	omi-t	o m i + t	isth1241	18.2513	-94.6647	Uto-Aztecan	17
+81	10_bone	bone 	JalupaNahuat	Jalupa Nahuat	umi-t	umi-t	u m i + t	taba1265	17.9371	-93.5688	Uto-Aztecan	17
+82	10_bone	bone 	Pipil	Pipil	uːmi-t	uːmi-t	uː m i + t	pipi1250	13.8931	-89.443	Uto-Aztecan	17
+83	10_bone	bone 	Pochutec	Pochutec	o-t	o-t	o + t	poch1244	15.735073	-96.468076	Uto-Aztecan	17
+84	10_bone	bone 	ProtoAztecan	Proto-Aztecan	*oːmɨ-tl	*oːmɨ-tl	oː m ɨ + tɬ	azte1234			Uto-Aztecan	17
+85	11_breast	breast 	ClassicalNahuatl	Classical Nahuatl	-chiːchiːwal	-chiːchiːwal	tʃ iː tʃ iː w a l	clas1250	19.72	-96.97	Uto-Aztecan	19
+86	11_breast	breast 	TetelcingoNahuatl	Tetelcingo Nahuatl	-chichiːwal (de mujer)	-chichiːwal_	tʃ i tʃ iː w a l	tete1251	18.8854	-98.893	Uto-Aztecan	19
+87	11_breast	breast 	NorthPueblaNahuatl	North Puebla Nahuatl	-chichiwal (de mujer)	-chichiwal_	tʃ i tʃ i w a l	nort2957	20.1356	-97.9814	Uto-Aztecan	19
+88	11_breast	breast 	MecayapanNahuat	Mecayapan Nahuat	-chiːchiwal (teta)	-chiːchiwal_	tʃ iː tʃ i w a l	isth1242	18.2	-94.7547	Uto-Aztecan	19
+89	11_breast	breast 	PajapanNahuat	Pajapán Nahuat	-chichiwal (teta)	-chichiwal_	tʃ i tʃ i w a l	isth1241	18.2513	-94.6647	Uto-Aztecan	19
+90	11_breast	breast 	JalupaNahuat	Jalupa Nahuat	-chichi (teta)	-chichi_	tʃ i tʃ i	taba1265	17.9371	-93.5688	Uto-Aztecan	20
+91	11_breast	breast 	Pipil	Pipil	-chiːchih (teta)	-chiːchih_	tʃ iː tʃ i h	pipi1250	13.8931	-89.443	Uto-Aztecan	20
+92	11_breast	breast 	Pochutec	Pochutec	/no/-tipén (mi pecho)	no	n o	poch1244	15.735073	-96.468076	Uto-Aztecan	21
+93	11_breast	breast 	ProtoAztecan	Proto-Aztecan	*-chiːchiːwal	*-chiːchiːwal	tʃ iː tʃ iː w a l	azte1234			Uto-Aztecan	19
+94	12_burntr	burn tr. 	ClassicalNahuatl	Classical Nahuatl	-tlatiaː	-tlatiaː	tɬ a t i aː	clas1250	19.72	-96.97	Uto-Aztecan	22
+95	12_burntr	burn tr. 	TetelcingoNahuatl	Tetelcingo Nahuatl	-tlatia	-tlatia	tɬ a t i a	tete1251	18.8854	-98.893	Uto-Aztecan	22
+96	12_burntr	burn tr. 	NorthPueblaNahuatl	North Puebla Nahuatl	-tititza	-tititza	t i t i ts a	nort2957	20.1356	-97.9814	Uto-Aztecan	23
+97	12_burntr	burn tr. 	MecayapanNahuat	Mecayapan Nahuat	-tatiá	-tatiá	t a t i á/a	isth1242	18.2	-94.7547	Uto-Aztecan	22
+98	12_burntr	burn tr. 	PajapanNahuat	Pajapán Nahuat	-tata	-tata	t a t a	isth1241	18.2513	-94.6647	Uto-Aztecan	22
+99	12_burntr	burn tr. 	JalupaNahuat	Jalupa Nahuat	-tati	-tati	t a t i	taba1265	17.9371	-93.5688	Uto-Aztecan	22
+100	12_burntr	burn tr. 	Pipil	Pipil	-tatia	-tatia	t a t i a	pipi1250	13.8931	-89.443	Uto-Aztecan	22
+101	12_burntr	burn tr. 	Pochutec	Pochutec	-tatí	-tatí	t a t í/i	poch1244	15.735073	-96.468076	Uto-Aztecan	22
+102	12_burntr	burn tr. 	ProtoAztecan	Proto-Aztecan	*-tla-tɨ-ha	*-tla-tɨ-ha	tɬ a + t ɨ + h a	azte1234			Uto-Aztecan	22
+103	13_clawnail	claw(nail) 	ClassicalNahuatl	Classical Nahuatl	iste-tl	iste-tl	i s t e + tɬ	clas1250	19.72	-96.97	Uto-Aztecan	24
+104	13_clawnail	claw(nail) 	TetelcingoNahuatl	Tetelcingo Nahuatl	iste	iste	i s t e	tete1251	18.8854	-98.893	Uto-Aztecan	24
+105	13_clawnail	claw(nail) 	NorthPueblaNahuatl	North Puebla Nahuatl	ist-n	ist-n	i s t + n	nort2957	20.1356	-97.9814	Uto-Aztecan	24
+106	13_clawnail	claw(nail) 	MecayapanNahuat	Mecayapan Nahuat	isti	isti	i s t i	isth1242	18.2	-94.7547	Uto-Aztecan	24
+107	13_clawnail	claw(nail) 	PajapanNahuat	Pajapán Nahuat	-isti	-isti	i s t i	isth1241	18.2513	-94.6647	Uto-Aztecan	24
+108	13_clawnail	claw(nail) 	JalupaNahuat	Jalupa Nahuat	-isti	-isti	i s t i	taba1265	17.9371	-93.5688	Uto-Aztecan	24
+109	13_clawnail	claw(nail) 	Pipil	Pipil	isti-t	isti-t	i s t i + t	pipi1250	13.8931	-89.443	Uto-Aztecan	24
+110	13_clawnail	claw(nail) 	Pochutec	Pochutec	ox-t	ox-t	o x + t	poch1244	15.735073	-96.468076	Uto-Aztecan	24
+111	13_clawnail	claw(nail) 	ProtoAztecan	Proto-Aztecan	*-ɨstɨ	*-ɨstɨ	ɨ s t ɨ	azte1234			Uto-Aztecan	24
+112	14_cloud	cloud 	ClassicalNahuatl	Classical Nahuatl	mix-tli	mix-tli	m i x + tɬ i	clas1250	19.72	-96.97	Uto-Aztecan	25
+113	14_cloud	cloud 	TetelcingoNahuatl	Tetelcingo Nahuatl	mex-tliː	mex-tliː	m e x + tɬ iː	tete1251	18.8854	-98.893	Uto-Aztecan	25
+114	14_cloud	cloud 	NorthPueblaNahuatl	North Puebla Nahuatl	(tepe)-mex-tli	-mex-tli	m e x + tɬ i	nort2957	20.1356	-97.9814	Uto-Aztecan	25
+115	14_cloud	cloud 	MecayapanNahuat	Mecayapan Nahuat	mix-ti	mix-ti	m i x + t i	isth1242	18.2	-94.7547	Uto-Aztecan	25
+116	14_cloud	cloud 	PajapanNahuat	Pajapán Nahuat	miːx-ti	miːx-ti	m iː x + t i	isth1241	18.2513	-94.6647	Uto-Aztecan	25
+117	14_cloud	cloud 	Pipil	Pipil	mix-ti	mix-ti	m i x + t i	pipi1250	13.8931	-89.443	Uto-Aztecan	25
+118	14_cloud	cloud 	Pochutec	Pochutec	pix-t?	pix-t?	p i x + t	poch1244	15.735073	-96.468076	Uto-Aztecan	26
+119	14_cloud	cloud 	ProtoAztecan	Proto-Aztecan	*mix-tlɨ	*mix-tlɨ	m i x + tɬ ɨ	azte1234			Uto-Aztecan	25
+120	15_cold	cold 	ClassicalNahuatl	Classical Nahuatl	iːtz-tik, sesek	iːtz-tik	iː ts + t i k	clas1250	19.72	-96.97	Uto-Aztecan	28
+121	15_cold	cold 	TetelcingoNahuatl	Tetelcingo Nahuatl	itz-tiːk	itz-tiːk	i ts + t iː k	tete1251	18.8854	-98.893	Uto-Aztecan	27
+122	15_cold	cold 	NorthPueblaNahuatl	North Puebla Nahuatl	itz-tik	itz-tik	i ts + t i k	nort2957	20.1356	-97.9814	Uto-Aztecan	27
+123	15_cold	cold 	MecayapanNahuat	Mecayapan Nahuat	seseːʔ	seseːʔ	s e s eː ʔ	isth1242	18.2	-94.7547	Uto-Aztecan	28
+124	15_cold	cold 	PajapanNahuat	Pajapán Nahuat	seseːk	seseːk	s e s eː k	isth1241	18.2513	-94.6647	Uto-Aztecan	28
+125	15_cold	cold 	JalupaNahuat	Jalupa Nahuat	sesek	sesek	s e s e k	taba1265	17.9371	-93.5688	Uto-Aztecan	28
+126	15_cold	cold 	Pipil	Pipil	sesek	sesek	s e s e k	pipi1250	13.8931	-89.443	Uto-Aztecan	28
+127	15_cold	cold 	Pochutec	Pochutec	piná, kug’li	piná	p i n á/a	poch1244	15.735073	-96.468076	Uto-Aztecan	29
+128	15_cold	cold 	ProtoAztecan	Proto-Aztecan	*sese-k	*sese-k	s e s e + k	azte1234			Uto-Aztecan	28
+129	16_come	come 	ClassicalNahuatl	Classical Nahuatl	witz	witz	w i ts	clas1250	19.72	-96.97	Uto-Aztecan	30
+130	16_come	come 	TetelcingoNahuatl	Tetelcingo Nahuatl	ibitz	ibitz	i b i ts	tete1251	18.8854	-98.893	Uto-Aztecan	30
+131	16_come	come 	NorthPueblaNahuatl	North Puebla Nahuatl	witz	witz	w i ts	nort2957	20.1356	-97.9814	Uto-Aztecan	30
+132	16_come	come 	MecayapanNahuat	Mecayapan Nahuat	wiːʔ	wiːʔ	w iː ʔ	isth1242	18.2	-94.7547	Uto-Aztecan	30
+133	16_come	come 	PajapanNahuat	Pajapán Nahuat	wiːtz	wiːtz	w iː ts	isth1241	18.2513	-94.6647	Uto-Aztecan	30
+134	16_come	come 	JalupaNahuat	Jalupa Nahuat	ñotz	ñotz	ɲ o ts	taba1265	17.9371	-93.5688	Uto-Aztecan	31
+135	16_come	come 	Pipil	Pipil	wiːtz	wiːtz	w iː ts	pipi1250	13.8931	-89.443	Uto-Aztecan	30
+136	16_come	come 	Pochutec	Pochutec	witz	witz	w i ts	poch1244	15.735073	-96.468076	Uto-Aztecan	30
+137	16_come	come 	ProtoAztecan	Proto-Aztecan	*wiːtz (preterit-as-present form)	*wiːtz_	w iː ts	azte1234			Uto-Aztecan	30
+138	17_die	die 	ClassicalNahuatl	Classical Nahuatl	mik(i)	mik	m i k	clas1250	19.72	-96.97	Uto-Aztecan	32
+139	17_die	die 	TetelcingoNahuatl	Tetelcingo Nahuatl	miːkiː	miːkiː	m iː k iː	tete1251	18.8854	-98.893	Uto-Aztecan	32
+140	17_die	die 	NorthPueblaNahuatl	North Puebla Nahuatl	miki	miki	m i k i	nort2957	20.1356	-97.9814	Uto-Aztecan	32
+141	17_die	die 	MecayapanNahuat	Mecayapan Nahuat	miki	miki	m i k i	isth1242	18.2	-94.7547	Uto-Aztecan	32
+142	17_die	die 	PajapanNahuat	Pajapán Nahuat	migi	migi	m i g i	isth1241	18.2513	-94.6647	Uto-Aztecan	32
+143	17_die	die 	JalupaNahuat	Jalupa Nahuat	miki	miki	m i k i	taba1265	17.9371	-93.5688	Uto-Aztecan	32
+144	17_die	die 	Pipil	Pipil	miki	miki	m i k i	pipi1250	13.8931	-89.443	Uto-Aztecan	32
+145	17_die	die 	Pochutec	Pochutec	mok	mok	m o k	poch1244	15.735073	-96.468076	Uto-Aztecan	32
+146	17_die	die 	ProtoAztecan	Proto-Aztecan	*mɨki	*mɨki	m ɨ k i	azte1234			Uto-Aztecan	32
+147	18_dog	dog 	ClassicalNahuatl	Classical Nahuatl	chichi-(toːn)	chichi-	tʃ i tʃ i	clas1250	19.72	-96.97	Uto-Aztecan	33
+148	18_dog	dog 	TetelcingoNahuatl	Tetelcingo Nahuatl	chiːchiː-tu	chiːchiː-tu	tʃ iː tʃ iː + t u	tete1251	18.8854	-98.893	Uto-Aztecan	33
+149	18_dog	dog 	NorthPueblaNahuatl	North Puebla Nahuatl	chichi	chichi	tʃ i tʃ i	nort2957	20.1356	-97.9814	Uto-Aztecan	33
+150	18_dog	dog 	MecayapanNahuat	Mecayapan Nahuat	peːlo (Spanish loan)	peːlo_	p eː l o	isth1242	18.2	-94.7547	Uto-Aztecan	49
+151	18_dog	dog 	PajapanNahuat	Pajapán Nahuat	pelo (Spanish loan)	pelo_	p e l o	isth1241	18.2513	-94.6647	Uto-Aztecan	50
+152	18_dog	dog 	JalupaNahuat	Jalupa Nahuat	chuchu	chuchu	tʃ u tʃ u	taba1265	17.9371	-93.5688	Uto-Aztecan	33
+153	18_dog	dog 	Pipil	Pipil	peːlu (Spanish loan)	peːlu_	p eː l u	pipi1250	13.8931	-89.443	Uto-Aztecan	33
+154	18_dog	dog 	Pochutec	Pochutec	tachóm	tachóm	t a tʃ ó/o m	poch1244	15.735073	-96.468076	Uto-Aztecan	34
+155	19_drink	drink 	ClassicalNahuatl	Classical Nahuatl	-on-iː (thither-drink)	-on-iː_	o n + iː	clas1250	19.72	-96.97	Uto-Aztecan	51
+156	19_drink	drink 	TetelcingoNahuatl	Tetelcingo Nahuatl	-on-i	-on-i	o n + i	tete1251	18.8854	-98.893	Uto-Aztecan	51
+157	19_drink	drink 	NorthPueblaNahuatl	North Puebla Nahuatl	-on-i	-on-i	o n + i	nort2957	20.1356	-97.9814	Uto-Aztecan	51
+158	19_drink	drink 	MecayapanNahuat	Mecayapan Nahuat	-on-i-á	-on-i-á	o n + i + á/a	isth1242	18.2	-94.7547	Uto-Aztecan	51
+159	19_drink	drink 	PajapanNahuat	Pajapán Nahuat	-on-i	-on-i	o n + i	isth1241	18.2513	-94.6647	Uto-Aztecan	51
+160	19_drink	drink 	JalupaNahuat	Jalupa Nahuat	/xi-k/-i (impera- tive form)	xi-k	x i + k	taba1265	17.9371	-93.5688	Uto-Aztecan	51
+161	19_drink	drink 	Pipil	Pipil	-un-i	-un-i	u n + i	pipi1250	13.8931	-89.443	Uto-Aztecan	51
+162	19_drink	drink 	Pochutec	Pochutec	tem-í (mouth-drink?)	tem-í_	t e m + í/i	poch1244	15.735073	-96.468076	Uto-Aztecan	51
+163	19_drink	drink 	ProtoAztecan	Proto-Aztecan	*-ihi	*-ihi	i h i	azte1234			Uto-Aztecan	51
+164	20_dry	dry 	ClassicalNahuatl	Classical Nahuatl	waːk-ki	waːk-ki	w aː k + k i	clas1250	19.72	-96.97	Uto-Aztecan	52
+165	20_dry	dry 	TetelcingoNahuatl	Tetelcingo Nahuatl	wah-kiː	wah-kiː	w a h + k iː	tete1251	18.8854	-98.893	Uto-Aztecan	52
+166	20_dry	dry 	NorthPueblaNahuatl	North Puebla Nahuatl	wah-ki	wah-ki	w a h + k i	nort2957	20.1356	-97.9814	Uto-Aztecan	52
+167	20_dry	dry 	MecayapanNahuat	Mecayapan Nahuat	waːk-toʔ	waːk-toʔ	w aː k + t o ʔ	isth1242	18.2	-94.7547	Uto-Aztecan	52
+168	20_dry	dry 	PajapanNahuat	Pajapán Nahuat	waːk-tok	waːk-tok	w aː k + t o k	isth1241	18.2513	-94.6647	Uto-Aztecan	52
+169	20_dry	dry 	JalupaNahuat	Jalupa Nahuat	wak-tuk	wak-tuk	w a k + t u k	taba1265	17.9371	-93.5688	Uto-Aztecan	52
+170	20_dry	dry 	Pipil	Pipil	waːk-tuk	waːk-tuk	w aː k + t u k	pipi1250	13.8931	-89.443	Uto-Aztecan	52
+171	20_dry	dry 	Pochutec	Pochutec	wak	wak	w a k	poch1244	15.735073	-96.468076	Uto-Aztecan	52
+172	20_dry	dry 	ProtoAztecan	Proto-Aztecan	*waːk-	*waːk-	w aː k	azte1234			Uto-Aztecan	52
+173	21_ear	ear 	ClassicalNahuatl	Classical Nahuatl	nakas-tli	nakas-tli	n a k a s + tɬ i	clas1250	19.72	-96.97	Uto-Aztecan	53
+174	21_ear	ear 	TetelcingoNahuatl	Tetelcingo Nahuatl	-nakas	-nakas	n a k a s	tete1251	18.8854	-98.893	Uto-Aztecan	53
+175	21_ear	ear 	NorthPueblaNahuatl	North Puebla Nahuatl	-nakas	-nakas	n a k a s	nort2957	20.1356	-97.9814	Uto-Aztecan	53
+176	21_ear	ear 	MecayapanNahuat	Mecayapan Nahuat	nakas	nakas	n a k a s	isth1242	18.2	-94.7547	Uto-Aztecan	53
+177	21_ear	ear 	PajapanNahuat	Pajapán Nahuat	-nagas	-nagas	n a g a s	isth1241	18.2513	-94.6647	Uto-Aztecan	53
+178	21_ear	ear 	JalupaNahuat	Jalupa Nahuat	-nakas	-nakas	n a k a s	taba1265	17.9371	-93.5688	Uto-Aztecan	53
+179	21_ear	ear 	Pipil	Pipil	-nakas	-nakas	n a k a s	pipi1250	13.8931	-89.443	Uto-Aztecan	53
+180	21_ear	ear 	Pochutec	Pochutec	nekés-t	nekés-t	n e k é/e s + t	poch1244	15.735073	-96.468076	Uto-Aztecan	53
+181	21_ear	ear 	ProtoAztecan	Proto-Aztecan	*nakas-tlɨ	*nakas-tlɨ	n a k a s + tɬ ɨ	azte1234			Uto-Aztecan	53
+182	22_earth	earth 	ClassicalNahuatl	Classical Nahuatl	tlaːl-li	tlaːl-li	tɬ aː l + l i	clas1250	19.72	-96.97	Uto-Aztecan	54
+183	22_earth	earth 	TetelcingoNahuatl	Tetelcingo Nahuatl	tlöliː	tlöliː	tɬ ø l iː	tete1251	18.8854	-98.893	Uto-Aztecan	54
+184	22_earth	earth 	NorthPueblaNahuatl	North Puebla Nahuatl	tlali	tlali	tɬ a l i	nort2957	20.1356	-97.9814	Uto-Aztecan	54
+185	22_earth	earth 	MecayapanNahuat	Mecayapan Nahuat	taːhli	taːhli	t aː h l i	isth1242	18.2	-94.7547	Uto-Aztecan	54
+186	22_earth	earth 	PajapanNahuat	Pajapán Nahuat	taːhli	taːhli	t aː h l i	isth1241	18.2513	-94.6647	Uto-Aztecan	54
+187	22_earth	earth 	JalupaNahuat	Jalupa Nahuat	tahli	tahli	t a h l i	taba1265	17.9371	-93.5688	Uto-Aztecan	54
+188	22_earth	earth 	Pipil	Pipil	taːl	taːl	t aː l	pipi1250	13.8931	-89.443	Uto-Aztecan	54
+189	22_earth	earth 	Pochutec	Pochutec	tal	tal	t a l	poch1244	15.735073	-96.468076	Uto-Aztecan	54
+190	22_earth	earth 	ProtoAztecan	Proto-Aztecan	*tlaːl-lɨ	*tlaːl-lɨ	tɬ aː l + l ɨ	azte1234			Uto-Aztecan	54
+191	23_eat	eat 	ClassicalNahuatl	Classical Nahuatl	-kwaː	-kwaː	k w aː	clas1250	19.72	-96.97	Uto-Aztecan	55
+192	23_eat	eat 	TetelcingoNahuatl	Tetelcingo Nahuatl	-kwa	-kwa	k w a	tete1251	18.8854	-98.893	Uto-Aztecan	55
+193	23_eat	eat 	NorthPueblaNahuatl	North Puebla Nahuatl	-kwa	-kwa	k w a	nort2957	20.1356	-97.9814	Uto-Aztecan	55
+194	23_eat	eat 	MecayapanNahuat	Mecayapan Nahuat	-kwa	-kwa	k w a	isth1242	18.2	-94.7547	Uto-Aztecan	55
+195	23_eat	eat 	PajapanNahuat	Pajapán Nahuat	-baː	-baː	b aː	isth1241	18.2513	-94.6647	Uto-Aztecan	55
+196	23_eat	eat 	JalupaNahuat	Jalupa Nahuat	-bwaː	-bwaː	b w aː	taba1265	17.9371	-93.5688	Uto-Aztecan	55
+197	23_eat	eat 	Pipil	Pipil	kwa	kwa	k w a	pipi1250	13.8931	-89.443	Uto-Aztecan	55
+198	23_eat	eat 	Pochutec	Pochutec	kwa	kwa	k w a	poch1244	15.735073	-96.468076	Uto-Aztecan	55
+199	23_eat	eat 	ProtoAztecan	Proto-Aztecan	*-kwa-haː	*-kwa-haː	k w a + h aː	azte1234			Uto-Aztecan	55
+200	24_egg	egg 	ClassicalNahuatl	Classical Nahuatl	toːtol-te-tl	toːtol-te-tl	t oː t o l + t e + tɬ	clas1250	19.72	-96.97	Uto-Aztecan	56
+201	24_egg	egg 	TetelcingoNahuatl	Tetelcingo Nahuatl	tutol-tetl	tutol-tetl	t u t o l + t e tɬ	tete1251	18.8854	-98.893	Uto-Aztecan	56
+202	24_egg	egg 	NorthPueblaNahuatl	North Puebla Nahuatl	totol-te-tl	totol-te-tl	t o t o l + t e + tɬ	nort2957	20.1356	-97.9814	Uto-Aztecan	56
+203	24_egg	egg 	MecayapanNahuat	Mecayapan Nahuat	teksis	teksis	t e k s i s	isth1242	18.2	-94.7547	Uto-Aztecan	57
+204	24_egg	egg 	PajapanNahuat	Pajapán Nahuat	teksis	teksis	t e k s i s	isth1241	18.2513	-94.6647	Uto-Aztecan	57
+205	24_egg	egg 	JalupaNahuat	Jalupa Nahuat	pil-tzin	pil-tzin	p i l + ts i n	taba1265	17.9371	-93.5688	Uto-Aztecan	58
+206	24_egg	egg 	Pipil	Pipil	teksis-ti	teksis-ti	t e k s i s + t i	pipi1250	13.8931	-89.443	Uto-Aztecan	57
+207	24_egg	egg 	Pochutec	Pochutec	ti-tó-t	ti-tó-t	t i + t ó/o + t	poch1244	15.735073	-96.468076	Uto-Aztecan	59
+208	25_eye	eye 	ClassicalNahuatl	Classical Nahuatl	-iːx-teloloʔ	-iːx-teloloʔ	iː x + t e l o l o ʔ	clas1250	19.72	-96.97	Uto-Aztecan	60
+209	25_eye	eye 	TetelcingoNahuatl	Tetelcingo Nahuatl	-ix-telolo	-ix-telolo	i x + t e l o l o	tete1251	18.8854	-98.893	Uto-Aztecan	60
+210	25_eye	eye 	NorthPueblaNahuatl	North Puebla Nahuatl	-ix-telolo	-ix-telolo	i x + t e l o l o	nort2957	20.1356	-97.9814	Uto-Aztecan	60
+211	25_eye	eye 	MecayapanNahuat	Mecayapan Nahuat	-iːx	-iːx	iː x	isth1242	18.2	-94.7547	Uto-Aztecan	60
+212	25_eye	eye 	PajapanNahuat	Pajapán Nahuat	-iːx-tololo	-iːx-tololo	iː x + t o l o l o	isth1241	18.2513	-94.6647	Uto-Aztecan	60
+213	25_eye	eye 	JalupaNahuat	Jalupa Nahuat	-iːx	-iːx	iː x	taba1265	17.9371	-93.5688	Uto-Aztecan	60
+214	25_eye	eye 	Pipil	Pipil	-iːx	-iːx	iː x	pipi1250	13.8931	-89.443	Uto-Aztecan	60
+215	25_eye	eye 	Pochutec	Pochutec	ix-totolú-t	ix-totolú-t	i x + t o t o l ú/u + t	poch1244	15.735073	-96.468076	Uto-Aztecan	60
+216	25_eye	eye 	ProtoAztecan	Proto-Aztecan	*-iːx	*-iːx	iː x	azte1234			Uto-Aztecan	60
+217	26_fatn	fat n. 	ClassicalNahuatl	Classical Nahuatl	chiyaːwis-tli	chiyaːwis-tli	tʃ i j aː w i s + tɬ i	clas1250	19.72	-96.97	Uto-Aztecan	73
+218	26_fatn	fat n. 	TetelcingoNahuatl	Tetelcingo Nahuatl	manteka (Spanish loan), chiːyöwa	manteka_	m a n t e k a	tete1251	18.8854	-98.893	Uto-Aztecan	74
+219	26_fatn	fat n. 	NorthPueblaNahuatl	North Puebla Nahuatl	chiak-tli	chiak-tli	tʃ i a k + tɬ i	nort2957	20.1356	-97.9814	Uto-Aztecan	75
+220	26_fatn	fat n. 	MecayapanNahuat	Mecayapan Nahuat	-tomahka (su gordura), xeːpoh (de res, Spanish loan)	-tomahka_	t o m a h k a	isth1242	18.2	-94.7547	Uto-Aztecan	76
+221	26_fatn	fat n. 	PajapanNahuat	Pajapán Nahuat	mantega (Spanish loan), pagax (Spanish loan)	mantega_	m a n t e g a	isth1241	18.2513	-94.6647	Uto-Aztecan	77
+222	26_fatn	fat n. 	JalupaNahuat	Jalupa Nahuat	manteka (Spanish loan)	manteka_	m a n t e k a	taba1265	17.9371	-93.5688	Uto-Aztecan	78
+223	27_feather	feather 	ClassicalNahuatl	Classical Nahuatl	ihwi-tl	ihwi-tl	i h w i + tɬ	clas1250	19.72	-96.97	Uto-Aztecan	79
+224	27_feather	feather 	TetelcingoNahuatl	Tetelcingo Nahuatl	tohmitl (su pluma, pelo: itohmeyo)	tohmitl_	t o h m i tɬ	tete1251	18.8854	-98.893	Uto-Aztecan	80
+225	27_feather	feather 	NorthPueblaNahuatl	North Puebla Nahuatl	ihwi-tl	ihwi-tl	i h w i + tɬ	nort2957	20.1356	-97.9814	Uto-Aztecan	79
+226	27_feather	feather 	MecayapanNahuat	Mecayapan Nahuat	tzohmi-ʔ	tzohmi-ʔ	ts o h m i + ʔ	isth1242	18.2	-94.7547	Uto-Aztecan	81
+227	27_feather	feather 	PajapanNahuat	Pajapán Nahuat	tzohmi-t	tzohmi-t	ts o h m i + t	isth1241	18.2513	-94.6647	Uto-Aztecan	81
+228	27_feather	feather 	JalupaNahuat	Jalupa Nahuat	iy-uhwi-yu	iy-uhwi-yu	i j + u h w i + j u	taba1265	17.9371	-93.5688	Uto-Aztecan	79
+229	27_feather	feather 	Pipil	Pipil	-uhmi-yu	-uhmi-yu	u h m i + j u	pipi1250	13.8931	-89.443	Uto-Aztecan	82
+230	27_feather	feather 	ProtoAztecan	Proto-Aztecan	*-ɨ?wɨ	*-ɨ?wɨ	ɨ w ɨ	azte1234			Uto-Aztecan	79
+231	28_fire	fire 	ClassicalNahuatl	Classical Nahuatl	tle-tl	tle-tl	tɬ e + tɬ	clas1250	19.72	-96.97	Uto-Aztecan	83
+232	28_fire	fire 	TetelcingoNahuatl	Tetelcingo Nahuatl	tle-tzin-tliː	tle-tzin-tliː	tɬ e + ts i n + tɬ iː	tete1251	18.8854	-98.893	Uto-Aztecan	83
+233	28_fire	fire 	NorthPueblaNahuatl	North Puebla Nahuatl	tle-tl	tle-tl	tɬ e + tɬ	nort2957	20.1356	-97.9814	Uto-Aztecan	83
+234	28_fire	fire 	MecayapanNahuat	Mecayapan Nahuat	tiʔ-ti	tiʔ-ti	t i ʔ + t i	isth1242	18.2	-94.7547	Uto-Aztecan	83
+235	28_fire	fire 	PajapanNahuat	Pajapán Nahuat	ti-t	ti-t	t i + t	isth1241	18.2513	-94.6647	Uto-Aztecan	83
+236	28_fire	fire 	JalupaNahuat	Jalupa Nahuat	ti-t	ti-t	t i + t	taba1265	17.9371	-93.5688	Uto-Aztecan	83
+237	28_fire	fire 	Pipil	Pipil	tiː-t	tiː-t	t iː + t	pipi1250	13.8931	-89.443	Uto-Aztecan	83
+238	28_fire	fire 	Pochutec	Pochutec	te-t	te-t	t e + t	poch1244	15.735073	-96.468076	Uto-Aztecan	83
+239	28_fire	fire 	ProtoAztecan	Proto-Aztecan	*tlahi-tl	*tlahi-tl	tɬ a h i + tɬ	azte1234			Uto-Aztecan	83
+240	29_fish	fish 	ClassicalNahuatl	Classical Nahuatl	mich-in	mich-in	m i tʃ + i n	clas1250	19.72	-96.97	Uto-Aztecan	84
+241	29_fish	fish 	TetelcingoNahuatl	Tetelcingo Nahuatl	miːchiː	miːchiː	m iː tʃ iː	tete1251	18.8854	-98.893	Uto-Aztecan	84
+242	29_fish	fish 	NorthPueblaNahuatl	North Puebla Nahuatl	michi	michi	m i tʃ i	nort2957	20.1356	-97.9814	Uto-Aztecan	84
+243	29_fish	fish 	MecayapanNahuat	Mecayapan Nahuat	toːpoh	toːpoh	t oː p o h	isth1242	18.2	-94.7547	Uto-Aztecan	85
+244	29_fish	fish 	PajapanNahuat	Pajapán Nahuat	toːpoh	toːpoh	t oː p o h	isth1241	18.2513	-94.6647	Uto-Aztecan	85
+245	29_fish	fish 	JalupaNahuat	Jalupa Nahuat	xeːneh	xeːneh	x eː n e h	taba1265	17.9371	-93.5688	Uto-Aztecan	86
+246	29_fish	fish 	Pipil	Pipil	michin	michin	m i tʃ i n	pipi1250	13.8931	-89.443	Uto-Aztecan	84
+247	29_fish	fish 	Pochutec	Pochutec	michóm	michóm	m i tʃ ó/o m	poch1244	15.735073	-96.468076	Uto-Aztecan	84
+248	29_fish	fish 	ProtoAztecan	Proto-Aztecan	*mɨ-chɨ-m	*mɨ-chɨ-m	m ɨ + tʃ ɨ + m	azte1234			Uto-Aztecan	84
+249	30_fly	fly 	ClassicalNahuatl	Classical Nahuatl	patlaːn(i)	patlaːn	p a tɬ aː n	clas1250	19.72	-96.97	Uto-Aztecan	87
+250	30_fly	fly 	TetelcingoNahuatl	Tetelcingo Nahuatl	patlöni	patlöni	p a tɬ ø n i	tete1251	18.8854	-98.893	Uto-Aztecan	87
+251	30_fly	fly 	NorthPueblaNahuatl	North Puebla Nahuatl	patlani	patlani	p a tɬ a n i	nort2957	20.1356	-97.9814	Uto-Aztecan	87
+252	30_fly	fly 	MecayapanNahuat	Mecayapan Nahuat	pataːni	pataːni	p a t aː n i	isth1242	18.2	-94.7547	Uto-Aztecan	87
+253	30_fly	fly 	PajapanNahuat	Pajapán Nahuat	pataːni	pataːni	p a t aː n i	isth1241	18.2513	-94.6647	Uto-Aztecan	87
+254	30_fly	fly 	JalupaNahuat	Jalupa Nahuat	parani	parani	p a r a n i	taba1265	17.9371	-93.5688	Uto-Aztecan	87
+255	30_fly	fly 	Pipil	Pipil	pataːni	pataːni	p a t aː n i	pipi1250	13.8931	-89.443	Uto-Aztecan	87
+256	30_fly	fly 	Pochutec	Pochutec	patánk	patánk	p a t á/a n k	poch1244	15.735073	-96.468076	Uto-Aztecan	87
+257	30_fly	fly 	ProtoAztecan	Proto-Aztecan	*patlaːni	*patlaːni	p a tɬ aː n i	azte1234			Uto-Aztecan	87
+258	31_foot	foot 	ClassicalNahuatl	Classical Nahuatl	(i)kxi-tl	kxi-tl	kx i + tɬ	clas1250	19.72	-96.97	Uto-Aztecan	88
+259	31_foot	foot 	TetelcingoNahuatl	Tetelcingo Nahuatl	-ikxiː	-ikxiː	i kx iː	tete1251	18.8854	-98.893	Uto-Aztecan	88
+260	31_foot	foot 	NorthPueblaNahuatl	North Puebla Nahuatl	-ikxi	-ikxi	i kx i	nort2957	20.1356	-97.9814	Uto-Aztecan	88
+261	31_foot	foot 	MecayapanNahuat	Mecayapan Nahuat	ikxi	ikxi	i kx i	isth1242	18.2	-94.7547	Uto-Aztecan	88
+262	31_foot	foot 	PajapanNahuat	Pajapán Nahuat	-ikxi	-ikxi	i kx i	isth1241	18.2513	-94.6647	Uto-Aztecan	88
+263	31_foot	foot 	JalupaNahuat	Jalupa Nahuat	-ikxi	-ikxi	i kx i	taba1265	17.9371	-93.5688	Uto-Aztecan	88
+264	31_foot	foot 	Pipil	Pipil	(i)kxi	kxi	kx i	pipi1250	13.8931	-89.443	Uto-Aztecan	88
+265	31_foot	foot 	Pochutec	Pochutec	/no/-xói ‘mi pie’	no	n o	poch1244	15.735073	-96.468076	Uto-Aztecan	89
+266	31_foot	foot 	ProtoAztecan	Proto-Aztecan	*-ɨkxɨ	*-ɨkxɨ	ɨ kx ɨ	azte1234			Uto-Aztecan	88
+267	32_full	full 	ClassicalNahuatl	Classical Nahuatl	teːn-tok	teːn-tok	t eː n + t o k	clas1250	19.72	-96.97	Uto-Aztecan	90
+268	32_full	full 	TetelcingoNahuatl	Tetelcingo Nahuatl	tien-tiːka	tien-tiːka	t i e n + t iː k a	tete1251	18.8854	-98.893	Uto-Aztecan	90
+269	32_full	full 	NorthPueblaNahuatl	North Puebla Nahuatl	ten-tok, temi	ten-tok	t e n + t o k	nort2957	20.1356	-97.9814	Uto-Aztecan	90
+270	32_full	full 	MecayapanNahuat	Mecayapan Nahuat	teːn-toʔ	teːn-toʔ	t eː n + t o ʔ	isth1242	18.2	-94.7547	Uto-Aztecan	90
+271	32_full	full 	PajapanNahuat	Pajapán Nahuat	teːn-tok	teːn-tok	t eː n + t o k	isth1241	18.2513	-94.6647	Uto-Aztecan	90
+272	32_full	full 	JalupaNahuat	Jalupa Nahuat	neː-tik	neː-tik	n eː + t i k	taba1265	17.9371	-93.5688	Uto-Aztecan	91
+273	32_full	full 	Pipil	Pipil	teːn-tuk	teːn-tuk	t eː n + t u k	pipi1250	13.8931	-89.443	Uto-Aztecan	90
+274	32_full	full 	ProtoAztecan	Proto-Aztecan	*teːn-tok	*teːn-tok	t eː n + t o k	azte1234			Uto-Aztecan	90
+275	33_givetr	give tr. 	ClassicalNahuatl	Classical Nahuatl	-maka	-maka	m a k a	clas1250	19.72	-96.97	Uto-Aztecan	92
+276	33_givetr	give tr. 	TetelcingoNahuatl	Tetelcingo Nahuatl	-maka	-maka	m a k a	tete1251	18.8854	-98.893	Uto-Aztecan	92
+277	33_givetr	give tr. 	NorthPueblaNahuatl	North Puebla Nahuatl	-maka	-maka	m a k a	nort2957	20.1356	-97.9814	Uto-Aztecan	92
+278	33_givetr	give tr. 	MecayapanNahuat	Mecayapan Nahuat	-maka	-maka	m a k a	isth1242	18.2	-94.7547	Uto-Aztecan	92
+279	33_givetr	give tr. 	PajapanNahuat	Pajapán Nahuat	-maga	-maga	m a g a	isth1241	18.2513	-94.6647	Uto-Aztecan	92
+280	33_givetr	give tr. 	JalupaNahuat	Jalupa Nahuat	-ma	-ma	m a	taba1265	17.9371	-93.5688	Uto-Aztecan	92
+281	33_givetr	give tr. 	Pipil	Pipil	-maka	-maka	m a k a	pipi1250	13.8931	-89.443	Uto-Aztecan	92
+282	33_givetr	give tr. 	Pochutec	Pochutec	-meká	-meká	m e k á/a	poch1244	15.735073	-96.468076	Uto-Aztecan	92
+283	33_givetr	give tr. 	ProtoAztecan	Proto-Aztecan	*-maka	*-maka	m a k a	azte1234			Uto-Aztecan	92
+284	34_good	good 	ClassicalNahuatl	Classical Nahuatl	kwal-li	kwal-li	k w a l + l i	clas1250	19.72	-96.97	Uto-Aztecan	93
+285	34_good	good 	TetelcingoNahuatl	Tetelcingo Nahuatl	kwaliː	kwaliː	k w a l iː	tete1251	18.8854	-98.893	Uto-Aztecan	93
+286	34_good	good 	NorthPueblaNahuatl	North Puebla Nahuatl	kwali	kwali	k w a l i	nort2957	20.1356	-97.9814	Uto-Aztecan	93
+287	34_good	good 	MecayapanNahuat	Mecayapan Nahuat	yeːk-ti	yeːk-ti	j eː k + t i	isth1242	18.2	-94.7547	Uto-Aztecan	94
+288	34_good	good 	PajapanNahuat	Pajapán Nahuat	yek-ti	yek-ti	j e k + t i	isth1241	18.2513	-94.6647	Uto-Aztecan	94
+289	34_good	good 	JalupaNahuat	Jalupa Nahuat	yek-ti	yek-ti	j e k + t i	taba1265	17.9371	-93.5688	Uto-Aztecan	94
+290	34_good	good 	Pipil	Pipil	yeːk	yeːk	j eː k	pipi1250	13.8931	-89.443	Uto-Aztecan	94
+291	34_good	good 	Pochutec	Pochutec	ulík (cf. CNa weːlik ‘something delicious, pleasing’)	ulík_	u l í/i k	poch1244	15.735073	-96.468076	Uto-Aztecan	95
+292	34_good	good 	ProtoAztecan	Proto-Aztecan	*yeːk-tlɨ	*yeːk-tlɨ	j eː k + tɬ ɨ	azte1234			Uto-Aztecan	94
+293	34_good	good 	ClassicalNahuatl	Classical Nahuatl	yek-tli	yek-tli	j e k + tɬ i	clas1250	19.72	-96.97	Uto-Aztecan	97
+294	34_good	good 	ProtoAztecan	Proto-Aztecan	*yeːk-tlɨ	*yeːk-tlɨ	j eː k + tɬ ɨ	azte1234			Uto-Aztecan	97
+295	35_green	green 	ClassicalNahuatl	Classical Nahuatl	xoxok-tik	xoxok-tik	x o x o k + t i k	clas1250	19.72	-96.97	Uto-Aztecan	98
+296	35_green	green 	TetelcingoNahuatl	Tetelcingo Nahuatl	xoxok-tiːk	xoxok-tiːk	x o x o k + t iː k	tete1251	18.8854	-98.893	Uto-Aztecan	98
+297	35_green	green 	NorthPueblaNahuatl	North Puebla Nahuatl	xoxok-tik	xoxok-tik	x o x o k + t i k	nort2957	20.1356	-97.9814	Uto-Aztecan	98
+298	35_green	green 	MecayapanNahuat	Mecayapan Nahuat	xoxok-tiʔ	xoxok-tiʔ	x o x o k + t i ʔ	isth1242	18.2	-94.7547	Uto-Aztecan	98
+299	35_green	green 	PajapanNahuat	Pajapán Nahuat	xoxok-tik	xoxok-tik	x o x o k + t i k	isth1241	18.2513	-94.6647	Uto-Aztecan	98
+300	35_green	green 	JalupaNahuat	Jalupa Nahuat	xuxuí-k	xuxuí-k	x u x u í/i + k	taba1265	17.9371	-93.5688	Uto-Aztecan	99
+301	35_green	green 	Pipil	Pipil	xuxuwi-k	xuxuwi-k	x u x u w i + k	pipi1250	13.8931	-89.443	Uto-Aztecan	99
+302	35_green	green 	Pochutec	Pochutec	xwi	xwi	x w i	poch1244	15.735073	-96.468076	Uto-Aztecan	100
+303	36_hair	hair 	ClassicalNahuatl	Classical Nahuatl	tzon-tli	tzon-tli	ts o n + tɬ i	clas1250	19.72	-96.97	Uto-Aztecan	101
+304	36_hair	hair 	TetelcingoNahuatl	Tetelcingo Nahuatl	tzon-tliː	tzon-tliː	ts o n + tɬ iː	tete1251	18.8854	-98.893	Uto-Aztecan	101
+305	36_hair	hair 	NorthPueblaNahuatl	North Puebla Nahuatl	tzon-tli	tzon-tli	ts o n + tɬ i	nort2957	20.1356	-97.9814	Uto-Aztecan	101
+306	36_hair	hair 	MecayapanNahuat	Mecayapan Nahuat	tzon-kal	tzon-kal	ts o n + k a l	isth1242	18.2	-94.7547	Uto-Aztecan	102
+307	36_hair	hair 	PajapanNahuat	Pajapán Nahuat	tzon-gal	tzon-gal	ts o n + g a l	isth1241	18.2513	-94.6647	Uto-Aztecan	102
+308	36_hair	hair 	JalupaNahuat	Jalupa Nahuat	tzun-ti	tzun-ti	ts u n + t i	taba1265	17.9371	-93.5688	Uto-Aztecan	101
+309	36_hair	hair 	Pipil	Pipil	tzun-kal	tzun-kal	ts u n + k a l	pipi1250	13.8931	-89.443	Uto-Aztecan	102
+310	36_hair	hair 	Pochutec	Pochutec	tzon	tzon	ts o n	poch1244	15.735073	-96.468076	Uto-Aztecan	101
+311	36_hair	hair 	ProtoAztecan	Proto-Aztecan	*-tzom	*-tzom	ts o m	azte1234			Uto-Aztecan	101
+312	37_hand	hand 	ClassicalNahuatl	Classical Nahuatl	-maː	-maː	m aː	clas1250	19.72	-96.97	Uto-Aztecan	103
+313	37_hand	hand 	TetelcingoNahuatl	Tetelcingo Nahuatl	-mö	-mö	m ø	tete1251	18.8854	-98.893	Uto-Aztecan	103
+314	37_hand	hand 	NorthPueblaNahuatl	North Puebla Nahuatl	-ma-n	-ma-n	m a + n	nort2957	20.1356	-97.9814	Uto-Aztecan	103
+315	37_hand	hand 	MecayapanNahuat	Mecayapan Nahuat	mayiʔ	mayiʔ	m a j i ʔ	isth1242	18.2	-94.7547	Uto-Aztecan	103
+316	37_hand	hand 	PajapanNahuat	Pajapán Nahuat	-maː	-maː	m aː	isth1241	18.2513	-94.6647	Uto-Aztecan	103
+317	37_hand	hand 	JalupaNahuat	Jalupa Nahuat	-maː-n	-maː-n	m aː + n	taba1265	17.9371	-93.5688	Uto-Aztecan	103
+318	37_hand	hand 	Pipil	Pipil	-mey	-mey	m e j	pipi1250	13.8931	-89.443	Uto-Aztecan	103
+319	37_hand	hand 	Pochutec	Pochutec	maí	maí	m a í/i	poch1244	15.735073	-96.468076	Uto-Aztecan	103
+320	37_hand	hand 	ProtoAztecan	Proto-Aztecan	*-mah	*-mah	m a h	azte1234			Uto-Aztecan	103
+321	38_head	head 	ClassicalNahuatl	Classical Nahuatl	kwaː(i)-tl	kwaː-tl	k w aː + tɬ	clas1250	19.72	-96.97	Uto-Aztecan	105
+322	38_head	head 	TetelcingoNahuatl	Tetelcingo Nahuatl	-tzon-teko	-tzon-teko	ts o n + t e k o	tete1251	18.8854	-98.893	Uto-Aztecan	104
+323	38_head	head 	NorthPueblaNahuatl	North Puebla Nahuatl	-tzon-teko	-tzon-teko	ts o n + t e k o	nort2957	20.1356	-97.9814	Uto-Aztecan	104
+324	38_head	head 	MecayapanNahuat	Mecayapan Nahuat	-tzon-tekon	-tzon-tekon	ts o n + t e k o n	isth1242	18.2	-94.7547	Uto-Aztecan	104
+325	38_head	head 	PajapanNahuat	Pajapán Nahuat	-tzon-tegon	-tzon-tegon	ts o n + t e g o n	isth1241	18.2513	-94.6647	Uto-Aztecan	104
+326	38_head	head 	JalupaNahuat	Jalupa Nahuat	tzun-tekon	tzun-tekon	ts u n + t e k o n	taba1265	17.9371	-93.5688	Uto-Aztecan	104
+327	38_head	head 	Pipil	Pipil	tzun-tekuma-t	tzun-tekuma-t	ts u n + t e k u m a + t	pipi1250	13.8931	-89.443	Uto-Aztecan	104
+328	38_head	head 	Pochutec	Pochutec	kwaí-t	kwaí-t	k w a í/i + t	poch1244	15.735073	-96.468076	Uto-Aztecan	105
+329	38_head	head 	ProtoAztecan	Proto-Aztecan	*-kwah	*-kwah	k w a h	azte1234			Uto-Aztecan	104
+330	39_hear	hear 	ClassicalNahuatl	Classical Nahuatl	-kak(i)	-kak	k a k	clas1250	19.72	-96.97	Uto-Aztecan	106
+331	39_hear	hear 	TetelcingoNahuatl	Tetelcingo Nahuatl	-kakiː	-kakiː	k a k iː	tete1251	18.8854	-98.893	Uto-Aztecan	106
+332	39_hear	hear 	NorthPueblaNahuatl	North Puebla Nahuatl	-kaki	-kaki	k a k i	nort2957	20.1356	-97.9814	Uto-Aztecan	106
+333	39_hear	hear 	MecayapanNahuat	Mecayapan Nahuat	-kaki	-kaki	k a k i	isth1242	18.2	-94.7547	Uto-Aztecan	106
+334	39_hear	hear 	PajapanNahuat	Pajapán Nahuat	-gagi	-gagi	g a g i	isth1241	18.2513	-94.6647	Uto-Aztecan	106
+335	39_hear	hear 	JalupaNahuat	Jalupa Nahuat	-kai	-kai	k a i	taba1265	17.9371	-93.5688	Uto-Aztecan	106
+336	39_hear	hear 	Pipil	Pipil	-kaːki	-kaːki	k aː k i	pipi1250	13.8931	-89.443	Uto-Aztecan	106
+337	39_hear	hear 	Pochutec	Pochutec	-kekí	-kekí	k e k í/i	poch1244	15.735073	-96.468076	Uto-Aztecan	106
+338	39_hear	hear 	ProtoAztecan	Proto-Aztecan	*-kaki	*-kaki	k a k i	azte1234			Uto-Aztecan	106
+339	40_heart	heart 	ClassicalNahuatl	Classical Nahuatl	yoːl-li	yoːl-li	j oː l + l i	clas1250	19.72	-96.97	Uto-Aztecan	107
+340	40_heart	heart 	TetelcingoNahuatl	Tetelcingo Nahuatl	yuloh-tliː	yuloh-tliː	j u l o h + tɬ iː	tete1251	18.8854	-98.893	Uto-Aztecan	107
+341	40_heart	heart 	NorthPueblaNahuatl	North Puebla Nahuatl	-yol-o	-yol-o	j o l + o	nort2957	20.1356	-97.9814	Uto-Aztecan	107
+342	40_heart	heart 	MecayapanNahuat	Mecayapan Nahuat	-yaːlmah (Spanish loan)	-yaːlmah_	j aː l m a h	isth1242	18.2	-94.7547	Uto-Aztecan	123
+343	40_heart	heart 	PajapanNahuat	Pajapán Nahuat	-alma (Spanish loan)	-alma_	a l m a	isth1241	18.2513	-94.6647	Uto-Aztecan	124
+344	40_heart	heart 	JalupaNahuat	Jalupa Nahuat	yuh-lu	yuh-lu	j u h + l u	taba1265	17.9371	-93.5688	Uto-Aztecan	107
+345	40_heart	heart 	Pipil	Pipil	-yu(ː)l	-yul	j u l	pipi1250	13.8931	-89.443	Uto-Aztecan	107
+346	40_heart	heart 	Pochutec	Pochutec	/n/-olyú (mi corazón)	n	n	poch1244	15.735073	-96.468076	Uto-Aztecan	107
+347	40_heart	heart 	ProtoAztecan	Proto-Aztecan	*-yoːl	*-yoːl	j oː l	azte1234			Uto-Aztecan	107
+348	41_horn	horn 	ClassicalNahuatl	Classical Nahuatl	kwaːkwaw(i)-tl	kwaːkwaw-tl	k w aː k w a w + tɬ	clas1250	19.72	-96.97	Uto-Aztecan	125
+349	41_horn	horn 	NorthPueblaNahuatl	North Puebla Nahuatl	-kwakow	-kwakow	k w a k o w	nort2957	20.1356	-97.9814	Uto-Aztecan	125
+350	41_horn	horn 	MecayapanNahuat	Mecayapan Nahuat	kwaːkwa	kwaːkwa	k w aː k w a	isth1242	18.2	-94.7547	Uto-Aztecan	125
+351	41_horn	horn 	PajapanNahuat	Pajapán Nahuat	-baːbaː	-baːbaː	b aː b aː	isth1241	18.2513	-94.6647	Uto-Aztecan	125
+352	41_horn	horn 	JalupaNahuat	Jalupa Nahuat	kokoit	kokoit	k o k o i t	taba1265	17.9371	-93.5688	Uto-Aztecan	125
+353	41_horn	horn 	Pipil	Pipil	-kachoh (Spanish loan)	-kachoh_	k a tʃ o h	pipi1250	13.8931	-89.443	Uto-Aztecan	137
+363	43_kill	kill 	ClassicalNahuatl	Classical Nahuatl	-mikiː-tiaː	-mikiː-tiaː	m i k iː + t i aː	clas1250	19.72	-96.97	Uto-Aztecan	139
+364	43_kill	kill 	TetelcingoNahuatl	Tetelcingo Nahuatl	-miːk-tiːa	-miːk-tiːa	m iː k + t iː a	tete1251	18.8854	-98.893	Uto-Aztecan	139
+365	43_kill	kill 	NorthPueblaNahuatl	North Puebla Nahuatl	-mik-tia	-mik-tia	m i k + t i a	nort2957	20.1356	-97.9814	Uto-Aztecan	139
+366	43_kill	kill 	MecayapanNahuat	Mecayapan Nahuat	-mik-tia	-mik-tia	m i k + t i a	isth1242	18.2	-94.7547	Uto-Aztecan	139
+367	43_kill	kill 	PajapanNahuat	Pajapán Nahuat	-mik-tia	-mik-tia	m i k + t i a	isth1241	18.2513	-94.6647	Uto-Aztecan	139
+368	43_kill	kill 	JalupaNahuat	Jalupa Nahuat	-mik-ti	-mik-ti	m i k + t i	taba1265	17.9371	-93.5688	Uto-Aztecan	139
+369	43_kill	kill 	Pipil	Pipil	-mik-tia	-mik-tia	m i k + t i a	pipi1250	13.8931	-89.443	Uto-Aztecan	139
+370	43_kill	kill 	Pochutec	Pochutec	moktí	moktí	m o k t í/i	poch1244	15.735073	-96.468076	Uto-Aztecan	139
+371	43_kill	kill 	ProtoAztecan	Proto-Aztecan	*mɨk-tɨ-ha	*mɨk-tɨ-ha	m ɨ k + t ɨ + h a	azte1234			Uto-Aztecan	139
+372	44_knee	knee 	ClassicalNahuatl	Classical Nahuatl	tlan-kwai-	tlan-kwai-	tɬ a n + k w a i	clas1250	19.72	-96.97	Uto-Aztecan	140
+373	44_knee	knee 	TetelcingoNahuatl	Tetelcingo Nahuatl	-tlan-kwate	-tlan-kwate	tɬ a n + k w a t e	tete1251	18.8854	-98.893	Uto-Aztecan	140
+374	44_knee	knee 	NorthPueblaNahuatl	North Puebla Nahuatl	-tlan-kwa	-tlan-kwa	tɬ a n + k w a	nort2957	20.1356	-97.9814	Uto-Aztecan	140
+375	44_knee	knee 	MecayapanNahuat	Mecayapan Nahuat	tan-kwaː-ʔ	tan-kwaː-ʔ	t a n + k w aː + ʔ	isth1242	18.2	-94.7547	Uto-Aztecan	140
+376	44_knee	knee 	PajapanNahuat	Pajapán Nahuat	-tam-ba	-tam-ba	t a m + b a	isth1241	18.2513	-94.6647	Uto-Aztecan	140
+377	44_knee	knee 	JalupaNahuat	Jalupa Nahuat	-tam-bwa-n	-tam-bwa-n	t a m + b w a + n	taba1265	17.9371	-93.5688	Uto-Aztecan	140
+378	44_knee	knee 	Pipil	Pipil	-tewahka	-tewahka	t e w a h k a	pipi1250	13.8931	-89.443	Uto-Aztecan	141
+379	44_knee	knee 	ProtoAztecan	Proto-Aztecan	*-tlan-kwah	*-tlan-kwah	tɬ a n + k w a h	azte1234			Uto-Aztecan	140
+380	45_know	know 	ClassicalNahuatl	Classical Nahuatl	mat(i)	mat	m a t	clas1250	19.72	-96.97	Uto-Aztecan	142
+381	45_know	know 	TetelcingoNahuatl	Tetelcingo Nahuatl	-matiː	-matiː	m a t iː	tete1251	18.8854	-98.893	Uto-Aztecan	142
+382	45_know	know 	NorthPueblaNahuatl	North Puebla Nahuatl	-mati	-mati	m a t i	nort2957	20.1356	-97.9814	Uto-Aztecan	142
+383	45_know	know 	MecayapanNahuat	Mecayapan Nahuat	-mati	-mati	m a t i	isth1242	18.2	-94.7547	Uto-Aztecan	142
+384	45_know	know 	PajapanNahuat	Pajapán Nahuat	-mati	-mati	m a t i	isth1241	18.2513	-94.6647	Uto-Aztecan	142
+385	45_know	know 	JalupaNahuat	Jalupa Nahuat	-ma	-ma	m a	taba1265	17.9371	-93.5688	Uto-Aztecan	142
+386	45_know	know 	Pipil	Pipil	-mati	-mati	m a t i	pipi1250	13.8931	-89.443	Uto-Aztecan	142
+387	45_know	know 	Pochutec	Pochutec	metí	metí	m e t í/i	poch1244	15.735073	-96.468076	Uto-Aztecan	142
+388	45_know	know 	ProtoAztecan	Proto-Aztecan	*mati	*mati	m a t i	azte1234			Uto-Aztecan	142
+389	46_leaf	leaf 	ClassicalNahuatl	Classical Nahuatl	iswa-tl	iswa-tl	i s w a + tɬ	clas1250	19.72	-96.97	Uto-Aztecan	143
+390	46_leaf	leaf 	TetelcingoNahuatl	Tetelcingo Nahuatl	xiːbiːtl	xiːbiːtl	x iː b iː tɬ	tete1251	18.8854	-98.893	Uto-Aztecan	144
+391	46_leaf	leaf 	NorthPueblaNahuatl	North Puebla Nahuatl	xiwi-tl	xiwi-tl	x i w i + tɬ	nort2957	20.1356	-97.9814	Uto-Aztecan	144
+392	46_leaf	leaf 	MecayapanNahuat	Mecayapan Nahuat	iswaʔ	iswaʔ	i s w a ʔ	isth1242	18.2	-94.7547	Uto-Aztecan	143
+393	46_leaf	leaf 	PajapanNahuat	Pajapán Nahuat	-iswa-t	-iswa-t	i s w a + t	isth1241	18.2513	-94.6647	Uto-Aztecan	143
+394	46_leaf	leaf 	JalupaNahuat	Jalupa Nahuat	iswa-t	iswa-t	i s w a + t	taba1265	17.9371	-93.5688	Uto-Aztecan	143
+395	46_leaf	leaf 	Pipil	Pipil	iswa-t	iswa-t	i s w a + t	pipi1250	13.8931	-89.443	Uto-Aztecan	143
+396	46_leaf	leaf 	Pochutec	Pochutec	xut	xut	x u t	poch1244	15.735073	-96.468076	Uto-Aztecan	144
+397	46_leaf	leaf 	ProtoAztecan	Proto-Aztecan	*ɨswa-tl	*ɨswa-tl	ɨ s w a + tɬ	azte1234			Uto-Aztecan	143
+398	47_lie	lie 	ClassicalNahuatl	Classical Nahuatl	mo-teːka	mo-teːka	m o + t eː k a	clas1250	19.72	-96.97	Uto-Aztecan	145
+399	47_lie	lie 	TetelcingoNahuatl	Tetelcingo Nahuatl	mo-tieka	mo-tieka	m o + t i e k a	tete1251	18.8854	-98.893	Uto-Aztecan	145
+400	47_lie	lie 	NorthPueblaNahuatl	North Puebla Nahuatl	mo-teka	mo-teka	m o + t e k a	nort2957	20.1356	-97.9814	Uto-Aztecan	145
+401	47_lie	lie 	MecayapanNahuat	Mecayapan Nahuat	mo-teːca	mo-teːca	m o + t eː c a	isth1242	18.2	-94.7547	Uto-Aztecan	145
+402	47_lie	lie 	PajapanNahuat	Pajapán Nahuat	mo-tega	mo-tega	m o + t e g a	isth1241	18.2513	-94.6647	Uto-Aztecan	145
+403	47_lie	lie 	JalupaNahuat	Jalupa Nahuat	mu-reka-k (acos- tado)	mu-reka-k_	m u + r e k a + k	taba1265	17.9371	-93.5688	Uto-Aztecan	145
+404	47_lie	lie 	Pipil	Pipil	mu-teːka	mu-teːka	m u + t eː k a	pipi1250	13.8931	-89.443	Uto-Aztecan	145
+405	47_lie	lie 	Pochutec	Pochutec	teké	teké	t e k é/e	poch1244	15.735073	-96.468076	Uto-Aztecan	145
+406	47_lie	lie 	ProtoAztecan	Proto-Aztecan	*mo-teːka	*mo-teːka	m o + t eː k a	azte1234			Uto-Aztecan	145
+407	48_liver	liver 	ClassicalNahuatl	Classical Nahuatl	eːl-li	eːl-li	eː l + l i	clas1250	19.72	-96.97	Uto-Aztecan	154
+408	48_liver	liver 	NorthPueblaNahuatl	North Puebla Nahuatl	-yel-tlapach	-yel-tlapach	j e l + tɬ a p a tʃ	nort2957	20.1356	-97.9814	Uto-Aztecan	155
+409	48_liver	liver 	MecayapanNahuat	Mecayapan Nahuat	-yoːl	-yoːl	j oː l	isth1242	18.2	-94.7547	Uto-Aztecan	156
+410	48_liver	liver 	Pipil	Pipil	-el-tapach	-el-tapach	e l + t a p a tʃ	pipi1250	13.8931	-89.443	Uto-Aztecan	157
+411	49_long	long 	ClassicalNahuatl	Classical Nahuatl	weːiyak	weːiyak	w eː i j a k	clas1250	19.72	-96.97	Uto-Aztecan	158
+412	49_long	long 	TetelcingoNahuatl	Tetelcingo Nahuatl	beyak	beyak	b e j a k	tete1251	18.8854	-98.893	Uto-Aztecan	158
+413	49_long	long 	NorthPueblaNahuatl	North Puebla Nahuatl	weyak	weyak	w e j a k	nort2957	20.1356	-97.9814	Uto-Aztecan	158
+414	49_long	long 	MecayapanNahuat	Mecayapan Nahuat	weːyaktiʔ	weːyaktiʔ	w eː j a k t i ʔ	isth1242	18.2	-94.7547	Uto-Aztecan	158
+415	49_long	long 	PajapanNahuat	Pajapán Nahuat	weːyak	weːyak	w eː j a k	isth1241	18.2513	-94.6647	Uto-Aztecan	158
+416	49_long	long 	JalupaNahuat	Jalupa Nahuat	weyak	weyak	w e j a k	taba1265	17.9371	-93.5688	Uto-Aztecan	158
+417	49_long	long 	Pipil	Pipil	weyak	weyak	w e j a k	pipi1250	13.8931	-89.443	Uto-Aztecan	158
+418	49_long	long 	ProtoAztecan	Proto-Aztecan	*weheya-k	*weheya-k	w e h e j a + k	azte1234			Uto-Aztecan	158
+419	50_louse	louse 	ClassicalNahuatl	Classical Nahuatl	atemi-tl	atemi-tl	a t e m i + tɬ	clas1250	19.72	-96.97	Uto-Aztecan	159
+420	50_louse	louse 	TetelcingoNahuatl	Tetelcingo Nahuatl	atiːmiː-tl	atiːmiː-tl	a t iː m iː + tɬ	tete1251	18.8854	-98.893	Uto-Aztecan	159
+421	50_louse	louse 	NorthPueblaNahuatl	North Puebla Nahuatl	pioho (Spanish loan)	pioho_	p i o h o	nort2957	20.1356	-97.9814	Uto-Aztecan	175
+422	50_louse	louse 	MecayapanNahuat	Mecayapan Nahuat	atimiʔ	atimiʔ	a t i m i ʔ	isth1242	18.2	-94.7547	Uto-Aztecan	159
+423	50_louse	louse 	PajapanNahuat	Pajapán Nahuat	aːtin	aːtin	aː t i n	isth1241	18.2513	-94.6647	Uto-Aztecan	159
+424	50_louse	louse 	JalupaNahuat	Jalupa Nahuat	aːtin	aːtin	aː t i n	taba1265	17.9371	-93.5688	Uto-Aztecan	159
+425	50_louse	louse 	Pipil	Pipil	atime-t	atime-t	a t i m e + t	pipi1250	13.8931	-89.443	Uto-Aztecan	159
+426	50_louse	louse 	Pochutec	Pochutec	atóm-t	atóm-t	a t ó/o m + t	poch1244	15.735073	-96.468076	Uto-Aztecan	159
+427	50_louse	louse 	ProtoAztecan	Proto-Aztecan	*atɨmɨ-tl	*atɨmɨ-tl	a t ɨ m ɨ + tɬ	azte1234			Uto-Aztecan	159
+428	51_man	man 	ClassicalNahuatl	Classical Nahuatl	taːka-tl, okich-tli	taːka-tl	t aː k a + tɬ	clas1250	19.72	-96.97	Uto-Aztecan	176
+429	51_man	man 	TetelcingoNahuatl	Tetelcingo Nahuatl	umbre (Spanish loan), tlöca-tl	umbre_	u m b r e	tete1251	18.8854	-98.893	Uto-Aztecan	176
+430	51_man	man 	NorthPueblaNahuatl	North Puebla Nahuatl	tlakatl	tlakatl	tɬ a k a tɬ	nort2957	20.1356	-97.9814	Uto-Aztecan	176
+431	51_man	man 	MecayapanNahuat	Mecayapan Nahuat	taːga-ʔ	taːga-ʔ	t aː g a + ʔ	isth1242	18.2	-94.7547	Uto-Aztecan	176
+432	51_man	man 	PajapanNahuat	Pajapán Nahuat	taːga-t	taːga-t	t aː g a + t	isth1241	18.2513	-94.6647	Uto-Aztecan	176
+433	51_man	man 	JalupaNahuat	Jalupa Nahuat	taːka-t	taːka-t	t aː k a + t	taba1265	17.9371	-93.5688	Uto-Aztecan	176
+434	51_man	man 	Pipil	Pipil	taːka-t	taːka-t	t aː k a + t	pipi1250	13.8931	-89.443	Uto-Aztecan	176
+435	51_man	man 	Pochutec	Pochutec	okóx-t, teké-t	okóx-t	o k ó/o x + t	poch1244	15.735073	-96.468076	Uto-Aztecan	176
+436	51_man	man 	ProtoAztecan	Proto-Aztecan	*tlaːka-tl	*tlaːka-tl	tɬ aː k a + tɬ	azte1234			Uto-Aztecan	176
+437	52_many	many 	ClassicalNahuatl	Classical Nahuatl	miakiːn ~ miakiːntiːn ~ miaktiːn ~ miːmiak	miakiːn	m i a k iː n	clas1250	19.72	-96.97	Uto-Aztecan	177
+438	52_many	many 	TetelcingoNahuatl	Tetelcingo Nahuatl	meyak	meyak	m e j a k	tete1251	18.8854	-98.893	Uto-Aztecan	177
+439	52_many	many 	NorthPueblaNahuatl	North Puebla Nahuatl	miak	miak	m i a k	nort2957	20.1356	-97.9814	Uto-Aztecan	177
+440	52_many	many 	MecayapanNahuat	Mecayapan Nahuat	miaʔ (mucho), miakeh (muchos)	miaʔ_	m i a ʔ	isth1242	18.2	-94.7547	Uto-Aztecan	177
+441	52_many	many 	PajapanNahuat	Pajapán Nahuat	miak (muchos)	miak_	m i a k	isth1241	18.2513	-94.6647	Uto-Aztecan	177
+442	52_many	many 	JalupaNahuat	Jalupa Nahuat	miakpa (muchos)	miakpa_	m i a k p a	taba1265	17.9371	-93.5688	Uto-Aztecan	177
+443	52_many	many 	Pipil	Pipil	miyak (mucho, muchos, bastante)	miyak_	m i j a k	pipi1250	13.8931	-89.443	Uto-Aztecan	177
+444	52_many	many 	Pochutec	Pochutec	asók (mucho, muchos, muy)	asók_	a s ó/o k	poch1244	15.735073	-96.468076	Uto-Aztecan	178
+445	52_many	many 	ProtoAztecan	Proto-Aztecan	*mɨyak	*mɨyak	m ɨ j a k	azte1234			Uto-Aztecan	177
+446	53_meat	meat 	ClassicalNahuatl	Classical Nahuatl	naka-tl	naka-tl	n a k a + tɬ	clas1250	19.72	-96.97	Uto-Aztecan	179
+447	53_meat	meat 	TetelcingoNahuatl	Tetelcingo Nahuatl	naka-tl	naka-tl	n a k a + tɬ	tete1251	18.8854	-98.893	Uto-Aztecan	179
+448	53_meat	meat 	NorthPueblaNahuatl	North Puebla Nahuatl	naka-tl	naka-tl	n a k a + tɬ	nort2957	20.1356	-97.9814	Uto-Aztecan	179
+449	53_meat	meat 	MecayapanNahuat	Mecayapan Nahuat	naka-ʔ	naka-ʔ	n a k a + ʔ	isth1242	18.2	-94.7547	Uto-Aztecan	179
+450	53_meat	meat 	PajapanNahuat	Pajapán Nahuat	naga-t	naga-t	n a g a + t	isth1241	18.2513	-94.6647	Uto-Aztecan	179
+451	53_meat	meat 	JalupaNahuat	Jalupa Nahuat	naka-t	naka-t	n a k a + t	taba1265	17.9371	-93.5688	Uto-Aztecan	179
+452	53_meat	meat 	Pipil	Pipil	naka-t	naka-t	n a k a + t	pipi1250	13.8931	-89.443	Uto-Aztecan	179
+453	53_meat	meat 	Pochutec	Pochutec	neké-t (esta carne está manida), tutú-t (carne para comer)	neké-t_	n e k é/e + t	poch1244	15.735073	-96.468076	Uto-Aztecan	179
+454	53_meat	meat 	ProtoAztecan	Proto-Aztecan	*naka-tl	*naka-tl	n a k a + tɬ	azte1234			Uto-Aztecan	179
+455	54_moon	moon 	ClassicalNahuatl	Classical Nahuatl	meːtz-tli	meːtz-tli	m eː ts + tɬ i	clas1250	19.72	-96.97	Uto-Aztecan	180
+456	54_moon	moon 	TetelcingoNahuatl	Tetelcingo Nahuatl	mietz-tliː	mietz-tliː	m i e ts + tɬ iː	tete1251	18.8854	-98.893	Uto-Aztecan	180
+457	54_moon	moon 	NorthPueblaNahuatl	North Puebla Nahuatl	metz-tli	metz-tli	m e ts + tɬ i	nort2957	20.1356	-97.9814	Uto-Aztecan	180
+458	54_moon	moon 	MecayapanNahuat	Mecayapan Nahuat	meːtz-ti, to-yeː-tzin (lit. ‘nuesta madrecita’)	meːtz-ti	m eː ts + t i	isth1242	18.2	-94.7547	Uto-Aztecan	180
+459	54_moon	moon 	PajapanNahuat	Pajapán Nahuat	meːs-ti, to-yeː-tzin	meːs-ti	m eː s + t i	isth1241	18.2513	-94.6647	Uto-Aztecan	180
+460	54_moon	moon 	JalupaNahuat	Jalupa Nahuat	meːtz-ti	meːtz-ti	m eː ts + t i	taba1265	17.9371	-93.5688	Uto-Aztecan	180
+461	54_moon	moon 	Pipil	Pipil	meːtz-ti	meːtz-ti	m eː ts + t i	pipi1250	13.8931	-89.443	Uto-Aztecan	180
+462	54_moon	moon 	Pochutec	Pochutec	mes-t	mes-t	m e s + t	poch1244	15.735073	-96.468076	Uto-Aztecan	180
+463	54_moon	moon 	ProtoAztecan	Proto-Aztecan	*meːtz-tlɨ	*meːtz-tlɨ	m eː ts + tɬ ɨ	azte1234			Uto-Aztecan	180
+464	55_mountain	mountain 	ClassicalNahuatl	Classical Nahuatl	tepeː-tl	tepeː-tl	t e p eː + tɬ	clas1250	19.72	-96.97	Uto-Aztecan	181
+465	55_mountain	mountain 	TetelcingoNahuatl	Tetelcingo Nahuatl	tepie-tl	tepie-tl	t e p i e + tɬ	tete1251	18.8854	-98.893	Uto-Aztecan	181
+466	55_mountain	mountain 	NorthPueblaNahuatl	North Puebla Nahuatl	tepe-tl	tepe-tl	t e p e + tɬ	nort2957	20.1356	-97.9814	Uto-Aztecan	181
+467	55_mountain	mountain 	MecayapanNahuat	Mecayapan Nahuat	tepeː-ʔ	tepeː-ʔ	t e p eː + ʔ	isth1242	18.2	-94.7547	Uto-Aztecan	181
+468	55_mountain	mountain 	PajapanNahuat	Pajapán Nahuat	tepeː-t	tepeː-t	t e p eː + t	isth1241	18.2513	-94.6647	Uto-Aztecan	181
+469	55_mountain	mountain 	Pipil	Pipil	tepeː-t	tepeː-t	t e p eː + t	pipi1250	13.8931	-89.443	Uto-Aztecan	181
+470	55_mountain	mountain 	ProtoAztecan	Proto-Aztecan	*tɨpeː-tl	*tɨpeː-tl	t ɨ p eː + tɬ	azte1234			Uto-Aztecan	181
+471	56_mouth	mouth 	ClassicalNahuatl	Classical Nahuatl	kam(a)-tl	kam-tl	k a m + tɬ	clas1250	19.72	-96.97	Uto-Aztecan	182
+472	56_mouth	mouth 	TetelcingoNahuatl	Tetelcingo Nahuatl	-kama-k	-kama-k	k a m a + k	tete1251	18.8854	-98.893	Uto-Aztecan	182
+473	56_mouth	mouth 	NorthPueblaNahuatl	North Puebla Nahuatl	-kama-k	-kama-k	k a m a + k	nort2957	20.1356	-97.9814	Uto-Aztecan	182
+474	56_mouth	mouth 	MecayapanNahuat	Mecayapan Nahuat	-teːn	-teːn	t eː n	isth1242	18.2	-94.7547	Uto-Aztecan	183
+475	56_mouth	mouth 	PajapanNahuat	Pajapán Nahuat	-teːn	-teːn	t eː n	isth1241	18.2513	-94.6647	Uto-Aztecan	183
+476	56_mouth	mouth 	JalupaNahuat	Jalupa Nahuat	-teːn	-teːn	t eː n	taba1265	17.9371	-93.5688	Uto-Aztecan	183
+477	56_mouth	mouth 	Pipil	Pipil	-teːn	-teːn	t eː n	pipi1250	13.8931	-89.443	Uto-Aztecan	183
+478	56_mouth	mouth 	Pochutec	Pochutec	ten	ten	t e n	poch1244	15.735073	-96.468076	Uto-Aztecan	183
+479	56_mouth	mouth 	ProtoAztecan	Proto-Aztecan	*teːn-tlɨ	*teːn-tlɨ	t eː n + tɬ ɨ	azte1234			Uto-Aztecan	183
+480	57_name	name 	ClassicalNahuatl	Classical Nahuatl	toːkaː(i)-tl	toːkaː-tl	t oː k aː + tɬ	clas1250	19.72	-96.97	Uto-Aztecan	184
+481	57_name	name 	TetelcingoNahuatl	Tetelcingo Nahuatl	-tukö	-tukö	t u k ø	tete1251	18.8854	-98.893	Uto-Aztecan	184
+482	57_name	name 	NorthPueblaNahuatl	North Puebla Nahuatl	tokah-tli	tokah-tli	t o k a h + tɬ i	nort2957	20.1356	-97.9814	Uto-Aztecan	184
+483	57_name	name 	MecayapanNahuat	Mecayapan Nahuat	toːkaː-ʔ	toːkaː-ʔ	t oː k aː + ʔ	isth1242	18.2	-94.7547	Uto-Aztecan	184
+484	57_name	name 	PajapanNahuat	Pajapán Nahuat	-toga	-toga	t o g a	isth1241	18.2513	-94.6647	Uto-Aztecan	184
+485	57_name	name 	JalupaNahuat	Jalupa Nahuat	tuwa-n	tuwa-n	t u w a + n	taba1265	17.9371	-93.5688	Uto-Aztecan	184
+486	57_name	name 	Pipil	Pipil	-tuːkey	-tuːkey	t uː k e j	pipi1250	13.8931	-89.443	Uto-Aztecan	184
+487	57_name	name 	Pochutec	Pochutec	kul	kul	k u l	poch1244	15.735073	-96.468076	Uto-Aztecan	185
+488	57_name	name 	ProtoAztecan	Proto-Aztecan	*toːkaːhɨ-tl	*toːkaːhɨ-tl	t oː k aː h ɨ + tɬ	azte1234			Uto-Aztecan	184
+489	58_neck	neck 	ClassicalNahuatl	Classical Nahuatl	kech-tli	kech-tli	k e tʃ + tɬ i	clas1250	19.72	-96.97	Uto-Aztecan	186
+490	58_neck	neck 	TetelcingoNahuatl	Tetelcingo Nahuatl	-kech-kochtla	-kech-kochtla	k e tʃ + k o tʃ tɬ a	tete1251	18.8854	-98.893	Uto-Aztecan	186
+491	58_neck	neck 	NorthPueblaNahuatl	North Puebla Nahuatl	-kech	-kech	k e tʃ	nort2957	20.1356	-97.9814	Uto-Aztecan	186
+492	58_neck	neck 	MecayapanNahuat	Mecayapan Nahuat	-kech	-kech	k e tʃ	isth1242	18.2	-94.7547	Uto-Aztecan	186
+493	58_neck	neck 	PajapanNahuat	Pajapán Nahuat	-geːch	-geːch	g eː tʃ	isth1241	18.2513	-94.6647	Uto-Aztecan	186
+494	58_neck	neck 	JalupaNahuat	Jalupa Nahuat	-kech	-kech	k e tʃ	taba1265	17.9371	-93.5688	Uto-Aztecan	186
+495	58_neck	neck 	Pipil	Pipil	-kech-kuːyu	-kech-kuːyu	k e tʃ + k uː j u	pipi1250	13.8931	-89.443	Uto-Aztecan	186
+496	58_neck	neck 	Pochutec	Pochutec	kox-t (pescuezo)	kox-t_	k o x + t	poch1244	15.735073	-96.468076	Uto-Aztecan	186
+497	58_neck	neck 	ProtoAztecan	Proto-Aztecan	*kəch-tlɨ	*kəch-tlɨ	k ə tʃ + tɬ ɨ	azte1234			Uto-Aztecan	186
+498	59_new	new 	ClassicalNahuatl	Classical Nahuatl	yankwi-k	yankwi-k	j a n k w i + k	clas1250	19.72	-96.97	Uto-Aztecan	187
+499	59_new	new 	TetelcingoNahuatl	Tetelcingo Nahuatl	yankwiː-k	yankwiː-k	j a n k w iː + k	tete1251	18.8854	-98.893	Uto-Aztecan	187
+500	59_new	new 	NorthPueblaNahuatl	North Puebla Nahuatl	yankwi-k	yankwi-k	j a n k w i + k	nort2957	20.1356	-97.9814	Uto-Aztecan	187
+501	59_new	new 	MecayapanNahuat	Mecayapan Nahuat	yamkwi-ʔ	yamkwi-ʔ	j a m k w i + ʔ	isth1242	18.2	-94.7547	Uto-Aztecan	187
+502	59_new	new 	PajapanNahuat	Pajapán Nahuat	yambi-k	yambi-k	j a m b i + k	isth1241	18.2513	-94.6647	Uto-Aztecan	187
+503	59_new	new 	JalupaNahuat	Jalupa Nahuat	yambwi-k	yambwi-k	j a m b w i + k	taba1265	17.9371	-93.5688	Uto-Aztecan	187
+504	59_new	new 	Pipil	Pipil	yankwi-k	yankwi-k	j a n k w i + k	pipi1250	13.8931	-89.443	Uto-Aztecan	187
+505	59_new	new 	ProtoAztecan	Proto-Aztecan	*yankwi-k	*yankwi-k	j a n k w i + k	azte1234			Uto-Aztecan	187
+506	60_night	night 	ClassicalNahuatl	Classical Nahuatl	yowal-li	yowal-li	j o w a l + l i	clas1250	19.72	-96.97	Uto-Aztecan	188
+507	60_night	night 	TetelcingoNahuatl	Tetelcingo Nahuatl	yowaliː	yowaliː	j o w a l iː	tete1251	18.8854	-98.893	Uto-Aztecan	188
+508	60_night	night 	NorthPueblaNahuatl	North Puebla Nahuatl	yowali	yowali	j o w a l i	nort2957	20.1356	-97.9814	Uto-Aztecan	188
+509	60_night	night 	MecayapanNahuat	Mecayapan Nahuat	yowal	yowal	j o w a l	isth1242	18.2	-94.7547	Uto-Aztecan	188
+510	60_night	night 	PajapanNahuat	Pajapán Nahuat	ta-yoá	ta-yoá	t a + j o á/a	isth1241	18.2513	-94.6647	Uto-Aztecan	189
+511	60_night	night 	JalupaNahuat	Jalupa Nahuat	ta-yuwa-k	ta-yuwa-k	t a + j u w a + k	taba1265	17.9371	-93.5688	Uto-Aztecan	189
+512	60_night	night 	Pipil	Pipil	ta-yuwa	ta-yuwa	t a + j u w a	pipi1250	13.8931	-89.443	Uto-Aztecan	189
+513	60_night	night 	Pochutec	Pochutec	owél	owél	o w é/e l	poch1244	15.735073	-96.468076	Uto-Aztecan	188
+514	60_night	night 	ProtoAztecan	Proto-Aztecan	*yowal-lɨ	*yowal-lɨ	j o w a l + l ɨ	azte1234			Uto-Aztecan	188
+515	61_nose	nose 	ClassicalNahuatl	Classical Nahuatl	yak(a)-tl	yak-tl	j a k + tɬ	clas1250	19.72	-96.97	Uto-Aztecan	190
+516	61_nose	nose 	TetelcingoNahuatl	Tetelcingo Nahuatl	-yeka-tzol	-yeka-tzol	j e k a + ts o l	tete1251	18.8854	-98.893	Uto-Aztecan	190
+517	61_nose	nose 	NorthPueblaNahuatl	North Puebla Nahuatl	-yeka-k	-yeka-k	j e k a + k	nort2957	20.1356	-97.9814	Uto-Aztecan	190
+518	61_nose	nose 	MecayapanNahuat	Mecayapan Nahuat	yak-ti	yak-ti	j a k + t i	isth1242	18.2	-94.7547	Uto-Aztecan	190
+519	61_nose	nose 	PajapanNahuat	Pajapán Nahuat	yaga-t	yaga-t	j a g a + t	isth1241	18.2513	-94.6647	Uto-Aztecan	190
+520	61_nose	nose 	JalupaNahuat	Jalupa Nahuat	-yak	-yak	j a k	taba1265	17.9371	-93.5688	Uto-Aztecan	190
+521	61_nose	nose 	Pipil	Pipil	-yak	-yak	j a k	pipi1250	13.8931	-89.443	Uto-Aztecan	190
+522	61_nose	nose 	Pochutec	Pochutec	yeké-t	yeké-t	j e k é/e + t	poch1244	15.735073	-96.468076	Uto-Aztecan	190
+523	61_nose	nose 	ProtoAztecan	Proto-Aztecan	*yaka-tl	*yaka-tl	j a k a + tɬ	azte1234			Uto-Aztecan	190
+524	62_not	not 	ClassicalNahuatl	Classical Nahuatl	aʔmoː	aʔmoː	a ʔ m oː	clas1250	19.72	-96.97	Uto-Aztecan	191
+525	62_not	not 	TetelcingoNahuatl	Tetelcingo Nahuatl	amo	amo	a m o	tete1251	18.8854	-98.893	Uto-Aztecan	191
+526	62_not	not 	NorthPueblaNahuatl	North Puebla Nahuatl	ahmo	ahmo	a h m o	nort2957	20.1356	-97.9814	Uto-Aztecan	191
+527	62_not	not 	MecayapanNahuat	Mecayapan Nahuat	ayaːʔ, amo	ayaːʔ	a j aː ʔ	isth1242	18.2	-94.7547	Uto-Aztecan	191
+528	62_not	not 	PajapanNahuat	Pajapán Nahuat	amó, ayá, a-té	amó	a m ó/o	isth1241	18.2513	-94.6647	Uto-Aztecan	192
+529	62_not	not 	JalupaNahuat	Jalupa Nahuat	te	te	t e	taba1265	17.9371	-93.5688	Uto-Aztecan	192
+530	62_not	not 	Pipil	Pipil	teː tesu	teː_tesu	t eː + t e s u	pipi1250	13.8931	-89.443	Uto-Aztecan	192
+531	62_not	not 	Pochutec	Pochutec	as	as	a s	poch1244	15.735073	-96.468076	Uto-Aztecan	193
+532	63_one	one 	ClassicalNahuatl	Classical Nahuatl	seː (bound form: sem)	seː_	s eː	clas1250	19.72	-96.97	Uto-Aztecan	194
+533	63_one	one 	TetelcingoNahuatl	Tetelcingo Nahuatl	sie, sen-te	sie	s i e	tete1251	18.8854	-98.893	Uto-Aztecan	194
+534	63_one	one 	NorthPueblaNahuatl	North Puebla Nahuatl	seya	seya	s e j a	nort2957	20.1356	-97.9814	Uto-Aztecan	194
+535	63_one	one 	MecayapanNahuat	Mecayapan Nahuat	seː	seː	s eː	isth1242	18.2	-94.7547	Uto-Aztecan	194
+536	63_one	one 	PajapanNahuat	Pajapán Nahuat	se	se	s e	isth1241	18.2513	-94.6647	Uto-Aztecan	194
+537	63_one	one 	JalupaNahuat	Jalupa Nahuat	se	se	s e	taba1265	17.9371	-93.5688	Uto-Aztecan	194
+538	63_one	one 	Pipil	Pipil	seː	seː	s eː	pipi1250	13.8931	-89.443	Uto-Aztecan	194
+539	63_one	one 	Pochutec	Pochutec	se	se	s e	poch1244	15.735073	-96.468076	Uto-Aztecan	194
+540	63_one	one 	ProtoAztecan	Proto-Aztecan	*seː(m)	*seː	s eː	azte1234			Uto-Aztecan	194
+541	64_person	person 	ClassicalNahuatl	Classical Nahuatl	tlaːka-tl	tlaːka-tl	tɬ aː k a + tɬ	clas1250	19.72	-96.97	Uto-Aztecan	207
+542	64_person	person 	TetelcingoNahuatl	Tetelcingo Nahuatl	hiente (Spanish loan), tlöka	hiente_	h i e n t e	tete1251	18.8854	-98.893	Uto-Aztecan	208
+543	64_person	person 	MecayapanNahuat	Mecayapan Nahuat	hente (Spanish loan)	hente_	h e n t e	isth1242	18.2	-94.7547	Uto-Aztecan	209
+544	64_person	person 	PajapanNahuat	Pajapán Nahuat	kristianoh (Spanish loan)	kristianoh_	k r i s t i a n o h	isth1241	18.2513	-94.6647	Uto-Aztecan	210
+545	64_person	person 	JalupaNahuat	Jalupa Nahuat	yohomeh	yohomeh	j o h o m e h	taba1265	17.9371	-93.5688	Uto-Aztecan	211
+546	64_person	person 	Pipil	Pipil	kristanuh (Spanish loan)	kristanuh_	k r i s t a n u h	pipi1250	13.8931	-89.443	Uto-Aztecan	212
+547	65_rain	rain 	ClassicalNahuatl	Classical Nahuatl	kiyaw(i)-tl	kiyaw-tl	k i j a w + tɬ	clas1250	19.72	-96.97	Uto-Aztecan	213
+548	65_rain	rain 	TetelcingoNahuatl	Tetelcingo Nahuatl	kiːyabiː-tl	kiːyabiː-tl	k iː j a b iː + tɬ	tete1251	18.8854	-98.893	Uto-Aztecan	213
+549	65_rain	rain 	NorthPueblaNahuatl	North Puebla Nahuatl	kiyawi-tl	kiyawi-tl	k i j a w i + tɬ	nort2957	20.1356	-97.9814	Uto-Aztecan	213
+550	65_rain	rain 	MecayapanNahuat	Mecayapan Nahuat	kiahuaː-ʔ ~ tiahuaː-ʔ	kiahuaː-ʔ	k i a h u aː + ʔ	isth1242	18.2	-94.7547	Uto-Aztecan	213
+551	65_rain	rain 	PajapanNahuat	Pajapán Nahuat	aː-tzona-t	aː-tzona-t	aː + ts o n a + t	isth1241	18.2513	-94.6647	Uto-Aztecan	214
+552	65_rain	rain 	JalupaNahuat	Jalupa Nahuat	chimaː-t	chimaː-t	tʃ i m aː + t	taba1265	17.9371	-93.5688	Uto-Aztecan	215
+553	65_rain	rain 	Pipil	Pipil	aː-t	aː-t	aː + t	pipi1250	13.8931	-89.443	Uto-Aztecan	216
+554	65_rain	rain 	Pochutec	Pochutec	yek-t	yek-t	j e k + t	poch1244	15.735073	-96.468076	Uto-Aztecan	217
+555	66_red	red 	ClassicalNahuatl	Classical Nahuatl	chiː-chiːl-tik (cf. chi:l-li ‘chili pepper’)	chiː-chiːl-tik_	tʃ iː + tʃ iː l + t i k	clas1250	19.72	-96.97	Uto-Aztecan	218
+556	66_red	red 	TetelcingoNahuatl	Tetelcingo Nahuatl	chi-chi-ltiːk	chi-chi-ltiːk	tʃ i + tʃ i + l t iː k	tete1251	18.8854	-98.893	Uto-Aztecan	218
+557	66_red	red 	NorthPueblaNahuatl	North Puebla Nahuatl	chi-chil-tik	chi-chil-tik	tʃ i + tʃ i l + t i k	nort2957	20.1356	-97.9814	Uto-Aztecan	218
+558	66_red	red 	MecayapanNahuat	Mecayapan Nahuat	chiːl-tiʔ	chiːl-tiʔ	tʃ iː l + t i ʔ	isth1242	18.2	-94.7547	Uto-Aztecan	218
+559	66_red	red 	PajapanNahuat	Pajapán Nahuat	ta-tawi-k (cf. CNa tla:w(i)-tl ‘red ochre’)	ta-tawi-k_	t a + t a w i + k	isth1241	18.2513	-94.6647	Uto-Aztecan	219
+560	66_red	red 	JalupaNahuat	Jalupa Nahuat	traik	traik	t r a i k	taba1265	17.9371	-93.5688	Uto-Aztecan	219
+561	66_red	red 	Pipil	Pipil	chiːl-tik	chiːl-tik	tʃ iː l + t i k	pipi1250	13.8931	-89.443	Uto-Aztecan	218
+562	66_red	red 	ProtoAztecan	Proto-Aztecan	*chiːl-tɨ-k ?	*chiːl-tɨ-k_?	tʃ iː l + t ɨ + k	azte1234			Uto-Aztecan	218
+563	67_road	road 	ClassicalNahuatl	Classical Nahuatl	oʔ-tli	oʔ-tli	o ʔ + tɬ i	clas1250	19.72	-96.97	Uto-Aztecan	220
+564	67_road	road 	TetelcingoNahuatl	Tetelcingo Nahuatl	oh-tliː	oh-tliː	o h + tɬ iː	tete1251	18.8854	-98.893	Uto-Aztecan	220
+565	67_road	road 	NorthPueblaNahuatl	North Puebla Nahuatl	oh-tli	oh-tli	o h + tɬ i	nort2957	20.1356	-97.9814	Uto-Aztecan	220
+566	67_road	road 	MecayapanNahuat	Mecayapan Nahuat	oh-ti	oh-ti	o h + t i	isth1242	18.2	-94.7547	Uto-Aztecan	220
+567	67_road	road 	PajapanNahuat	Pajapán Nahuat	oh-ti	oh-ti	o h + t i	isth1241	18.2513	-94.6647	Uto-Aztecan	220
+568	67_road	road 	JalupaNahuat	Jalupa Nahuat	uh-ti	uh-ti	u h + t i	taba1265	17.9371	-93.5688	Uto-Aztecan	220
+569	67_road	road 	Pipil	Pipil	uh-ti	uh-ti	u h + t i	pipi1250	13.8931	-89.443	Uto-Aztecan	220
+570	67_road	road 	Pochutec	Pochutec	ot’kán	ot’kán	o tʼ k á/a n	poch1244	15.735073	-96.468076	Uto-Aztecan	220
+571	67_road	road 	ProtoAztecan	Proto-Aztecan	*oh-tlɨ	*oh-tlɨ	o h + tɬ ɨ	azte1234			Uto-Aztecan	220
+572	68_root	root 	ClassicalNahuatl	Classical Nahuatl	nelwa-tl	nelwa-tl	n e l w a + tɬ	clas1250	19.72	-96.97	Uto-Aztecan	221
+573	68_root	root 	TetelcingoNahuatl	Tetelcingo Nahuatl	nelwa-yu-tl	nelwa-yu-tl	n e l w a + j u + tɬ	tete1251	18.8854	-98.893	Uto-Aztecan	221
+574	68_root	root 	NorthPueblaNahuatl	North Puebla Nahuatl	nelwa-tl	nelwa-tl	n e l w a + tɬ	nort2957	20.1356	-97.9814	Uto-Aztecan	221
+575	68_root	root 	MecayapanNahuat	Mecayapan Nahuat	nelwa-ʔ	nelwa-ʔ	n e l w a + ʔ	isth1242	18.2	-94.7547	Uto-Aztecan	221
+576	68_root	root 	PajapanNahuat	Pajapán Nahuat	ba-takson	ba-takson	b a + t a k s o n	isth1241	18.2513	-94.6647	Uto-Aztecan	222
+577	68_root	root 	JalupaNahuat	Jalupa Nahuat	talwa-t	talwa-t	t a l w a + t	taba1265	17.9371	-93.5688	Uto-Aztecan	223
+578	68_root	root 	Pipil	Pipil	nelwa-t	nelwa-t	n e l w a + t	pipi1250	13.8931	-89.443	Uto-Aztecan	221
+579	68_root	root 	ProtoAztecan	Proto-Aztecan	*nelwa-tl ?	*nelwa-tl_?	n e l w a + tɬ	azte1234			Uto-Aztecan	221
+580	69_round	round 	ClassicalNahuatl	Classical Nahuatl	yawal-tik (cosa redonda como rodela)	yawal-tik_	j a w a l + t i k	clas1250	19.72	-96.97	Uto-Aztecan	224
+581	69_round	round 	TetelcingoNahuatl	Tetelcingo Nahuatl	yewal-tiːk	yewal-tiːk	j e w a l + t iː k	tete1251	18.8854	-98.893	Uto-Aztecan	224
+582	69_round	round 	NorthPueblaNahuatl	North Puebla Nahuatl	yewal-tik	yewal-tik	j e w a l + t i k	nort2957	20.1356	-97.9814	Uto-Aztecan	224
+583	69_round	round 	MecayapanNahuat	Mecayapan Nahuat	yawal-tiʔ (plano), mimil-tiʔ (esférico)	yawal-tiʔ_	j a w a l + t i ʔ	isth1242	18.2	-94.7547	Uto-Aztecan	224
+584	69_round	round 	PajapanNahuat	Pajapán Nahuat	monso (a loan?)	monso_	m o n s o	isth1241	18.2513	-94.6647	Uto-Aztecan	225
+585	69_round	round 	JalupaNahuat	Jalupa Nahuat	tulutz-tik	tulutz-tik	t u l u ts + t i k	taba1265	17.9371	-93.5688	Uto-Aztecan	226
+586	69_round	round 	Pipil	Pipil	yawal-nah (circular), mi-mil-nah (rollizo), ul-ul-nah (esférico)	yawal-nah_	j a w a l + n a h	pipi1250	13.8931	-89.443	Uto-Aztecan	224
+587	69_round	round 	ProtoAztecan	Proto-Aztecan	*yawal-tɨ-k ?	*yawal-tɨ-k_?	j a w a l + t ɨ + k	azte1234			Uto-Aztecan	224
+588	70_sand	sand 	ClassicalNahuatl	Classical Nahuatl	xaːl-li	xaːl-li	x aː l + l i	clas1250	19.72	-96.97	Uto-Aztecan	227
+589	70_sand	sand 	TetelcingoNahuatl	Tetelcingo Nahuatl	xöliː	xöliː	x ø l iː	tete1251	18.8854	-98.893	Uto-Aztecan	227
+590	70_sand	sand 	NorthPueblaNahuatl	North Puebla Nahuatl	xali	xali	x a l i	nort2957	20.1356	-97.9814	Uto-Aztecan	227
+591	70_sand	sand 	MecayapanNahuat	Mecayapan Nahuat	xaːhli	xaːhli	x aː h l i	isth1242	18.2	-94.7547	Uto-Aztecan	227
+592	70_sand	sand 	PajapanNahuat	Pajapán Nahuat	xaːhli	xaːhli	x aː h l i	isth1241	18.2513	-94.6647	Uto-Aztecan	227
+593	70_sand	sand 	JalupaNahuat	Jalupa Nahuat	xaːhli	xaːhli	x aː h l i	taba1265	17.9371	-93.5688	Uto-Aztecan	227
+594	70_sand	sand 	Pipil	Pipil	aː-xaːl	aː-xaːl	aː + x aː l	pipi1250	13.8931	-89.443	Uto-Aztecan	227
+595	70_sand	sand 	ProtoAztecan	Proto-Aztecan	*xaːl-lɨ	*xaːl-lɨ	x aː l + l ɨ	azte1234			Uto-Aztecan	227
+596	71_say	say 	ClassicalNahuatl	Classical Nahuatl	(i)ʔtoaː (to say something), (i)lwiaː (to say something to someone)	ʔtoaː_	ʔ t o aː	clas1250	19.72	-96.97	Uto-Aztecan	228
+597	71_say	say 	TetelcingoNahuatl	Tetelcingo Nahuatl	-htoa	-htoa	ʰt o a	tete1251	18.8854	-98.893	Uto-Aztecan	228
+598	71_say	say 	NorthPueblaNahuatl	North Puebla Nahuatl	-ihtoa	-ihtoa	i h t o a	nort2957	20.1356	-97.9814	Uto-Aztecan	228
+599	71_say	say 	MecayapanNahuat	Mecayapan Nahuat	k-ihtoa, k-ihliá (algo a alguien)	k-ihtoa	k + i h t o a	isth1242	18.2	-94.7547	Uto-Aztecan	228
+600	71_say	say 	PajapanNahuat	Pajapán Nahuat	-ihtoa, -ihlia	-ihtoa	i h t o a	isth1241	18.2513	-94.6647	Uto-Aztecan	228
+601	71_say	say 	JalupaNahuat	Jalupa Nahuat	-ihli	-ihli	i h l i	taba1265	17.9371	-93.5688	Uto-Aztecan	229
+602	71_say	say 	Pipil	Pipil	ilwia	ilwia	i l w i a	pipi1250	13.8931	-89.443	Uto-Aztecan	229
+603	71_say	say 	Pochutec	Pochutec	ití (decirle), nuká (de- cirlo)	ití_	i t í/i	poch1244	15.735073	-96.468076	Uto-Aztecan	230
+604	72_see	see 	ClassicalNahuatl	Classical Nahuatl	(i)tta	tta	t t a	clas1250	19.72	-96.97	Uto-Aztecan	231
+605	72_see	see 	TetelcingoNahuatl	Tetelcingo Nahuatl	-hta	-hta	ʰt a	tete1251	18.8854	-98.893	Uto-Aztecan	231
+606	72_see	see 	NorthPueblaNahuatl	North Puebla Nahuatl	-ita	-ita	i t a	nort2957	20.1356	-97.9814	Uto-Aztecan	231
+607	72_see	see 	MecayapanNahuat	Mecayapan Nahuat	-ita	-ita	i t a	isth1242	18.2	-94.7547	Uto-Aztecan	231
+608	72_see	see 	PajapanNahuat	Pajapán Nahuat	-ita	-ita	i t a	isth1241	18.2513	-94.6647	Uto-Aztecan	231
+609	72_see	see 	JalupaNahuat	Jalupa Nahuat	-ira	-ira	i r a	taba1265	17.9371	-93.5688	Uto-Aztecan	231
+610	72_see	see 	Pipil	Pipil	ita	ita	i t a	pipi1250	13.8931	-89.443	Uto-Aztecan	231
+611	72_see	see 	Pochutec	Pochutec	itá	itá	i t á/a	poch1244	15.735073	-96.468076	Uto-Aztecan	231
+612	72_see	see 	ProtoAztecan	Proto-Aztecan	*­ɨhta	*ɨhta	ɨ h t a	azte1234			Uto-Aztecan	231
+613	73_seed	seed 	ClassicalNahuatl	Classical Nahuatl	ach-tli	ach-tli	a tʃ + tɬ i	clas1250	19.72	-96.97	Uto-Aztecan	232
+614	73_seed	seed 	TetelcingoNahuatl	Tetelcingo Nahuatl	xiːn-öch-tliː	xiːn-öch-tliː	x iː n + ø tʃ + tɬ iː	tete1251	18.8854	-98.893	Uto-Aztecan	232
+615	73_seed	seed 	NorthPueblaNahuatl	North Puebla Nahuatl	achtli, xin-achtli	achtli	a tʃ tɬ i	nort2957	20.1356	-97.9814	Uto-Aztecan	232
+616	73_seed	seed 	MecayapanNahuat	Mecayapan Nahuat	-yoːl	-yoːl	j oː l	isth1242	18.2	-94.7547	Uto-Aztecan	233
+617	73_seed	seed 	PajapanNahuat	Pajapán Nahuat	-yoːl	-yoːl	j oː l	isth1241	18.2513	-94.6647	Uto-Aztecan	233
+618	73_seed	seed 	JalupaNahuat	Jalupa Nahuat	yuhlu	yuhlu	j u h l u	taba1265	17.9371	-93.5688	Uto-Aztecan	233
+619	73_seed	seed 	Pipil	Pipil	iːx	iːx	iː x	pipi1250	13.8931	-89.443	Uto-Aztecan	234
+620	73_seed	seed 	Pochutec	Pochutec	ax-t (cf. /no/-achú ‘mi semilla’)	ax-t_	a x + t	poch1244	15.735073	-96.468076	Uto-Aztecan	232
+621	73_seed	seed 	ProtoAztecan	Proto-Aztecan	*aːch-tlɨ	*aːch-tlɨ	aː tʃ + tɬ ɨ	azte1234			Uto-Aztecan	232
+622	74_sit	sit 	ClassicalNahuatl	Classical Nahuatl	mo-tlaːliaː	mo-tlaːliaː	m o + tɬ aː l i aː	clas1250	19.72	-96.97	Uto-Aztecan	235
+623	74_sit	sit 	TetelcingoNahuatl	Tetelcingo Nahuatl	mo-tlöliːa	mo-tlöliːa	m o + tɬ ø l iː a	tete1251	18.8854	-98.893	Uto-Aztecan	235
+624	74_sit	sit 	NorthPueblaNahuatl	North Puebla Nahuatl	mo-tlalia	mo-tlalia	m o + tɬ a l i a	nort2957	20.1356	-97.9814	Uto-Aztecan	235
+625	74_sit	sit 	MecayapanNahuat	Mecayapan Nahuat	mo-taːliá	mo-taːliá	m o + t aː l i á/a	isth1242	18.2	-94.7547	Uto-Aztecan	235
+626	74_sit	sit 	PajapanNahuat	Pajapán Nahuat	mo-taːli/mo-tzogoloa	mo-taːli	m o + t aː l i	isth1241	18.2513	-94.6647	Uto-Aztecan	235
+627	74_sit	sit 	JalupaNahuat	Jalupa Nahuat	mu-ralih-tuk (sentado)	mu-ralih-tuk_	m u + r a l i h + t u k	taba1265	17.9371	-93.5688	Uto-Aztecan	235
+628	74_sit	sit 	Pipil	Pipil	mu-taːlia	mu-taːlia	m u + t aː l i a	pipi1250	13.8931	-89.443	Uto-Aztecan	235
+629	74_sit	sit 	Pochutec	Pochutec	metzá	metzá	m e ts á/a	poch1244	15.735073	-96.468076	Uto-Aztecan	236
+630	74_sit	sit 	ProtoAztecan	Proto-Aztecan	*mo-tlalɨ-ha	*mo-tlalɨ-ha	m o + tɬ a l ɨ + h a	azte1234			Uto-Aztecan	235
+631	75_skin	skin 	ClassicalNahuatl	Classical Nahuatl	eːwa-tl	eːwa-tl	eː w a + tɬ	clas1250	19.72	-96.97	Uto-Aztecan	237
+632	75_skin	skin 	TetelcingoNahuatl	Tetelcingo Nahuatl	-yewayo, -kwiːtlaxkol	-yewayo	j e w a j o	tete1251	18.8854	-98.893	Uto-Aztecan	237
+633	75_skin	skin 	NorthPueblaNahuatl	North Puebla Nahuatl	-yewayo	-yewayo	j e w a j o	nort2957	20.1356	-97.9814	Uto-Aztecan	237
+634	75_skin	skin 	MecayapanNahuat	Mecayapan Nahuat	kahloː-ʔ	kahloː-ʔ	k a h l oː + ʔ	isth1242	18.2	-94.7547	Uto-Aztecan	238
+635	75_skin	skin 	PajapanNahuat	Pajapán Nahuat	-betax	-betax	b e t a x	isth1241	18.2513	-94.6647	Uto-Aztecan	239
+636	75_skin	skin 	JalupaNahuat	Jalupa Nahuat	bwéraxti	bwéraxti	b w é/e r a x t i	taba1265	17.9371	-93.5688	Uto-Aztecan	239
+637	75_skin	skin 	Pipil	Pipil	-eːwayu	-eːwayu	eː w a j u	pipi1250	13.8931	-89.443	Uto-Aztecan	237
+638	75_skin	skin 	Pochutec	Pochutec	kwetéx-t	kwetéx-t	k w e t é/e x + t	poch1244	15.735073	-96.468076	Uto-Aztecan	239
+639	75_skin	skin 	ProtoAztecan	Proto-Aztecan	*eːwa-tl	*eːwa-tl	eː w a + tɬ	azte1234			Uto-Aztecan	237
+640	76_sleep	sleep 	ClassicalNahuatl	Classical Nahuatl	koch(i)	koch	k o tʃ	clas1250	19.72	-96.97	Uto-Aztecan	240
+641	76_sleep	sleep 	TetelcingoNahuatl	Tetelcingo Nahuatl	kochiː	kochiː	k o tʃ iː	tete1251	18.8854	-98.893	Uto-Aztecan	240
+642	76_sleep	sleep 	NorthPueblaNahuatl	North Puebla Nahuatl	kochi	kochi	k o tʃ i	nort2957	20.1356	-97.9814	Uto-Aztecan	240
+643	76_sleep	sleep 	MecayapanNahuat	Mecayapan Nahuat	kochi	kochi	k o tʃ i	isth1242	18.2	-94.7547	Uto-Aztecan	240
+644	76_sleep	sleep 	PajapanNahuat	Pajapán Nahuat	-gochi	-gochi	g o tʃ i	isth1241	18.2513	-94.6647	Uto-Aztecan	240
+645	76_sleep	sleep 	JalupaNahuat	Jalupa Nahuat	-kuchi	-kuchi	k u tʃ i	taba1265	17.9371	-93.5688	Uto-Aztecan	240
+646	76_sleep	sleep 	Pipil	Pipil	kuchi	kuchi	k u tʃ i	pipi1250	13.8931	-89.443	Uto-Aztecan	240
+647	76_sleep	sleep 	Pochutec	Pochutec	kochí	kochí	k o tʃ í/i	poch1244	15.735073	-96.468076	Uto-Aztecan	240
+648	76_sleep	sleep 	ProtoAztecan	Proto-Aztecan	*kochɨ	*kochɨ	k o tʃ ɨ	azte1234			Uto-Aztecan	240
+649	77_small	small 	ClassicalNahuatl	Classical Nahuatl	tepi-toːn, tepi-tzin	tepi-toːn	t e p i + t oː n	clas1250	19.72	-96.97	Uto-Aztecan	241
+650	77_small	small 	TetelcingoNahuatl	Tetelcingo Nahuatl	tzitziːkiː-tzi	tzitziːkiː-tzi	ts i ts iː k iː + ts i	tete1251	18.8854	-98.893	Uto-Aztecan	242
+651	77_small	small 	NorthPueblaNahuatl	North Puebla Nahuatl	kitzinin	kitzinin	k i ts i n i n	nort2957	20.1356	-97.9814	Uto-Aztecan	243
+652	77_small	small 	MecayapanNahuat	Mecayapan Nahuat	aliːm-pa	aliːm-pa	a l iː m + p a	isth1242	18.2	-94.7547	Uto-Aztecan	244
+653	77_small	small 	PajapanNahuat	Pajapán Nahuat	chihchinti-tzin	chihchinti-tzin	tʃ i h tʃ i n t i + ts i n	isth1241	18.2513	-94.6647	Uto-Aztecan	245
+654	77_small	small 	JalupaNahuat	Jalupa Nahuat	tziri-tuk	tziri-tuk	ts i r i + t u k	taba1265	17.9371	-93.5688	Uto-Aztecan	246
+655	77_small	small 	Pipil	Pipil	achih-chin, atzih-tzin	achih-chin	a tʃ i h + tʃ i n	pipi1250	13.8931	-89.443	Uto-Aztecan	247
+656	77_small	small 	Pochutec	Pochutec	nixtún (pequeño, poquito), túchi (pequeño)	nixtún_	n i x t ú/u n	poch1244	15.735073	-96.468076	Uto-Aztecan	248
+657	78_smoke	smoke 	ClassicalNahuatl	Classical Nahuatl	poːk-tli	poːk-tli	p oː k + tɬ i	clas1250	19.72	-96.97	Uto-Aztecan	249
+658	78_smoke	smoke 	TetelcingoNahuatl	Tetelcingo Nahuatl	puk-tliː	puk-tliː	p u k + tɬ iː	tete1251	18.8854	-98.893	Uto-Aztecan	249
+659	78_smoke	smoke 	NorthPueblaNahuatl	North Puebla Nahuatl	pok-tli	pok-tli	p o k + tɬ i	nort2957	20.1356	-97.9814	Uto-Aztecan	249
+660	78_smoke	smoke 	MecayapanNahuat	Mecayapan Nahuat	poːk-ti	poːk-ti	p oː k + t i	isth1242	18.2	-94.7547	Uto-Aztecan	249
+661	78_smoke	smoke 	PajapanNahuat	Pajapán Nahuat	poːk-ti	poːk-ti	p oː k + t i	isth1241	18.2513	-94.6647	Uto-Aztecan	249
+662	78_smoke	smoke 	JalupaNahuat	Jalupa Nahuat	puːk-ti	puːk-ti	p uː k + t i	taba1265	17.9371	-93.5688	Uto-Aztecan	249
+663	78_smoke	smoke 	Pipil	Pipil	puk-ti	puk-ti	p u k + t i	pipi1250	13.8931	-89.443	Uto-Aztecan	249
+664	78_smoke	smoke 	Pochutec	Pochutec	a-potók-t	a-potók-t	a + p o t ó/o k + t	poch1244	15.735073	-96.468076	Uto-Aztecan	250
+665	78_smoke	smoke 	ProtoAztecan	Proto-Aztecan	*poːk-tlɨ ?	*poːk-tlɨ_?	p oː k + tɬ ɨ	azte1234			Uto-Aztecan	249
+666	79_stand	stand 	ClassicalNahuatl	Classical Nahuatl	mo-ketza(a)	mo-ketza	m o + k e ts a	clas1250	19.72	-96.97	Uto-Aztecan	251
+667	79_stand	stand 	TetelcingoNahuatl	Tetelcingo Nahuatl	mo-ketza	mo-ketza	m o + k e ts a	tete1251	18.8854	-98.893	Uto-Aztecan	251
+668	79_stand	stand 	NorthPueblaNahuatl	North Puebla Nahuatl	mo-tel-ketza, mo-ketza	mo-tel-ketza	m o + t e l + k e ts a	nort2957	20.1356	-97.9814	Uto-Aztecan	251
+669	79_stand	stand 	MecayapanNahuat	Mecayapan Nahuat	mo-ketza	mo-ketza	m o + k e ts a	isth1242	18.2	-94.7547	Uto-Aztecan	251
+670	79_stand	stand 	PajapanNahuat	Pajapán Nahuat	mo-getza	mo-getza	m o + g e ts a	isth1241	18.2513	-94.6647	Uto-Aztecan	251
+671	79_stand	stand 	JalupaNahuat	Jalupa Nahuat	ihkatuk (parado)	ihkatuk_	i h k a t u k	taba1265	17.9371	-93.5688	Uto-Aztecan	267
+672	79_stand	stand 	Pipil	Pipil	mu-ketza	mu-ketza	m u + k e ts a	pipi1250	13.8931	-89.443	Uto-Aztecan	251
+673	79_stand	stand 	Pochutec	Pochutec	x-mo-ktzé (¡Párate!)	x-mo-ktzé_	x + m o + k ts é/e	poch1244	15.735073	-96.468076	Uto-Aztecan	251
+674	79_stand	stand 	ProtoAztecan	Proto-Aztecan	*kɨtza	*kɨtza	k ɨ ts a	azte1234			Uto-Aztecan	251
+675	80_star	star 	ClassicalNahuatl	Classical Nahuatl	siːtlal-in	siːtlal-in	s iː tɬ a l + i n	clas1250	19.72	-96.97	Uto-Aztecan	268
+676	80_star	star 	TetelcingoNahuatl	Tetelcingo Nahuatl	sitlaliː	sitlaliː	s i tɬ a l iː	tete1251	18.8854	-98.893	Uto-Aztecan	268
+677	80_star	star 	NorthPueblaNahuatl	North Puebla Nahuatl	sitlali	sitlali	s i tɬ a l i	nort2957	20.1356	-97.9814	Uto-Aztecan	268
+678	80_star	star 	MecayapanNahuat	Mecayapan Nahuat	siːtalin	siːtalin	s iː t a l i n	isth1242	18.2	-94.7547	Uto-Aztecan	268
+679	80_star	star 	PajapanNahuat	Pajapán Nahuat	lusero (Spanish loan)	lusero_	l u s e r o	isth1241	18.2513	-94.6647	Uto-Aztecan	282
+680	80_star	star 	JalupaNahuat	Jalupa Nahuat	siːtal	siːtal	s iː t a l	taba1265	17.9371	-93.5688	Uto-Aztecan	268
+681	80_star	star 	Pipil	Pipil	siːtal	siːtal	s iː t a l	pipi1250	13.8931	-89.443	Uto-Aztecan	268
+682	80_star	star 	ProtoAztecan	Proto-Aztecan	*sitlalɨ-m	*sitlalɨ-m	s i tɬ a l ɨ + m	azte1234			Uto-Aztecan	268
+683	81_stone	stone 	ClassicalNahuatl	Classical Nahuatl	te-tl	te-tl	t e + tɬ	clas1250	19.72	-96.97	Uto-Aztecan	283
+684	81_stone	stone 	TetelcingoNahuatl	Tetelcingo Nahuatl	tie-te-tu	tie-te-tu	t i e + t e + t u	tete1251	18.8854	-98.893	Uto-Aztecan	283
+685	81_stone	stone 	NorthPueblaNahuatl	North Puebla Nahuatl	te-tl	te-tl	t e + tɬ	nort2957	20.1356	-97.9814	Uto-Aztecan	283
+686	81_stone	stone 	MecayapanNahuat	Mecayapan Nahuat	teʔ-ti	teʔ-ti	t e ʔ + t i	isth1242	18.2	-94.7547	Uto-Aztecan	283
+687	81_stone	stone 	PajapanNahuat	Pajapán Nahuat	te-t	te-t	t e + t	isth1241	18.2513	-94.6647	Uto-Aztecan	283
+688	81_stone	stone 	JalupaNahuat	Jalupa Nahuat	xaːl-te-t	xaːl-te-t	x aː l + t e + t	taba1265	17.9371	-93.5688	Uto-Aztecan	283
+689	81_stone	stone 	Pipil	Pipil	te-t	te-t	t e + t	pipi1250	13.8931	-89.443	Uto-Aztecan	283
+690	81_stone	stone 	Pochutec	Pochutec	to-t	to-t	t o + t	poch1244	15.735073	-96.468076	Uto-Aztecan	283
+691	81_stone	stone 	ProtoAztecan	Proto-Aztecan	*tə-tl	*tə-tl	t ə + tɬ	azte1234			Uto-Aztecan	283
+692	82_sun	sun 	ClassicalNahuatl	Classical Nahuatl	toːna-tiw	toːna-tiw	t oː n a + t i w	clas1250	19.72	-96.97	Uto-Aztecan	284
+693	82_sun	sun 	TetelcingoNahuatl	Tetelcingo Nahuatl	tunaliː	tunaliː	t u n a l iː	tete1251	18.8854	-98.893	Uto-Aztecan	284
+694	82_sun	sun 	NorthPueblaNahuatl	North Puebla Nahuatl	tonal-tzin-tli	tonal-tzin-tli	t o n a l + ts i n + tɬ i	nort2957	20.1356	-97.9814	Uto-Aztecan	284
+695	82_sun	sun 	MecayapanNahuat	Mecayapan Nahuat	to-tah-tziːn (lit. ‘our little (rever.) father’)	to-tah-tziːn_	t o + t a h + ts iː n	isth1242	18.2	-94.7547	Uto-Aztecan	285
+696	82_sun	sun 	PajapanNahuat	Pajapán Nahuat	toːnati	toːnati	t oː n a t i	isth1241	18.2513	-94.6647	Uto-Aztecan	284
+697	82_sun	sun 	JalupaNahuat	Jalupa Nahuat	rontin	rontin	r o n t i n	taba1265	17.9371	-93.5688	Uto-Aztecan	284
+698	82_sun	sun 	Pipil	Pipil	tuːnal	tuːnal	t uː n a l	pipi1250	13.8931	-89.443	Uto-Aztecan	284
+699	82_sun	sun 	Pochutec	Pochutec	tunél	tunél	t u n é/e l	poch1244	15.735073	-96.468076	Uto-Aztecan	284
+700	83_swim	swim 	ClassicalNahuatl	Classical Nahuatl	aː-wilaːn(a), m-aː-neloaː	aː-wilaːn	aː + w i l aː n	clas1250	19.72	-96.97	Uto-Aztecan	286
+701	83_swim	swim 	TetelcingoNahuatl	Tetelcingo Nahuatl	m-ö-biːlöna	m-ö-biːlöna	m + ø + b iː l ø n a	tete1251	18.8854	-98.893	Uto-Aztecan	286
+702	83_swim	swim 	NorthPueblaNahuatl	North Puebla Nahuatl	m-al-tiya	m-al-tiya	m + a l + t i j a	nort2957	20.1356	-97.9814	Uto-Aztecan	287
+703	83_swim	swim 	MecayapanNahuat	Mecayapan Nahuat	aː-pataːni (water-fly), aː-hkitiá (ir flotando)	aː-pataːni_	aː + p a t aː n i	isth1242	18.2	-94.7547	Uto-Aztecan	288
+704	83_swim	swim 	PajapanNahuat	Pajapán Nahuat	-aːhkia	-aːhkia	aː h k i a	isth1241	18.2513	-94.6647	Uto-Aztecan	288
+705	84_tail	tail 	ClassicalNahuatl	Classical Nahuatl	kwitlapil-li	kwitlapil-li	k w i tɬ a p i l + l i	clas1250	19.72	-96.97	Uto-Aztecan	289
+706	84_tail	tail 	TetelcingoNahuatl	Tetelcingo Nahuatl	-kwiːtlapiːl	-kwiːtlapiːl	k w iː tɬ a p iː l	tete1251	18.8854	-98.893	Uto-Aztecan	289
+707	84_tail	tail 	NorthPueblaNahuatl	North Puebla Nahuatl	-kwitlapil	-kwitlapil	k w i tɬ a p i l	nort2957	20.1356	-97.9814	Uto-Aztecan	289
+708	84_tail	tail 	MecayapanNahuat	Mecayapan Nahuat	kwitapiːl	kwitapiːl	k w i t a p iː l	isth1242	18.2	-94.7547	Uto-Aztecan	289
+709	84_tail	tail 	PajapanNahuat	Pajapán Nahuat	-bitapil	-bitapil	b i t a p i l	isth1241	18.2513	-94.6647	Uto-Aztecan	289
+710	84_tail	tail 	JalupaNahuat	Jalupa Nahuat	-bwirapil	-bwirapil	b w i r a p i l	taba1265	17.9371	-93.5688	Uto-Aztecan	289
+711	84_tail	tail 	Pipil	Pipil	-kwitlapil	-kwitlapil	k w i tɬ a p i l	pipi1250	13.8931	-89.443	Uto-Aztecan	289
+712	84_tail	tail 	ProtoAztecan	Proto-Aztecan	*-kwitla-pɨl	*-kwitla-pɨl	k w i tɬ a + p ɨ l	azte1234			Uto-Aztecan	289
+713	85_that	that 	ClassicalNahuatl	Classical Nahuatl	in-oːn	in-oːn	i n + oː n	clas1250	19.72	-96.97	Uto-Aztecan	290
+714	85_that	that 	TetelcingoNahuatl	Tetelcingo Nahuatl	iːn-u, nieka, iːnu nieka	iːn-u	iː n + u	tete1251	18.8854	-98.893	Uto-Aztecan	290
+715	85_that	that 	NorthPueblaNahuatl	North Puebla Nahuatl	in-on	in-on	i n + o n	nort2957	20.1356	-97.9814	Uto-Aztecan	290
+716	85_that	that 	MecayapanNahuat	Mecayapan Nahuat	in-eːpa	in-eːpa	i n + eː p a	isth1242	18.2	-94.7547	Uto-Aztecan	291
+717	85_that	that 	PajapanNahuat	Pajapán Nahuat	hoːn	hoːn	h oː n	isth1241	18.2513	-94.6647	Uto-Aztecan	290
+718	85_that	that 	JalupaNahuat	Jalupa Nahuat	huːni	huːni	h uː n i	taba1265	17.9371	-93.5688	Uto-Aztecan	290
+719	85_that	that 	Pipil	Pipil	uni	uni	u n i	pipi1250	13.8931	-89.443	Uto-Aztecan	290
+720	85_that	that 	Pochutec	Pochutec	namél	namél	n a m é/e l	poch1244	15.735073	-96.468076	Uto-Aztecan	292
+721	85_that	that 	ProtoAztecan	Proto-Aztecan	*oːn- ?	*oːn-_?	oː n	azte1234			Uto-Aztecan	290
+722	86_this	this 	ClassicalNahuatl	Classical Nahuatl	in-iːn	in-iːn	i n + iː n	clas1250	19.72	-96.97	Uto-Aztecan	293
+723	86_this	this 	TetelcingoNahuatl	Tetelcingo Nahuatl	in-i, nönka, in-i nönka	in-i	i n + i	tete1251	18.8854	-98.893	Uto-Aztecan	293
+724	86_this	this 	NorthPueblaNahuatl	North Puebla Nahuatl	in-in	in-in	i n + i n	nort2957	20.1356	-97.9814	Uto-Aztecan	293
+725	86_this	this 	MecayapanNahuat	Mecayapan Nahuat	in-iːn	in-iːn	i n + iː n	isth1242	18.2	-94.7547	Uto-Aztecan	293
+726	86_this	this 	PajapanNahuat	Pajapán Nahuat	hiːn	hiːn	h iː n	isth1241	18.2513	-94.6647	Uto-Aztecan	293
+727	86_this	this 	JalupaNahuat	Jalupa Nahuat	hiːni	hiːni	h iː n i	taba1265	17.9371	-93.5688	Uto-Aztecan	293
+728	86_this	this 	Pipil	Pipil	ini	ini	i n i	pipi1250	13.8931	-89.443	Uto-Aztecan	293
+729	86_this	this 	Pochutec	Pochutec	iná	iná	i n á/a	poch1244	15.735073	-96.468076	Uto-Aztecan	293
+730	86_this	this 	ProtoAztecan	Proto-Aztecan	*in- ?	*in-_?	i n	azte1234			Uto-Aztecan	293
+731	87_thou	thou 	ClassicalNahuatl	Classical Nahuatl	teʔwaː-tl	teʔwaː-tl	t e ʔ w aː + tɬ	clas1250	19.72	-96.97	Uto-Aztecan	294
+732	87_thou	thou 	TetelcingoNahuatl	Tetelcingo Nahuatl	taha	taha	t a h a	tete1251	18.8854	-98.893	Uto-Aztecan	294
+733	87_thou	thou 	NorthPueblaNahuatl	North Puebla Nahuatl	tehwa	tehwa	t e h w a	nort2957	20.1356	-97.9814	Uto-Aztecan	294
+734	87_thou	thou 	MecayapanNahuat	Mecayapan Nahuat	teh	teh	t e h	isth1242	18.2	-94.7547	Uto-Aztecan	294
+735	87_thou	thou 	PajapanNahuat	Pajapán Nahuat	teha	teha	t e h a	isth1241	18.2513	-94.6647	Uto-Aztecan	294
+736	87_thou	thou 	JalupaNahuat	Jalupa Nahuat	tehe	tehe	t e h e	taba1265	17.9371	-93.5688	Uto-Aztecan	294
+737	87_thou	thou 	Pipil	Pipil	ta(h) ~ taha	ta	t a	pipi1250	13.8931	-89.443	Uto-Aztecan	294
+738	87_thou	thou 	Pochutec	Pochutec	mwen	mwen	m w e n	poch1244	15.735073	-96.468076	Uto-Aztecan	295
+739	87_thou	thou 	ProtoAztecan	Proto-Aztecan	*təha	*təha	t ə h a	azte1234			Uto-Aztecan	294
+740	88_tongue	tongue 	ClassicalNahuatl	Classical Nahuatl	nene-pil-li	nene-pil-li	n e n e + p i l + l i	clas1250	19.72	-96.97	Uto-Aztecan	296
+741	88_tongue	tongue 	TetelcingoNahuatl	Tetelcingo Nahuatl	-nenepiːl	-nenepiːl	n e n e p iː l	tete1251	18.8854	-98.893	Uto-Aztecan	296
+742	88_tongue	tongue 	NorthPueblaNahuatl	North Puebla Nahuatl	-nenepil	-nenepil	n e n e p i l	nort2957	20.1356	-97.9814	Uto-Aztecan	296
+743	88_tongue	tongue 	MecayapanNahuat	Mecayapan Nahuat	lenwa (Spanish loan)	lenwa_	l e n w a	isth1242	18.2	-94.7547	Uto-Aztecan	312
+744	88_tongue	tongue 	PajapanNahuat	Pajapán Nahuat	-nenepil	-nenepil	n e n e p i l	isth1241	18.2513	-94.6647	Uto-Aztecan	296
+745	88_tongue	tongue 	JalupaNahuat	Jalupa Nahuat	-neːnepil	-neːnepil	n eː n e p i l	taba1265	17.9371	-93.5688	Uto-Aztecan	296
+746	88_tongue	tongue 	Pipil	Pipil	-nenepil	-nenepil	n e n e p i l	pipi1250	13.8931	-89.443	Uto-Aztecan	296
+747	88_tongue	tongue 	Pochutec	Pochutec	nenepíl	nenepíl	n e n e p í/i l	poch1244	15.735073	-96.468076	Uto-Aztecan	296
+748	88_tongue	tongue 	ProtoAztecan	Proto-Aztecan	*-nɨnɨ-pɨl	*-nɨnɨ-pɨl	n ɨ n ɨ + p ɨ l	azte1234			Uto-Aztecan	296
+749	89_tooth	tooth 	ClassicalNahuatl	Classical Nahuatl	tlan-tli	tlan-tli	tɬ a n + tɬ i	clas1250	19.72	-96.97	Uto-Aztecan	313
+750	89_tooth	tooth 	TetelcingoNahuatl	Tetelcingo Nahuatl	-tlan-koch	-tlan-koch	tɬ a n + k o tʃ	tete1251	18.8854	-98.893	Uto-Aztecan	313
+751	89_tooth	tooth 	NorthPueblaNahuatl	North Puebla Nahuatl	-tlan	-tlan	tɬ a n	nort2957	20.1356	-97.9814	Uto-Aztecan	313
+752	89_tooth	tooth 	MecayapanNahuat	Mecayapan Nahuat	tan-ti	tan-ti	t a n + t i	isth1242	18.2	-94.7547	Uto-Aztecan	313
+753	89_tooth	tooth 	PajapanNahuat	Pajapán Nahuat	-tan	-tan	t a n	isth1241	18.2513	-94.6647	Uto-Aztecan	313
+754	89_tooth	tooth 	JalupaNahuat	Jalupa Nahuat	-taːn	-taːn	t aː n	taba1265	17.9371	-93.5688	Uto-Aztecan	313
+755	89_tooth	tooth 	Pipil	Pipil	-tan	-tan	t a n	pipi1250	13.8931	-89.443	Uto-Aztecan	313
+756	89_tooth	tooth 	ProtoAztecan	Proto-Aztecan	*-tlan	*-tlan	tɬ a n	azte1234			Uto-Aztecan	313
+757	90_tree	tree 	ClassicalNahuatl	Classical Nahuatl	kwaw(i)-tl	kwaw-tl	k w a w + tɬ	clas1250	19.72	-96.97	Uto-Aztecan	314
+758	90_tree	tree 	TetelcingoNahuatl	Tetelcingo Nahuatl	kwabiː-tl	kwabiː-tl	k w a b iː + tɬ	tete1251	18.8854	-98.893	Uto-Aztecan	314
+759	90_tree	tree 	NorthPueblaNahuatl	North Puebla Nahuatl	kowi-tl	kowi-tl	k o w i + tɬ	nort2957	20.1356	-97.9814	Uto-Aztecan	314
+760	90_tree	tree 	MecayapanNahuat	Mecayapan Nahuat	kwawi-ʔ	kwawi-ʔ	k w a w i + ʔ	isth1242	18.2	-94.7547	Uto-Aztecan	314
+761	90_tree	tree 	PajapanNahuat	Pajapán Nahuat	bawi-t	bawi-t	b a w i + t	isth1241	18.2513	-94.6647	Uto-Aztecan	314
+762	90_tree	tree 	JalupaNahuat	Jalupa Nahuat	koi-t	koi-t	k o i + t	taba1265	17.9371	-93.5688	Uto-Aztecan	314
+763	90_tree	tree 	Pipil	Pipil	kwawi-t	kwawi-t	k w a w i + t	pipi1250	13.8931	-89.443	Uto-Aztecan	314
+764	90_tree	tree 	Pochutec	Pochutec	kwagú-t	kwagú-t	k w a g ú/u + t	poch1244	15.735073	-96.468076	Uto-Aztecan	314
+765	90_tree	tree 	ProtoAztecan	Proto-Aztecan	*kwa-wɨ-tl	*kwa-wɨ-tl	k w a + w ɨ + tɬ	azte1234			Uto-Aztecan	314
+766	91_two	two 	ClassicalNahuatl	Classical Nahuatl	oːme	oːme	oː m e	clas1250	19.72	-96.97	Uto-Aztecan	315
+767	91_two	two 	TetelcingoNahuatl	Tetelcingo Nahuatl	ume	ume	u m e	tete1251	18.8854	-98.893	Uto-Aztecan	315
+768	91_two	two 	NorthPueblaNahuatl	North Puebla Nahuatl	ome	ome	o m e	nort2957	20.1356	-97.9814	Uto-Aztecan	315
+769	91_two	two 	MecayapanNahuat	Mecayapan Nahuat	oːme	oːme	oː m e	isth1242	18.2	-94.7547	Uto-Aztecan	315
+770	91_two	two 	PajapanNahuat	Pajapán Nahuat	oːme	oːme	oː m e	isth1241	18.2513	-94.6647	Uto-Aztecan	315
+771	91_two	two 	JalupaNahuat	Jalupa Nahuat	uːme	uːme	uː m e	taba1265	17.9371	-93.5688	Uto-Aztecan	315
+772	91_two	two 	Pipil	Pipil	uːme	uːme	uː m e	pipi1250	13.8931	-89.443	Uto-Aztecan	315
+773	91_two	two 	Pochutec	Pochutec	omém	omém	o m é/e m	poch1244	15.735073	-96.468076	Uto-Aztecan	315
+774	91_two	two 	ProtoAztecan	Proto-Aztecan	*oːmə	*oːmə	oː m ə	azte1234			Uto-Aztecan	315
+775	92_walkgo	walk (go) 	ClassicalNahuatl	Classical Nahuatl	neʔ-nemi	neʔ-nemi	n e ʔ + n e m i	clas1250	19.72	-96.97	Uto-Aztecan	316
+776	92_walkgo	walk (go) 	TetelcingoNahuatl	Tetelcingo Nahuatl	neh-nemiː	neh-nemiː	n e h + n e m iː	tete1251	18.8854	-98.893	Uto-Aztecan	316
+777	92_walkgo	walk (go) 	NorthPueblaNahuatl	North Puebla Nahuatl	neh-nemi	neh-nemi	n e h + n e m i	nort2957	20.1356	-97.9814	Uto-Aztecan	316
+778	92_walkgo	walk (go) 	MecayapanNahuat	Mecayapan Nahuat	neh-nemi	neh-nemi	n e h + n e m i	isth1242	18.2	-94.7547	Uto-Aztecan	316
+779	92_walkgo	walk (go) 	PajapanNahuat	Pajapán Nahuat	neh-nemi	neh-nemi	n e h + n e m i	isth1241	18.2513	-94.6647	Uto-Aztecan	316
+780	92_walkgo	walk (go) 	JalupaNahuat	Jalupa Nahuat	neh-nemi	neh-nemi	n e h + n e m i	taba1265	17.9371	-93.5688	Uto-Aztecan	316
+781	92_walkgo	walk (go) 	Pipil	Pipil	neh-nemi	neh-nemi	n e h + n e m i	pipi1250	13.8931	-89.443	Uto-Aztecan	316
+782	92_walkgo	walk (go) 	Pochutec	Pochutec	uí	uí	u í/i	poch1244	15.735073	-96.468076	Uto-Aztecan	317
+783	92_walkgo	walk (go) 	ProtoAztecan	Proto-Aztecan	*nɨh-nɨmi	*nɨh-nɨmi	n ɨ h + n ɨ m i	azte1234			Uto-Aztecan	316
+784	93_warmhot	warm (hot) 	ClassicalNahuatl	Classical Nahuatl	to-toːn-ki (hot), aː-yamaːnil-aː-tl (tepid water), yamaːn-ki (warm of water, cf. <yamanqui ic mixamia> [Primeros Memoriales 81r])	to-toːn-ki_	t o + t oː n + k i	clas1250	19.72	-96.97	Uto-Aztecan	318
+785	93_warmhot	warm (hot) 	TetelcingoNahuatl	Tetelcingo Nahuatl	totun-kiː (caliente), yemön-kiː (blando, suave, tierno, tibio)	totun-kiː_	t o t u n + k iː	tete1251	18.8854	-98.893	Uto-Aztecan	318
+786	93_warmhot	warm (hot) 	NorthPueblaNahuatl	North Puebla Nahuatl	totonki (caliente), yemanki (agua, también suave)	totonki_	t o t o n k i	nort2957	20.1356	-97.9814	Uto-Aztecan	318
+787	93_warmhot	warm (hot) 	MecayapanNahuat	Mecayapan Nahuat	totoːniʔ (caliente), hokox (tibio, calentito: a loan?)	totoːniʔ_	t o t oː n i ʔ	isth1242	18.2	-94.7547	Uto-Aztecan	318
+788	93_warmhot	warm (hot) 	PajapanNahuat	Pajapán Nahuat	totoːnik (caliente)	totoːnik_	t o t oː n i k	isth1241	18.2513	-94.6647	Uto-Aztecan	318
+789	93_warmhot	warm (hot) 	JalupaNahuat	Jalupa Nahuat	truːnik (caliente), yamanik (blando)	truːnik_	t r uː n i k	taba1265	17.9371	-93.5688	Uto-Aztecan	318
+790	93_warmhot	warm (hot) 	Pipil	Pipil	tutuːnik (caliente), yamanka (tibio)	tutuːnik_	t u t uː n i k	pipi1250	13.8931	-89.443	Uto-Aztecan	318
+791	93_warmhot	warm (hot) 	Pochutec	Pochutec	tuní (caliente)	tuní_	t u n í/i	poch1244	15.735073	-96.468076	Uto-Aztecan	319
+792	93_warmhot	warm (hot) 	ProtoAztecan	Proto-Aztecan	*to-toːnɨ-k ?	*to-toːnɨ-k_?	t o + t oː n ɨ + k	azte1234			Uto-Aztecan	318
+793	94_water	water 	ClassicalNahuatl	Classical Nahuatl	aː-tl	aː-tl	aː + tɬ	clas1250	19.72	-96.97	Uto-Aztecan	320
+794	94_water	water 	TetelcingoNahuatl	Tetelcingo Nahuatl	ö-tzin-tli (reverential diminutive suffix -tzin)	ö-tzin-tli_	ø + ts i n + tɬ i	tete1251	18.8854	-98.893	Uto-Aztecan	320
+795	94_water	water 	NorthPueblaNahuatl	North Puebla Nahuatl	a-tl	a-tl	a + tɬ	nort2957	20.1356	-97.9814	Uto-Aztecan	320
+796	94_water	water 	MecayapanNahuat	Mecayapan Nahuat	aːʔ-ti	aːʔ-ti	aː ʔ + t i	isth1242	18.2	-94.7547	Uto-Aztecan	320
+797	94_water	water 	PajapanNahuat	Pajapán Nahuat	aː-t	aː-t	aː + t	isth1241	18.2513	-94.6647	Uto-Aztecan	320
+798	94_water	water 	JalupaNahuat	Jalupa Nahuat	maː-t	maː-t	m aː + t	taba1265	17.9371	-93.5688	Uto-Aztecan	321
+799	94_water	water 	Pipil	Pipil	aː-t	aː-t	aː + t	pipi1250	13.8931	-89.443	Uto-Aztecan	320
+800	94_water	water 	Pochutec	Pochutec	a-t	a-t	a + t	poch1244	15.735073	-96.468076	Uto-Aztecan	320
+801	94_water	water 	ProtoAztecan	Proto-Aztecan	*aː-tl	*aː-tl	aː + tɬ	azte1234			Uto-Aztecan	320
+802	95_we	we 	ClassicalNahuatl	Classical Nahuatl	teʔwaːn	teʔwaːn	t e ʔ w aː n	clas1250	19.72	-96.97	Uto-Aztecan	322
+803	95_we	we 	TetelcingoNahuatl	Tetelcingo Nahuatl	tehwa, tehwante	tehwa	t e h w a	tete1251	18.8854	-98.893	Uto-Aztecan	322
+804	95_we	we 	NorthPueblaNahuatl	North Puebla Nahuatl	tehwan, tehwanten (todos)	tehwan	t e h w a n	nort2957	20.1356	-97.9814	Uto-Aztecan	322
+805	95_we	we 	MecayapanNahuat	Mecayapan Nahuat	tehameh (incl.), nehameh (excl.)	tehameh_	t e h a m e h	isth1242	18.2	-94.7547	Uto-Aztecan	322
+806	95_we	we 	PajapanNahuat	Pajapán Nahuat	tehameh	tehameh	t e h a m e h	isth1241	18.2513	-94.6647	Uto-Aztecan	322
+807	95_we	we 	JalupaNahuat	Jalupa Nahuat	tohomen	tohomen	t o h o m e n	taba1265	17.9371	-93.5688	Uto-Aztecan	322
+808	95_we	we 	Pipil	Pipil	tehemet	tehemet	t e h e m e t	pipi1250	13.8931	-89.443	Uto-Aztecan	322
+809	95_we	we 	Pochutec	Pochutec	twén	twén	t w é/e n	poch1244	15.735073	-96.468076	Uto-Aztecan	322
+810	95_we	we 	ProtoAztecan	Proto-Aztecan	*təha-mɨ-t	*təha-mɨ-t	t ə h a + m ɨ + t	azte1234			Uto-Aztecan	322
+811	96_what	what 	ClassicalNahuatl	Classical Nahuatl	tle(ʔ)	tle	tɬ e	clas1250	19.72	-96.97	Uto-Aztecan	323
+812	96_what	what 	TetelcingoNahuatl	Tetelcingo Nahuatl	tliniːnu	tliniːnu	tɬ i n iː n u	tete1251	18.8854	-98.893	Uto-Aztecan	323
+813	96_what	what 	NorthPueblaNahuatl	North Puebla Nahuatl	tlen	tlen	tɬ e n	nort2957	20.1356	-97.9814	Uto-Aztecan	323
+814	96_what	what 	MecayapanNahuat	Mecayapan Nahuat	teː	teː	t eː	isth1242	18.2	-94.7547	Uto-Aztecan	323
+815	96_what	what 	PajapanNahuat	Pajapán Nahuat	teː	teː	t eː	isth1241	18.2513	-94.6647	Uto-Aztecan	323
+816	96_what	what 	JalupaNahuat	Jalupa Nahuat	tai	tai	t a i	taba1265	17.9371	-93.5688	Uto-Aztecan	323
+817	96_what	what 	Pipil	Pipil	taː	taː	t aː	pipi1250	13.8931	-89.443	Uto-Aztecan	323
+818	96_what	what 	Pochutec	Pochutec	te	te	t e	poch1244	15.735073	-96.468076	Uto-Aztecan	323
+819	96_what	what 	ProtoAztecan	Proto-Aztecan	*tla-(hi ?)	*tla-	tɬ a	azte1234			Uto-Aztecan	323
+820	97_white	white 	ClassicalNahuatl	Classical Nahuatl	istaːk	istaːk	i s t aː k	clas1250	19.72	-96.97	Uto-Aztecan	324
+821	97_white	white 	TetelcingoNahuatl	Tetelcingo Nahuatl	chipːpöwak, istök	chipːpöwak	tʃ i pː p ø w a k	tete1251	18.8854	-98.893	Uto-Aztecan	324
+822	97_white	white 	NorthPueblaNahuatl	North Puebla Nahuatl	istak	istak	i s t a k	nort2957	20.1356	-97.9814	Uto-Aztecan	324
+823	97_white	white 	MecayapanNahuat	Mecayapan Nahuat	istaːʔ, ichkatiʔ	istaːʔ	i s t aː ʔ	isth1242	18.2	-94.7547	Uto-Aztecan	324
+824	97_white	white 	PajapanNahuat	Pajapán Nahuat	istaːk	istaːk	i s t aː k	isth1241	18.2513	-94.6647	Uto-Aztecan	324
+825	97_white	white 	JalupaNahuat	Jalupa Nahuat	istaːk	istaːk	i s t aː k	taba1265	17.9371	-93.5688	Uto-Aztecan	324
+826	97_white	white 	Pipil	Pipil	istak	istak	i s t a k	pipi1250	13.8931	-89.443	Uto-Aztecan	324
+827	97_white	white 	Pochutec	Pochutec	chupék (cf. CNa chipaːwak)	chupék_	tʃ u p é/e k	poch1244	15.735073	-96.468076	Uto-Aztecan	325
+828	97_white	white 	ProtoAztecan	Proto-Aztecan	*istaː-kɨ ?	*istaː-kɨ_?	i s t aː + k ɨ	azte1234			Uto-Aztecan	324
+829	98_who	who 	ClassicalNahuatl	Classical Nahuatl	aːk	aːk	aː k	clas1250	19.72	-96.97	Uto-Aztecan	326
+830	98_who	who 	TetelcingoNahuatl	Tetelcingo Nahuatl	ökiːnu	ökiːnu	ø k iː n u	tete1251	18.8854	-98.893	Uto-Aztecan	326
+831	98_who	who 	NorthPueblaNahuatl	North Puebla Nahuatl	akin	akin	a k i n	nort2957	20.1356	-97.9814	Uto-Aztecan	326
+832	98_who	who 	MecayapanNahuat	Mecayapan Nahuat	aːʔ	aːʔ	aː ʔ	isth1242	18.2	-94.7547	Uto-Aztecan	326
+833	98_who	who 	PajapanNahuat	Pajapán Nahuat	aːk	aːk	aː k	isth1241	18.2513	-94.6647	Uto-Aztecan	326
+834	98_who	who 	JalupaNahuat	Jalupa Nahuat	aik	aik	a i k	taba1265	17.9371	-93.5688	Uto-Aztecan	326
+835	98_who	who 	Pipil	Pipil	kaː ~ kah ~ kahuni	kaː	k aː	pipi1250	13.8931	-89.443	Uto-Aztecan	327
+836	98_who	who 	Pochutec	Pochutec	ak	ak	a k	poch1244	15.735073	-96.468076	Uto-Aztecan	326
+837	98_who	who 	ProtoAztecan	Proto-Aztecan	*aːk	*aːk	aː k	azte1234			Uto-Aztecan	326
+838	99_woman	woman 	ClassicalNahuatl	Classical Nahuatl	siwaː-tl ~ sowa-tl	siwaː-tl	s i w aː + tɬ	clas1250	19.72	-96.97	Uto-Aztecan	328
+839	99_woman	woman 	TetelcingoNahuatl	Tetelcingo Nahuatl	sowa-tl	sowa-tl	s o w a + tɬ	tete1251	18.8854	-98.893	Uto-Aztecan	328
+840	99_woman	woman 	NorthPueblaNahuatl	North Puebla Nahuatl	siwa-tl	siwa-tl	s i w a + tɬ	nort2957	20.1356	-97.9814	Uto-Aztecan	328
+841	99_woman	woman 	MecayapanNahuat	Mecayapan Nahuat	siwaː-ʔ	siwaː-ʔ	s i w aː + ʔ	isth1242	18.2	-94.7547	Uto-Aztecan	328
+842	99_woman	woman 	PajapanNahuat	Pajapán Nahuat	soáː-t	soáː-t	s o áː/aː + t	isth1241	18.2513	-94.6647	Uto-Aztecan	328
+843	99_woman	woman 	JalupaNahuat	Jalupa Nahuat	suwa-t	suwa-t	s u w a + t	taba1265	17.9371	-93.5688	Uto-Aztecan	328
+844	99_woman	woman 	Pipil	Pipil	siwaː-t	siwaː-t	s i w aː + t	pipi1250	13.8931	-89.443	Uto-Aztecan	328
+845	99_woman	woman 	Pochutec	Pochutec	g’las-t	g’las-t	g’ l a s + t	poch1244	15.735073	-96.468076	Uto-Aztecan	329
+846	99_woman	woman 	ProtoAztecan	Proto-Aztecan	*si/owaː-tl	*si	s i	azte1234			Uto-Aztecan	328
+847	100_yellow	yellow	ClassicalNahuatl	Classical Nahuatl	kos-tik	kos-tik	k o s + t i k	clas1250	19.72	-96.97	Uto-Aztecan	330
+848	100_yellow	yellow	TetelcingoNahuatl	Tetelcingo Nahuatl	kostiːk	kostiːk	k o s t iː k	tete1251	18.8854	-98.893	Uto-Aztecan	330
+849	100_yellow	yellow	NorthPueblaNahuatl	North Puebla Nahuatl	kostik	kostik	k o s t i k	nort2957	20.1356	-97.9814	Uto-Aztecan	330
+850	100_yellow	yellow	MecayapanNahuat	Mecayapan Nahuat	kostiʔ	kostiʔ	k o s t i ʔ	isth1242	18.2	-94.7547	Uto-Aztecan	330
+851	100_yellow	yellow	PajapanNahuat	Pajapán Nahuat	gostik	gostik	g o s t i k	isth1241	18.2513	-94.6647	Uto-Aztecan	330
+852	100_yellow	yellow	JalupaNahuat	Jalupa Nahuat	yuksik	yuksik	j u k s i k	taba1265	17.9371	-93.5688	Uto-Aztecan	331
+853	100_yellow	yellow	Pipil	Pipil	tultik	tultik	t u l t i k	pipi1250	13.8931	-89.443	Uto-Aztecan	332
+854	100_yellow	yellow	ProtoAztecan	Proto-Aztecan	*kos-tɨ-k ?	*kos-tɨ-k_?	k o s + t ɨ + k	azte1234			Uto-Aztecan	330

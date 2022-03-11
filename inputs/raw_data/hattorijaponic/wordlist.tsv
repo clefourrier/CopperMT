@@ -1,0 +1,1987 @@
+ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	LATITUDE	LONGITUDE	LANGUAGE_FAMILY	COGID
+1	1_i	I	Miyako	Miyako	ban	b.a.n	b a n	miya1259	24.7564	125.363	Japonic	1
+2	1_i	I	Tokyo	Tōkyō	watasi	w.a.t.a.s.i	w a t a s i	toky1238			Japonic	2
+3	1_i	I	Amami	Amami	waɴ	w.a.ɴ	w a ɴ	naze1238			Japonic	1
+4	1_i	I	Kyoto	Kyōto	wate	w.a.t.e	w a t e	kyot1238			Japonic	2
+5	1_i	I	Hachijo	Hachijō	ware	w.a.r.e	w a r e	hach1238			Japonic	1
+6	1_i	I	Shuri	Shuri	waɴ	w.a.ɴ	w a ɴ	shur1243			Japonic	1
+7	1_i	I	Kochi	Kōchi	asi	a.s.i	a s i	shik1243			Japonic	2
+8	1_i	I	Sado	Sado	ore	o.r.e	o r e	sado1237			Japonic	3
+9	1_i	I	Oki	Oki	ora	o.r.a	o r a	okin1246	27.3738	128.619	Japonic	3
+10	1_i	I	Kagoshima	Kagoshima	oiː	oiː	o iː	kyus1238			Japonic	3
+1957	198_alivelive	alive (live)	Miyako	Miyako	nːuʦɨduaɭ	nː.u.ʦ.ɨ.d.ua.ɭ	nː u ts ɨ d u a ɭ	miya1259	24.7564	125.363	Japonic	454
+1958	198_alivelive	alive (live)	Tokyo	Tōkyō	ikiteru	i.k.i.t.e.r.u	i k i t e r u	toky1238			Japonic	455
+1959	198_alivelive	alive (live)	Amami	Amami	ʔikiʨuri	ʔ.i.k.i.ʨ.u.r.i	ʔ i k i tɕ u r i	naze1238			Japonic	455
+1960	198_alivelive	alive (live)	Kyoto	Kyōto	ikiteru	i.k.i.t.e.r.u	i k i t e r u	kyot1238			Japonic	455
+1961	198_alivelive	alive (live)	Hachijo	Hachijō	ikite	i.k.i.t.e	i k i t e	hach1238			Japonic	455
+1962	198_alivelive	alive (live)	Shuri	Shuri	ʔiʨiʦoːɴ	ʔ.i.ʨ.i.ʦ.oː.ɴ	ʔ i tɕ i ts oː ɴ	shur1243			Japonic	455
+1963	198_alivelive	alive (live)	Kochi	Kōchi	ikitʲuː	i.k.i.tʲ.uː	i k i tʲ uː	shik1243			Japonic	455
+1964	198_alivelive	alive (live)	Sado	Sado	ikitoru	i.k.i.t.o.r.u	i k i t o r u	sado1237			Japonic	455
+1965	198_alivelive	alive (live)	Oki	Oki	ekeʨoru	e.k.e.ʨ.o.r.u	e k e tɕ o r u	okin1246	27.3738	128.619	Japonic	455
+1966	198_alivelive	alive (live)	Kagoshima	Kagoshima	ikiːʨːo	i.k.iː.ʨː.o	i k iː tɕː o	kyus1238			Japonic	455
+81	9_all	all	Miyako	Miyako	mːna	mː.n.a	mː n a	miya1259	24.7564	125.363	Japonic	24
+82	9_all	all	Tokyo	Tōkyō	miɴna	m.i.ɴ.n.a	m i ɴ n a	toky1238			Japonic	24
+83	9_all	all	Amami	Amami	ʔaɴxaːri	ʔ.a.ɴ.x.aː.r.i	ʔ a ɴ x aː r i	naze1238			Japonic	26
+84	9_all	all	Kyoto	Kyōto	miɴna	m.i.ɴ.n.a	m i ɴ n a	kyot1238			Japonic	24
+85	9_all	all	Hachijo	Hachijō	miɴna	m.i.ɴ.n.a	m i ɴ n a	hach1238			Japonic	24
+86	9_all	all	Shuri	Shuri	ɴna	ɴ.n.a	ɴ n a	shur1243			Japonic	24
+87	9_all	all	Kochi	Kōchi	miɴna	m.i.ɴ.n.a	m i ɴ n a	shik1243			Japonic	24
+88	9_all	all	Sado	Sado	miɴna	m.i.ɴ.n.a	m i ɴ n a	sado1237			Japonic	24
+89	9_all	all	Oki	Oki	ɴːna	ɴː.n.a	ɴː n a	okin1246	27.3738	128.619	Japonic	24
+90	9_all	all	Kagoshima	Kagoshima	sukːai	s.u.kː.ai	s u kː a i	kyus1238			Japonic	25
+1268	128_arm	arm	Miyako	Miyako	udi	u.d.i	u d i	miya1259	24.7564	125.363	Japonic	289
+1269	128_arm	arm	Tokyo	Tōkyō	ude	u.d.e	u d e	toky1238			Japonic	289
+1270	128_arm	arm	Amami	Amami	xeːnʲa	x.eː.nʲ.a	x eː nʲ a	naze1238			Japonic	291
+1271	128_arm	arm	Kyoto	Kyōto	teː	t.eː	t eː	kyot1238			Japonic	290
+1272	128_arm	arm	Hachijo	Hachijō	ude	u.d.e	u d e	hach1238			Japonic	289
+1273	128_arm	arm	Shuri	Shuri	tiː	t.iː	t iː	shur1243			Japonic	290
+1274	128_arm	arm	Kochi	Kōchi	ude	u.d.e	u d e	shik1243			Japonic	289
+1275	128_arm	arm	Sado	Sado	ude	u.d.e	u d e	sado1237			Japonic	289
+1276	128_arm	arm	Oki	Oki	ode	o.d.e	o d e	okin1246	27.3738	128.619	Japonic	289
+1277	128_arm	arm	Kagoshima	Kagoshima	te	t.e	t e	kyus1238			Japonic	290
+820	83_ash	ash	Miyako	Miyako	pazɨ	p.a.z.ɨ	p a z ɨ	miya1259	24.7564	125.363	Japonic	185
+821	83_ash	ash	Tokyo	Tōkyō	hai	h.ai	h a i	toky1238			Japonic	185
+822	83_ash	ash	Amami	Amami	hwe	h.w.e	h w e	naze1238			Japonic	185
+823	83_ash	ash	Kyoto	Kyōto	hai	h.ai	h a i	kyot1238			Japonic	185
+824	83_ash	ash	Hachijo	Hachijō	hia	h.ia	h i a	hach1238			Japonic	185
+825	83_ash	ash	Shuri	Shuri	hweː	h.w.eː	h w eː	shur1243			Japonic	185
+826	83_ash	ash	Kochi	Kōchi	hai	h.ai	h a i	shik1243			Japonic	185
+827	83_ash	ash	Sado	Sado	hai	h.ai	h a i	sado1237			Japonic	185
+828	83_ash	ash	Oki	Oki	ɸeː	ɸ.eː	ɸ eː	okin1246	27.3738	128.619	Japonic	185
+829	83_ash	ash	Kagoshima	Kagoshima	hei	h.ei	h e i	kyus1238			Japonic	185
+1397	141_at	at	Miyako	Miyako	n	n	n	miya1259	24.7564	125.363	Japonic	312
+1398	141_at	at	Tokyo	Tōkyō	de	d.e	d e	toky1238			Japonic	313
+1399	141_at	at	Amami	Amami	naɴθɨ	n.a.ɴ.θ.ɨ	n a ɴ θ ɨ	naze1238			Japonic	313
+1400	141_at	at	Kyoto	Kyōto	de	d.e	d e	kyot1238			Japonic	313
+1401	141_at	at	Hachijo	Hachijō	de	d.e	d e	hach1238			Japonic	313
+1402	141_at	at	Shuri	Shuri	uti	u.t.i	u t i	shur1243			Japonic	313
+1403	141_at	at	Kochi	Kōchi	de	d.e	d e	shik1243			Japonic	313
+1404	141_at	at	Sado	Sado	de	d.e	d e	sado1237			Japonic	313
+1405	141_at	at	Oki	Oki	de	d.e	d e	okin1246	27.3738	128.619	Japonic	313
+1406	141_at	at	Kagoshima	Kagoshima	de	d.e	d e	kyus1238			Japonic	313
+1249	126_back	back	Tokyo	Tōkyō	senaka	s.e.n.a.k.a	s e n a k a	toky1238			Japonic	283
+1250	126_back	back	Amami	Amami	xusi	x.u.s.i	x u s i	naze1238			Japonic	284
+1251	126_back	back	Kyoto	Kyōto	senaka	s.e.n.a.k.a	s e n a k a	kyot1238			Japonic	283
+1252	126_back	back	Hachijo	Hachijō	hedaka	h.e.d.a.k.a	h e d a k a	hach1238			Japonic	282
+1253	126_back	back	Shuri	Shuri	nagani	n.a.g.a.n.i	n a g a n i	shur1243			Japonic	285
+1254	126_back	back	Kochi	Kōchi	senaka	s.e.n.a.k.a	s e n a k a	shik1243			Japonic	283
+1255	126_back	back	Sado	Sado	senaka	s.e.n.a.k.a	s e n a k a	sado1237			Japonic	283
+1256	126_back	back	Oki	Oki	sena	s.e.n.a	s e n a	okin1246	27.3738	128.619	Japonic	283
+1257	126_back	back	Kagoshima	Kagoshima	senaka	s.e.n.a.k.a	s e n a k a	kyus1238			Japonic	283
+1641	166_bad	bad	Miyako	Miyako	fusaritam	f.u.s.a.r.i.t.a.m	f u s a r i t a m	miya1259	24.7564	125.363	Japonic	379
+1642	166_bad	bad	Tokyo	Tōkyō	kusatːa	k.u.s.a.tː.a	k u s a tː a	toky1238			Japonic	379
+1643	166_bad	bad	Amami	Amami	kusareθa	k.u.s.a.r.e.θ.a	k u s a r e θ a	naze1238			Japonic	379
+1644	166_bad	bad	Kyoto	Kyōto	kusatːa	k.u.s.a.tː.a	k u s a tː a	kyot1238			Japonic	379
+1645	166_bad	bad	Hachijo	Hachijō	kusarua	k.u.s.a.r.ua	k u s a r u a	hach1238			Japonic	379
+1646	166_bad	bad	Shuri	Shuri	kuʦːoːru	k.u.ʦː.oː.r.u	k u tsː oː r u	shur1243			Japonic	379
+1647	166_bad	bad	Kochi	Kōchi	kusatːa	k.u.s.a.tː.a	k u s a tː a	shik1243			Japonic	379
+1648	166_bad	bad	Sado	Sado	kusatːa	k.u.s.a.tː.a	k u s a tː a	sado1237			Japonic	379
+1649	166_bad	bad	Oki	Oki	kusatːa	k.u.s.a.tː.a	k u s a tː a	okin1246	27.3738	128.619	Japonic	379
+1650	166_bad	bad	Kagoshima	Kagoshima	kesːareta	k.e.sː.a.r.e.t.a	k e sː a r e t a	kyus1238			Japonic	379
+231	24_barkoftree	bark (of tree)	Miyako	Miyako	kaː	k.aː	k aː	miya1259	24.7564	125.363	Japonic	65
+232	24_barkoftree	bark (of tree)	Tokyo	Tōkyō	kawa	k.a.w.a	k a w a	toky1238			Japonic	65
+233	24_barkoftree	bark (of tree)	Amami	Amami	xɨɴxo	x.ɨ.ɴ.x.o	x ɨ ɴ x o	naze1238			Japonic	66
+234	24_barkoftree	bark (of tree)	Kyoto	Kyōto	kawa	k.a.w.a	k a w a	kyot1238			Japonic	65
+235	24_barkoftree	bark (of tree)	Hachijo	Hachijō	kua	k.ua	k u a	hach1238			Japonic	65
+236	24_barkoftree	bark (of tree)	Shuri	Shuri	kaː	k.aː	k aː	shur1243			Japonic	65
+237	24_barkoftree	bark (of tree)	Kochi	Kōchi	kawa	k.a.w.a	k a w a	shik1243			Japonic	65
+238	24_barkoftree	bark (of tree)	Sado	Sado	kawa	k.a.w.a	k a w a	sado1237			Japonic	65
+239	24_barkoftree	bark (of tree)	Oki	Oki	kawa	k.a.w.a	k a w a	okin1246	27.3738	128.619	Japonic	65
+240	24_barkoftree	bark (of tree)	Kagoshima	Kagoshima	kawa	k.a.w.a	k a w a	kyus1238			Japonic	65
+482	49_belly	belly	Miyako	Miyako	bata	b.a.t.a	b a t a	miya1259	24.7564	125.363	Japonic	113
+483	49_belly	belly	Tokyo	Tōkyō	onaka	o.n.a.k.a	o n a k a	toky1238			Japonic	112
+484	49_belly	belly	Amami	Amami	waθa	w.a.θ.a	w a θ a	naze1238			Japonic	113
+485	49_belly	belly	Kyoto	Kyōto	hara	h.a.r.a	h a r a	kyot1238			Japonic	111
+486	49_belly	belly	Hachijo	Hachijō	hara	h.a.r.a	h a r a	hach1238			Japonic	111
+487	49_belly	belly	Shuri	Shuri	wata	w.a.t.a	w a t a	shur1243			Japonic	113
+488	49_belly	belly	Kochi	Kōchi	hara	h.a.r.a	h a r a	shik1243			Japonic	111
+489	49_belly	belly	Sado	Sado	hara	h.a.r.a	h a r a	sado1237			Japonic	111
+490	49_belly	belly	Oki	Oki	ɸara	ɸ.a.r.a	ɸ a r a	okin1246	27.3738	128.619	Japonic	111
+491	49_belly	belly	Kagoshima	Kagoshima	hara	h.a.r.a	h a r a	kyus1238			Japonic	111
+121	13_big	big	Miyako	Miyako	uku	u.k.u	u k u	miya1259	24.7564	125.363	Japonic	38
+122	13_big	big	Tokyo	Tōkyō	oːkiː	oː.k.iː	oː k iː	toky1238			Japonic	38
+123	13_big	big	Amami	Amami	hwɨsːari	h.w.ɨ.sː.a.r.i	h w ɨ sː a r i	naze1238			Japonic	40
+124	13_big	big	Kyoto	Kyōto	oːkiː	oː.k.iː	oː k iː	kyot1238			Japonic	38
+125	13_big	big	Hachijo	Hachijō	boːkʲa	b.oː.kʲ.a	b oː kʲ a	hach1238			Japonic	37
+126	13_big	big	Shuri	Shuri	magisaɴ	m.a.g.i.s.a.ɴ	m a g i s a ɴ	shur1243			Japonic	41
+127	13_big	big	Kochi	Kōchi	hutoi	h.u.t.oi	h u t o i	shik1243			Japonic	39
+128	13_big	big	Sado	Sado	oːkiː	oː.k.iː	oː k iː	sado1237			Japonic	38
+129	13_big	big	Oki	Oki	ɸuteː	ɸ.u.t.eː	ɸ u t eː	okin1246	27.3738	128.619	Japonic	39
+130	13_big	big	Kagoshima	Kagoshima	hute	h.u.t.e	h u t e	kyus1238			Japonic	39
+191	20_bird	bird	Miyako	Miyako	tui	t.ui	t ui	miya1259	24.7564	125.363	Japonic	60
+192	20_bird	bird	Tokyo	Tōkyō	tori	t.o.r.i	t o r i	toky1238			Japonic	60
+193	20_bird	bird	Amami	Amami	θuri	θ.u.r.i	θ u r i	naze1238			Japonic	60
+194	20_bird	bird	Kyoto	Kyōto	tori	t.o.r.i	t o r i	kyot1238			Japonic	60
+195	20_bird	bird	Hachijo	Hachijō	torime	t.o.r.i.m.e	t o r i m e	hach1238			Japonic	60
+196	20_bird	bird	Shuri	Shuri	tui	t.ui	t ui	shur1243			Japonic	60
+197	20_bird	bird	Kochi	Kōchi	tori	t.o.r.i	t o r i	shik1243			Japonic	60
+198	20_bird	bird	Sado	Sado	tori	t.o.r.i	t o r i	sado1237			Japonic	60
+199	20_bird	bird	Oki	Oki	tori	t.o.r.i	t o r i	okin1246	27.3738	128.619	Japonic	60
+200	20_bird	bird	Kagoshima	Kagoshima	toiː	t.oiː	t o iː	kyus1238			Japonic	60
+550	56_bite	bite	Miyako	Miyako	fuː	f.uː	f uː	miya1259	24.7564	125.363	Japonic	127
+551	56_bite	bite	Tokyo	Tōkyō	kamiʦuku	k.a.m.i.ʦ.u.k.u	k a m i ts u k u	toky1238			Japonic	128
+552	56_bite	bite	Amami	Amami	kuiʦɨkɨruri	k.ui.ʦ.ɨ.k.ɨ.r.u.r.i	k ui ts ɨ k ɨ r u r i	naze1238			Japonic	126
+553	56_bite	bite	Kyoto	Kyōto	kamiʦuku	k.a.m.i.ʦ.u.k.u	k a m i ts u k u	kyot1238			Japonic	128
+554	56_bite	bite	Hachijo	Hachijō	kuiʦuku	k.ui.ʦ.u.k.u	k ui ts u k u	hach1238			Japonic	126
+555	56_bite	bite	Shuri	Shuri	kuːjuɴ	k.uː.j.u.ɴ	k uː j u ɴ	shur1243			Japonic	126
+556	56_bite	bite	Kochi	Kōchi	kuituku	k.ui.t.u.k.u	k ui t u k u	shik1243			Japonic	126
+557	56_bite	bite	Sado	Sado	kamiʦuku	k.a.m.i.ʦ.u.k.u	k a m i ts u k u	sado1237			Japonic	128
+558	56_bite	bite	Oki	Oki	kamu	k.a.m.u	k a m u	okin1246	27.3738	128.619	Japonic	128
+559	56_bite	bite	Kagoshima	Kagoshima	kaɴʦu	k.a.ɴ.ʦ.u	k a ɴ ts u	kyus1238			Japonic	128
+900	91_black	black	Miyako	Miyako	fu	f.u	f u	miya1259	24.7564	125.363	Japonic	195
+901	91_black	black	Tokyo	Tōkyō	kuroi	k.u.r.oi	k u r o i	toky1238			Japonic	195
+902	91_black	black	Amami	Amami	kurusari	k.u.r.u.s.a.r.i	k u r u s a r i	naze1238			Japonic	195
+903	91_black	black	Kyoto	Kyōto	kuroi	k.u.r.oi	k u r o i	kyot1238			Japonic	195
+904	91_black	black	Hachijo	Hachijō	kurokʲa	k.u.r.o.kʲ.a	k u r o kʲ a	hach1238			Japonic	195
+905	91_black	black	Shuri	Shuri	kurusaɴ	k.u.r.u.s.a.ɴ	k u r u s a ɴ	shur1243			Japonic	195
+906	91_black	black	Kochi	Kōchi	kuroi	k.u.r.oi	k u r o i	shik1243			Japonic	195
+907	91_black	black	Sado	Sado	kuroi	k.u.r.oi	k u r o i	sado1237			Japonic	195
+908	91_black	black	Oki	Oki	kureː	k.u.r.eː	k u r eː	okin1246	27.3738	128.619	Japonic	195
+909	91_black	black	Kagoshima	Kagoshima	kure	k.u.r.e	k u r e	kyus1238			Japonic	195
+271	28_blood	blood	Miyako	Miyako	akaʦɨ	a.k.a.ʦ.ɨ	a k a ts ɨ	miya1259	24.7564	125.363	Japonic	71
+272	28_blood	blood	Tokyo	Tōkyō	ʨi	ʨ.i	tɕ i	toky1238			Japonic	71
+273	28_blood	blood	Amami	Amami	ʨi	ʨ.i	tɕ i	naze1238			Japonic	71
+274	28_blood	blood	Kyoto	Kyōto	ʨiː	ʨ.iː	tɕ iː	kyot1238			Japonic	71
+275	28_blood	blood	Hachijo	Hachijō	ʨi	ʨ.i	tɕ i	hach1238			Japonic	71
+276	28_blood	blood	Shuri	Shuri	ʨiː	ʨ.iː	tɕ iː	shur1243			Japonic	71
+277	28_blood	blood	Kochi	Kōchi	ti	t.i	t i	shik1243			Japonic	71
+278	28_blood	blood	Sado	Sado	ʨi	ʨ.i	tɕ i	sado1237			Japonic	71
+279	28_blood	blood	Oki	Oki	ʨi	ʨ.i	tɕ i	okin1246	27.3738	128.619	Japonic	71
+280	28_blood	blood	Kagoshima	Kagoshima	ʨiː	ʨ.iː	tɕ iː	kyus1238			Japonic	71
+1878	190_blow	blow	Miyako	Miyako	fːu	fː.u	fː u	miya1259	24.7564	125.363	Japonic	435
+1879	190_blow	blow	Tokyo	Tōkyō	huku	h.u.k.u	h u k u	toky1238			Japonic	435
+1880	190_blow	blow	Amami	Amami	hukuri	h.u.k.u.r.i	h u k u r i	naze1238			Japonic	435
+1881	190_blow	blow	Kyoto	Kyōto	huku	h.u.k.u	h u k u	kyot1238			Japonic	435
+1882	190_blow	blow	Hachijo	Hachijō	huku	h.u.k.u	h u k u	hach1238			Japonic	435
+1883	190_blow	blow	Shuri	Shuri	huʦuɴ	h.u.ʦ.u.ɴ	h u ts u ɴ	shur1243			Japonic	435
+1884	190_blow	blow	Kochi	Kōchi	huku	h.u.k.u	h u k u	shik1243			Japonic	435
+1885	190_blow	blow	Sado	Sado	huku	h.u.k.u	h u k u	sado1237			Japonic	435
+1886	190_blow	blow	Oki	Oki	ɸuku	ɸ.u.k.u	ɸ u k u	okin1246	27.3738	128.619	Japonic	435
+1887	190_blow	blow	Kagoshima	Kagoshima	hu	h.u	h u	kyus1238			Japonic	435
+301	31_bone	bone	Miyako	Miyako	puni	p.u.n.i	p u n i	miya1259	24.7564	125.363	Japonic	76
+302	31_bone	bone	Tokyo	Tōkyō	hone	h.o.n.e	h o n e	toky1238			Japonic	76
+303	31_bone	bone	Amami	Amami	hunɨ	h.u.n.ɨ	h u n ɨ	naze1238			Japonic	76
+304	31_bone	bone	Kyoto	Kyōto	hone	h.o.n.e	h o n e	kyot1238			Japonic	76
+305	31_bone	bone	Hachijo	Hachijō	hone	h.o.n.e	h o n e	hach1238			Japonic	76
+306	31_bone	bone	Shuri	Shuri	huni	h.u.n.i	h u n i	shur1243			Japonic	76
+307	31_bone	bone	Kochi	Kōchi	hone	h.o.n.e	h o n e	shik1243			Japonic	76
+308	31_bone	bone	Sado	Sado	hone	h.o.n.e	h o n e	sado1237			Japonic	76
+309	31_bone	bone	Oki	Oki	ɸone	ɸ.o.n.e	ɸ o n e	okin1246	27.3738	128.619	Japonic	76
+310	31_bone	bone	Kagoshima	Kagoshima	hone	h.o.n.e	h o n e	kyus1238			Japonic	76
+502	51_breast	breast	Miyako	Miyako	mːifuʦɨ	mː.i.f.u.ʦ.ɨ	mː i f u ts ɨ	miya1259	24.7564	125.363	Japonic	116
+503	51_breast	breast	Tokyo	Tōkyō	mune	m.u.n.e	m u n e	toky1238			Japonic	116
+504	51_breast	breast	Amami	Amami	munɨ	m.u.n.ɨ	m u n ɨ	naze1238			Japonic	116
+505	51_breast	breast	Kyoto	Kyōto	mune	m.u.n.e	m u n e	kyot1238			Japonic	116
+506	51_breast	breast	Hachijo	Hachijō	mune	m.u.n.e	m u n e	hach1238			Japonic	116
+507	51_breast	breast	Shuri	Shuri	ɴni	ɴ.n.i	ɴ n i	shur1243			Japonic	116
+508	51_breast	breast	Kochi	Kōchi	mune	m.u.n.e	m u n e	shik1243			Japonic	116
+509	51_breast	breast	Sado	Sado	mune	m.u.n.e	m u n e	sado1237			Japonic	116
+510	51_breast	breast	Oki	Oki	ɴne	ɴ.n.e	ɴ n e	okin1246	27.3738	128.619	Japonic	116
+511	51_breast	breast	Kagoshima	Kagoshima	muine	m.ui.n.e	m ui n e	kyus1238			Japonic	116
+830	84_burn	burn	Miyako	Miyako	muiɭ	m.ui.ɭ	m ui ɭ	miya1259	24.7564	125.363	Japonic	186
+831	84_burn	burn	Tokyo	Tōkyō	moeru	m.oe.r.u	m o e r u	toky1238			Japonic	186
+832	84_burn	burn	Amami	Amami	meːruri	m.eː.r.u.r.i	m eː r u r i	naze1238			Japonic	186
+833	84_burn	burn	Kyoto	Kyōto	moeru	m.oe.r.u	m o e r u	kyot1238			Japonic	186
+834	84_burn	burn	Hachijo	Hachijō	mieru	m.ie.r.u	m i e r u	hach1238			Japonic	186
+835	84_burn	burn	Shuri	Shuri	meːjuɴ	m.eː.j.u.ɴ	m eː j u ɴ	shur1243			Japonic	186
+836	84_burn	burn	Kochi	Kōchi	moeru	m.oe.r.u	m o e r u	shik1243			Japonic	186
+837	84_burn	burn	Sado	Sado	moeru	m.oe.r.u	m o e r u	sado1237			Japonic	186
+838	84_burn	burn	Oki	Oki	moeru	m.oe.r.u	m o e r u	okin1246	27.3738	128.619	Japonic	186
+839	84_burn	burn	Kagoshima	Kagoshima	moiju	m.oi.j.u	m o i j u	kyus1238			Japonic	186
+1491	151_child	child	Miyako	Miyako	jarabi	j.a.r.a.b.i	j a r a b i	miya1259	24.7564	125.363	Japonic	345
+1492	151_child	child	Tokyo	Tōkyō	kodomo	k.o.d.o.m.o	k o d o m o	toky1238			Japonic	344
+1493	151_child	child	Amami	Amami	warabɨ	w.a.r.a.b.ɨ	w a r a b ɨ	naze1238			Japonic	345
+1494	151_child	child	Kyoto	Kyōto	kodomo	k.o.d.o.m.o	k o d o m o	kyot1238			Japonic	344
+1495	151_child	child	Hachijo	Hachijō	kodomo	k.o.d.o.m.o	k o d o m o	hach1238			Japonic	344
+1496	151_child	child	Shuri	Shuri	warabi	w.a.r.a.b.i	w a r a b i	shur1243			Japonic	345
+1497	151_child	child	Kochi	Kōchi	kodomo	k.o.d.o.m.o	k o d o m o	shik1243			Japonic	344
+1498	151_child	child	Sado	Sado	kodomo	k.o.d.o.m.o	k o d o m o	sado1237			Japonic	344
+1499	151_child	child	Oki	Oki	kodomo	k.o.d.o.m.o	k o d o m o	okin1246	27.3738	128.619	Japonic	344
+1500	151_child	child	Kagoshima	Kagoshima	koidoɴ	k.oi.d.o.ɴ	k o i d o ɴ	kyus1238			Japonic	344
+442	45_claw	claw	Miyako	Miyako	ʦɨmi	ʦ.ɨ.m.i	ts ɨ m i	miya1259	24.7564	125.363	Japonic	103
+443	45_claw	claw	Tokyo	Tōkyō	ʦume	ʦ.u.m.e	ts u m e	toky1238			Japonic	103
+444	45_claw	claw	Amami	Amami	ʦɨmɨ	ʦ.ɨ.m.ɨ	ts ɨ m ɨ	naze1238			Japonic	103
+445	45_claw	claw	Kyoto	Kyōto	ʦume	ʦ.u.m.e	ts u m e	kyot1238			Japonic	103
+446	45_claw	claw	Hachijo	Hachijō	ʦume	ʦ.u.m.e	ts u m e	hach1238			Japonic	103
+447	45_claw	claw	Shuri	Shuri	ɕimi	ɕ.i.m.i	ɕ i m i	shur1243			Japonic	103
+448	45_claw	claw	Kochi	Kōchi	tume	t.u.m.e	t u m e	shik1243			Japonic	103
+449	45_claw	claw	Sado	Sado	ʦume	ʦ.u.m.e	ts u m e	sado1237			Japonic	103
+450	45_claw	claw	Oki	Oki	ʦume	ʦ.u.m.e	ts u m e	okin1246	27.3738	128.619	Japonic	103
+451	45_claw	claw	Kagoshima	Kagoshima	ʦuime	ʦ.ui.m.e	ts ui m e	kyus1238			Japonic	103
+790	80_cloud	cloud	Miyako	Miyako	fumu	f.u.m.u	f u m u	miya1259	24.7564	125.363	Japonic	180
+791	80_cloud	cloud	Tokyo	Tōkyō	kumo	k.u.m.o	k u m o	toky1238			Japonic	180
+792	80_cloud	cloud	Amami	Amami	kumo	k.u.m.o	k u m o	naze1238			Japonic	180
+793	80_cloud	cloud	Kyoto	Kyōto	kumo	k.u.m.o	k u m o	kyot1238			Japonic	180
+794	80_cloud	cloud	Hachijo	Hachijō	kumo	k.u.m.o	k u m o	hach1238			Japonic	180
+795	80_cloud	cloud	Shuri	Shuri	kumu	k.u.m.u	k u m u	shur1243			Japonic	180
+796	80_cloud	cloud	Kochi	Kōchi	kumo	k.u.m.o	k u m o	shik1243			Japonic	180
+797	80_cloud	cloud	Sado	Sado	kumo	k.u.m.o	k u m o	sado1237			Japonic	180
+798	80_cloud	cloud	Oki	Oki	kumo	k.u.m.o	k u m o	okin1246	27.3738	128.619	Japonic	180
+799	80_cloud	cloud	Kagoshima	Kagoshima	kumo	k.u.m.o	k u m o	kyus1238			Japonic	180
+930	94_cold	cold	Miyako	Miyako	piʃi	p.i.ʃ.i	p i ʃ i	miya1259	24.7564	125.363	Japonic	201
+931	94_cold	cold	Tokyo	Tōkyō	samui	s.a.m.ui	s a m ui	toky1238			Japonic	203
+932	94_cold	cold	Amami	Amami	higurusari	h.i.g.u.r.u.s.a.r.i	h i g u r u s a r i	naze1238			Japonic	201
+933	94_cold	cold	Kyoto	Kyōto	sabui	s.a.b.ui	s a b ui	kyot1238			Japonic	203
+934	94_cold	cold	Hachijo	Hachijō	kogiete	k.o.g.ie.t.e	k o g i e t e	hach1238			Japonic	202
+935	94_cold	cold	Shuri	Shuri	hwiːsaɴ	h.w.iː.s.a.ɴ	h w iː s a ɴ	shur1243			Japonic	201
+936	94_cold	cold	Kochi	Kōchi	hijai	h.i.j.ai	h i j a i	shik1243			Japonic	201
+937	94_cold	cold	Sado	Sado	samui	s.a.m.ui	s a m ui	sado1237			Japonic	203
+938	94_cold	cold	Oki	Oki	sabiː	s.a.b.iː	s a b iː	okin1246	27.3738	128.619	Japonic	203
+939	94_cold	cold	Kagoshima	Kagoshima	sami	s.a.m.i	s a m i	kyus1238			Japonic	203
+650	66_come	come	Miyako	Miyako	fuː	f.uː	f uː	miya1259	24.7564	125.363	Japonic	147
+651	66_come	come	Tokyo	Tōkyō	kuru	k.u.r.u	k u r u	toky1238			Japonic	149
+652	66_come	come	Amami	Amami	xuri	x.u.r.i	x u r i	naze1238			Japonic	149
+653	66_come	come	Kyoto	Kyōto	kuru	k.u.r.u	k u r u	kyot1238			Japonic	149
+654	66_come	come	Hachijo	Hachijō	kuru	k.u.r.u	k u r u	hach1238			Japonic	149
+655	66_come	come	Shuri	Shuri	ʦuːɴ	ʦ.uː.ɴ	ts uː ɴ	shur1243			Japonic	148
+656	66_come	come	Kochi	Kōchi	kuru	k.u.r.u	k u r u	shik1243			Japonic	149
+657	66_come	come	Sado	Sado	kuru	k.u.r.u	k u r u	sado1237			Japonic	149
+658	66_come	come	Oki	Oki	kuru	k.u.r.u	k u r u	okin1246	27.3738	128.619	Japonic	149
+659	66_come	come	Kagoshima	Kagoshima	ku	k.u	k u	kyus1238			Japonic	149
+1671	169_correctright	correct (right)	Miyako	Miyako	atariːduːɭ	a.t.a.r.iː.d.uː.ɭ	a t a r iː d uː ɭ	miya1259	24.7564	125.363	Japonic	392
+1672	169_correctright	correct (right)	Tokyo	Tōkyō	iː	iː	iː	toky1238			Japonic	387
+1673	169_correctright	correct (right)	Amami	Amami	iʨːari	i.ʨː.a.r.i	i tɕː a r i	naze1238			Japonic	390
+1674	169_correctright	correct (right)	Kyoto	Kyōto	eː	eː	eː	kyot1238			Japonic	387
+1675	169_correctright	correct (right)	Hachijo	Hachijō	jokːja	j.o.kː.j.a	j o kː j a	hach1238			Japonic	393
+1676	169_correctright	correct (right)	Shuri	Shuri	jutaɕaɴ	j.u.t.a.ɕ.a.ɴ	j u t a ɕ a ɴ	shur1243			Japonic	391
+1677	169_correctright	correct (right)	Kochi	Kōchi	eː	eː	eː	shik1243			Japonic	387
+1678	169_correctright	correct (right)	Sado	Sado	tadasiː	t.a.d.a.s.iː	t a d a s iː	sado1237			Japonic	388
+1679	169_correctright	correct (right)	Oki	Oki	eː	eː	eː	okin1246	27.3738	128.619	Japonic	387
+1680	169_correctright	correct (right)	Kagoshima	Kagoshima	naiːʨo	n.aiː.ʨ.o	n a iː tɕ o	kyus1238			Japonic	389
+1511	153_cut	cut	Miyako	Miyako	ʦɨːʦɨː	ʦ.ɨː.ʦ.ɨː	ts ɨː ts ɨː	miya1259	24.7564	125.363	Japonic	347
+1512	153_cut	cut	Tokyo	Tōkyō	kiru	k.i.r.u	k i r u	toky1238			Japonic	347
+1513	153_cut	cut	Amami	Amami	kiruri	k.i.r.u.r.i	k i r u r i	naze1238			Japonic	347
+1514	153_cut	cut	Kyoto	Kyōto	kiru	k.i.r.u	k i r u	kyot1238			Japonic	347
+1515	153_cut	cut	Hachijo	Hachijō	kiru	k.i.r.u	k i r u	hach1238			Japonic	347
+1516	153_cut	cut	Shuri	Shuri	ʨijuɴ	ʨ.i.j.u.ɴ	tɕ i j u ɴ	shur1243			Japonic	347
+1517	153_cut	cut	Kochi	Kōchi	kiru	k.i.r.u	k i r u	shik1243			Japonic	347
+1518	153_cut	cut	Sado	Sado	kiru	k.i.r.u	k i r u	sado1237			Japonic	347
+1519	153_cut	cut	Oki	Oki	kiru	k.i.r.u	k i r u	okin1246	27.3738	128.619	Japonic	347
+1520	153_cut	cut	Kagoshima	Kagoshima	kit	k.i.t	k i t	kyus1238			Japonic	347
+1501	152_dark	dark	Miyako	Miyako	fːa	fː.a	fː a	miya1259	24.7564	125.363	Japonic	346
+1502	152_dark	dark	Tokyo	Tōkyō	kurai	k.u.r.ai	k u r a i	toky1238			Japonic	346
+1503	152_dark	dark	Amami	Amami	kurasari	k.u.r.a.s.a.r.i	k u r a s a r i	naze1238			Japonic	346
+1504	152_dark	dark	Kyoto	Kyōto	kurai	k.u.r.ai	k u r a i	kyot1238			Japonic	346
+1505	152_dark	dark	Hachijo	Hachijō	kurakʲa	k.u.r.a.kʲ.a	k u r a kʲ a	hach1238			Japonic	346
+1506	152_dark	dark	Shuri	Shuri	kurasaɴ	k.u.r.a.s.a.ɴ	k u r a s a ɴ	shur1243			Japonic	346
+1507	152_dark	dark	Kochi	Kōchi	kurai	k.u.r.ai	k u r a i	shik1243			Japonic	346
+1508	152_dark	dark	Sado	Sado	kurai	k.u.r.ai	k u r a i	sado1237			Japonic	346
+1509	152_dark	dark	Oki	Oki	kureː	k.u.r.eː	k u r eː	okin1246	27.3738	128.619	Japonic	346
+1510	152_dark	dark	Kagoshima	Kagoshima	kuire	k.ui.r.e	k ui r e	kyus1238			Japonic	346
+1140	115_day	day	Miyako	Miyako	sɨkama	s.ɨ.k.a.m.a	s ɨ k a m a	miya1259	24.7564	125.363	Japonic	263
+1141	115_day	day	Tokyo	Tōkyō	hiruma	h.i.r.u.m.a	h i r u m a	toky1238			Japonic	262
+1142	115_day	day	Amami	Amami	hiruhiɴma	h.i.r.u.h.i.ɴ.m.a	h i r u h i ɴ m a	naze1238			Japonic	262
+1143	115_day	day	Kyoto	Kyōto	hiruma	h.i.r.u.m.a	h i r u m a	kyot1238			Japonic	262
+1144	115_day	day	Hachijo	Hachijō	hiruma	h.i.r.u.m.a	h i r u m a	hach1238			Japonic	262
+1145	115_day	day	Shuri	Shuri	hwiru	h.w.i.r.u	h w i r u	shur1243			Japonic	262
+1146	115_day	day	Kochi	Kōchi	hiruma	h.i.r.u.m.a	h i r u m a	shik1243			Japonic	262
+1147	115_day	day	Sado	Sado	hiruma	h.i.r.u.m.a	h i r u m a	sado1237			Japonic	262
+1148	115_day	day	Oki	Oki	ɸiru	ɸ.i.r.u	ɸ i r u	okin1246	27.3738	128.619	Japonic	262
+1149	115_day	day	Kagoshima	Kagoshima	hiːi	h.iːi	h i i/j i	kyus1238			Japonic	262
+600	61_die	die	Miyako	Miyako	sɨn	s.ɨ.n	s ɨ n	miya1259	24.7564	125.363	Japonic	138
+601	61_die	die	Tokyo	Tōkyō	sinu	s.i.n.u	s i n u	toky1238			Japonic	138
+602	61_die	die	Amami	Amami	simʲuri	s.i.mʲ.u.r.i	s i mʲ u r i	naze1238			Japonic	138
+603	61_die	die	Kyoto	Kyōto	sinu	s.i.n.u	s i n u	kyot1238			Japonic	138
+604	61_die	die	Hachijo	Hachijō	marubu	m.a.r.u.b.u	m a r u b u	hach1238			Japonic	137
+605	61_die	die	Shuri	Shuri	sinuɴ	s.i.n.u.ɴ	s i n u ɴ	shur1243			Japonic	138
+606	61_die	die	Kochi	Kōchi	sinuru	s.i.n.u.r.u	s i n u r u	shik1243			Japonic	138
+607	61_die	die	Sado	Sado	sinu	s.i.n.u	s i n u	sado1237			Japonic	138
+608	61_die	die	Oki	Oki	sinoru	s.i.n.o.r.u	s i n o r u	okin1246	27.3738	128.619	Japonic	138
+609	61_die	die	Kagoshima	Kagoshima	siːɴ	s.iː.ɴ	s iː ɴ	kyus1238			Japonic	138
+1780	180_dig	dig	Miyako	Miyako	puɭ	p.u.ɭ	p u ɭ	miya1259	24.7564	125.363	Japonic	414
+1781	180_dig	dig	Tokyo	Tōkyō	horu	h.o.r.u	h o r u	toky1238			Japonic	414
+1782	180_dig	dig	Amami	Amami	hururi	h.u.r.u.r.i	h u r u r i	naze1238			Japonic	414
+1783	180_dig	dig	Kyoto	Kyōto	horu	h.o.r.u	h o r u	kyot1238			Japonic	414
+1784	180_dig	dig	Hachijo	Hachijō	horu	h.o.r.u	h o r u	hach1238			Japonic	414
+1785	180_dig	dig	Shuri	Shuri	hujuɴ	h.u.j.u.ɴ	h u j u ɴ	shur1243			Japonic	414
+1786	180_dig	dig	Kochi	Kōchi	horu	h.o.r.u	h o r u	shik1243			Japonic	414
+1787	180_dig	dig	Sado	Sado	horu	h.o.r.u	h o r u	sado1237			Japonic	414
+1788	180_dig	dig	Oki	Oki	horu	h.o.r.u	h o r u	okin1246	27.3738	128.619	Japonic	414
+1789	180_dig	dig	Kagoshima	Kagoshima	ho	h.o	h o	kyus1238			Japonic	414
+1621	164_dirty	dirty	Miyako	Miyako	ʃːanagi	ʃː.a.n.a.g.i	ʃː a n a g i	miya1259	24.7564	125.363	Japonic	375
+1622	164_dirty	dirty	Tokyo	Tōkyō	kitanai	k.i.t.a.n.ai	k i t a n a i	toky1238			Japonic	370
+1623	164_dirty	dirty	Amami	Amami	janagesari	j.a.n.a.g.e.s.a.r.i	j a n a g e s a r i	naze1238			Japonic	373
+1624	164_dirty	dirty	Kyoto	Kyōto	kitanai	k.i.t.a.n.ai	k i t a n a i	kyot1238			Japonic	370
+1625	164_dirty	dirty	Hachijo	Hachijō	kitanakʲa	k.i.t.a.n.a.kʲ.a	k i t a n a kʲ a	hach1238			Japonic	370
+1626	164_dirty	dirty	Shuri	Shuri	hagoːsaɴ	h.a.g.oː.s.a.ɴ	h a g oː s a ɴ	shur1243			Japonic	374
+1627	164_dirty	dirty	Kochi	Kōchi	dakina	d.a.k.i.n.a	d a k i n a	shik1243			Japonic	372
+1628	164_dirty	dirty	Sado	Sado	jogoretoru	j.o.g.o.r.e.t.o.r.u	j o g o r e t o r u	sado1237			Japonic	371
+1629	164_dirty	dirty	Oki	Oki	kitaneː	k.i.t.a.n.eː	k i t a n eː	okin1246	27.3738	128.619	Japonic	370
+1630	164_dirty	dirty	Kagoshima	Kagoshima	kisːane	k.i.sː.a.n.e	k i sː a n e	kyus1238			Japonic	370
+201	21_dog	dog	Miyako	Miyako	in	i.n	i n	miya1259	24.7564	125.363	Japonic	62
+202	21_dog	dog	Tokyo	Tōkyō	inu	i.n.u	i n u	toky1238			Japonic	62
+203	21_dog	dog	Amami	Amami	ʔiɴ	ʔ.i.ɴ	ʔ i ɴ	naze1238			Japonic	62
+204	21_dog	dog	Kyoto	Kyōto	inu	i.n.u	i n u	kyot1238			Japonic	62
+205	21_dog	dog	Hachijo	Hachijō	ʨiɴme	ʨ.i.ɴ.m.e	tɕ i ɴ m e	hach1238			Japonic	61
+206	21_dog	dog	Shuri	Shuri	ʔiɴ	ʔ.i.ɴ	ʔ i ɴ	shur1243			Japonic	62
+207	21_dog	dog	Kochi	Kōchi	inu	i.n.u	i n u	shik1243			Japonic	62
+208	21_dog	dog	Sado	Sado	inu	i.n.u	i n u	sado1237			Japonic	62
+209	21_dog	dog	Oki	Oki	eno	e.n.o	e n o	okin1246	27.3738	128.619	Japonic	62
+210	21_dog	dog	Kagoshima	Kagoshima	iɴ	i.ɴ	i ɴ	kyus1238			Japonic	62
+1917	194_down	down	Miyako	Miyako	sɨtaːra	s.ɨ.t.aː.r.a	s ɨ t aː r a	miya1259	24.7564	125.363	Japonic	446
+1918	194_down	down	Tokyo	Tōkyō	sitae	s.i.t.ae	s i t a e	toky1238			Japonic	446
+1919	194_down	down	Amami	Amami	ɕaːʨi	ɕ.aː.ʨ.i	ɕ aː tɕ i	naze1238			Japonic	446
+1920	194_down	down	Kyoto	Kyōto	sitae	s.i.t.ae	s i t a e	kyot1238			Japonic	446
+1921	194_down	down	Hachijo	Hachijō	sita	s.i.t.a	s i t a	hach1238			Japonic	446
+1922	194_down	down	Shuri	Shuri	siʦaɴkai	s.i.ʦ.a.ɴ.k.ai	s i ts a ɴ k a i	shur1243			Japonic	446
+1923	194_down	down	Kochi	Kōchi	sita	s.i.t.a	s i t a	shik1243			Japonic	446
+1924	194_down	down	Sado	Sado	sita	s.i.t.a	s i t a	sado1237			Japonic	446
+1925	194_down	down	Oki	Oki	sita	s.i.t.a	s i t a	okin1246	27.3738	128.619	Japonic	446
+1926	194_down	down	Kagoshima	Kagoshima	site	s.i.t.e	s i t e	kyus1238			Japonic	446
+530	54_drink	drink	Miyako	Miyako	num	n.u.m	n u m	miya1259	24.7564	125.363	Japonic	120
+531	54_drink	drink	Tokyo	Tōkyō	nomu	n.o.m.u	n o m u	toky1238			Japonic	120
+532	54_drink	drink	Amami	Amami	numuri	n.u.m.u.r.i	n u m u r i	naze1238			Japonic	120
+533	54_drink	drink	Kyoto	Kyōto	nomu	n.o.m.u	n o m u	kyot1238			Japonic	120
+534	54_drink	drink	Hachijo	Hachijō	nomu	n.o.m.u	n o m u	hach1238			Japonic	120
+535	54_drink	drink	Shuri	Shuri	nunuɴ	n.u.n.u.ɴ	n u n u ɴ	shur1243			Japonic	120
+536	54_drink	drink	Kochi	Kōchi	nomu	n.o.m.u	n o m u	shik1243			Japonic	120
+537	54_drink	drink	Sado	Sado	nomu	n.o.m.u	n o m u	sado1237			Japonic	120
+538	54_drink	drink	Oki	Oki	nomu	n.o.m.u	n o m u	okin1246	27.3738	128.619	Japonic	120
+539	54_drink	drink	Kagoshima	Kagoshima	noɴ	n.o.ɴ	n o ɴ	kyus1238			Japonic	120
+980	99_dry	dry	Miyako	Miyako	kaːraʦɨ	k.aː.r.a.ʦ.ɨ	k aː r a ts ɨ	miya1259	24.7564	125.363	Japonic	217
+981	99_dry	dry	Tokyo	Tōkyō	kawaita	k.a.w.ai.t.a	k a w a i t a	toky1238			Japonic	218
+982	99_dry	dry	Amami	Amami	xoraʨaɴ	x.o.r.a.ʨ.a.ɴ	x o r a tɕ a ɴ	naze1238			Japonic	217
+983	99_dry	dry	Kyoto	Kyōto	kawaita	k.a.w.ai.t.a	k a w a i t a	kyot1238			Japonic	218
+984	99_dry	dry	Hachijo	Hachijō	kuatːe	k.ua.tː.e	k u a tː e	hach1238			Japonic	218
+985	99_dry	dry	Shuri	Shuri	kaːraʦoːru	k.aː.r.a.ʦ.oː.r.u	k aː r a ts oː r u	shur1243			Japonic	217
+986	99_dry	dry	Kochi	Kōchi	kawaita	k.a.w.ai.t.a	k a w a i t a	shik1243			Japonic	218
+987	99_dry	dry	Sado	Sado	hoseta	h.o.s.e.t.a	h o s e t a	sado1237			Japonic	219
+988	99_dry	dry	Oki	Oki	ɸita	ɸ.i.t.a	ɸ i t a	okin1246	27.3738	128.619	Japonic	220
+989	99_dry	dry	Kagoshima	Kagoshima	kaeta	k.ae.t.a	k a e t a	kyus1238			Japonic	218
+1601	162_dull	dull	Miyako	Miyako	pizuriːduːɭ	p.i.z.u.r.iː.d.uː.ɭ	p i z u r iː d uː ɭ	miya1259	24.7564	125.363	Japonic	366
+1602	162_dull	dull	Tokyo	Tōkyō	kirenai	k.i.r.e.n.ai	k i r e n a i	toky1238			Japonic	362
+1603	162_dull	dull	Amami	Amami	kiriraɴ	k.i.r.i.r.a.ɴ	k i r i r a ɴ	naze1238			Japonic	362
+1604	162_dull	dull	Kyoto	Kyōto	kireheɴ	k.i.r.e.h.e.ɴ	k i r e h e ɴ	kyot1238			Japonic	362
+1605	162_dull	dull	Hachijo	Hachijō	kireɴnua	k.i.r.e.ɴ.n.ua	k i r e ɴ n u a	hach1238			Japonic	362
+1606	162_dull	dull	Shuri	Shuri	tataɴ	t.a.t.a.ɴ	t a t a ɴ	shur1243			Japonic	365
+1607	162_dull	dull	Kochi	Kōchi	namakura	n.a.m.a.k.u.r.a	n a m a k u r a	shik1243			Japonic	364
+1608	162_dull	dull	Sado	Sado	nibui	n.i.b.ui	n i b ui	sado1237			Japonic	363
+1609	162_dull	dull	Oki	Oki	kireɴ	k.i.r.e.ɴ	k i r e ɴ	okin1246	27.3738	128.619	Japonic	362
+1610	162_dull	dull	Kagoshima	Kagoshima	kireɴ	k.i.r.e.ɴ	k i r e ɴ	kyus1238			Japonic	362
+1947	197_dust	dust	Miyako	Miyako	puki	p.u.k.i	p u k i	miya1259	24.7564	125.363	Japonic	451
+1948	197_dust	dust	Tokyo	Tōkyō	hokori	h.o.k.o.r.i	h o k o r i	toky1238			Japonic	451
+1949	197_dust	dust	Amami	Amami	huhuɴ	h.u.h.u.ɴ	h u h u ɴ	naze1238			Japonic	453
+1950	197_dust	dust	Kyoto	Kyōto	hokori	h.o.k.o.r.i	h o k o r i	kyot1238			Japonic	451
+1951	197_dust	dust	Hachijo	Hachijō	hokori	h.o.k.o.r.i	h o k o r i	hach1238			Japonic	451
+1952	197_dust	dust	Shuri	Shuri	hukui	h.u.k.ui	h u k ui	shur1243			Japonic	451
+1953	197_dust	dust	Kochi	Kōchi	hokori	h.o.k.o.r.i	h o k o r i	shik1243			Japonic	451
+1954	197_dust	dust	Sado	Sado	hokori	h.o.k.o.r.i	h o k o r i	sado1237			Japonic	451
+1955	197_dust	dust	Oki	Oki	hoke	h.o.k.e	h o k e	okin1246	27.3738	128.619	Japonic	451
+1956	197_dust	dust	Kagoshima	Kagoshima	goɴ	g.o.ɴ	g o ɴ	kyus1238			Japonic	452
+382	39_ear	ear	Miyako	Miyako	mim	m.i.m	m i m	miya1259	24.7564	125.363	Japonic	95
+383	39_ear	ear	Tokyo	Tōkyō	mimi	m.i.m.i	m i m i	toky1238			Japonic	95
+384	39_ear	ear	Amami	Amami	miɴ	m.i.ɴ	m i ɴ	naze1238			Japonic	95
+385	39_ear	ear	Kyoto	Kyōto	mimi	m.i.m.i	m i m i	kyot1238			Japonic	95
+386	39_ear	ear	Hachijo	Hachijō	mimi	m.i.m.i	m i m i	hach1238			Japonic	95
+387	39_ear	ear	Shuri	Shuri	mimi	m.i.m.i	m i m i	shur1243			Japonic	95
+388	39_ear	ear	Kochi	Kōchi	mimi	m.i.m.i	m i m i	shik1243			Japonic	95
+389	39_ear	ear	Sado	Sado	mimi	m.i.m.i	m i m i	sado1237			Japonic	95
+390	39_ear	ear	Oki	Oki	mimi	m.i.m.i	m i m i	okin1246	27.3738	128.619	Japonic	95
+391	39_ear	ear	Kagoshima	Kagoshima	miɴ	m.i.ɴ	m i ɴ	kyus1238			Japonic	95
+780	79_earth	earth	Miyako	Miyako	mta	m.t.a	m t a	miya1259	24.7564	125.363	Japonic	178
+781	79_earth	earth	Tokyo	Tōkyō	ʦuʨi	ʦ.u.ʨ.i	ts u tɕ i	toky1238			Japonic	179
+782	79_earth	earth	Amami	Amami	miʨa	m.i.ʨ.a	m i tɕ a	naze1238			Japonic	178
+783	79_earth	earth	Kyoto	Kyōto	ʦuʨi	ʦ.u.ʨ.i	ts u tɕ i	kyot1238			Japonic	179
+784	79_earth	earth	Hachijo	Hachijō	ʨiʨi	ʨ.i.ʨ.i	tɕ i tɕ i	hach1238			Japonic	179
+785	79_earth	earth	Shuri	Shuri	ɴʦa	ɴ.ʦ.a	ɴ ts a	shur1243			Japonic	178
+786	79_earth	earth	Kochi	Kōchi	tuti	t.u.t.i	t u t i	shik1243			Japonic	179
+787	79_earth	earth	Sado	Sado	ʦuʨi	ʦ.u.ʨ.i	ts u tɕ i	sado1237			Japonic	179
+788	79_earth	earth	Oki	Oki	ʨiʨi	ʨ.i.ʨ.i	tɕ i tɕ i	okin1246	27.3738	128.619	Japonic	179
+789	79_earth	earth	Kagoshima	Kagoshima	doro	d.o.r.o	d o r o	kyus1238			Japonic	177
+540	55_eat	eat	Miyako	Miyako	fau	f.au	f a u	miya1259	24.7564	125.363	Japonic	125
+541	55_eat	eat	Tokyo	Tōkyō	taberu	t.a.b.e.r.u	t a b e r u	toky1238			Japonic	122
+542	55_eat	eat	Amami	Amami	xamuri	x.a.m.u.r.i	x a m u r i	naze1238			Japonic	124
+543	55_eat	eat	Kyoto	Kyōto	taberu	t.a.b.e.r.u	t a b e r u	kyot1238			Japonic	122
+544	55_eat	eat	Hachijo	Hachijō	miaru	m.ia.r.u	m i a r u	hach1238			Japonic	121
+545	55_eat	eat	Shuri	Shuri	kanuɴ	k.a.n.u.ɴ	k a n u ɴ	shur1243			Japonic	124
+546	55_eat	eat	Kochi	Kōchi	taberu	t.a.b.e.r.u	t a b e r u	shik1243			Japonic	122
+547	55_eat	eat	Sado	Sado	kuː	k.uː	k uː	sado1237			Japonic	123
+548	55_eat	eat	Oki	Oki	kuː	k.uː	k uː	okin1246	27.3738	128.619	Japonic	123
+549	55_eat	eat	Kagoshima	Kagoshima	kuː	k.uː	k uː	kyus1238			Japonic	123
+321	33_egg	egg	Miyako	Miyako	tunuka	t.u.n.u.k.a	t u n u k a	miya1259	24.7564	125.363	Japonic	82
+322	33_egg	egg	Tokyo	Tōkyō	tamaŋo	t.a.m.a.ŋ.o	t a m a ŋ o	toky1238			Japonic	80
+323	33_egg	egg	Amami	Amami	xoga	x.o.g.a	x o g a	naze1238			Japonic	81
+324	33_egg	egg	Kyoto	Kyōto	tamaŋo	t.a.m.a.ŋ.o	t a m a ŋ o	kyot1238			Japonic	80
+325	33_egg	egg	Hachijo	Hachijō	tamago	t.a.m.a.g.o	t a m a g o	hach1238			Japonic	80
+326	33_egg	egg	Shuri	Shuri	kuːga	k.uː.g.a	k uː g a	shur1243			Japonic	81
+327	33_egg	egg	Kochi	Kōchi	tamago	t.a.m.a.g.o	t a m a g o	shik1243			Japonic	80
+328	33_egg	egg	Sado	Sado	tamago	t.a.m.a.g.o	t a m a g o	sado1237			Japonic	80
+329	33_egg	egg	Oki	Oki	tamaŋo	t.a.m.a.ŋ.o	t a m a ŋ o	okin1246	27.3738	128.619	Japonic	80
+330	33_egg	egg	Kagoshima	Kagoshima	tamago	t.a.m.a.g.o	t a m a g o	kyus1238			Japonic	80
+392	40_eye	eye	Miyako	Miyako	miː	m.iː	m iː	miya1259	24.7564	125.363	Japonic	96
+393	40_eye	eye	Tokyo	Tōkyō	me	m.e	m e	toky1238			Japonic	96
+394	40_eye	eye	Amami	Amami	mɨː	m.ɨː	m ɨː	naze1238			Japonic	96
+395	40_eye	eye	Kyoto	Kyōto	meː	m.eː	m eː	kyot1238			Japonic	96
+396	40_eye	eye	Hachijo	Hachijō	manako	m.a.n.a.k.o	m a n a k o	hach1238			Japonic	97
+397	40_eye	eye	Shuri	Shuri	miː	m.iː	m iː	shur1243			Japonic	96
+398	40_eye	eye	Kochi	Kōchi	me	m.e	m e	shik1243			Japonic	96
+399	40_eye	eye	Sado	Sado	me	m.e	m e	sado1237			Japonic	96
+400	40_eye	eye	Oki	Oki	me	m.e	m e	okin1246	27.3738	128.619	Japonic	96
+401	40_eye	eye	Kagoshima	Kagoshima	me	m.e	m e	kyus1238			Japonic	96
+1809	183_fall	fall	Miyako	Miyako	utiɭ	u.t.i.ɭ	u t i ɭ	miya1259	24.7564	125.363	Japonic	420
+1810	183_fall	fall	Tokyo	Tōkyō	okːoʨiru	o.kː.o.ʨ.i.r.u	o kː o tɕ i r u	toky1238			Japonic	420
+1811	183_fall	fall	Amami	Amami	ʔuθɨruri	ʔ.u.θ.ɨ.r.u.r.i	ʔ u θ ɨ r u r i	naze1238			Japonic	420
+1812	183_fall	fall	Kyoto	Kyōto	oʨiru	o.ʨ.i.r.u	o tɕ i r u	kyot1238			Japonic	420
+1813	183_fall	fall	Hachijo	Hachijō	oteru	o.t.e.r.u	o t e r u	hach1238			Japonic	420
+1814	183_fall	fall	Shuri	Shuri	ʔutijuɴ	ʔ.u.t.i.j.u.ɴ	ʔ u t i j u ɴ	shur1243			Japonic	420
+1815	183_fall	fall	Kochi	Kōchi	kokeru	k.o.k.e.r.u	k o k e r u	shik1243			Japonic	421
+1816	183_fall	fall	Sado	Sado	oʨiru	o.ʨ.i.r.u	o tɕ i r u	sado1237			Japonic	420
+1817	183_fall	fall	Oki	Oki	oʨiru	o.ʨ.i.r.u	o tɕ i r u	okin1246	27.3738	128.619	Japonic	420
+1818	183_fall	fall	Kagoshima	Kagoshima	oʦu	o.ʦ.u	o ts u	kyus1238			Japonic	420
+1541	156_far	far	Miyako	Miyako	tuː	t.uː	t uː	miya1259	24.7564	125.363	Japonic	351
+1542	156_far	far	Tokyo	Tōkyō	toːi	t.oːi	t oː i	toky1238			Japonic	351
+1543	156_far	far	Amami	Amami	θuːsari	θ.uː.s.a.r.i	θ uː s a r i	naze1238			Japonic	351
+1544	156_far	far	Kyoto	Kyōto	toi	t.oi	t o i	kyot1238			Japonic	351
+1545	156_far	far	Hachijo	Hachijō	toːkʲa	t.oː.kʲ.a	t oː kʲ a	hach1238			Japonic	351
+1546	156_far	far	Shuri	Shuri	tuːsaɴ	t.uː.s.a.ɴ	t uː s a ɴ	shur1243			Japonic	351
+1547	156_far	far	Kochi	Kōchi	toːi	t.oːi	t oː i	shik1243			Japonic	351
+1548	156_far	far	Sado	Sado	toːkui	t.oː.k.ui	t oː k ui	sado1237			Japonic	351
+1549	156_far	far	Oki	Oki	toweː	t.o.w.eː	t o w eː	okin1246	27.3738	128.619	Japonic	351
+1550	156_far	far	Kagoshima	Kagoshima	toie	t.oie	t o i/j e	kyus1238			Japonic	351
+1427	144_father	father	Miyako	Miyako	ɨza	ɨ.z.a	ɨ z a	miya1259	24.7564	125.363	Japonic	328
+1428	144_father	father	Tokyo	Tōkyō	otoːsaɴ	o.t.oː.s.a.ɴ	o t oː s a ɴ	toky1238			Japonic	323
+1429	144_father	father	Amami	Amami	ʥu	ʥ.u	dʑ u	naze1238			Japonic	326
+1430	144_father	father	Kyoto	Kyōto	otoʨːaɴ	o.t.o.ʨː.a.ɴ	o t o tɕː a ɴ	kyot1238			Japonic	323
+1431	144_father	father	Hachijo	Hachijō	ma	m.a	m a	hach1238			Japonic	322
+1432	144_father	father	Shuri	Shuri	wikiganu	w.i.k.i.g.a.n.u	w i k i g a n u	shur1243			Japonic	327
+1433	144_father	father	Kochi	Kōchi	otoːsaɴ	o.t.oː.s.a.ɴ	o t oː s a ɴ	shik1243			Japonic	323
+1434	144_father	father	Sado	Sado	daɴ	d.a.ɴ	d a ɴ	sado1237			Japonic	324
+1435	144_father	father	Oki	Oki	teʦːaɴ	t.e.ʦː.a.ɴ	t e tsː a ɴ	okin1246	27.3738	128.619	Japonic	325
+1436	144_father	father	Kagoshima	Kagoshima	otoʦːaɴ	o.t.o.ʦː.a.ɴ	o t o tsː a ɴ	kyus1238			Japonic	323
+1888	191_fear	fear	Miyako	Miyako	uvːiɭ	u.vː.i.ɭ	u vː i ɭ	miya1259	24.7564	125.363	Japonic	441
+1889	191_fear	fear	Tokyo	Tōkyō	kowaŋaru	k.o.w.a.ŋ.a.r.u	k o w a ŋ a r u	toky1238			Japonic	437
+1890	191_fear	fear	Amami	Amami	ʔuθuruɕa	ʔ.u.θ.u.r.u.ɕ.a	ʔ u θ u r u ɕ a	naze1238			Japonic	440
+1891	191_fear	fear	Kyoto	Kyōto	kowaŋaru	k.o.w.a.ŋ.a.r.u	k o w a ŋ a r u	kyot1238			Japonic	437
+1892	191_fear	fear	Hachijo	Hachijō	okːanagaru	o.kː.a.n.a.g.a.r.u	o kː a n a g a r u	hach1238			Japonic	436
+1893	191_fear	fear	Shuri	Shuri	ʔuturusa	ʔ.u.t.u.r.u.s.a	ʔ u t u r u s a	shur1243			Japonic	440
+1894	191_fear	fear	Kochi	Kōchi	odiru	o.d.i.r.u	o d i r u	shik1243			Japonic	439
+1895	191_fear	fear	Sado	Sado	osogagaru	o.s.o.g.a.g.a.r.u	o s o g a g a r u	sado1237			Japonic	438
+1896	191_fear	fear	Oki	Oki	osoreru	o.s.o.r.e.r.u	o s o r e r u	okin1246	27.3738	128.619	Japonic	440
+1897	191_fear	fear	Kagoshima	Kagoshima	otorosːesui	o.t.o.r.o.sː.e.s.ui	o t o r o sː e s ui	kyus1238			Japonic	440
+351	36_feather	feather	Miyako	Miyako	pani	p.a.n.i	p a n i	miya1259	24.7564	125.363	Japonic	87
+352	36_feather	feather	Tokyo	Tōkyō	hane	h.a.n.e	h a n e	toky1238			Japonic	87
+353	36_feather	feather	Amami	Amami	haɴge	h.a.ɴ.g.e	h a ɴ g e	naze1238			Japonic	87
+354	36_feather	feather	Kyoto	Kyōto	hane	h.a.n.e	h a n e	kyot1238			Japonic	87
+355	36_feather	feather	Hachijo	Hachijō	hane	h.a.n.e	h a n e	hach1238			Japonic	87
+356	36_feather	feather	Shuri	Shuri	hanigiː	h.a.n.i.g.iː	h a n i g iː	shur1243			Japonic	87
+357	36_feather	feather	Kochi	Kōchi	hane	h.a.n.e	h a n e	shik1243			Japonic	87
+358	36_feather	feather	Sado	Sado	hane	h.a.n.e	h a n e	sado1237			Japonic	87
+359	36_feather	feather	Oki	Oki	hane	h.a.n.e	h a n e	okin1246	27.3738	128.619	Japonic	87
+360	36_feather	feather	Kagoshima	Kagoshima	haine	h.ai.n.e	h a i n e	kyus1238			Japonic	87
+1120	113_few	few	Miyako	Miyako	ipiːtʃa	i.p.iː.t.ʃ.a	i p iː t ʃ a	miya1259	24.7564	125.363	Japonic	259
+1121	113_few	few	Tokyo	Tōkyō	sukunai	s.u.k.u.n.ai	s u k u n a i	toky1238			Japonic	256
+1122	113_few	few	Amami	Amami	ʔikirasari	ʔ.i.k.i.r.a.s.a.r.i	ʔ i k i r a s a r i	naze1238			Japonic	258
+1123	113_few	few	Kyoto	Kyōto	sukenai	s.u.k.e.n.ai	s u k e n a i	kyot1238			Japonic	256
+1124	113_few	few	Hachijo	Hachijō	ʨiːto	ʨ.iː.t.o	tɕ iː t o	hach1238			Japonic	255
+1125	113_few	few	Shuri	Shuri	ʔikirasaɴ	ʔ.i.k.i.r.a.s.a.ɴ	ʔ i k i r a s a ɴ	shur1243			Japonic	258
+1126	113_few	few	Kochi	Kōchi	bitːo	b.i.tː.o	b i tː o	shik1243			Japonic	257
+1127	113_few	few	Sado	Sado	sukunai	s.u.k.u.n.ai	s u k u n a i	sado1237			Japonic	256
+1128	113_few	few	Oki	Oki	ʨiːto	ʨ.iː.t.o	tɕ iː t o	okin1246	27.3738	128.619	Japonic	255
+1129	113_few	few	Kagoshima	Kagoshima	sunːe	s.u.nː.e	s u nː e	kyus1238			Japonic	256
+810	82_fire	fire	Miyako	Miyako	umaʦɨ	u.m.a.ʦ.ɨ	u m a ts ɨ	miya1259	24.7564	125.363	Japonic	184
+811	82_fire	fire	Tokyo	Tōkyō	hi	h.i	h i	toky1238			Japonic	183
+812	82_fire	fire	Amami	Amami	uaʦɨ	ua.ʦ.ɨ	u a ts ɨ	naze1238			Japonic	184
+813	82_fire	fire	Kyoto	Kyōto	hiː	h.iː	h iː	kyot1238			Japonic	183
+814	82_fire	fire	Hachijo	Hachijō	hi	h.i	h i	hach1238			Japonic	183
+815	82_fire	fire	Shuri	Shuri	hwiː	h.w.iː	h w iː	shur1243			Japonic	183
+816	82_fire	fire	Kochi	Kōchi	hi	h.i	h i	shik1243			Japonic	183
+817	82_fire	fire	Sado	Sado	hi	h.i	h i	sado1237			Japonic	183
+818	82_fire	fire	Oki	Oki	ɸi	ɸ.i	ɸ i	okin1246	27.3738	128.619	Japonic	183
+819	82_fire	fire	Kagoshima	Kagoshima	hi	h.i	h i	kyus1238			Japonic	183
+181	19_fish	fish	Miyako	Miyako	izo	i.z.o	i z o	miya1259	24.7564	125.363	Japonic	59
+182	19_fish	fish	Tokyo	Tōkyō	sakana	s.a.k.a.n.a	s a k a n a	toky1238			Japonic	58
+183	19_fish	fish	Amami	Amami	ʔʲu	ʔʲ.u	ʔʲ u	naze1238			Japonic	59
+184	19_fish	fish	Kyoto	Kyōto	sakana	s.a.k.a.n.a	s a k a n a	kyot1238			Japonic	58
+185	19_fish	fish	Hachijo	Hachijō	sakana	s.a.k.a.n.a	s a k a n a	hach1238			Japonic	58
+186	19_fish	fish	Shuri	Shuri	ʔiju	ʔ.i.j.u	ʔ i j u	shur1243			Japonic	59
+187	19_fish	fish	Kochi	Kōchi	uo	uo	u o	shik1243			Japonic	59
+188	19_fish	fish	Sado	Sado	uo	uo	u o	sado1237			Japonic	59
+189	19_fish	fish	Oki	Oki	eo	eo	e o	okin1246	27.3738	128.619	Japonic	59
+190	19_fish	fish	Kagoshima	Kagoshima	iːo	iːo	iː o	kyus1238			Japonic	59
+1110	112_five	five	Miyako	Miyako	iʦɨʦɨ	i.ʦ.ɨ.ʦ.ɨ	i ts ɨ ts ɨ	miya1259	24.7564	125.363	Japonic	254
+1111	112_five	five	Tokyo	Tōkyō	iʦuʦu	i.ʦ.u.ʦ.u	i ts u ts u	toky1238			Japonic	254
+1112	112_five	five	Amami	Amami	ʔiʦɨʦɨ	ʔ.i.ʦ.ɨ.ʦ.ɨ	ʔ i ts ɨ ts ɨ	naze1238			Japonic	254
+1113	112_five	five	Kyoto	Kyōto	iʦuʦu	i.ʦ.u.ʦ.u	i ts u ts u	kyot1238			Japonic	254
+1114	112_five	five	Hachijo	Hachijō	iʦuʦu	i.ʦ.u.ʦ.u	i ts u ts u	hach1238			Japonic	254
+1115	112_five	five	Shuri	Shuri	ʔiɕiɕi	ʔ.i.ɕ.i.ɕ.i	ʔ i ɕ i ɕ i	shur1243			Japonic	254
+1116	112_five	five	Kochi	Kōchi	itutu	i.t.u.t.u	i t u t u	shik1243			Japonic	254
+1117	112_five	five	Sado	Sado	iʦuʦu	i.ʦ.u.ʦ.u	i ts u ts u	sado1237			Japonic	254
+1118	112_five	five	Oki	Oki	eʦuʦu	e.ʦ.u.ʦ.u	e ts u ts u	okin1246	27.3738	128.619	Japonic	254
+1119	112_five	five	Kagoshima	Kagoshima	iʦu	i.ʦ.u	i ts u	kyus1238			Japonic	254
+1170	118_flow	flow	Miyako	Miyako	nagariɭ	n.a.g.a.r.i.ɭ	n a g a r i ɭ	miya1259	24.7564	125.363	Japonic	267
+1171	118_flow	flow	Tokyo	Tōkyō	naŋareru	n.a.ŋ.a.r.e.r.u	n a ŋ a r e r u	toky1238			Japonic	267
+1172	118_flow	flow	Amami	Amami	nagareruri	n.a.g.a.r.e.r.u.r.i	n a g a r e r u r i	naze1238			Japonic	267
+1173	118_flow	flow	Kyoto	Kyōto	naŋareru	n.a.ŋ.a.r.e.r.u	n a ŋ a r e r u	kyot1238			Japonic	267
+1174	118_flow	flow	Hachijo	Hachijō	nagareru	n.a.g.a.r.e.r.u	n a g a r e r u	hach1238			Japonic	267
+1175	118_flow	flow	Shuri	Shuri	nagarijuɴ	n.a.g.a.r.i.j.u.ɴ	n a g a r i j u ɴ	shur1243			Japonic	267
+1176	118_flow	flow	Kochi	Kōchi	nagareru	n.a.g.a.r.e.r.u	n a g a r e r u	shik1243			Japonic	267
+1177	118_flow	flow	Sado	Sado	nagareru	n.a.g.a.r.e.r.u	n a g a r e r u	sado1237			Japonic	267
+1178	118_flow	flow	Oki	Oki	nagareru	n.a.g.a.r.e.r.u	n a g a r e r u	okin1246	27.3738	128.619	Japonic	267
+1179	118_flow	flow	Kagoshima	Kagoshima	nagaru	n.a.g.a.r.u	n a g a r u	kyus1238			Japonic	267
+1357	137_flower	flower	Miyako	Miyako	pana	p.a.n.a	p a n a	miya1259	24.7564	125.363	Japonic	308
+1358	137_flower	flower	Tokyo	Tōkyō	hana	h.a.n.a	h a n a	toky1238			Japonic	308
+1359	137_flower	flower	Amami	Amami	hana	h.a.n.a	h a n a	naze1238			Japonic	308
+1360	137_flower	flower	Kyoto	Kyōto	hana	h.a.n.a	h a n a	kyot1238			Japonic	308
+1361	137_flower	flower	Hachijo	Hachijō	hana	h.a.n.a	h a n a	hach1238			Japonic	308
+1362	137_flower	flower	Shuri	Shuri	hana	h.a.n.a	h a n a	shur1243			Japonic	308
+1363	137_flower	flower	Kochi	Kōchi	hana	h.a.n.a	h a n a	shik1243			Japonic	308
+1364	137_flower	flower	Sado	Sado	hana	h.a.n.a	h a n a	sado1237			Japonic	308
+1365	137_flower	flower	Oki	Oki	hana	h.a.n.a	h a n a	okin1246	27.3738	128.619	Japonic	308
+1366	137_flower	flower	Kagoshima	Kagoshima	hana	h.a.n.a	h a n a	kyus1238			Japonic	308
+630	64_fly	fly	Miyako	Miyako	mau	m.au	m a u	miya1259	24.7564	125.363	Japonic	144
+631	64_fly	fly	Tokyo	Tōkyō	tobu	t.o.b.u	t o b u	toky1238			Japonic	142
+632	64_fly	fly	Amami	Amami	θuburi	θ.u.b.u.r.i	θ u b u r i	naze1238			Japonic	142
+633	64_fly	fly	Kyoto	Kyōto	tobu	t.o.b.u	t o b u	kyot1238			Japonic	142
+634	64_fly	fly	Hachijo	Hachijō	maku	m.a.k.u	m a k u	hach1238			Japonic	141
+635	64_fly	fly	Shuri	Shuri	tubuɴ	t.u.b.u.ɴ	t u b u ɴ	shur1243			Japonic	142
+636	64_fly	fly	Kochi	Kōchi	tobu	t.o.b.u	t o b u	shik1243			Japonic	142
+637	64_fly	fly	Sado	Sado	tatːoru	t.a.tː.o.r.u	t a tː o r u	sado1237			Japonic	143
+638	64_fly	fly	Oki	Oki	tobu	t.o.b.u	t o b u	okin1246	27.3738	128.619	Japonic	142
+639	64_fly	fly	Kagoshima	Kagoshima	toi	t.oi	t o i	kyus1238			Japonic	142
+1150	116_fog	fog	Miyako	Miyako	ʦɨː	ʦ.ɨː	ts ɨː	miya1259	24.7564	125.363	Japonic	264
+1151	116_fog	fog	Tokyo	Tōkyō	kiri	k.i.r.i	k i r i	toky1238			Japonic	264
+1152	116_fog	fog	Amami	Amami	kiri	k.i.r.i	k i r i	naze1238			Japonic	264
+1153	116_fog	fog	Kyoto	Kyōto	kiri	k.i.r.i	k i r i	kyot1238			Japonic	264
+1154	116_fog	fog	Hachijo	Hachijō	kiri	k.i.r.i	k i r i	hach1238			Japonic	264
+1155	116_fog	fog	Shuri	Shuri	ʨiri	ʨ.i.r.i	tɕ i r i	shur1243			Japonic	264
+1156	116_fog	fog	Kochi	Kōchi	kiri	k.i.r.i	k i r i	shik1243			Japonic	264
+1157	116_fog	fog	Sado	Sado	moja	m.o.j.a	m o j a	sado1237			Japonic	265
+1158	116_fog	fog	Oki	Oki	moja	m.o.j.a	m o j a	okin1246	27.3738	128.619	Japonic	265
+1159	116_fog	fog	Kagoshima	Kagoshima	kiːi	k.iːi	k i i/j i	kyus1238			Japonic	264
+452	46_foot	foot	Miyako	Miyako	pɨsa	p.ɨ.s.a	p ɨ s a	miya1259	24.7564	125.363	Japonic	106
+453	46_foot	foot	Tokyo	Tōkyō	asi	a.s.i	a s i	toky1238			Japonic	104
+454	46_foot	foot	Amami	Amami	hagi	h.a.g.i	h a g i	naze1238			Japonic	105
+455	46_foot	foot	Kyoto	Kyōto	asi	a.s.i	a s i	kyot1238			Japonic	104
+456	46_foot	foot	Hachijo	Hachijō	asi	a.s.i	a s i	hach1238			Japonic	104
+457	46_foot	foot	Shuri	Shuri	hwiɕa	h.w.i.ɕ.a	h w i ɕ a	shur1243			Japonic	106
+458	46_foot	foot	Kochi	Kōchi	asi	a.s.i	a s i	shik1243			Japonic	104
+459	46_foot	foot	Sado	Sado	asi	a.s.i	a s i	sado1237			Japonic	104
+460	46_foot	foot	Oki	Oki	asi	a.s.i	a s i	okin1246	27.3738	128.619	Japonic	104
+461	46_foot	foot	Kagoshima	Kagoshima	aɕ	a.ɕ	a ɕ	kyus1238			Japonic	104
+1100	111_four	four	Miyako	Miyako	juːʦɨ	j.uː.ʦ.ɨ	j uː ts ɨ	miya1259	24.7564	125.363	Japonic	253
+1101	111_four	four	Tokyo	Tōkyō	joʦːu	j.o.ʦː.u	j o tsː u	toky1238			Japonic	253
+1102	111_four	four	Amami	Amami	juːʦɨ	j.uː.ʦ.ɨ	j uː ts ɨ	naze1238			Japonic	253
+1103	111_four	four	Kyoto	Kyōto	joʦːu	j.o.ʦː.u	j o tsː u	kyot1238			Japonic	253
+1104	111_four	four	Hachijo	Hachijō	joʦːu	j.o.ʦː.u	j o tsː u	hach1238			Japonic	253
+1105	111_four	four	Shuri	Shuri	juːɕi	j.uː.ɕ.i	j uː ɕ i	shur1243			Japonic	253
+1106	111_four	four	Kochi	Kōchi	jotːu	j.o.tː.u	j o tː u	shik1243			Japonic	253
+1107	111_four	four	Sado	Sado	joʦːu	j.o.ʦː.u	j o tsː u	sado1237			Japonic	253
+1108	111_four	four	Oki	Oki	joʦːu	j.o.ʦː.u	j o tsː u	okin1246	27.3738	128.619	Japonic	253
+1109	111_four	four	Kagoshima	Kagoshima	joi	j.oi	j o i	kyus1238			Japonic	253
+1484	150_freeze	freeze	Tokyo	Tōkyō	koːru	k.oː.r.u	k oː r u	toky1238			Japonic	343
+1485	150_freeze	freeze	Kyoto	Kyōto	koːru	k.oː.r.u	k oː r u	kyot1238			Japonic	343
+1486	150_freeze	freeze	Hachijo	Hachijō	koːru	k.oː.r.u	k oː r u	hach1238			Japonic	343
+1487	150_freeze	freeze	Kochi	Kōchi	koːru	k.oː.r.u	k oː r u	shik1243			Japonic	343
+1488	150_freeze	freeze	Sado	Sado	koːru	k.oː.r.u	k oː r u	sado1237			Japonic	343
+1489	150_freeze	freeze	Oki	Oki	koːru	k.oː.r.u	k oː r u	okin1246	27.3738	128.619	Japonic	343
+1490	150_freeze	freeze	Kagoshima	Kagoshima	koː	k.oː	k oː	kyus1238			Japonic	343
+1347	136_fruit	fruit	Miyako	Miyako	naɭ	n.a.ɭ	n a ɭ	miya1259	24.7564	125.363	Japonic	306
+1348	136_fruit	fruit	Tokyo	Tōkyō	mi	m.i	m i	toky1238			Japonic	307
+1349	136_fruit	fruit	Amami	Amami	nari	n.a.r.i	n a r i	naze1238			Japonic	306
+1350	136_fruit	fruit	Kyoto	Kyōto	miː	m.iː	m iː	kyot1238			Japonic	307
+1351	136_fruit	fruit	Hachijo	Hachijō	mi	m.i	m i	hach1238			Japonic	307
+1352	136_fruit	fruit	Shuri	Shuri	nai	n.ai	n a i	shur1243			Japonic	306
+1353	136_fruit	fruit	Kochi	Kōchi	mi	m.i	m i	shik1243			Japonic	307
+1354	136_fruit	fruit	Sado	Sado	mi	m.i	m i	sado1237			Japonic	307
+1355	136_fruit	fruit	Oki	Oki	mi	m.i	m i	okin1246	27.3738	128.619	Japonic	307
+1356	136_fruit	fruit	Kagoshima	Kagoshima	miː	m.iː	m iː	kyus1238			Japonic	307
+940	95_full	full	Miyako	Miyako	mti	m.t.i	m t i	miya1259	24.7564	125.363	Japonic	206
+941	95_full	full	Tokyo	Tōkyō	ipːai	i.pː.ai	i pː a i	toky1238			Japonic	204
+942	95_full	full	Amami	Amami	zoɴbai	z.o.ɴ.b.ai	z o ɴ b a i	naze1238			Japonic	205
+943	95_full	full	Kyoto	Kyōto	ipːai	i.pː.ai	i pː a i	kyot1238			Japonic	204
+944	95_full	full	Hachijo	Hachijō	ipːia	i.pː.ia	i pː i a	hach1238			Japonic	204
+945	95_full	full	Shuri	Shuri	miː	m.iː	m iː	shur1243			Japonic	206
+946	95_full	full	Kochi	Kōchi	ipːai	i.pː.ai	i pː a i	shik1243			Japonic	204
+947	95_full	full	Sado	Sado	ipːai	i.pː.ai	i pː a i	sado1237			Japonic	204
+948	95_full	full	Oki	Oki	epːeː	e.pː.eː	e pː eː	okin1246	27.3738	128.619	Japonic	204
+949	95_full	full	Kagoshima	Kagoshima	pːe	pː.e	pː e	kyus1238			Japonic	204
+1299	131_fur	fur	Tokyo	Tōkyō	keŋawa	k.e.ŋ.a.w.a	k e ŋ a w a	toky1238			Japonic	298
+1300	131_fur	fur	Amami	Amami	xɨɴxo	x.ɨ.ɴ.x.o	x ɨ ɴ x o	naze1238			Japonic	298
+1301	131_fur	fur	Kyoto	Kyōto	keŋawa	k.e.ŋ.a.w.a	k e ŋ a w a	kyot1238			Japonic	298
+1302	131_fur	fur	Hachijo	Hachijō	kegua	k.e.g.ua	k e g u a	hach1238			Japonic	298
+1303	131_fur	fur	Shuri	Shuri	kaː	k.aː	k aː	shur1243			Japonic	299
+1304	131_fur	fur	Kochi	Kōchi	kegawa	k.e.g.a.w.a	k e g a w a	shik1243			Japonic	298
+1305	131_fur	fur	Sado	Sado	kegawa	k.e.g.a.w.a	k e g a w a	sado1237			Japonic	298
+1306	131_fur	fur	Oki	Oki	keŋawa	k.e.ŋ.a.w.a	k e ŋ a w a	okin1246	27.3738	128.619	Japonic	298
+1307	131_fur	fur	Kagoshima	Kagoshima	kegaiwa	k.e.g.ai.w.a	k e g a i w a	kyus1238			Japonic	298
+690	70_give	give	Miyako	Miyako	fiːɭ	f.iː.ɭ	f iː ɭ	miya1259	24.7564	125.363	Japonic	160
+691	70_give	give	Tokyo	Tōkyō	aŋeru	a.ŋ.e.r.u	a ŋ e r u	toky1238			Japonic	158
+692	70_give	give	Amami	Amami	kurɨruri	k.u.r.ɨ.r.u.r.i	k u r ɨ r u r i	naze1238			Japonic	160
+693	70_give	give	Kyoto	Kyōto	aŋeru	a.ŋ.e.r.u	a ŋ e r u	kyot1238			Japonic	158
+694	70_give	give	Hachijo	Hachijō	muaseru	m.ua.s.e.r.u	m u a s e r u	hach1238			Japonic	157
+695	70_give	give	Shuri	Shuri	kwiːjuɴ	k.w.iː.j.u.ɴ	k w iː j u ɴ	shur1243			Japonic	160
+696	70_give	give	Kochi	Kōchi	jaru	j.a.r.u	j a r u	shik1243			Japonic	159
+697	70_give	give	Sado	Sado	jaru	j.a.r.u	j a r u	sado1237			Japonic	159
+698	70_give	give	Oki	Oki	jaru	j.a.r.u	j a r u	okin1246	27.3738	128.619	Japonic	159
+699	70_give	give	Kagoshima	Kagoshima	kuiru	k.ui.r.u	k ui r u	kyus1238			Japonic	160
+960	97_good	good	Miyako	Miyako	ʣautuː	ʣ.au.t.uː	dz a u t uː	miya1259	24.7564	125.363	Japonic	214
+961	97_good	good	Tokyo	Tōkyō	iː	iː	iː	toky1238			Japonic	211
+962	97_good	good	Amami	Amami	iʨːari	i.ʨː.a.r.i	i tɕː a r i	naze1238			Japonic	212
+963	97_good	good	Kyoto	Kyōto	eː	eː	eː	kyot1238			Japonic	211
+964	97_good	good	Hachijo	Hachijō	jokːja	j.o.kː.j.a	j o kː j a	hach1238			Japonic	215
+965	97_good	good	Shuri	Shuri	jutaɕaɴ	j.u.t.a.ɕ.a.ɴ	j u t a ɕ a ɴ	shur1243			Japonic	213
+966	97_good	good	Kochi	Kōchi	eː	eː	eː	shik1243			Japonic	211
+967	97_good	good	Sado	Sado	eː	eː	eː	sado1237			Japonic	211
+968	97_good	good	Oki	Oki	eː	eː	eː	okin1246	27.3738	128.619	Japonic	211
+969	97_good	good	Kagoshima	Kagoshima	joka	j.o.k.a	j o k a	kyus1238			Japonic	215
+1367	138_grass	grass	Miyako	Miyako	fusa	f.u.s.a	f u s a	miya1259	24.7564	125.363	Japonic	309
+1368	138_grass	grass	Tokyo	Tōkyō	kusa	k.u.s.a	k u s a	toky1238			Japonic	309
+1369	138_grass	grass	Amami	Amami	kusa	k.u.s.a	k u s a	naze1238			Japonic	309
+1370	138_grass	grass	Kyoto	Kyōto	kusa	k.u.s.a	k u s a	kyot1238			Japonic	309
+1371	138_grass	grass	Hachijo	Hachijō	kusa	k.u.s.a	k u s a	hach1238			Japonic	309
+1372	138_grass	grass	Shuri	Shuri	kusa	k.u.s.a	k u s a	shur1243			Japonic	309
+1373	138_grass	grass	Kochi	Kōchi	kusa	k.u.s.a	k u s a	shik1243			Japonic	309
+1374	138_grass	grass	Sado	Sado	kusa	k.u.s.a	k u s a	sado1237			Japonic	309
+1375	138_grass	grass	Oki	Oki	kusa	k.u.s.a	k u s a	okin1246	27.3738	128.619	Japonic	309
+1376	138_grass	grass	Kagoshima	Kagoshima	kusa	k.u.s.a	k u s a	kyus1238			Japonic	309
+311	32_greasefat	grease (fat)	Miyako	Miyako	avːa	a.vː.a	a vː a	miya1259	24.7564	125.363	Japonic	78
+312	32_greasefat	grease (fat)	Tokyo	Tōkyō	aburami	a.b.u.r.a.m.i	a b u r a m i	toky1238			Japonic	78
+313	32_greasefat	grease (fat)	Amami	Amami	sirumi	s.i.r.u.m.i	s i r u m i	naze1238			Japonic	79
+314	32_greasefat	grease (fat)	Kyoto	Kyōto	abura	a.b.u.r.a	a b u r a	kyot1238			Japonic	78
+315	32_greasefat	grease (fat)	Hachijo	Hachijō	aburaniku	a.b.u.r.a.n.i.k.u	a b u r a n i k u	hach1238			Japonic	78
+316	32_greasefat	grease (fat)	Shuri	Shuri	ʔaɴdaʥisi	ʔ.a.ɴ.d.a.ʥ.i.s.i	ʔ a ɴ d a dʑ i s i	shur1243			Japonic	77
+317	32_greasefat	grease (fat)	Kochi	Kōchi	abura	a.b.u.r.a	a b u r a	shik1243			Japonic	78
+318	32_greasefat	grease (fat)	Sado	Sado	aburaniku	a.b.u.r.a.n.i.k.u	a b u r a n i k u	sado1237			Japonic	78
+319	32_greasefat	grease (fat)	Oki	Oki	abura	a.b.u.r.a	a b u r a	okin1246	27.3738	128.619	Japonic	78
+320	32_greasefat	grease (fat)	Kagoshima	Kagoshima	aburami	a.b.u.r.a.m.i	a b u r a m i	kyus1238			Japonic	78
+870	88_green	green	Miyako	Miyako	au	au	a u	miya1259	24.7564	125.363	Japonic	192
+871	88_green	green	Tokyo	Tōkyō	a.oi	a.oi	a o i	toky1238			Japonic	192
+872	88_green	green	Amami	Amami	ʔoːsari	ʔ.oː.s.a.r.i	ʔ oː s a r i	naze1238			Japonic	191
+873	88_green	green	Kyoto	Kyōto	a.oi	a.oi	a o i	kyot1238			Japonic	192
+874	88_green	green	Hachijo	Hachijō	a.okʲa	a.o.kʲ.a	a o kʲ a	hach1238			Japonic	192
+875	88_green	green	Shuri	Shuri	ʔoːsaɴ	ʔ.oː.s.a.ɴ	ʔ oː s a ɴ	shur1243			Japonic	191
+876	88_green	green	Kochi	Kōchi	a.oi	a.oi	a o i	shik1243			Japonic	192
+877	88_green	green	Sado	Sado	a.oi	a.oi	a o i	sado1237			Japonic	192
+878	88_green	green	Oki	Oki	aweː	a.w.eː	a w eː	okin1246	27.3738	128.619	Japonic	192
+879	88_green	green	Kagoshima	Kagoshima	a.o	a.o	a o	kyus1238			Japonic	192
+1318	133_guts	guts	Tokyo	Tōkyō	harawata	h.a.r.a.w.a.t.a	h a r a w a t a	toky1238			Japonic	303
+1319	133_guts	guts	Amami	Amami	waθa	w.a.θ.a	w a θ a	naze1238			Japonic	303
+1320	133_guts	guts	Kyoto	Kyōto	harawata	h.a.r.a.w.a.t.a	h a r a w a t a	kyot1238			Japonic	303
+1321	133_guts	guts	Hachijo	Hachijō	haruta	h.a.r.u.t.a	h a r u t a	hach1238			Japonic	303
+1322	133_guts	guts	Shuri	Shuri	watamiːmuɴ	w.a.t.a.m.iː.m.u.ɴ	w a t a m iː m u ɴ	shur1243			Japonic	302
+1323	133_guts	guts	Kochi	Kōchi	harawata	h.a.r.a.w.a.t.a	h a r a w a t a	shik1243			Japonic	303
+1324	133_guts	guts	Sado	Sado	harawata	h.a.r.a.w.a.t.a	h a r a w a t a	sado1237			Japonic	303
+1325	133_guts	guts	Oki	Oki	harawata	h.a.r.a.w.a.t.a	h a r a w a t a	okin1246	27.3738	128.619	Japonic	303
+1326	133_guts	guts	Kagoshima	Kagoshima	zuzuwata	z.u.z.u.w.a.t.a	z u z u w a t a	kyus1238			Japonic	303
+361	37_hair	hair	Miyako	Miyako	p͡sɨgi	p͡s.ɨ.g.i	pˢ ɨ g i	miya1259	24.7564	125.363	Japonic	88
+362	37_hair	hair	Tokyo	Tōkyō	ke	k.e	k e	toky1238			Japonic	89
+363	37_hair	hair	Amami	Amami	higi	h.i.g.i	h i g i	naze1238			Japonic	88
+364	37_hair	hair	Kyoto	Kyōto	keː	k.eː	k eː	kyot1238			Japonic	89
+365	37_hair	hair	Hachijo	Hachijō	kiː	k.iː	k iː	hach1238			Japonic	89
+366	37_hair	hair	Shuri	Shuri	kiː	k.iː	k iː	shur1243			Japonic	89
+367	37_hair	hair	Kochi	Kōchi	ke	k.e	k e	shik1243			Japonic	89
+368	37_hair	hair	Sado	Sado	ke	k.e	k e	sado1237			Japonic	89
+369	37_hair	hair	Oki	Oki	ke	k.e	k e	okin1246	27.3738	128.619	Japonic	89
+370	37_hair	hair	Kagoshima	Kagoshima	kei	k.ei	k e i	kyus1238			Japonic	89
+371	37_hair	hair	Hachijo	Hachijō	kebuɕo	k.e.b.u.ɕ.o	k e b u ɕ o	hach1238			Japonic	89
+472	48_hand	hand	Miyako	Miyako	tiː	t.iː	t iː	miya1259	24.7564	125.363	Japonic	110
+473	48_hand	hand	Tokyo	Tōkyō	te	t.e	t e	toky1238			Japonic	110
+474	48_hand	hand	Amami	Amami	θɨ	θ.ɨ	θ ɨ	naze1238			Japonic	110
+475	48_hand	hand	Kyoto	Kyōto	teː	t.eː	t eː	kyot1238			Japonic	110
+476	48_hand	hand	Hachijo	Hachijō	te	t.e	t e	hach1238			Japonic	110
+477	48_hand	hand	Shuri	Shuri	tiː	t.iː	t iː	shur1243			Japonic	110
+478	48_hand	hand	Kochi	Kōchi	te	t.e	t e	shik1243			Japonic	110
+479	48_hand	hand	Sado	Sado	te	t.e	t e	sado1237			Japonic	110
+480	48_hand	hand	Oki	Oki	te	t.e	t e	okin1246	27.3738	128.619	Japonic	110
+481	48_hand	hand	Kagoshima	Kagoshima	te	t.e	t e	kyus1238			Japonic	110
+1010	102_he	he	Miyako	Miyako	kanup͡sɨtu	k.a.n.u.p͡s.ɨ.t.u	k a n u pˢ ɨ t u	miya1259	24.7564	125.363	Japonic	231
+1011	102_he	he	Tokyo	Tōkyō	anohito	a.n.o.h.i.t.o	a n o h i t o	toky1238			Japonic	230
+1012	102_he	he	Amami	Amami	ʔaɴʨu	ʔ.a.ɴ.ʨ.u	ʔ a ɴ tɕ u	naze1238			Japonic	230
+1013	102_he	he	Kyoto	Kyōto	anohito	a.n.o.h.i.t.o	a n o h i t o	kyot1238			Japonic	230
+1014	102_he	he	Hachijo	Hachijō	ora	o.r.a	o r a	hach1238			Japonic	229
+1015	102_he	he	Shuri	Shuri	ʔanuʦːu	ʔ.a.n.u.ʦː.u	ʔ a n u tsː u	shur1243			Japonic	230
+1016	102_he	he	Kochi	Kōchi	anohito	a.n.o.h.i.t.o	a n o h i t o	shik1243			Japonic	230
+1017	102_he	he	Sado	Sado	anohito	a.n.o.h.i.t.o	a n o h i t o	sado1237			Japonic	230
+1018	102_he	he	Oki	Oki	are	a.r.e	a r e	okin1246	27.3738	128.619	Japonic	230
+1019	102_he	he	Kagoshima	Kagoshima	aiː	aiː	a iː	kyus1238			Japonic	230
+372	38_head	head	Miyako	Miyako	kanamaɭ	k.a.n.a.m.a.ɭ	k a n a m a ɭ	miya1259	24.7564	125.363	Japonic	94
+373	38_head	head	Tokyo	Tōkyō	atama	a.t.a.m.a	a t a m a	toky1238			Japonic	91
+374	38_head	head	Amami	Amami	xamaʨi	x.a.m.a.ʨ.i	x a m a tɕ i	naze1238			Japonic	93
+375	38_head	head	Kyoto	Kyōto	atama	a.t.a.m.a	a t a m a	kyot1238			Japonic	91
+376	38_head	head	Hachijo	Hachijō	ʦuburi	ʦ.u.b.u.r.i	ts u b u r i	hach1238			Japonic	90
+377	38_head	head	Shuri	Shuri	ɕiburu	ɕ.i.b.u.r.u	ɕ i b u r u	shur1243			Japonic	90
+378	38_head	head	Kochi	Kōchi	atama	a.t.a.m.a	a t a m a	shik1243			Japonic	91
+379	38_head	head	Sado	Sado	atama	a.t.a.m.a	a t a m a	sado1237			Japonic	91
+380	38_head	head	Oki	Oki	atama	a.t.a.m.a	a t a m a	okin1246	27.3738	128.619	Japonic	91
+381	38_head	head	Kagoshima	Kagoshima	biɴta	b.i.ɴ.t.a	b i ɴ t a	kyus1238			Japonic	92
+570	58_hear	hear	Miyako	Miyako	ʦɨfu	ʦ.ɨ.f.u	ts ɨ f u	miya1259	24.7564	125.363	Japonic	132
+571	58_hear	hear	Tokyo	Tōkyō	kiku	k.i.k.u	k i k u	toky1238			Japonic	132
+572	58_hear	hear	Amami	Amami	kikʲuri	k.i.kʲ.u.r.i	k i kʲ u r i	naze1238			Japonic	132
+573	58_hear	hear	Kyoto	Kyōto	kiku	k.i.k.u	k i k u	kyot1238			Japonic	132
+574	58_hear	hear	Hachijo	Hachijō	kiku	k.i.k.u	k i k u	hach1238			Japonic	132
+575	58_hear	hear	Shuri	Shuri	ʨiʦuɴ	ʨ.i.ʦ.u.ɴ	tɕ i ts u ɴ	shur1243			Japonic	132
+576	58_hear	hear	Kochi	Kōchi	kiku	k.i.k.u	k i k u	shik1243			Japonic	132
+577	58_hear	hear	Sado	Sado	kiku	k.i.k.u	k i k u	sado1237			Japonic	132
+578	58_hear	hear	Oki	Oki	kiku	k.i.k.u	k i k u	okin1246	27.3738	128.619	Japonic	132
+579	58_hear	hear	Kagoshima	Kagoshima	kiː	k.iː	k iː	kyus1238			Japonic	132
+512	52_heart	heart	Tokyo	Tōkyō	siɴzoː	s.i.ɴ.z.oː	s i ɴ z oː	toky1238			Japonic	118
+513	52_heart	heart	Amami	Amami	siɴdo	s.i.ɴ.d.o	s i ɴ d o	naze1238			Japonic	118
+514	52_heart	heart	Kyoto	Kyōto	siɴzoː	s.i.ɴ.z.oː	s i ɴ z oː	kyot1238			Japonic	118
+515	52_heart	heart	Hachijo	Hachijō	siɴzoː	s.i.ɴ.z.oː	s i ɴ z oː	hach1238			Japonic	118
+516	52_heart	heart	Shuri	Shuri	ʨimu	ʨ.i.m.u	tɕ i m u	shur1243			Japonic	117
+517	52_heart	heart	Kochi	Kōchi	kimo	k.i.m.o	k i m o	shik1243			Japonic	117
+518	52_heart	heart	Sado	Sado	siɴzoː	s.i.ɴ.z.oː	s i ɴ z oː	sado1237			Japonic	118
+519	52_heart	heart	Oki	Oki	siɴzoː	s.i.ɴ.z.oː	s i ɴ z oː	okin1246	27.3738	128.619	Japonic	118
+520	52_heart	heart	Kagoshima	Kagoshima	siɴizoː	s.i.ɴ.i.z.oː	s i ɴ i z oː	kyus1238			Japonic	118
+1591	161_heavy	heavy	Miyako	Miyako	ivu	i.v.u	i v u	miya1259	24.7564	125.363	Japonic	361
+1592	161_heavy	heavy	Tokyo	Tōkyō	omoi	o.m.oi	o m o i	toky1238			Japonic	361
+1593	161_heavy	heavy	Amami	Amami	ʔubusari	ʔ.u.b.u.s.a.r.i	ʔ u b u s a r i	naze1238			Japonic	361
+1594	161_heavy	heavy	Kyoto	Kyōto	omotai	o.m.o.t.ai	o m o t a i	kyot1238			Japonic	361
+1595	161_heavy	heavy	Hachijo	Hachijō	omokʲa	o.m.o.kʲ.a	o m o kʲ a	hach1238			Japonic	361
+1596	161_heavy	heavy	Shuri	Shuri	ʔɴbusaɴ	ʔ.ɴ.b.u.s.a.ɴ	ʔ ɴ b u s a ɴ	shur1243			Japonic	361
+1597	161_heavy	heavy	Kochi	Kōchi	omotai	o.m.o.t.ai	o m o t a i	shik1243			Japonic	361
+1598	161_heavy	heavy	Sado	Sado	omoi	o.m.oi	o m o i	sado1237			Japonic	361
+1599	161_heavy	heavy	Oki	Oki	omeː	o.m.eː	o m eː	okin1246	27.3738	128.619	Japonic	361
+1600	161_heavy	heavy	Kagoshima	Kagoshima	oimi	oi.m.i	o i m i	kyus1238			Japonic	361
+1060	107_here	here	Miyako	Miyako	koman	k.o.m.a.n	k o m a n	miya1259	24.7564	125.363	Japonic	244
+1061	107_here	here	Tokyo	Tōkyō	koko	k.o.k.o	k o k o	toky1238			Japonic	245
+1062	107_here	here	Amami	Amami	xuma	x.u.m.a	x u m a	naze1238			Japonic	244
+1063	107_here	here	Kyoto	Kyōto	koko	k.o.k.o	k o k o	kyot1238			Japonic	245
+1064	107_here	here	Hachijo	Hachijō	koko	k.o.k.o	k o k o	hach1238			Japonic	245
+1065	107_here	here	Shuri	Shuri	kuma	k.u.m.a	k u m a	shur1243			Japonic	244
+1066	107_here	here	Kochi	Kōchi	koko	k.o.k.o	k o k o	shik1243			Japonic	245
+1067	107_here	here	Sado	Sado	koko	k.o.k.o	k o k o	sado1237			Japonic	245
+1068	107_here	here	Oki	Oki	koko	k.o.k.o	k o k o	okin1246	27.3738	128.619	Japonic	245
+1069	107_here	here	Kagoshima	Kagoshima	koko	k.o.k.o	k o k o	kyus1238			Japonic	245
+1750	177_hit	hit	Miyako	Miyako	uʦɨ	u.ʦ.ɨ	u ts ɨ	miya1259	24.7564	125.363	Japonic	411
+1751	177_hit	hit	Tokyo	Tōkyō	naŋuru	n.a.ŋ.u.r.u	n a ŋ u r u	toky1238			Japonic	406
+1752	177_hit	hit	Amami	Amami	ʔuθuri	ʔ.u.θ.u.r.i	ʔ u θ u r i	naze1238			Japonic	410
+1753	177_hit	hit	Kyoto	Kyōto	doʦuku	d.o.ʦ.u.k.u	d o ts u k u	kyot1238			Japonic	407
+1754	177_hit	hit	Hachijo	Hachijō	naguru	n.a.g.u.r.u	n a g u r u	hach1238			Japonic	406
+1755	177_hit	hit	Shuri	Shuri	ʔuʦuɴ	ʔ.u.ʦ.u.ɴ	ʔ u ts u ɴ	shur1243			Japonic	410
+1756	177_hit	hit	Kochi	Kōchi	tataku	t.a.t.a.k.u	t a t a k u	shik1243			Japonic	408
+1757	177_hit	hit	Sado	Sado	naguru	n.a.g.u.r.u	n a g u r u	sado1237			Japonic	406
+1758	177_hit	hit	Oki	Oki	dojasu	d.o.j.a.s.u	d o j a s u	okin1246	27.3738	128.619	Japonic	409
+1759	177_hit	hit	Kagoshima	Kagoshima	utːaku	u.tː.a.k.u	u tː a k u	kyus1238			Japonic	410
+1907	193_hold	hold	Miyako	Miyako	muʦɨ	m.u.ʦ.ɨ	m u ts ɨ	miya1259	24.7564	125.363	Japonic	444
+1908	193_hold	hold	Tokyo	Tōkyō	moʦu	m.o.ʦ.u	m o ts u	toky1238			Japonic	444
+1909	193_hold	hold	Amami	Amami	muθuri	m.u.θ.u.r.i	m u θ u r i	naze1238			Japonic	444
+1910	193_hold	hold	Kyoto	Kyōto	moʦu	m.o.ʦ.u	m o ts u	kyot1238			Japonic	444
+1911	193_hold	hold	Hachijo	Hachijō	sageru	s.a.g.e.r.u	s a g e r u	hach1238			Japonic	443
+1912	193_hold	hold	Shuri	Shuri	muʦuɴ	m.u.ʦ.u.ɴ	m u ts u ɴ	shur1243			Japonic	444
+1913	193_hold	hold	Kochi	Kōchi	sageru	s.a.g.e.r.u	s a g e r u	shik1243			Japonic	443
+1914	193_hold	hold	Sado	Sado	moʦu	m.o.ʦ.u	m o ts u	sado1237			Japonic	444
+1915	193_hold	hold	Oki	Oki	moʦu	m.o.ʦ.u	m o ts u	okin1246	27.3738	128.619	Japonic	444
+1916	193_hold	hold	Kagoshima	Kagoshima	mo	m.o	m o	kyus1238			Japonic	445
+331	34_horn	horn	Miyako	Miyako	ʦɨnu	ʦ.ɨ.n.u	ts ɨ n u	miya1259	24.7564	125.363	Japonic	83
+332	34_horn	horn	Tokyo	Tōkyō	ʦuno	ʦ.u.n.o	ts u n o	toky1238			Japonic	83
+333	34_horn	horn	Amami	Amami	ʦɨno	ʦ.ɨ.n.o	ts ɨ n o	naze1238			Japonic	83
+334	34_horn	horn	Kyoto	Kyōto	ʦuno	ʦ.u.n.o	ts u n o	kyot1238			Japonic	83
+335	34_horn	horn	Hachijo	Hachijō	ʦuno	ʦ.u.n.o	ts u n o	hach1238			Japonic	83
+336	34_horn	horn	Shuri	Shuri	ɕinu	ɕ.i.n.u	ɕ i n u	shur1243			Japonic	83
+337	34_horn	horn	Kochi	Kōchi	tuno	t.u.n.o	t u n o	shik1243			Japonic	83
+338	34_horn	horn	Sado	Sado	ʦuno	ʦ.u.n.o	ts u n o	sado1237			Japonic	83
+339	34_horn	horn	Oki	Oki	ʦuno	ʦ.u.n.o	ts u n o	okin1246	27.3738	128.619	Japonic	83
+340	34_horn	horn	Kagoshima	Kagoshima	ʦuno	ʦ.u.n.o	ts u n o	kyus1238			Japonic	83
+920	93_hotwarm	hot (warm)	Miyako	Miyako	aʦɨ	a.ʦ.ɨ	a ts ɨ	miya1259	24.7564	125.363	Japonic	199
+921	93_hotwarm	hot (warm)	Tokyo	Tōkyō	aʦui	a.ʦ.ui	a ts ui	toky1238			Japonic	199
+922	93_hotwarm	hot (warm)	Amami	Amami	ʔaʦɨsari	ʔ.a.ʦ.ɨ.s.a.r.i	ʔ a ts ɨ s a r i	naze1238			Japonic	199
+923	93_hotwarm	hot (warm)	Kyoto	Kyōto	aʦui	a.ʦ.ui	a ts ui	kyot1238			Japonic	199
+924	93_hotwarm	hot (warm)	Hachijo	Hachijō	hotoːtːe	h.o.t.oː.tː.e	h o t oː tː e	hach1238			Japonic	198
+925	93_hotwarm	hot (warm)	Shuri	Shuri	ʔaɕisaɴ	ʔ.a.ɕ.i.s.a.ɴ	ʔ a ɕ i s a ɴ	shur1243			Japonic	199
+926	93_hotwarm	hot (warm)	Kochi	Kōchi	atui	a.t.ui	a t ui	shik1243			Japonic	199
+927	93_hotwarm	hot (warm)	Sado	Sado	aʦui	a.ʦ.ui	a ts ui	sado1237			Japonic	199
+928	93_hotwarm	hot (warm)	Oki	Oki	nokiː	n.o.k.iː	n o k iː	okin1246	27.3738	128.619	Japonic	200
+929	93_hotwarm	hot (warm)	Kagoshima	Kagoshima	aʨi	a.ʨ.i	a tɕ i	kyus1238			Japonic	199
+1030	104_how	how	Miyako	Miyako	nau	n.au	n a u	miya1259	24.7564	125.363	Japonic	236
+1031	104_how	how	Tokyo	Tōkyō	doː	d.oː	d oː	toky1238			Japonic	238
+1032	104_how	how	Amami	Amami	xjasi	x.j.a.s.i	x j a s i	naze1238			Japonic	235
+1033	104_how	how	Kyoto	Kyōto	doː	d.oː	d oː	kyot1238			Japonic	238
+1034	104_how	how	Hachijo	Hachijō	zuguan	z.u.g.ua.n	z u g u a n	hach1238			Japonic	237
+1035	104_how	how	Shuri	Shuri	ʦaː	ʦ.aː	ts aː	shur1243			Japonic	235
+1036	104_how	how	Kochi	Kōchi	doː	d.oː	d oː	shik1243			Japonic	238
+1037	104_how	how	Sado	Sado	dogaini	d.o.g.ai.n.i	d o g a i n i	sado1237			Japonic	238
+1038	104_how	how	Oki	Oki	doŋe	d.o.ŋ.e	d o ŋ e	okin1246	27.3738	128.619	Japonic	238
+1039	104_how	how	Kagoshima	Kagoshima	ikeɴ	i.k.e.ɴ	i k e ɴ	kyus1238			Japonic	235
+1437	145_husband	husband	Miyako	Miyako	butu	b.u.t.u	b u t u	miya1259	24.7564	125.363	Japonic	331
+1438	145_husband	husband	Tokyo	Tōkyō	ɕuʥiɴ	ɕ.u.ʥ.i.ɴ	ɕ u dʑ i ɴ	toky1238			Japonic	330
+1439	145_husband	husband	Amami	Amami	uθu	u.θ.u	u θ u	naze1238			Japonic	331
+1440	145_husband	husband	Kyoto	Kyōto	ɕuʥiɴ	ɕ.u.ʥ.i.ɴ	ɕ u dʑ i ɴ	kyot1238			Japonic	330
+1441	145_husband	husband	Hachijo	Hachijō	ʨieɕu	ʨ.ie.ɕ.u	tɕ i e ɕ u	hach1238			Japonic	329
+1442	145_husband	husband	Shuri	Shuri	utu	u.t.u	u t u	shur1243			Japonic	331
+1443	145_husband	husband	Kochi	Kōchi	ɕuʥiɴ	ɕ.u.ʥ.i.ɴ	ɕ u dʑ i ɴ	shik1243			Japonic	330
+1444	145_husband	husband	Sado	Sado	otːo	o.tː.o	o tː o	sado1237			Japonic	331
+1445	145_husband	husband	Oki	Oki	otoko	o.t.o.k.o	o t o k o	okin1246	27.3738	128.619	Japonic	332
+1446	145_husband	husband	Kagoshima	Kagoshima	jado	j.a.d.o	j a d o	kyus1238			Japonic	333
+1467	148_ice	ice	Tokyo	Tōkyō	koːri	k.oː.r.i	k oː r i	toky1238			Japonic	341
+1468	148_ice	ice	Kyoto	Kyōto	koːri	k.oː.r.i	k oː r i	kyot1238			Japonic	341
+1469	148_ice	ice	Hachijo	Hachijō	koːri	k.oː.r.i	k oː r i	hach1238			Japonic	341
+1470	148_ice	ice	Kochi	Kōchi	koːri	k.oː.r.i	k oː r i	shik1243			Japonic	341
+1471	148_ice	ice	Sado	Sado	koːri	k.oː.r.i	k oː r i	sado1237			Japonic	341
+1472	148_ice	ice	Oki	Oki	koːri	k.oː.r.i	k oː r i	okin1246	27.3738	128.619	Japonic	341
+1473	148_ice	ice	Kagoshima	Kagoshima	koːi	k.oːi	k oː i	kyus1238			Japonic	341
+1407	142_if	if	Miyako	Miyako	musɨ	m.u.s.ɨ	m u s ɨ	miya1259	24.7564	125.363	Japonic	314
+1408	142_if	if	Tokyo	Tōkyō	mosi	m.o.s.i	m o s i	toky1238			Japonic	314
+1409	142_if	if	Amami	Amami	jaθaʨiʨi	j.a.θ.a.ʨ.i.ʨ.i	j a θ a tɕ i tɕ i	naze1238			Japonic	316
+1410	142_if	if	Kyoto	Kyōto	mosi	m.o.s.i	m o s i	kyot1238			Japonic	314
+1411	142_if	if	Hachijo	Hachijō	mosi	m.o.s.i	m o s i	hach1238			Japonic	314
+1412	142_if	if	Shuri	Shuri	musi	m.u.s.i	m u s i	shur1243			Japonic	314
+1413	142_if	if	Kochi	Kōchi	hjotːo	h.j.o.tː.o	h j o tː o	shik1243			Japonic	315
+1414	142_if	if	Sado	Sado	mosi	m.o.s.i	m o s i	sado1237			Japonic	314
+1415	142_if	if	Oki	Oki	mosi	m.o.s.i	m o s i	okin1246	27.3738	128.619	Japonic	314
+1416	142_if	if	Kagoshima	Kagoshima	moɕika	m.o.ɕ.i.k.a	m o ɕ i k a	kyus1238			Japonic	314
+1387	140_in	in	Miyako	Miyako	n	n	n	miya1259	24.7564	125.363	Japonic	311
+1388	140_in	in	Tokyo	Tōkyō	ni	n.i	n i	toky1238			Japonic	311
+1389	140_in	in	Amami	Amami	naɴ	n.a.ɴ	n a ɴ	naze1238			Japonic	311
+1390	140_in	in	Kyoto	Kyōto	ni	n.i	n i	kyot1238			Japonic	311
+1391	140_in	in	Hachijo	Hachijō	ni	n.i	n i	hach1238			Japonic	311
+1392	140_in	in	Shuri	Shuri	nakai	n.a.k.ai	n a k a i	shur1243			Japonic	311
+1393	140_in	in	Kochi	Kōchi	ni	n.i	n i	shik1243			Japonic	311
+1394	140_in	in	Sado	Sado	ni	n.i	n i	sado1237			Japonic	311
+1395	140_in	in	Oki	Oki	ni	n.i	n i	okin1246	27.3738	128.619	Japonic	311
+1396	140_in	in	Kagoshima	Kagoshima	i	i	i	kyus1238			Japonic	311
+610	62_kill	kill	Miyako	Miyako	kurusɨ	k.u.r.u.s.ɨ	k u r u s ɨ	miya1259	24.7564	125.363	Japonic	139
+611	62_kill	kill	Tokyo	Tōkyō	korosu	k.o.r.o.s.u	k o r o s u	toky1238			Japonic	139
+612	62_kill	kill	Amami	Amami	xusːuri	x.u.sː.u.r.i	x u sː u r i	naze1238			Japonic	139
+613	62_kill	kill	Kyoto	Kyōto	korosu	k.o.r.o.s.u	k o r o s u	kyot1238			Japonic	139
+614	62_kill	kill	Hachijo	Hachijō	korosu	k.o.r.o.s.u	k o r o s u	hach1238			Japonic	139
+615	62_kill	kill	Shuri	Shuri	kuruɕuɴ	k.u.r.u.ɕ.u.ɴ	k u r u ɕ u ɴ	shur1243			Japonic	139
+616	62_kill	kill	Kochi	Kōchi	korosu	k.o.r.o.s.u	k o r o s u	shik1243			Japonic	139
+617	62_kill	kill	Sado	Sado	korosu	k.o.r.o.s.u	k o r o s u	sado1237			Japonic	139
+618	62_kill	kill	Oki	Oki	korosu	k.o.r.o.s.u	k o r o s u	okin1246	27.3738	128.619	Japonic	139
+619	62_kill	kill	Kagoshima	Kagoshima	ukːoros	u.kː.o.r.o.s	u kː o r o s	kyus1238			Japonic	139
+462	47_knee	knee	Miyako	Miyako	ʦɨgusɨ	ʦ.ɨ.g.u.s.ɨ	ts ɨ g u s ɨ	miya1259	24.7564	125.363	Japonic	109
+463	47_knee	knee	Tokyo	Tōkyō	hiza	h.i.z.a	h i z a	toky1238			Japonic	107
+464	47_knee	knee	Amami	Amami	ʦɨbusi	ʦ.ɨ.b.u.s.i	ts ɨ b u s i	naze1238			Japonic	109
+465	47_knee	knee	Kyoto	Kyōto	hiza	h.i.z.a	h i z a	kyot1238			Japonic	107
+466	47_knee	knee	Hachijo	Hachijō	hiʥakabura	h.i.ʥ.a.k.a.b.u.r.a	h i dʑ a k a b u r a	hach1238			Japonic	107
+467	47_knee	knee	Shuri	Shuri	ʨiɴsi	ʨ.i.ɴ.s.i	tɕ i ɴ s i	shur1243			Japonic	109
+468	47_knee	knee	Kochi	Kōchi	sune	s.u.n.e	s u n e	shik1243			Japonic	108
+469	47_knee	knee	Sado	Sado	hiza	h.i.z.a	h i z a	sado1237			Japonic	107
+470	47_knee	knee	Oki	Oki	ɸuza	ɸ.u.z.a	ɸ u z a	okin1246	27.3738	128.619	Japonic	-107
+471	47_knee	knee	Kagoshima	Kagoshima	hiːza	h.iː.z.a	h iː z a	kyus1238			Japonic	-107
+580	59_know	know	Miyako	Miyako	sɨː	s.ɨː	s ɨː	miya1259	24.7564	125.363	Japonic	134
+581	59_know	know	Tokyo	Tōkyō	sitːeru	s.i.tː.e.r.u	s i tː e r u	toky1238			Japonic	134
+582	59_know	know	Amami	Amami	siʨuri	s.i.ʨ.u.r.i	s i tɕ u r i	naze1238			Japonic	134
+583	59_know	know	Kyoto	Kyōto	sitːeru	s.i.tː.e.r.u	s i tː e r u	kyot1238			Japonic	134
+584	59_know	know	Hachijo	Hachijō	obietara	o.b.ie.t.a.r.a	o b i e t a r a	hach1238			Japonic	133
+585	59_know	know	Shuri	Shuri	siʦːoːɴ	s.i.ʦː.oː.ɴ	s i tsː oː ɴ	shur1243			Japonic	134
+586	59_know	know	Kochi	Kōchi	sitːjuː	s.i.tː.j.uː	s i tː j uː	shik1243			Japonic	134
+587	59_know	know	Sado	Sado	sitːoru	s.i.tː.o.r.u	s i tː o r u	sado1237			Japonic	134
+588	59_know	know	Oki	Oki	siʨːoru	s.i.ʨː.o.r.u	s i tɕː o r u	okin1246	27.3738	128.619	Japonic	134
+589	59_know	know	Kagoshima	Kagoshima	siːːʨo	s.iːː.ʨ.o	s i i/j i tɕ o	kyus1238			Japonic	134
+1190	120_lake	lake	Tokyo	Tōkyō	mizuːmi	m.i.z.uː.m.i	m i z uː m i	toky1238			Japonic	270
+1191	120_lake	lake	Amami	Amami	ʔixi	ʔ.i.x.i	ʔ i x i	naze1238			Japonic	269
+1192	120_lake	lake	Kyoto	Kyōto	mizuːmi	m.i.z.uː.m.i	m i z uː m i	kyot1238			Japonic	270
+1193	120_lake	lake	Hachijo	Hachijō	ike	i.k.e	i k e	hach1238			Japonic	269
+1194	120_lake	lake	Shuri	Shuri	ʔuhugumui	ʔ.u.h.u.g.u.m.ui	ʔ u h u g u m ui	shur1243			Japonic	271
+1195	120_lake	lake	Kochi	Kōchi	ike	i.k.e	i k e	shik1243			Japonic	269
+1196	120_lake	lake	Sado	Sado	ike	i.k.e	i k e	sado1237			Japonic	269
+1197	120_lake	lake	Oki	Oki	eke	e.k.e	e k e	okin1246	27.3738	128.619	Japonic	269
+1198	120_lake	lake	Kagoshima	Kagoshima	mizuiuɴ	m.i.z.uiu.ɴ	m i z u i u ɴ	kyus1238			Japonic	270
+241	25_leaf	leaf	Miyako	Miyako	paː	p.aː	p aː	miya1259	24.7564	125.363	Japonic	67
+242	25_leaf	leaf	Tokyo	Tōkyō	hapːa	h.a.pː.a	h a pː a	toky1238			Japonic	67
+243	25_leaf	leaf	Amami	Amami	hwa	h.w.a	h w a	naze1238			Japonic	67
+244	25_leaf	leaf	Kyoto	Kyōto	haː	h.aː	h aː	kyot1238			Japonic	67
+245	25_leaf	leaf	Hachijo	Hachijō	ha	h.a	h a	hach1238			Japonic	67
+246	25_leaf	leaf	Shuri	Shuri	hwaː	h.w.aː	h w aː	shur1243			Japonic	67
+247	25_leaf	leaf	Kochi	Kōchi	ha	h.a	h a	shik1243			Japonic	67
+248	25_leaf	leaf	Sado	Sado	ha	h.a	h a	sado1237			Japonic	67
+249	25_leaf	leaf	Oki	Oki	ɸa	ɸ.a	ɸ a	okin1246	27.3738	128.619	Japonic	67
+250	25_leaf	leaf	Kagoshima	Kagoshima	hai	h.ai	h a i	kyus1238			Japonic	67
+1681	170_left	left	Miyako	Miyako	pɨdaɭ	p.ɨ.d.a.ɭ	p ɨ d a ɭ	miya1259	24.7564	125.363	Japonic	394
+1682	170_left	left	Tokyo	Tōkyō	hidari	h.i.d.a.r.i	h i d a r i	toky1238			Japonic	394
+1683	170_left	left	Amami	Amami	hiʥari	h.i.ʥ.a.r.i	h i dʑ a r i	naze1238			Japonic	394
+1684	170_left	left	Kyoto	Kyōto	hidari	h.i.d.a.r.i	h i d a r i	kyot1238			Japonic	394
+1685	170_left	left	Hachijo	Hachijō	hidari	h.i.d.a.r.i	h i d a r i	hach1238			Japonic	394
+1686	170_left	left	Shuri	Shuri	hwizai	h.w.i.z.ai	h w i z a i	shur1243			Japonic	394
+1687	170_left	left	Kochi	Kōchi	hidari	h.i.d.a.r.i	h i d a r i	shik1243			Japonic	394
+1688	170_left	left	Sado	Sado	hidari	h.i.d.a.r.i	h i d a r i	sado1237			Japonic	394
+1689	170_left	left	Oki	Oki	ɸudari	ɸ.u.d.a.r.i	ɸ u d a r i	okin1246	27.3738	128.619	Japonic	394
+1690	170_left	left	Kagoshima	Kagoshima	hidai	h.i.d.ai	h i d a i	kyus1238			Japonic	394
+1258	127_leg	leg	Miyako	Miyako	karapaʣɨ	k.a.r.a.p.a.ʣ.ɨ	k a r a p a dz ɨ	miya1259	24.7564	125.363	Japonic	287
+1259	127_leg	leg	Tokyo	Tōkyō	asi	a.s.i	a s i	toky1238			Japonic	288
+1260	127_leg	leg	Amami	Amami	hagi	h.a.g.i	h a g i	naze1238			Japonic	287
+1261	127_leg	leg	Kyoto	Kyōto	asi	a.s.i	a s i	kyot1238			Japonic	288
+1262	127_leg	leg	Hachijo	Hachijō	hagi	h.a.g.i	h a g i	hach1238			Japonic	287
+1263	127_leg	leg	Shuri	Shuri	hwiɕa	h.w.i.ɕ.a	h w i ɕ a	shur1243			Japonic	286
+1264	127_leg	leg	Kochi	Kōchi	asi	a.s.i	a s i	shik1243			Japonic	288
+1265	127_leg	leg	Sado	Sado	mukoːzune	m.u.k.oː.z.u.n.e	m u k oː z u n e	sado1237			Japonic	286
+1266	127_leg	leg	Oki	Oki	asi	a.s.i	a s i	okin1246	27.3738	128.619	Japonic	288
+1267	127_leg	leg	Kagoshima	Kagoshima	aɕ	a.ɕ	a ɕ	kyus1238			Japonic	288
+660	67_lie	lie	Miyako	Miyako	jukutaːɭ	j.u.k.u.t.aː.ɭ	j u k u t aː ɭ	miya1259	24.7564	125.363	Japonic	152
+661	67_lie	lie	Tokyo	Tōkyō	neteru	n.e.t.e.r.u	n e t e r u	toky1238			Japonic	150
+662	67_lie	lie	Amami	Amami	nɨhuθuri	n.ɨ.h.u.θ.u.r.i	n ɨ h u θ u r i	naze1238			Japonic	151
+663	67_lie	lie	Kyoto	Kyōto	neteru	n.e.t.e.r.u	n e t e r u	kyot1238			Japonic	150
+664	67_lie	lie	Hachijo	Hachijō	nete	n.e.t.e	n e t e	hach1238			Japonic	150
+665	67_lie	lie	Shuri	Shuri	niɴtoːɴ	n.i.ɴ.t.oː.ɴ	n i ɴ t oː ɴ	shur1243			Japonic	151
+666	67_lie	lie	Kochi	Kōchi	nejuː	n.e.j.uː	n e j uː	shik1243			Japonic	150
+667	67_lie	lie	Sado	Sado	netoru	n.e.t.o.r.u	n e t o r u	sado1237			Japonic	150
+668	67_lie	lie	Oki	Oki	neʨoːru	n.e.ʨ.oː.r.u	n e tɕ oː r u	okin1246	27.3738	128.619	Japonic	150
+669	67_lie	lie	Kagoshima	Kagoshima	neiʨo	n.ei.ʨ.o	n e i tɕ o	kyus1238			Japonic	150
+1288	130_lip	lip	Miyako	Miyako	suba	s.u.b.a	s u b a	miya1259	24.7564	125.363	Japonic	297
+1289	130_lip	lip	Tokyo	Tōkyō	kuʨibiru	k.u.ʨ.i.b.i.r.u	k u tɕ i b i r u	toky1238			Japonic	296
+1290	130_lip	lip	Amami	Amami	ʔwɨːsɨba	ʔ.w.ɨː.s.ɨ.b.a	ʔ w ɨː s ɨ b a	naze1238			Japonic	297
+1291	130_lip	lip	Kyoto	Kyōto	kuʨibiru	k.u.ʨ.i.b.i.r.u	k u tɕ i b i r u	kyot1238			Japonic	296
+1292	130_lip	lip	Hachijo	Hachijō	kuʨibiru	k.u.ʨ.i.b.i.r.u	k u tɕ i b i r u	hach1238			Japonic	296
+1293	130_lip	lip	Shuri	Shuri	ʃiba	ʃ.i.b.a	ʃ i b a	shur1243			Japonic	297
+1294	130_lip	lip	Kochi	Kōchi	kutibiro	k.u.t.i.b.i.r.o	k u t i b i r o	shik1243			Japonic	296
+1295	130_lip	lip	Sado	Sado	kuʨibera	k.u.ʨ.i.b.e.r.a	k u tɕ i b e r a	sado1237			Japonic	296
+1296	130_lip	lip	Oki	Oki	kuʨibero	k.u.ʨ.i.b.e.r.o	k u tɕ i b e r o	okin1246	27.3738	128.619	Japonic	296
+1297	130_lip	lip	Kagoshima	Kagoshima	suba	s.u.b.a	s u b a	kyus1238			Japonic	297
+1298	130_lip	lip	Amami	Amami	ɕaːsɨba	ɕ.aː.s.ɨ.b.a	ɕ aː s ɨ b a	naze1238			Japonic	297
+521	53_liver	liver	Miyako	Miyako	ʦɨmu	ʦ.ɨ.m.u	ts ɨ m u	miya1259	24.7564	125.363	Japonic	119
+522	53_liver	liver	Tokyo	Tōkyō	kimo	k.i.m.o	k i m o	toky1238			Japonic	119
+523	53_liver	liver	Amami	Amami	kimo	k.i.m.o	k i m o	naze1238			Japonic	119
+524	53_liver	liver	Kyoto	Kyōto	kimo	k.i.m.o	k i m o	kyot1238			Japonic	119
+525	53_liver	liver	Hachijo	Hachijō	kimo	k.i.m.o	k i m o	hach1238			Japonic	119
+526	53_liver	liver	Shuri	Shuri	ʨimu	ʨ.i.m.u	tɕ i m u	shur1243			Japonic	119
+527	53_liver	liver	Kochi	Kōchi	kimo	k.i.m.o	k i m o	shik1243			Japonic	119
+528	53_liver	liver	Sado	Sado	kimo	k.i.m.o	k i m o	sado1237			Japonic	119
+529	53_liver	liver	Kagoshima	Kagoshima	kimo	k.i.m.o	k i m o	kyus1238			Japonic	119
+141	15_long	long	Miyako	Miyako	naga	n.a.g.a	n a g a	miya1259	24.7564	125.363	Japonic	48
+142	15_long	long	Tokyo	Tōkyō	naŋai	n.a.ŋ.ai	n a ŋ a i	toky1238			Japonic	48
+143	15_long	long	Amami	Amami	nagasari	n.a.g.a.s.a.r.i	n a g a s a r i	naze1238			Japonic	48
+144	15_long	long	Kyoto	Kyōto	naŋai	n.a.ŋ.ai	n a ŋ a i	kyot1238			Japonic	48
+145	15_long	long	Hachijo	Hachijō	nagakʲa	n.a.g.a.kʲ.a	n a g a kʲ a	hach1238			Japonic	48
+146	15_long	long	Shuri	Shuri	nagasaɴ	n.a.g.a.s.a.ɴ	n a g a s a ɴ	shur1243			Japonic	48
+147	15_long	long	Kochi	Kōchi	nagai	n.a.g.ai	n a g a i	shik1243			Japonic	48
+148	15_long	long	Sado	Sado	nagai	n.a.g.ai	n a g a i	sado1237			Japonic	48
+149	15_long	long	Oki	Oki	naŋeː	n.a.ŋ.eː	n a ŋ eː	okin1246	27.3738	128.619	Japonic	48
+150	15_long	long	Kagoshima	Kagoshima	nage	n.a.g.e	n a g e	kyus1238			Japonic	48
+211	22_louse	louse	Miyako	Miyako	sːam	sː.a.m	sː a m	miya1259	24.7564	125.363	Japonic	63
+212	22_louse	louse	Tokyo	Tōkyō	sirami	s.i.r.a.m.i	s i r a m i	toky1238			Japonic	63
+213	22_louse	louse	Amami	Amami	siraɴ	s.i.r.a.ɴ	s i r a ɴ	naze1238			Japonic	63
+214	22_louse	louse	Kyoto	Kyōto	sirami	s.i.r.a.m.i	s i r a m i	kyot1238			Japonic	63
+215	22_louse	louse	Hachijo	Hachijō	ɕaɴme	ɕ.a.ɴ.m.e	ɕ a ɴ m e	hach1238			Japonic	63
+216	22_louse	louse	Shuri	Shuri	siraɴ	s.i.r.a.ɴ	s i r a ɴ	shur1243			Japonic	63
+217	22_louse	louse	Kochi	Kōchi	sirami	s.i.r.a.m.i	s i r a m i	shik1243			Japonic	63
+218	22_louse	louse	Sado	Sado	sirami	s.i.r.a.m.i	s i r a m i	sado1237			Japonic	63
+219	22_louse	louse	Oki	Oki	sirame	s.i.r.a.m.e	s i r a m e	okin1246	27.3738	128.619	Japonic	63
+220	22_louse	louse	Kagoshima	Kagoshima	sitame	s.i.t.a.m.e	s i t a m e	kyus1238			Japonic	63
+161	17_man	man	Miyako	Miyako	bɨkidum	b.ɨ.k.i.d.u.m	b ɨ k i d u m	miya1259	24.7564	125.363	Japonic	54
+162	17_man	man	Tokyo	Tōkyō	otoko	o.t.o.k.o	o t o k o	toky1238			Japonic	53
+163	17_man	man	Amami	Amami	jeɴga	j.e.ɴ.g.a	j e ɴ g a	naze1238			Japonic	55
+164	17_man	man	Kyoto	Kyōto	otoko	o.t.o.k.o	o t o k o	kyot1238			Japonic	53
+165	17_man	man	Hachijo	Hachijō	onokogo	o.n.o.k.o.g.o	o n o k o g o	hach1238			Japonic	52
+166	17_man	man	Shuri	Shuri	wikiga	w.i.k.i.g.a	w i k i g a	shur1243			Japonic	54
+167	17_man	man	Kochi	Kōchi	otoko	o.t.o.k.o	o t o k o	shik1243			Japonic	53
+168	17_man	man	Sado	Sado	otoko	o.t.o.k.o	o t o k o	sado1237			Japonic	53
+169	17_man	man	Oki	Oki	otoko	o.t.o.k.o	o t o k o	okin1246	27.3738	128.619	Japonic	53
+170	17_man	man	Kagoshima	Kagoshima	otoko	o.t.o.k.o	o t o k o	kyus1238			Japonic	53
+91	10_many	many	Miyako	Miyako	ukaːʃa	u.k.aː.ʃ.a	u k aː ʃ a	miya1259	24.7564	125.363	Japonic	34
+92	10_many	many	Tokyo	Tōkyō	takusaɴ	t.a.k.u.s.a.ɴ	t a k u s a ɴ	toky1238			Japonic	31
+93	10_many	many	Amami	Amami	ɕogoɕaɴ	ɕ.o.g.o.ɕ.a.ɴ	ɕ o g o ɕ a ɴ	naze1238			Japonic	34
+94	10_many	many	Kyoto	Kyōto	joːke	j.oː.k.e	j oː k e	kyot1238			Japonic	32
+95	10_many	many	Hachijo	Hachijō	sikːari	s.i.kː.a.r.i	s i kː a r i	hach1238			Japonic	30
+96	10_many	many	Shuri	Shuri	ʔuhoːku	ʔ.u.h.oː.k.u	ʔ u h oː k u	shur1243			Japonic	29
+97	10_many	many	Kochi	Kōchi	joke	j.o.k.e	j o k e	shik1243			Japonic	32
+98	10_many	many	Sado	Sado	ikai	i.k.ai	i k a i	sado1237			Japonic	33
+99	10_many	many	Oki	Oki	etːo	e.tː.o	e tː o	okin1246	27.3738	128.619	Japonic	27
+100	10_many	many	Kagoshima	Kagoshima	dosːai	d.o.sː.ai	d o sː a i	kyus1238			Japonic	28
+281	29_meat	meat	Miyako	Miyako	sɨːsɨ	s.ɨː.s.ɨ	s ɨː s ɨ	miya1259	24.7564	125.363	Japonic	73
+282	29_meat	meat	Tokyo	Tōkyō	niku	n.i.k.u	n i k u	toky1238			Japonic	72
+283	29_meat	meat	Amami	Amami	sisi	s.i.s.i	s i s i	naze1238			Japonic	73
+284	29_meat	meat	Kyoto	Kyōto	niku	n.i.k.u	n i k u	kyot1238			Japonic	72
+285	29_meat	meat	Hachijo	Hachijō	niku	n.i.k.u	n i k u	hach1238			Japonic	72
+286	29_meat	meat	Shuri	Shuri	sisi	s.i.s.i	s i s i	shur1243			Japonic	73
+287	29_meat	meat	Kochi	Kōchi	niku	n.i.k.u	n i k u	shik1243			Japonic	72
+288	29_meat	meat	Sado	Sado	niku	n.i.k.u	n i k u	sado1237			Japonic	72
+289	29_meat	meat	Oki	Oki	niku	n.i.k.u	n i k u	okin1246	27.3738	128.619	Japonic	72
+290	29_meat	meat	Kagoshima	Kagoshima	ni	n.i	n i	kyus1238			Japonic	72
+1337	135_milk	milk	Miyako	Miyako	ʦɨː	ʦ.ɨː	ts ɨː	miya1259	24.7564	125.363	Japonic	305
+1338	135_milk	milk	Tokyo	Tōkyō	oʨiʨi	o.ʨ.i.ʨ.i	o tɕ i tɕ i	toky1238			Japonic	305
+1339	135_milk	milk	Amami	Amami	ʨi	ʨ.i	tɕ i	naze1238			Japonic	305
+1340	135_milk	milk	Kyoto	Kyōto	ʨiʨi	ʨ.i.ʨ.i	tɕ i tɕ i	kyot1238			Japonic	305
+1341	135_milk	milk	Hachijo	Hachijō	ʨi	ʨ.i	tɕ i	hach1238			Japonic	305
+1342	135_milk	milk	Shuri	Shuri	ʨiː	ʨ.iː	tɕ iː	shur1243			Japonic	305
+1343	135_milk	milk	Kochi	Kōchi	titi	t.i.t.i	t i t i	shik1243			Japonic	305
+1344	135_milk	milk	Sado	Sado	ʨiʨi	ʨ.i.ʨ.i	tɕ i tɕ i	sado1237			Japonic	305
+1345	135_milk	milk	Oki	Oki	ʨi	ʨ.i	tɕ i	okin1246	27.3738	128.619	Japonic	305
+1346	135_milk	milk	Kagoshima	Kagoshima	ʨiʨi	ʨ.i.ʨ.i	tɕ i tɕ i	kyus1238			Japonic	305
+720	73_moon	moon	Miyako	Miyako	ʦɨʦɨ	ʦ.ɨ.ʦ.ɨ	ts ɨ ts ɨ	miya1259	24.7564	125.363	Japonic	168
+721	73_moon	moon	Tokyo	Tōkyō	ʦuki	ʦ.u.k.i	ts u k i	toky1238			Japonic	168
+722	73_moon	moon	Amami	Amami	ʦɨki	ʦ.ɨ.k.i	ts ɨ k i	naze1238			Japonic	168
+723	73_moon	moon	Kyoto	Kyōto	ʦuki	ʦ.u.k.i	ts u k i	kyot1238			Japonic	168
+724	73_moon	moon	Hachijo	Hachijō	ʦuki	ʦ.u.k.i	ts u k i	hach1238			Japonic	168
+725	73_moon	moon	Shuri	Shuri	ɕiʨi	ɕ.i.ʨ.i	ɕ i tɕ i	shur1243			Japonic	168
+726	73_moon	moon	Kochi	Kōchi	tuki	t.u.k.i	t u k i	shik1243			Japonic	168
+727	73_moon	moon	Sado	Sado	ʦuki	ʦ.u.k.i	ts u k i	sado1237			Japonic	168
+728	73_moon	moon	Oki	Oki	ʦuki	ʦ.u.k.i	ts u k i	okin1246	27.3738	128.619	Japonic	168
+729	73_moon	moon	Kagoshima	Kagoshima	oʦusːaː	o.ʦ.u.sː.aː	o ts u sː aː	kyus1238			Japonic	168
+1417	143_mother	mother	Miyako	Miyako	mːa	mː.a	mː a	miya1259	24.7564	125.363	Japonic	317
+1418	143_mother	mother	Tokyo	Tōkyō	okaːsaɴ	o.k.aː.s.a.ɴ	o k aː s a ɴ	toky1238			Japonic	318
+1419	143_mother	mother	Amami	Amami	ʔaɴma	ʔ.a.ɴ.m.a	ʔ a ɴ m a	naze1238			Japonic	320
+1420	143_mother	mother	Kyoto	Kyōto	okaːʨaɴ	o.k.aː.ʨ.a.ɴ	o k aː tɕ a ɴ	kyot1238			Japonic	318
+1421	143_mother	mother	Hachijo	Hachijō	kaka	k.a.k.a	k a k a	hach1238			Japonic	318
+1422	143_mother	mother	Shuri	Shuri	winagunu	w.i.n.a.g.u.n.u	w i n a g u n u	shur1243			Japonic	321
+1423	143_mother	mother	Kochi	Kōchi	okaːsaɴ	o.k.aː.s.a.ɴ	o k aː s a ɴ	shik1243			Japonic	318
+1424	143_mother	mother	Sado	Sado	umai	u.m.ai	u m a i	sado1237			Japonic	319
+1425	143_mother	mother	Oki	Oki	kaka	k.a.k.a	k a k a	okin1246	27.3738	128.619	Japonic	318
+1426	143_mother	mother	Kagoshima	Kagoshima	okaːhaɴ	o.k.aː.h.a.ɴ	o k aː h a ɴ	kyus1238			Japonic	318
+850	86_mountain	mountain	Miyako	Miyako	jama	j.a.m.a	j a m a	miya1259	24.7564	125.363	Japonic	188
+851	86_mountain	mountain	Tokyo	Tōkyō	jama	j.a.m.a	j a m a	toky1238			Japonic	188
+852	86_mountain	mountain	Amami	Amami	jama	j.a.m.a	j a m a	naze1238			Japonic	188
+853	86_mountain	mountain	Kyoto	Kyōto	jama	j.a.m.a	j a m a	kyot1238			Japonic	188
+854	86_mountain	mountain	Hachijo	Hachijō	jama	j.a.m.a	j a m a	hach1238			Japonic	188
+855	86_mountain	mountain	Shuri	Shuri	mui	m.ui	m ui	shur1243			Japonic	189
+856	86_mountain	mountain	Kochi	Kōchi	jama	j.a.m.a	j a m a	shik1243			Japonic	188
+857	86_mountain	mountain	Sado	Sado	jama	j.a.m.a	j a m a	sado1237			Japonic	188
+858	86_mountain	mountain	Oki	Oki	jama	j.a.m.a	j a m a	okin1246	27.3738	128.619	Japonic	188
+859	86_mountain	mountain	Kagoshima	Kagoshima	jama	j.a.m.a	j a m a	kyus1238			Japonic	188
+412	42_mouth	mouth	Miyako	Miyako	fuʦɨ	f.u.ʦ.ɨ	f u ts ɨ	miya1259	24.7564	125.363	Japonic	99
+413	42_mouth	mouth	Tokyo	Tōkyō	kuʨi	k.u.ʨ.i	k u tɕ i	toky1238			Japonic	99
+414	42_mouth	mouth	Amami	Amami	kuʨi	k.u.ʨ.i	k u tɕ i	naze1238			Japonic	99
+415	42_mouth	mouth	Kyoto	Kyōto	kuʨi	k.u.ʨ.i	k u tɕ i	kyot1238			Japonic	99
+416	42_mouth	mouth	Hachijo	Hachijō	kuʨi	k.u.ʨ.i	k u tɕ i	hach1238			Japonic	99
+417	42_mouth	mouth	Shuri	Shuri	kuʨi	k.u.ʨ.i	k u tɕ i	shur1243			Japonic	99
+418	42_mouth	mouth	Kochi	Kōchi	kuti	k.u.t.i	k u t i	shik1243			Japonic	99
+419	42_mouth	mouth	Sado	Sado	kuʨi	k.u.ʨ.i	k u tɕ i	sado1237			Japonic	99
+420	42_mouth	mouth	Oki	Oki	kuʨi	k.u.ʨ.i	k u tɕ i	okin1246	27.3738	128.619	Japonic	99
+421	42_mouth	mouth	Kagoshima	Kagoshima	kui	k.ui	k ui	kyus1238			Japonic	99
+990	100_name	name	Miyako	Miyako	naː	n.aː	n aː	miya1259	24.7564	125.363	Japonic	221
+991	100_name	name	Tokyo	Tōkyō	namae	n.a.m.ae	n a m a e	toky1238			Japonic	221
+992	100_name	name	Amami	Amami	naː	n.aː	n aː	naze1238			Japonic	221
+993	100_name	name	Kyoto	Kyōto	naː	n.aː	n aː	kyot1238			Japonic	221
+994	100_name	name	Hachijo	Hachijō	namia	n.a.m.ia	n a m i a	hach1238			Japonic	221
+995	100_name	name	Shuri	Shuri	naː	n.aː	n aː	shur1243			Japonic	221
+996	100_name	name	Kochi	Kōchi	na	n.a	n a	shik1243			Japonic	221
+997	100_name	name	Sado	Sado	nama	n.a.m.a	n a m a	sado1237			Japonic	221
+998	100_name	name	Oki	Oki	na	n.a	n a	okin1246	27.3738	128.619	Japonic	221
+999	100_name	name	Kagoshima	Kagoshima	nai	n.ai	n a i	kyus1238			Japonic	221
+1531	155_narrow	narrow	Miyako	Miyako	iba	i.b.a	i b a	miya1259	24.7564	125.363	Japonic	0
+1532	155_narrow	narrow	Tokyo	Tōkyō	semai	s.e.m.ai	s e m a i	toky1238			Japonic	350
+1533	155_narrow	narrow	Amami	Amami	sebasari	s.e.b.a.s.a.r.i	s e b a s a r i	naze1238			Japonic	350
+1534	155_narrow	narrow	Kyoto	Kyōto	sebai	s.e.b.ai	s e b a i	kyot1238			Japonic	350
+1535	155_narrow	narrow	Hachijo	Hachijō	sebakʲa	s.e.b.a.kʲ.a	s e b a kʲ a	hach1238			Japonic	350
+1536	155_narrow	narrow	Shuri	Shuri	ʃibasaɴ	ʃ.i.b.a.s.a.ɴ	ʃ i b a s a ɴ	shur1243			Japonic	350
+1537	155_narrow	narrow	Kochi	Kōchi	sebai	s.e.b.ai	s e b a i	shik1243			Japonic	350
+1538	155_narrow	narrow	Sado	Sado	semai	s.e.m.ai	s e m a i	sado1237			Japonic	350
+1539	155_narrow	narrow	Oki	Oki	semeː	s.e.m.eː	s e m eː	okin1246	27.3738	128.619	Japonic	350
+1540	155_narrow	narrow	Kagoshima	Kagoshima	seme	s.e.m.e	s e m e	kyus1238			Japonic	350
+1308	132_navel	navel	Miyako	Miyako	mːbu	mː.b.u	mː b u	miya1259	24.7564	125.363	Japonic	301
+1309	132_navel	navel	Tokyo	Tōkyō	oheso	o.h.e.s.o	o h e s o	toky1238			Japonic	300
+1310	132_navel	navel	Amami	Amami	husu	h.u.s.u	h u s u	naze1238			Japonic	300
+1311	132_navel	navel	Kyoto	Kyōto	heso	h.e.s.o	h e s o	kyot1238			Japonic	300
+1312	132_navel	navel	Hachijo	Hachijō	heʦːogo	h.e.ʦː.o.g.o	h e tsː o g o	hach1238			Japonic	300
+1313	132_navel	navel	Shuri	Shuri	husu	h.u.s.u	h u s u	shur1243			Japonic	300
+1314	132_navel	navel	Kochi	Kōchi	heso	h.e.s.o	h e s o	shik1243			Japonic	300
+1315	132_navel	navel	Sado	Sado	heso	h.e.s.o	h e s o	sado1237			Japonic	300
+1316	132_navel	navel	Oki	Oki	ɸeso	ɸ.e.s.o	ɸ e s o	okin1246	27.3738	128.619	Japonic	300
+1317	132_navel	navel	Kagoshima	Kagoshima	heiso	h.ei.s.o	h e i s o	kyus1238			Japonic	300
+1551	157_near	near	Miyako	Miyako	atːsa	a.tː.s.a	a tː s a	miya1259	24.7564	125.363	Japonic	353
+1552	157_near	near	Tokyo	Tōkyō	ʨikai	ʨ.i.k.ai	tɕ i k a i	toky1238			Japonic	352
+1553	157_near	near	Amami	Amami	ʨikʲasari	ʨ.i.kʲ.a.s.a.r.i	tɕ i kʲ a s a r i	naze1238			Japonic	352
+1554	157_near	near	Kyoto	Kyōto	ʨikai	ʨ.i.k.ai	tɕ i k a i	kyot1238			Japonic	352
+1555	157_near	near	Hachijo	Hachijō	ʨikakʲa	ʨ.i.k.a.kʲ.a	tɕ i k a kʲ a	hach1238			Japonic	352
+1556	157_near	near	Shuri	Shuri	ʨiʦasaɴ	ʨ.i.ʦ.a.s.a.ɴ	tɕ i ts a s a ɴ	shur1243			Japonic	352
+1557	157_near	near	Kochi	Kōchi	tikai	t.i.k.ai	t i k a i	shik1243			Japonic	352
+1558	157_near	near	Sado	Sado	ʨikai	ʨ.i.k.ai	tɕ i k a i	sado1237			Japonic	352
+1559	157_near	near	Oki	Oki	ʨikeː	ʨ.i.k.eː	tɕ i k eː	okin1246	27.3738	128.619	Japonic	352
+1560	157_near	near	Kagoshima	Kagoshima	ʨike	ʨ.i.k.e	tɕ i k e	kyus1238			Japonic	352
+492	50_neck	neck	Miyako	Miyako	nudufuʣɨ	n.u.d.u.f.u.ʣ.ɨ	n u d u f u dz ɨ	miya1259	24.7564	125.363	Japonic	115
+493	50_neck	neck	Tokyo	Tōkyō	kubi	k.u.b.i	k u b i	toky1238			Japonic	114
+494	50_neck	neck	Amami	Amami	kubi	k.u.b.i	k u b i	naze1238			Japonic	114
+495	50_neck	neck	Kyoto	Kyōto	kubi	k.u.b.i	k u b i	kyot1238			Japonic	114
+496	50_neck	neck	Hachijo	Hachijō	kubi	k.u.b.i	k u b i	hach1238			Japonic	114
+497	50_neck	neck	Shuri	Shuri	kubi	k.u.b.i	k u b i	shur1243			Japonic	114
+498	50_neck	neck	Kochi	Kōchi	kubi	k.u.b.i	k u b i	shik1243			Japonic	114
+499	50_neck	neck	Sado	Sado	kubi	k.u.b.i	k u b i	sado1237			Japonic	114
+500	50_neck	neck	Oki	Oki	kubi	k.u.b.i	k u b i	okin1246	27.3738	128.619	Japonic	114
+501	50_neck	neck	Kagoshima	Kagoshima	kui	k.ui	k ui	kyus1238			Japonic	114
+950	96_new	new	Miyako	Miyako	mɨː	m.ɨː	m ɨː	miya1259	24.7564	125.363	Japonic	210
+951	96_new	new	Tokyo	Tōkyō	atarasiː	a.t.a.r.a.s.iː	a t a r a s iː	toky1238			Japonic	207
+952	96_new	new	Amami	Amami	miːsari	m.iː.s.a.r.i	m iː s a r i	naze1238			Japonic	210
+953	96_new	new	Kyoto	Kyōto	sara	s.a.r.a	s a r a	kyot1238			Japonic	208
+954	96_new	new	Hachijo	Hachijō	atarasikʲa	a.t.a.r.a.s.i.kʲ.a	a t a r a s i kʲ a	hach1238			Japonic	207
+955	96_new	new	Shuri	Shuri	miːsaɴ	m.iː.s.a.ɴ	m iː s a ɴ	shur1243			Japonic	210
+956	96_new	new	Kochi	Kōchi	siɴkina	s.i.ɴ.k.i.n.a	s i ɴ k i n a	shik1243			Japonic	209
+957	96_new	new	Sado	Sado	atarasiː	a.t.a.r.a.s.iː	a t a r a s iː	sado1237			Japonic	207
+958	96_new	new	Oki	Oki	atarasi	a.t.a.r.a.s.i	a t a r a s i	okin1246	27.3738	128.619	Japonic	207
+959	96_new	new	Kagoshima	Kagoshima	nike	n.i.k.e	n i k e	kyus1238			Japonic	210
+910	92_night	night	Miyako	Miyako	juɭ	j.u.ɭ	j u ɭ	miya1259	24.7564	125.363	Japonic	196
+911	92_night	night	Tokyo	Tōkyō	joru	j.o.r.u	j o r u	toky1238			Japonic	196
+912	92_night	night	Amami	Amami	juru	j.u.r.u	j u r u	naze1238			Japonic	196
+913	92_night	night	Kyoto	Kyōto	joru	j.o.r.u	j o r u	kyot1238			Japonic	196
+914	92_night	night	Hachijo	Hachijō	joru	j.o.r.u	j o r u	hach1238			Japonic	196
+915	92_night	night	Shuri	Shuri	juru	j.u.r.u	j u r u	shur1243			Japonic	196
+916	92_night	night	Kochi	Kōchi	joru	j.o.r.u	j o r u	shik1243			Japonic	196
+917	92_night	night	Sado	Sado	joru	j.o.r.u	j o r u	sado1237			Japonic	196
+918	92_night	night	Oki	Oki	joru	j.o.r.u	j o r u	okin1246	27.3738	128.619	Japonic	196
+919	92_night	night	Kagoshima	Kagoshima	baiɴ	b.ai.ɴ	b a i ɴ	kyus1238			Japonic	197
+402	41_nose	nose	Miyako	Miyako	pana	p.a.n.a	p a n a	miya1259	24.7564	125.363	Japonic	98
+403	41_nose	nose	Tokyo	Tōkyō	hana	h.a.n.a	h a n a	toky1238			Japonic	98
+404	41_nose	nose	Amami	Amami	hana	h.a.n.a	h a n a	naze1238			Japonic	98
+405	41_nose	nose	Kyoto	Kyōto	hana	h.a.n.a	h a n a	kyot1238			Japonic	98
+406	41_nose	nose	Hachijo	Hachijō	hana	h.a.n.a	h a n a	hach1238			Japonic	98
+407	41_nose	nose	Shuri	Shuri	hana	h.a.n.a	h a n a	shur1243			Japonic	98
+408	41_nose	nose	Kochi	Kōchi	hana	h.a.n.a	h a n a	shik1243			Japonic	98
+409	41_nose	nose	Sado	Sado	hana	h.a.n.a	h a n a	sado1237			Japonic	98
+410	41_nose	nose	Oki	Oki	hana	h.a.n.a	h a n a	okin1246	27.3738	128.619	Japonic	98
+411	41_nose	nose	Kagoshima	Kagoshima	haina	h.ai.n.a	h a i n a	kyus1238			Japonic	98
+71	8_not	not	Miyako	Miyako	araŋ	a.r.a.ŋ	a r a ŋ	miya1259	24.7564	125.363	Japonic	23
+72	8_not	not	Tokyo	Tōkyō	nai	n.ai	n a i	toky1238			Japonic	22
+73	8_not	not	Amami	Amami	ʔaraɴ	ʔ.a.r.a.ɴ	ʔ a r a ɴ	naze1238			Japonic	23
+74	8_not	not	Kyoto	Kyōto	nai	n.ai	n a i	kyot1238			Japonic	22
+75	8_not	not	Hachijo	Hachijō	nakːja	n.a.kː.j.a	n a kː j a	hach1238			Japonic	22
+76	8_not	not	Shuri	Shuri	neːɴ	n.eː.ɴ	n eː ɴ	shur1243			Japonic	22
+77	8_not	not	Kochi	Kōchi	nai	n.ai	n a i	shik1243			Japonic	22
+78	8_not	not	Sado	Sado	nai	n.ai	n a i	sado1237			Japonic	22
+79	8_not	not	Oki	Oki	neː	n.eː	n eː	okin1246	27.3738	128.619	Japonic	22
+80	8_not	not	Kagoshima	Kagoshima	naka	n.a.k.a	n a k a	kyus1238			Japonic	22
+1701	172_old	old	Miyako	Miyako	gaba	g.a.b.a	g a b a	miya1259	24.7564	125.363	Japonic	397
+1702	172_old	old	Tokyo	Tōkyō	hurui	h.u.r.ui	h u r ui	toky1238			Japonic	396
+1703	172_old	old	Amami	Amami	hurusari	h.u.r.u.s.a.r.i	h u r u s a r i	naze1238			Japonic	396
+1704	172_old	old	Kyoto	Kyōto	hurui	h.u.r.ui	h u r ui	kyot1238			Japonic	396
+1705	172_old	old	Hachijo	Hachijō	hurusikʲa	h.u.r.u.s.i.kʲ.a	h u r u s i kʲ a	hach1238			Japonic	396
+1706	172_old	old	Shuri	Shuri	hurusaɴ	h.u.r.u.s.a.ɴ	h u r u s a ɴ	shur1243			Japonic	396
+1707	172_old	old	Kochi	Kōchi	hurui	h.u.r.ui	h u r ui	shik1243			Japonic	396
+1708	172_old	old	Sado	Sado	hurusiː	h.u.r.u.s.iː	h u r u s iː	sado1237			Japonic	396
+1709	172_old	old	Oki	Oki	ɸuriː	ɸ.u.r.iː	ɸ u r iː	okin1246	27.3738	128.619	Japonic	396
+1710	172_old	old	Kagoshima	Kagoshima	ɸuri	ɸ.u.r.i	ɸ u r i	kyus1238			Japonic	396
+101	11_one	one	Miyako	Miyako	pɨtiːsɨ	p.ɨ.t.iː.s.ɨ	p ɨ t iː s ɨ	miya1259	24.7564	125.363	Japonic	35
+102	11_one	one	Tokyo	Tōkyō	hitoʦu	h.i.t.o.ʦ.u	h i t o ts u	toky1238			Japonic	35
+103	11_one	one	Amami	Amami	tɨːʦɨ	t.ɨː.ʦ.ɨ	t ɨː ts ɨ	naze1238			Japonic	35
+104	11_one	one	Kyoto	Kyōto	hitoʦu	h.i.t.o.ʦ.u	h i t o ts u	kyot1238			Japonic	35
+105	11_one	one	Hachijo	Hachijō	teːʦu	t.eː.ʦ.u	t eː ts u	hach1238			Japonic	35
+106	11_one	one	Shuri	Shuri	tiːɕi	t.iː.ɕ.i	t iː ɕ i	shur1243			Japonic	35
+107	11_one	one	Kochi	Kōchi	hitotu	h.i.t.o.t.u	h i t o t u	shik1243			Japonic	35
+108	11_one	one	Sado	Sado	hitoʦu	h.i.t.o.ʦ.u	h i t o ts u	sado1237			Japonic	35
+109	11_one	one	Oki	Oki	ɸutoʦu	ɸ.u.t.o.ʦ.u	ɸ u t o ts u	okin1246	27.3738	128.619	Japonic	35
+110	11_one	one	Kagoshima	Kagoshima	hitoi	h.i.t.oi	h i t o i	kyus1238			Japonic	35
+1080	109_other	other	Miyako	Miyako	pukanu	p.u.k.a.n.u	p u k a n u	miya1259	24.7564	125.363	Japonic	250
+1081	109_other	other	Tokyo	Tōkyō	hokano	h.o.k.a.n.o	h o k a n o	toky1238			Japonic	250
+1082	109_other	other	Amami	Amami	biʨina	b.i.ʨ.i.n.a	b i tɕ i n a	naze1238			Japonic	251
+1083	109_other	other	Kyoto	Kyōto	hokano	h.o.k.a.n.o	h o k a n o	kyot1238			Japonic	250
+1084	109_other	other	Hachijo	Hachijō	hokua	h.o.k.ua	h o k u a	hach1238			Japonic	250
+1085	109_other	other	Shuri	Shuri	biɕinu	b.i.ɕ.i.n.u	b i ɕ i n u	shur1243			Japonic	251
+1086	109_other	other	Kochi	Kōchi	hokano	h.o.k.a.n.o	h o k a n o	shik1243			Japonic	250
+1087	109_other	other	Sado	Sado	hokanoɴ	h.o.k.a.n.o.ɴ	h o k a n o ɴ	sado1237			Japonic	250
+1088	109_other	other	Oki	Oki	hokano	h.o.k.a.n.o	h o k a n o	okin1246	27.3738	128.619	Japonic	250
+1089	109_other	other	Kagoshima	Kagoshima	hokaɴ	h.o.k.a.ɴ	h o k a ɴ	kyus1238			Japonic	250
+840	85_pathroad	path (road)	Miyako	Miyako	mʦɨ	m.ʦ.ɨ	m ts ɨ	miya1259	24.7564	125.363	Japonic	187
+841	85_pathroad	path (road)	Tokyo	Tōkyō	miʨi	m.i.ʨ.i	m i tɕ i	toky1238			Japonic	187
+842	85_pathroad	path (road)	Amami	Amami	miʨi	m.i.ʨ.i	m i tɕ i	naze1238			Japonic	187
+843	85_pathroad	path (road)	Kyoto	Kyōto	miʨi	m.i.ʨ.i	m i tɕ i	kyot1238			Japonic	187
+844	85_pathroad	path (road)	Hachijo	Hachijō	miʨi	m.i.ʨ.i	m i tɕ i	hach1238			Japonic	187
+845	85_pathroad	path (road)	Shuri	Shuri	miʨi	m.i.ʨ.i	m i tɕ i	shur1243			Japonic	187
+846	85_pathroad	path (road)	Kochi	Kōchi	miti	m.i.t.i	m i t i	shik1243			Japonic	187
+847	85_pathroad	path (road)	Sado	Sado	miʨi	m.i.ʨ.i	m i tɕ i	sado1237			Japonic	187
+848	85_pathroad	path (road)	Oki	Oki	meʨi	m.e.ʨ.i	m e tɕ i	okin1246	27.3738	128.619	Japonic	187
+849	85_pathroad	path (road)	Kagoshima	Kagoshima	miː	m.iː	m iː	kyus1238			Japonic	187
+171	18_person	person	Miyako	Miyako	pɨtu	p.ɨ.t.u	p ɨ t u	miya1259	24.7564	125.363	Japonic	56
+172	18_person	person	Tokyo	Tōkyō	hito	h.i.t.o	h i t o	toky1238			Japonic	56
+173	18_person	person	Amami	Amami	ʨu	ʨ.u	tɕ u	naze1238			Japonic	56
+174	18_person	person	Kyoto	Kyōto	hito	h.i.t.o	h i t o	kyot1238			Japonic	56
+175	18_person	person	Hachijo	Hachijō	hito	h.i.t.o	h i t o	hach1238			Japonic	56
+176	18_person	person	Shuri	Shuri	ʦːu	ʦː.u	tsː u	shur1243			Japonic	56
+177	18_person	person	Kochi	Kōchi	hito	h.i.t.o	h i t o	shik1243			Japonic	56
+178	18_person	person	Sado	Sado	niɴgeɴ	n.i.ɴ.g.e.ɴ	n i ɴ g e ɴ	sado1237			Japonic	57
+179	18_person	person	Oki	Oki	ɸuto	ɸ.u.t.o	ɸ u t o	okin1246	27.3738	128.619	Japonic	56
+180	18_person	person	Kagoshima	Kagoshima	hiːto	h.iː.t.o	h iː t o	kyus1238			Japonic	56
+1858	188_pukevomit	puke (vomit)	Miyako	Miyako	pafu	p.a.f.u	p a f u	miya1259	24.7564	125.363	Japonic	430
+1859	188_pukevomit	puke (vomit)	Tokyo	Tōkyō	haku	h.a.k.u	h a k u	toky1238			Japonic	430
+1860	188_pukevomit	puke (vomit)	Amami	Amami	haxuri	h.a.x.u.r.i	h a x u r i	naze1238			Japonic	430
+1861	188_pukevomit	puke (vomit)	Kyoto	Kyōto	haku	h.a.k.u	h a k u	kyot1238			Japonic	430
+1862	188_pukevomit	puke (vomit)	Hachijo	Hachijō	haku	h.a.k.u	h a k u	hach1238			Japonic	430
+1863	188_pukevomit	puke (vomit)	Shuri	Shuri	haʦuɴ	h.a.ʦ.u.ɴ	h a ts u ɴ	shur1243			Japonic	430
+1864	188_pukevomit	puke (vomit)	Kochi	Kōchi	haku	h.a.k.u	h a k u	shik1243			Japonic	430
+1865	188_pukevomit	puke (vomit)	Sado	Sado	haku	h.a.k.u	h a k u	sado1237			Japonic	430
+1866	188_pukevomit	puke (vomit)	Oki	Oki	haku	h.a.k.u	h a k u	okin1246	27.3738	128.619	Japonic	430
+1867	188_pukevomit	puke (vomit)	Kagoshima	Kagoshima	ha	h.a	h a	kyus1238			Japonic	430
+1720	174_pull	pull	Miyako	Miyako	pikau	p.i.k.au	p i k a u	miya1259	24.7564	125.363	Japonic	400
+1721	174_pull	pull	Tokyo	Tōkyō	hipːaru	h.i.pː.a.r.u	h i pː a r u	toky1238			Japonic	400
+1722	174_pull	pull	Amami	Amami	hipːaruri	h.i.pː.a.r.u.r.i	h i pː a r u r i	naze1238			Japonic	400
+1723	174_pull	pull	Kyoto	Kyōto	hipːaru	h.i.pː.a.r.u	h i pː a r u	kyot1238			Japonic	400
+1724	174_pull	pull	Hachijo	Hachijō	hipːaru	h.i.pː.a.r.u	h i pː a r u	hach1238			Japonic	400
+1725	174_pull	pull	Shuri	Shuri	hwiʦuɴ	h.w.i.ʦ.u.ɴ	h w i ts u ɴ	shur1243			Japonic	400
+1726	174_pull	pull	Kochi	Kōchi	hipːaru	h.i.pː.a.r.u	h i pː a r u	shik1243			Japonic	400
+1727	174_pull	pull	Sado	Sado	hipːaru	h.i.pː.a.r.u	h i pː a r u	sado1237			Japonic	400
+1728	174_pull	pull	Oki	Oki	ɕabaru	ɕ.a.b.a.r.u	ɕ a b a r u	okin1246	27.3738	128.619	Japonic	400
+1729	174_pull	pull	Kagoshima	Kagoshima	hipːa	h.i.pː.a	h i pː a	kyus1238			Japonic	400
+1730	175_push	push	Miyako	Miyako	usɨ	u.s.ɨ	u s ɨ	miya1259	24.7564	125.363	Japonic	401
+1731	175_push	push	Tokyo	Tōkyō	osu	o.s.u	o s u	toky1238			Japonic	401
+1732	175_push	push	Amami	Amami	ʔusuri	ʔ.u.s.u.r.i	ʔ u s u r i	naze1238			Japonic	401
+1733	175_push	push	Kyoto	Kyōto	osu	o.s.u	o s u	kyot1238			Japonic	401
+1734	175_push	push	Hachijo	Hachijō	osu	o.s.u	o s u	hach1238			Japonic	401
+1735	175_push	push	Shuri	Shuri	ʔuɕuɴ	ʔ.u.ɕ.u.ɴ	ʔ u ɕ u ɴ	shur1243			Japonic	401
+1736	175_push	push	Kochi	Kōchi	tuku	t.u.k.u	t u k u	shik1243			Japonic	402
+1737	175_push	push	Sado	Sado	osu	o.s.u	o s u	sado1237			Japonic	401
+1738	175_push	push	Oki	Oki	osu	o.s.u	o s u	okin1246	27.3738	128.619	Japonic	401
+1739	175_push	push	Kagoshima	Kagoshima	ois	oi.s	o i s	kyus1238			Japonic	401
+1199	121_rain	rain	Miyako	Miyako	ami	a.m.i	a m i	miya1259	24.7564	125.363	Japonic	272
+1200	121_rain	rain	Tokyo	Tōkyō	ameŋa	a.m.e.ŋ.a	a m e ŋ a	toky1238			Japonic	272
+1201	121_rain	rain	Amami	Amami	ʔamɨ	ʔ.a.m.ɨ	ʔ a m ɨ	naze1238			Japonic	272
+1202	121_rain	rain	Kyoto	Kyōto	ameŋa	a.m.e.ŋ.a	a m e ŋ a	kyot1238			Japonic	272
+1203	121_rain	rain	Hachijo	Hachijō	ame	a.m.e	a m e	hach1238			Japonic	272
+1204	121_rain	rain	Shuri	Shuri	ʔaminu	ʔ.a.m.i.n.u	ʔ a m i n u	shur1243			Japonic	272
+1205	121_rain	rain	Kochi	Kōchi	ame	a.m.e	a m e	shik1243			Japonic	272
+1206	121_rain	rain	Sado	Sado	amega	a.m.e.g.a	a m e g a	sado1237			Japonic	272
+1207	121_rain	rain	Oki	Oki	ame	a.m.e	a m e	okin1246	27.3738	128.619	Japonic	272
+1208	121_rain	rain	Kagoshima	Kagoshima	ame	a.m.e	a m e	kyus1238			Japonic	272
+860	87_red	red	Miyako	Miyako	aka	a.k.a	a k a	miya1259	24.7564	125.363	Japonic	190
+861	87_red	red	Tokyo	Tōkyō	akai	a.k.ai	a k a i	toky1238			Japonic	190
+862	87_red	red	Amami	Amami	haːsari	h.aː.s.a.r.i	h aː s a r i	naze1238			Japonic	190
+863	87_red	red	Kyoto	Kyōto	akai	a.k.ai	a k a i	kyot1238			Japonic	190
+864	87_red	red	Hachijo	Hachijō	akakʲa	a.k.a.kʲ.a	a k a kʲ a	hach1238			Japonic	190
+865	87_red	red	Shuri	Shuri	ʔakasaɴ	ʔ.a.k.a.s.a.ɴ	ʔ a k a s a ɴ	shur1243			Japonic	190
+866	87_red	red	Kochi	Kōchi	akai	a.k.ai	a k a i	shik1243			Japonic	190
+867	87_red	red	Sado	Sado	akai	a.k.ai	a k a i	sado1237			Japonic	190
+868	87_red	red	Oki	Oki	akeː	a.k.eː	a k eː	okin1246	27.3738	128.619	Japonic	190
+869	87_red	red	Kagoshima	Kagoshima	aike	ai.k.e	a i k e	kyus1238			Japonic	190
+1691	171_right	right	Miyako	Miyako	nʦɨ	n.ʦ.ɨ	n ts ɨ	miya1259	24.7564	125.363	Japonic	395
+1692	171_right	right	Tokyo	Tōkyō	miŋi	m.i.ŋ.i	m i ŋ i	toky1238			Japonic	395
+1693	171_right	right	Amami	Amami	nigiri	n.i.g.i.r.i	n i g i r i	naze1238			Japonic	395
+1694	171_right	right	Kyoto	Kyōto	miŋi	m.i.ŋ.i	m i ŋ i	kyot1238			Japonic	395
+1695	171_right	right	Hachijo	Hachijō	nigiri	n.i.g.i.r.i	n i g i r i	hach1238			Japonic	395
+1696	171_right	right	Shuri	Shuri	niʥiri	n.i.ʥ.i.r.i	n i dʑ i r i	shur1243			Japonic	395
+1697	171_right	right	Kochi	Kōchi	migi	m.i.g.i	m i g i	shik1243			Japonic	395
+1698	171_right	right	Sado	Sado	migi	m.i.g.i	m i g i	sado1237			Japonic	395
+1699	171_right	right	Oki	Oki	miŋi	m.i.ŋ.i	m i ŋ i	okin1246	27.3738	128.619	Japonic	395
+1700	171_right	right	Kagoshima	Kagoshima	miː	m.iː	m iː	kyus1238			Japonic	395
+1937	196_ripe	ripe	Miyako	Miyako	mː	mː	mː	miya1259	24.7564	125.363	Japonic	448
+1938	196_ripe	ripe	Tokyo	Tōkyō	ʥukusita	ʥ.u.k.u.s.i.t.a	dʑ u k u s i t a	toky1238			Japonic	449
+1939	196_ripe	ripe	Amami	Amami	ʔuduɴ	ʔ.u.d.u.ɴ	ʔ u d u ɴ	naze1238			Japonic	448
+1940	196_ripe	ripe	Kyoto	Kyōto	ʥukusita	ʥ.u.k.u.s.i.t.a	dʑ u k u s i t a	kyot1238			Japonic	449
+1941	196_ripe	ripe	Hachijo	Hachijō	umu	u.m.u	u m u	hach1238			Japonic	448
+1942	196_ripe	ripe	Shuri	Shuri	ʔɴdoːru	ʔ.ɴ.d.oː.r.u	ʔ ɴ d oː r u	shur1243			Japonic	448
+1943	196_ripe	ripe	Kochi	Kōchi	ureta	u.r.e.t.a	u r e t a	shik1243			Japonic	450
+1944	196_ripe	ripe	Sado	Sado	uɴda	u.ɴ.d.a	u ɴ d a	sado1237			Japonic	448
+1945	196_ripe	ripe	Oki	Oki	oreta	o.r.e.t.a	o r e t a	okin1246	27.3738	128.619	Japonic	450
+1946	196_ripe	ripe	Kagoshima	Kagoshima	ureita	u.r.ei.t.a	u r e i t a	kyus1238			Japonic	450
+750	76_river	river	Miyako	Miyako	kaː	k.aː	k aː	miya1259	24.7564	125.363	Japonic	171
+751	76_river	river	Tokyo	Tōkyō	kawa	k.a.w.a	k a w a	toky1238			Japonic	171
+752	76_river	river	Amami	Amami	harigo	h.a.r.i.g.o	h a r i g o	naze1238			Japonic	172
+753	76_river	river	Kyoto	Kyōto	kawa	k.a.w.a	k a w a	kyot1238			Japonic	171
+754	76_river	river	Hachijo	Hachijō	kua	k.ua	k u a	hach1238			Japonic	171
+755	76_river	river	Shuri	Shuri	kaːra	k.aː.r.a	k aː r a	shur1243			Japonic	171
+756	76_river	river	Kochi	Kōchi	kawa	k.a.w.a	k a w a	shik1243			Japonic	171
+757	76_river	river	Sado	Sado	kawa	k.a.w.a	k a w a	sado1237			Japonic	171
+758	76_river	river	Oki	Oki	kawa	k.a.w.a	k a w a	okin1246	27.3738	128.619	Japonic	171
+759	76_river	river	Kagoshima	Kagoshima	kaiwa	k.ai.w.a	k a i w a	kyus1238			Japonic	171
+251	26_root	root	Miyako	Miyako	niː	n.iː	n iː	miya1259	24.7564	125.363	Japonic	68
+252	26_root	root	Tokyo	Tōkyō	nekːo	n.e.kː.o	n e kː o	toky1238			Japonic	68
+253	26_root	root	Amami	Amami	nɨguri	n.ɨ.g.u.r.i	n ɨ g u r i	naze1238			Japonic	68
+254	26_root	root	Kyoto	Kyōto	neː	n.eː	n eː	kyot1238			Japonic	68
+255	26_root	root	Hachijo	Hachijō	ne	n.e	n e	hach1238			Japonic	68
+256	26_root	root	Shuri	Shuri	niː	n.iː	n iː	shur1243			Japonic	68
+257	26_root	root	Kochi	Kōchi	ne	n.e	n e	shik1243			Japonic	68
+258	26_root	root	Sado	Sado	ne	n.e	n e	sado1237			Japonic	68
+259	26_root	root	Oki	Oki	ne	n.e	n e	okin1246	27.3738	128.619	Japonic	68
+260	26_root	root	Kagoshima	Kagoshima	ne	n.e	n e	kyus1238			Japonic	68
+1967	199_rope	rope	Miyako	Miyako	ʦɨna	ʦ.ɨ.n.a	ts ɨ n a	miya1259	24.7564	125.363	Japonic	456
+1968	199_rope	rope	Tokyo	Tōkyō	ʦuna	ʦ.u.n.a	ts u n a	toky1238			Japonic	456
+1969	199_rope	rope	Amami	Amami	ʦɨna	ʦ.ɨ.n.a	ts ɨ n a	naze1238			Japonic	456
+1970	199_rope	rope	Kyoto	Kyōto	nawa	n.a.w.a	n a w a	kyot1238			Japonic	457
+1971	199_rope	rope	Hachijo	Hachijō	ʦuna	ʦ.u.n.a	ts u n a	hach1238			Japonic	456
+1972	199_rope	rope	Shuri	Shuri	ɕina	ɕ.i.n.a	ɕ i n a	shur1243			Japonic	456
+1973	199_rope	rope	Kochi	Kōchi	tuna	t.u.n.a	t u n a	shik1243			Japonic	456
+1974	199_rope	rope	Sado	Sado	nawa	n.a.w.a	n a w a	sado1237			Japonic	457
+1975	199_rope	rope	Oki	Oki	ʦuna	ʦ.u.n.a	ts u n a	okin1246	27.3738	128.619	Japonic	456
+1976	199_rope	rope	Kagoshima	Kagoshima	ʦuna	ʦ.u.n.a	ts u n a	kyus1238			Japonic	456
+1631	165_rotten	rotten	Miyako	Miyako	p͡sɨta	p͡s.ɨ.t.a	pˢ ɨ t a	miya1259	24.7564	125.363	Japonic	378
+1632	165_rotten	rotten	Tokyo	Tōkyō	warui	w.a.r.ui	w a r ui	toky1238			Japonic	376
+1633	165_rotten	rotten	Amami	Amami	warusari	w.a.r.u.s.a.r.i	w a r u s a r i	naze1238			Japonic	376
+1634	165_rotten	rotten	Kyoto	Kyōto	warui	w.a.r.ui	w a r ui	kyot1238			Japonic	376
+1635	165_rotten	rotten	Hachijo	Hachijō	warukʲa	w.a.r.u.kʲ.a	w a r u kʲ a	hach1238			Japonic	376
+1636	165_rotten	rotten	Shuri	Shuri	wasːaɴ	w.a.sː.a.ɴ	w a sː a ɴ	shur1243			Japonic	376
+1637	165_rotten	rotten	Kochi	Kōchi	hegona	h.e.g.o.n.a	h e g o n a	shik1243			Japonic	377
+1638	165_rotten	rotten	Sado	Sado	warui	w.a.r.ui	w a r ui	sado1237			Japonic	376
+1639	165_rotten	rotten	Oki	Oki	wariː	w.a.r.iː	w a r iː	okin1246	27.3738	128.619	Japonic	376
+1640	165_rotten	rotten	Kagoshima	Kagoshima	wari	w.a.r.i	w a r i	kyus1238			Japonic	376
+970	98_round	round	Miyako	Miyako	maːkoːmaːko	m.aː.k.oː.m.aː.k.o	m aː k oː m aː k o	miya1259	24.7564	125.363	Japonic	216
+971	98_round	round	Tokyo	Tōkyō	marui	m.a.r.ui	m a r ui	toky1238			Japonic	216
+972	98_round	round	Amami	Amami	marusari	m.a.r.u.s.a.r.i	m a r u s a r i	naze1238			Japonic	216
+973	98_round	round	Kyoto	Kyōto	marui	m.a.r.ui	m a r ui	kyot1238			Japonic	216
+974	98_round	round	Hachijo	Hachijō	marukʲa	m.a.r.u.kʲ.a	m a r u kʲ a	hach1238			Japonic	216
+975	98_round	round	Shuri	Shuri	marusaɴ	m.a.r.u.s.a.ɴ	m a r u s a ɴ	shur1243			Japonic	216
+976	98_round	round	Kochi	Kōchi	marui	m.a.r.ui	m a r ui	shik1243			Japonic	216
+977	98_round	round	Sado	Sado	marui	m.a.r.ui	m a r ui	sado1237			Japonic	216
+978	98_round	round	Oki	Oki	mariː	m.a.r.iː	m a r iː	okin1246	27.3738	128.619	Japonic	216
+979	98_round	round	Kagoshima	Kagoshima	maɴmairi	m.a.ɴ.m.ai.r.i	m a ɴ m a i r i	kyus1238			Japonic	216
+1711	173_rub	rub	Tokyo	Tōkyō	kosuru	k.o.s.u.r.u	k o s u r u	toky1238			Japonic	398
+1712	173_rub	rub	Amami	Amami	sɨruri	s.ɨ.r.u.r.i	s ɨ r u r i	naze1238			Japonic	399
+1713	173_rub	rub	Kyoto	Kyōto	kosuru	k.o.s.u.r.u	k o s u r u	kyot1238			Japonic	398
+1714	173_rub	rub	Hachijo	Hachijō	kosuru	k.o.s.u.r.u	k o s u r u	hach1238			Japonic	398
+1715	173_rub	rub	Shuri	Shuri	ʃijuɴ	ʃ.i.j.u.ɴ	ʃ i j u ɴ	shur1243			Japonic	399
+1716	173_rub	rub	Kochi	Kōchi	kosuru	k.o.s.u.r.u	k o s u r u	shik1243			Japonic	398
+1717	173_rub	rub	Sado	Sado	kosuru	k.o.s.u.r.u	k o s u r u	sado1237			Japonic	398
+1718	173_rub	rub	Oki	Oki	kosuru	k.o.s.u.r.u	k o s u r u	okin1246	27.3738	128.619	Japonic	398
+1719	173_rub	rub	Kagoshima	Kagoshima	kosu	k.o.s.u	k o s u	kyus1238			Japonic	398
+1327	134_salivaspit	saliva (spit)	Miyako	Miyako	ʦɨʦɨ	ʦ.ɨ.ʦ.ɨ	ts ɨ ts ɨ	miya1259	24.7564	125.363	Japonic	304
+1328	134_salivaspit	saliva (spit)	Tokyo	Tōkyō	ʦuba	ʦ.u.b.a	ts u b a	toky1238			Japonic	304
+1329	134_salivaspit	saliva (spit)	Amami	Amami	ʦɨzɨ	ʦ.ɨ.z.ɨ	ts ɨ z ɨ	naze1238			Japonic	304
+1330	134_salivaspit	saliva (spit)	Kyoto	Kyōto	ʦuba	ʦ.u.b.a	ts u b a	kyot1238			Japonic	304
+1331	134_salivaspit	saliva (spit)	Hachijo	Hachijō	ʦudaki	ʦ.u.d.a.k.i	ts u d a k i	hach1238			Japonic	304
+1332	134_salivaspit	saliva (spit)	Shuri	Shuri	ɕiɴpeː	ɕ.i.ɴ.p.eː	ɕ i ɴ p eː	shur1243			Japonic	304
+1333	134_salivaspit	saliva (spit)	Kochi	Kōchi	tuba	t.u.b.a	t u b a	shik1243			Japonic	304
+1334	134_salivaspit	saliva (spit)	Sado	Sado	ʦubaki	ʦ.u.b.a.k.i	ts u b a k i	sado1237			Japonic	304
+1335	134_salivaspit	saliva (spit)	Oki	Oki	ʦubake	ʦ.u.b.a.k.e	ts u b a k e	okin1246	27.3738	128.619	Japonic	304
+1336	134_salivaspit	saliva (spit)	Kagoshima	Kagoshima	ʦuba	ʦ.u.b.a	ts u b a	kyus1238			Japonic	304
+1457	147_salt	salt	Miyako	Miyako	maːso	m.aː.s.o	m aː s o	miya1259	24.7564	125.363	Japonic	340
+1458	147_salt	salt	Tokyo	Tōkyō	si.o	s.i.o	s i o	toky1238			Japonic	339
+1459	147_salt	salt	Amami	Amami	maɕu	m.a.ɕ.u	m a ɕ u	naze1238			Japonic	340
+1460	147_salt	salt	Kyoto	Kyōto	si.o	s.i.o	s i o	kyot1238			Japonic	339
+1461	147_salt	salt	Hachijo	Hachijō	ɕo	ɕ.o	ɕ o	hach1238			Japonic	339
+1462	147_salt	salt	Shuri	Shuri	maːɕu	m.aː.ɕ.u	m aː ɕ u	shur1243			Japonic	340
+1463	147_salt	salt	Kochi	Kōchi	sijo	s.i.j.o	s i j o	shik1243			Japonic	339
+1464	147_salt	salt	Sado	Sado	si.o	s.i.o	s i o	sado1237			Japonic	339
+1465	147_salt	salt	Oki	Oki	si.o	s.i.o	s i o	okin1246	27.3738	128.619	Japonic	339
+1466	147_salt	salt	Kagoshima	Kagoshima	si.o	s.i.o	s i o	kyus1238			Japonic	339
+770	78_sand	sand	Miyako	Miyako	mnagu	m.n.a.g.u	m n a g u	miya1259	24.7564	125.363	Japonic	176
+771	78_sand	sand	Tokyo	Tōkyō	suna	s.u.n.a	s u n a	toky1238			Japonic	175
+772	78_sand	sand	Amami	Amami	sɨna	s.ɨ.n.a	s ɨ n a	naze1238			Japonic	175
+773	78_sand	sand	Kyoto	Kyōto	suna	s.u.n.a	s u n a	kyot1238			Japonic	175
+774	78_sand	sand	Hachijo	Hachijō	ʥari	ʥ.a.r.i	dʑ a r i	hach1238			Japonic	174
+775	78_sand	sand	Shuri	Shuri	ʃina	ʃ.i.n.a	ʃ i n a	shur1243			Japonic	175
+776	78_sand	sand	Kochi	Kōchi	suna	s.u.n.a	s u n a	shik1243			Japonic	175
+777	78_sand	sand	Sado	Sado	suna	s.u.n.a	s u n a	sado1237			Japonic	175
+778	78_sand	sand	Oki	Oki	suna	s.u.n.a	s u n a	okin1246	27.3738	128.619	Japonic	175
+779	78_sand	sand	Kagoshima	Kagoshima	zuina	z.ui.n.a	z ui n a	kyus1238			Japonic	175
+700	71_say	say	Miyako	Miyako	azɨ	a.z.ɨ	a z ɨ	miya1259	24.7564	125.363	Japonic	162
+701	71_say	say	Tokyo	Tōkyō	juː	j.uː	j uː	toky1238			Japonic	161
+702	71_say	say	Amami	Amami	ʔʲuri	ʔʲ.u.r.i	ʔʲ u r i	naze1238			Japonic	161
+703	71_say	say	Kyoto	Kyōto	juː	j.uː	j uː	kyot1238			Japonic	161
+704	71_say	say	Hachijo	Hachijō	ju	j.u	j u	hach1238			Japonic	161
+705	71_say	say	Shuri	Shuri	ʔʲuɴ	ʔʲ.u.ɴ	ʔʲ u ɴ	shur1243			Japonic	161
+706	71_say	say	Kochi	Kōchi	juː	j.uː	j uː	shik1243			Japonic	161
+707	71_say	say	Sado	Sado	juː	j.uː	j uː	sado1237			Japonic	161
+708	71_say	say	Oki	Oki	eo	eo	e o	okin1246	27.3738	128.619	Japonic	161
+709	71_say	say	Kagoshima	Kagoshima	juiu	j.uiu	j u i u	kyus1238			Japonic	161
+1180	119_sea	sea	Miyako	Miyako	im	i.m	i m	miya1259	24.7564	125.363	Japonic	268
+1181	119_sea	sea	Tokyo	Tōkyō	umi	u.m.i	u m i	toky1238			Japonic	268
+1182	119_sea	sea	Amami	Amami	ʔumi	ʔ.u.m.i	ʔ u m i	naze1238			Japonic	268
+1183	119_sea	sea	Kyoto	Kyōto	umi	u.m.i	u m i	kyot1238			Japonic	268
+1184	119_sea	sea	Hachijo	Hachijō	umi	u.m.i	u m i	hach1238			Japonic	268
+1185	119_sea	sea	Shuri	Shuri	ʔumi	ʔ.u.m.i	ʔ u m i	shur1243			Japonic	268
+1186	119_sea	sea	Kochi	Kōchi	umi	u.m.i	u m i	shik1243			Japonic	268
+1187	119_sea	sea	Sado	Sado	umi	u.m.i	u m i	sado1237			Japonic	268
+1188	119_sea	sea	Oki	Oki	omi	o.m.i	o m i	okin1246	27.3738	128.619	Japonic	268
+1189	119_sea	sea	Kagoshima	Kagoshima	uɴ	u.ɴ	u ɴ	kyus1238			Japonic	268
+560	57_see	see	Miyako	Miyako	miːɭ	m.iː.ɭ	m iː ɭ	miya1259	24.7564	125.363	Japonic	130
+561	57_see	see	Tokyo	Tōkyō	miru	m.i.r.u	m i r u	toky1238			Japonic	130
+562	57_see	see	Amami	Amami	mʲuːri	mʲ.uː.r.i	mʲ uː r i	naze1238			Japonic	130
+563	57_see	see	Kyoto	Kyōto	miru	m.i.r.u	m i r u	kyot1238			Japonic	130
+564	57_see	see	Hachijo	Hachijō	mabaru	m.a.b.a.r.u	m a b a r u	hach1238			Japonic	129
+565	57_see	see	Shuri	Shuri	ɴːzuɴ	ɴː.z.u.ɴ	ɴː z u ɴ	shur1243			Japonic	131
+566	57_see	see	Kochi	Kōchi	miru	m.i.r.u	m i r u	shik1243			Japonic	130
+567	57_see	see	Sado	Sado	miru	m.i.r.u	m i r u	sado1237			Japonic	130
+568	57_see	see	Oki	Oki	miru	m.i.r.u	m i r u	okin1246	27.3738	128.619	Japonic	130
+569	57_see	see	Kagoshima	Kagoshima	mi	m.i	m i	kyus1238			Japonic	130
+261	27_seed	seed	Miyako	Miyako	tani	t.a.n.i	t a n i	miya1259	24.7564	125.363	Japonic	70
+262	27_seed	seed	Tokyo	Tōkyō	tane	t.a.n.e	t a n e	toky1238			Japonic	70
+263	27_seed	seed	Amami	Amami	θanɨ	θ.a.n.ɨ	θ a n ɨ	naze1238			Japonic	70
+264	27_seed	seed	Kyoto	Kyōto	tane	t.a.n.e	t a n e	kyot1238			Japonic	70
+265	27_seed	seed	Hachijo	Hachijō	tane	t.a.n.e	t a n e	hach1238			Japonic	70
+266	27_seed	seed	Shuri	Shuri	sani	s.a.n.i	s a n i	shur1243			Japonic	69
+267	27_seed	seed	Kochi	Kōchi	tane	t.a.n.e	t a n e	shik1243			Japonic	70
+268	27_seed	seed	Sado	Sado	tane	t.a.n.e	t a n e	sado1237			Japonic	70
+269	27_seed	seed	Oki	Oki	tane	t.a.n.e	t a n e	okin1246	27.3738	128.619	Japonic	70
+270	27_seed	seed	Kagoshima	Kagoshima	tane	t.a.n.e	t a n e	kyus1238			Japonic	70
+1799	182_sew	sew	Miyako	Miyako	nuzɨ	n.u.z.ɨ	n u z ɨ	miya1259	24.7564	125.363	Japonic	418
+1800	182_sew	sew	Tokyo	Tōkyō	nuː	n.uː	n uː	toky1238			Japonic	418
+1801	182_sew	sew	Amami	Amami	nouri	n.ou.r.i	n o u r i	naze1238			Japonic	418
+1802	182_sew	sew	Kyoto	Kyōto	nuː	n.uː	n uː	kyot1238			Japonic	418
+1803	182_sew	sew	Hachijo	Hachijō	tozuru	t.o.z.u.r.u	t o z u r u	hach1238			Japonic	417
+1804	182_sew	sew	Shuri	Shuri	noːjuɴ	n.oː.j.u.ɴ	n oː j u ɴ	shur1243			Japonic	419
+1805	182_sew	sew	Kochi	Kōchi	nuː	n.uː	n uː	shik1243			Japonic	418
+1806	182_sew	sew	Sado	Sado	noː	n.oː	n oː	sado1237			Japonic	418
+1807	182_sew	sew	Oki	Oki	noː	n.oː	n oː	okin1246	27.3738	128.619	Japonic	418
+1808	182_sew	sew	Kagoshima	Kagoshima	nuː	n.uː	n uː	kyus1238			Japonic	418
+1611	163_sharp	sharp	Miyako	Miyako	ʧːi	ʧː.i	tʃː i	miya1259	24.7564	125.363	Japonic	369
+1612	163_sharp	sharp	Tokyo	Tōkyō	kireru	k.i.r.e.r.u	k i r e r u	toky1238			Japonic	369
+1613	163_sharp	sharp	Amami	Amami	kiriruɴ	k.i.r.i.r.u.ɴ	k i r i r u ɴ	naze1238			Japonic	369
+1614	163_sharp	sharp	Kyoto	Kyōto	kireru	k.i.r.e.r.u	k i r e r u	kyot1238			Japonic	369
+1615	163_sharp	sharp	Hachijo	Hachijō	kirero	k.i.r.e.r.o	k i r e r o	hach1238			Japonic	369
+1616	163_sharp	sharp	Shuri	Shuri	taʦuɴ	t.a.ʦ.u.ɴ	t a ts u ɴ	shur1243			Japonic	368
+1617	163_sharp	sharp	Kochi	Kōchi	kireru	k.i.r.e.r.u	k i r e r u	shik1243			Japonic	369
+1618	163_sharp	sharp	Sado	Sado	surudoi	s.u.r.u.d.oi	s u r u d o i	sado1237			Japonic	367
+1619	163_sharp	sharp	Oki	Oki	joː	j.oː	j oː	okin1246	27.3738	128.619	Japonic	369
+1620	163_sharp	sharp	Kagoshima	Kagoshima	kiru	k.i.r.u	k i r u	kyus1238			Japonic	369
+1581	160_short	short	Miyako	Miyako	maru	m.a.r.u	m a r u	miya1259	24.7564	125.363	Japonic	358
+1582	160_short	short	Tokyo	Tōkyō	miʥikai	m.i.ʥ.i.k.ai	m i dʑ i k a i	toky1238			Japonic	359
+1583	160_short	short	Amami	Amami	ʔikːjasari	ʔ.i.kː.j.a.s.a.r.i	ʔ i kː j a s a r i	naze1238			Japonic	360
+1584	160_short	short	Kyoto	Kyōto	miʥikai	m.i.ʥ.i.k.ai	m i dʑ i k a i	kyot1238			Japonic	359
+1585	160_short	short	Hachijo	Hachijō	miʥikakʲa	m.i.ʥ.i.k.a.kʲ.a	m i dʑ i k a kʲ a	hach1238			Japonic	359
+1586	160_short	short	Shuri	Shuri	ʔiɴʦasaɴ	ʔ.i.ɴ.ʦ.a.s.a.ɴ	ʔ i ɴ ts a s a ɴ	shur1243			Japonic	360
+1587	160_short	short	Kochi	Kōchi	mizoi	m.i.z.oi	m i z o i	shik1243			Japonic	359
+1588	160_short	short	Sado	Sado	miʥikai	m.i.ʥ.i.k.ai	m i dʑ i k a i	sado1237			Japonic	359
+1589	160_short	short	Oki	Oki	meʨikeː	m.e.ʨ.i.k.eː	m e tɕ i k eː	okin1246	27.3738	128.619	Japonic	359
+1590	160_short	short	Kagoshima	Kagoshima	miɕke	m.i.ɕ.k.e	m i ɕ k e	kyus1238			Japonic	359
+1839	186_sing	sing	Miyako	Miyako	aːgoː	aː.g.oː	aː g oː	miya1259	24.7564	125.363	Japonic	425
+1840	186_sing	sing	Tokyo	Tōkyō	utau	u.t.au	u t a u	toky1238			Japonic	424
+1841	186_sing	sing	Amami	Amami	oθauri	o.θ.au.r.i	o θ a u r i	naze1238			Japonic	424
+1842	186_sing	sing	Kyoto	Kyōto	utau	u.t.au	u t a u	kyot1238			Japonic	424
+1843	186_sing	sing	Hachijo	Hachijō	utou	u.t.ou	u t o u	hach1238			Japonic	424
+1844	186_sing	sing	Shuri	Shuri	ʔutajuɴ	ʔ.u.t.a.j.u.ɴ	ʔ u t a j u ɴ	shur1243			Japonic	424
+1845	186_sing	sing	Kochi	Kōchi	utau	u.t.au	u t a u	shik1243			Japonic	424
+1846	186_sing	sing	Sado	Sado	utau	u.t.au	u t a u	sado1237			Japonic	424
+1847	186_sing	sing	Oki	Oki	otao	o.t.ao	o t a o	okin1246	27.3738	128.619	Japonic	424
+1848	186_sing	sing	Kagoshima	Kagoshima	uito	ui.t.o	ui t o	kyus1238			Japonic	424
+670	68_sit	sit	Miyako	Miyako	b͡zɨː	b͡z.ɨː	bˢ ɨː	miya1259	24.7564	125.363	Japonic	154
+671	68_sit	sit	Tokyo	Tōkyō	suwatːeru	s.u.w.a.tː.e.r.u	s u w a tː e r u	toky1238			Japonic	153
+672	68_sit	sit	Amami	Amami	iruri	i.r.u.r.i	i r u r i	naze1238			Japonic	155
+673	68_sit	sit	Kyoto	Kyōto	suwatːeru	s.u.w.a.tː.e.r.u	s u w a tː e r u	kyot1238			Japonic	153
+674	68_sit	sit	Hachijo	Hachijō	ite	i.t.e	i t e	hach1238			Japonic	155
+675	68_sit	sit	Shuri	Shuri	iʦoːn	i.ʦ.oː.n	i ts oː n	shur1243			Japonic	155
+676	68_sit	sit	Kochi	Kōchi	suwaru	s.u.w.a.r.u	s u w a r u	shik1243			Japonic	153
+677	68_sit	sit	Sado	Sado	suwaru	s.u.w.a.r.u	s u w a r u	sado1237			Japonic	153
+678	68_sit	sit	Oki	Oki	suwaru	s.u.w.a.r.u	s u w a r u	okin1246	27.3738	128.619	Japonic	153
+679	68_sit	sit	Kagoshima	Kagoshima	suwaiːʨo	s.u.w.aiː.ʨ.o	s u w a iː tɕ o	kyus1238			Japonic	153
+291	30_skin	skin	Miyako	Miyako	kaː	k.aː	k aː	miya1259	24.7564	125.363	Japonic	75
+292	30_skin	skin	Tokyo	Tōkyō	kawa	k.a.w.a	k a w a	toky1238			Japonic	75
+293	30_skin	skin	Amami	Amami	duɴxo	d.u.ɴ.x.o	d u ɴ x o	naze1238			Japonic	74
+294	30_skin	skin	Kyoto	Kyōto	kawa	k.a.w.a	k a w a	kyot1238			Japonic	75
+295	30_skin	skin	Hachijo	Hachijō	kuabe	k.ua.b.e	k u a b e	hach1238			Japonic	75
+296	30_skin	skin	Shuri	Shuri	kaː	k.aː	k aː	shur1243			Japonic	75
+297	30_skin	skin	Kochi	Kōchi	kawa	k.a.w.a	k a w a	shik1243			Japonic	75
+298	30_skin	skin	Sado	Sado	kawa	k.a.w.a	k a w a	sado1237			Japonic	75
+299	30_skin	skin	Oki	Oki	kawa	k.a.w.a	k a w a	okin1246	27.3738	128.619	Japonic	75
+300	30_skin	skin	Kagoshima	Kagoshima	kawa	k.a.w.a	k a w a	kyus1238			Japonic	75
+1130	114_sky	sky	Miyako	Miyako	tin	t.i.n	t i n	miya1259	24.7564	125.363	Japonic	-260
+1131	114_sky	sky	Tokyo	Tōkyō	sora	s.o.r.a	s o r a	toky1238			Japonic	261
+1132	114_sky	sky	Amami	Amami	θɨɴ	θ.ɨ.ɴ	θ ɨ ɴ	naze1238			Japonic	-260
+1133	114_sky	sky	Kyoto	Kyōto	teɴ	t.e.ɴ	t e ɴ	kyot1238			Japonic	-260
+1134	114_sky	sky	Hachijo	Hachijō	sora	s.o.r.a	s o r a	hach1238			Japonic	261
+1135	114_sky	sky	Shuri	Shuri	tiɴ	t.i.ɴ	t i ɴ	shur1243			Japonic	-260
+1136	114_sky	sky	Kochi	Kōchi	sora	s.o.r.a	s o r a	shik1243			Japonic	261
+1137	114_sky	sky	Sado	Sado	teɴʥiku	t.e.ɴ.ʥ.i.k.u	t e ɴ dʑ i k u	sado1237			Japonic	-260
+1138	114_sky	sky	Oki	Oki	teɴ	t.e.ɴ	t e ɴ	okin1246	27.3738	128.619	Japonic	-260
+1139	114_sky	sky	Kagoshima	Kagoshima	teiɴ	t.ei.ɴ	t e i ɴ	kyus1238			Japonic	-260
+590	60_sleep	sleep	Miyako	Miyako	niv	n.i.v	n i v	miya1259	24.7564	125.363	Japonic	136
+591	60_sleep	sleep	Tokyo	Tōkyō	nemuru	n.e.m.u.r.u	n e m u r u	toky1238			Japonic	136
+592	60_sleep	sleep	Amami	Amami	nɨbururi	n.ɨ.b.u.r.u.r.i	n ɨ b u r u r i	naze1238			Japonic	136
+593	60_sleep	sleep	Kyoto	Kyōto	neru	n.e.r.u	n e r u	kyot1238			Japonic	-136
+594	60_sleep	sleep	Hachijo	Hachijō	jodoru	j.o.d.o.r.u	j o d o r u	hach1238			Japonic	135
+595	60_sleep	sleep	Shuri	Shuri	niɴzuɴ	n.i.ɴ.z.u.ɴ	n i ɴ z u ɴ	shur1243			Japonic	136
+596	60_sleep	sleep	Kochi	Kōchi	neru	n.e.r.u	n e r u	shik1243			Japonic	-136
+597	60_sleep	sleep	Sado	Sado	neburu	n.e.b.u.r.u	n e b u r u	sado1237			Japonic	-136
+598	60_sleep	sleep	Oki	Oki	neru	n.e.r.u	n e r u	okin1246	27.3738	128.619	Japonic	-136
+599	60_sleep	sleep	Kagoshima	Kagoshima	neimuʨːoi	n.ei.m.u.ʨː.oi	n e i m u tɕː o i	kyus1238			Japonic	136
+131	14_small	small	Miyako	Miyako	imi	i.m.i	i m i	miya1259	24.7564	125.363	Japonic	47
+132	14_small	small	Tokyo	Tōkyō	ʨiʨːai	ʨ.i.ʨː.ai	tɕ i tɕː a i	toky1238			Japonic	43
+133	14_small	small	Amami	Amami	ʔʲenasari	ʔʲ.e.n.a.s.a.r.i	ʔʲ e n a s a r i	naze1238			Japonic	46
+134	14_small	small	Kyoto	Kyōto	ʨiːsai	ʨ.iː.s.ai	tɕ iː s a i	kyot1238			Japonic	43
+135	14_small	small	Hachijo	Hachijō	nekːokʲa	n.e.kː.o.kʲ.a	n e kː o kʲ a	hach1238			Japonic	42
+136	14_small	small	Shuri	Shuri	gumasaɴ	g.u.m.a.s.a.ɴ	g u m a s a ɴ	shur1243			Japonic	45
+137	14_small	small	Kochi	Kōchi	hosoi	h.o.s.oi	h o s o i	shik1243			Japonic	44
+138	14_small	small	Sado	Sado	ʨiːsai	ʨ.iː.s.ai	tɕ iː s a i	sado1237			Japonic	43
+139	14_small	small	Oki	Oki	komeː	k.o.m.eː	k o m eː	okin1246	27.3738	128.619	Japonic	45
+140	14_small	small	Kagoshima	Kagoshima	ʨiɴke	ʨ.i.ɴ.k.e	tɕ i ɴ k e	kyus1238			Japonic	43
+1849	187_smell	smell	Tokyo	Tōkyō	kaŋu	k.a.ŋ.u	k a ŋ u	toky1238			Japonic	427
+1850	187_smell	smell	Amami	Amami	xazamuri	x.a.z.a.m.u.r.i	x a z a m u r i	naze1238			Japonic	429
+1851	187_smell	smell	Kyoto	Kyōto	nioŋu	n.io.ŋ.u	n i o ŋ u	kyot1238			Japonic	428
+1852	187_smell	smell	Hachijo	Hachijō	kamaru	k.a.m.a.r.u	k a m a r u	hach1238			Japonic	426
+1853	187_smell	smell	Shuri	Shuri	kaʤaɕuɴ	k.a.ʤ.a.ɕ.u.ɴ	k a dʒ a ɕ u ɴ	shur1243			Japonic	429
+1854	187_smell	smell	Kochi	Kōchi	kamu	k.a.m.u	k a m u	shik1243			Japonic	426
+1855	187_smell	smell	Sado	Sado	kagu	k.a.g.u	k a g u	sado1237			Japonic	427
+1856	187_smell	smell	Oki	Oki	kaŋu	k.a.ŋ.u	k a ŋ u	okin1246	27.3738	128.619	Japonic	427
+1857	187_smell	smell	Kagoshima	Kagoshima	kaizuɴ	k.ai.z.u.ɴ	k a i z u ɴ	kyus1238			Japonic	429
+800	81_smoke	smoke	Miyako	Miyako	kiβusɨ	k.i.β.u.s.ɨ	k i β u s ɨ	miya1259	24.7564	125.363	Japonic	182
+801	81_smoke	smoke	Tokyo	Tōkyō	kemu	k.e.m.u	k e m u	toky1238			Japonic	182
+802	81_smoke	smoke	Amami	Amami	xɨbusi	x.ɨ.b.u.s.i	x ɨ b u s i	naze1238			Japonic	182
+803	81_smoke	smoke	Kyoto	Kyōto	kemuri	k.e.m.u.r.i	k e m u r i	kyot1238			Japonic	182
+804	81_smoke	smoke	Hachijo	Hachijō	iburi	i.b.u.r.i	i b u r i	hach1238			Japonic	181
+805	81_smoke	smoke	Shuri	Shuri	kibusi	k.i.b.u.s.i	k i b u s i	shur1243			Japonic	182
+806	81_smoke	smoke	Kochi	Kōchi	kemuri	k.e.m.u.r.i	k e m u r i	shik1243			Japonic	182
+807	81_smoke	smoke	Sado	Sado	kemuri	k.e.m.u.r.i	k e m u r i	sado1237			Japonic	182
+808	81_smoke	smoke	Oki	Oki	kemori	k.e.m.o.r.i	k e m o r i	okin1246	27.3738	128.619	Japonic	182
+809	81_smoke	smoke	Kagoshima	Kagoshima	keimui	k.ei.m.ui	k e i m ui	kyus1238			Japonic	182
+1651	167_smooth	smooth	Miyako	Miyako	nabɭɨː	n.a.b.ɭ.ɨː	n a b ɭ ɨː	miya1259	24.7564	125.363	Japonic	383
+1652	167_smooth	smooth	Tokyo	Tōkyō	subekːoi	s.u.b.e.kː.oi	s u b e kː o i	toky1238			Japonic	381
+1653	167_smooth	smooth	Amami	Amami	nabirosari	n.a.b.i.r.o.s.a.r.i	n a b i r o s a r i	naze1238			Japonic	383
+1654	167_smooth	smooth	Kyoto	Kyōto	ʦuruʦuru	ʦ.u.r.u.ʦ.u.r.u	ts u r u ts u r u	kyot1238			Japonic	382
+1655	167_smooth	smooth	Hachijo	Hachijō	zuberua	z.u.b.e.r.ua	z u b e r u a	hach1238			Japonic	381
+1656	167_smooth	smooth	Shuri	Shuri	nadutːeːɴ	n.a.d.u.tː.eː.ɴ	n a d u tː eː ɴ	shur1243			Japonic	380
+1657	167_smooth	smooth	Kochi	Kōchi	subesubesitʲuː	s.u.b.e.s.u.b.e.s.i.tʲ.uː	s u b e s u b e s i tʲ uː	shik1243			Japonic	381
+1658	167_smooth	smooth	Sado	Sado	ʦuraʦura	ʦ.u.r.a.ʦ.u.r.a	ts u r a ts u r a	sado1237			Japonic	382
+1659	167_smooth	smooth	Oki	Oki	ʦuruʦuru	ʦ.u.r.u.ʦ.u.r.u	ts u r u ts u r u	okin1246	27.3738	128.619	Japonic	382
+1660	167_smooth	smooth	Kagoshima	Kagoshima	ʦuruɴ	ʦ.u.r.u.ɴ	ts u r u ɴ	kyus1238			Japonic	382
+1229	124_snake	snake	Miyako	Miyako	pau	p.au	p a u	miya1259	24.7564	125.363	Japonic	277
+1230	124_snake	snake	Tokyo	Tōkyō	hebi	h.e.b.i	h e b i	toky1238			Japonic	278
+1231	124_snake	snake	Amami	Amami	nagamuɴ	n.a.g.a.m.u.ɴ	n a g a m u ɴ	naze1238			Japonic	280
+1232	124_snake	snake	Kyoto	Kyōto	hebi	h.e.b.i	h e b i	kyot1238			Japonic	278
+1233	124_snake	snake	Hachijo	Hachijō	hebume	h.e.b.u.m.e	h e b u m e	hach1238			Japonic	278
+1234	124_snake	snake	Shuri	Shuri	nagamuɴ	n.a.g.a.m.u.ɴ	n a g a m u ɴ	shur1243			Japonic	280
+1235	124_snake	snake	Kochi	Kōchi	hebi	h.e.b.i	h e b i	shik1243			Japonic	278
+1236	124_snake	snake	Sado	Sado	hebi	h.e.b.i	h e b i	sado1237			Japonic	278
+1237	124_snake	snake	Oki	Oki	kuʨina	k.u.ʨ.i.n.a	k u tɕ i n a	okin1246	27.3738	128.619	Japonic	279
+1238	124_snake	snake	Kagoshima	Kagoshima	he	h.e	h e	kyus1238			Japonic	278
+1474	149_snow	snow	Miyako	Miyako	juʦɨ	j.u.ʦ.ɨ	j u ts ɨ	miya1259	24.7564	125.363	Japonic	342
+1475	149_snow	snow	Tokyo	Tōkyō	juki	j.u.k.i	j u k i	toky1238			Japonic	342
+1476	149_snow	snow	Amami	Amami	juki	j.u.k.i	j u k i	naze1238			Japonic	342
+1477	149_snow	snow	Kyoto	Kyōto	juki	j.u.k.i	j u k i	kyot1238			Japonic	342
+1478	149_snow	snow	Hachijo	Hachijō	juki	j.u.k.i	j u k i	hach1238			Japonic	342
+1479	149_snow	snow	Shuri	Shuri	juʨi	j.u.ʨ.i	j u tɕ i	shur1243			Japonic	342
+1480	149_snow	snow	Kochi	Kōchi	juki	j.u.k.i	j u k i	shik1243			Japonic	342
+1481	149_snow	snow	Sado	Sado	juki	j.u.k.i	j u k i	sado1237			Japonic	342
+1482	149_snow	snow	Oki	Oki	eki	e.k.i	e k i	okin1246	27.3738	128.619	Japonic	342
+1483	149_snow	snow	Kagoshima	Kagoshima	jui	j.ui	j ui	kyus1238			Japonic	342
+1760	178_split	split	Miyako	Miyako	sakiɭ	s.a.k.i.ɭ	s a k i ɭ	miya1259	24.7564	125.363	Japonic	412
+1761	178_split	split	Tokyo	Tōkyō	sakeru	s.a.k.e.r.u	s a k e r u	toky1238			Japonic	412
+1762	178_split	split	Amami	Amami	seheruri	s.e.h.e.r.u.r.i	s e h e r u r i	naze1238			Japonic	412
+1763	178_split	split	Kyoto	Kyōto	sakeru	s.a.k.e.r.u	s a k e r u	kyot1238			Japonic	412
+1764	178_split	split	Hachijo	Hachijō	sakeru	s.a.k.e.r.u	s a k e r u	hach1238			Japonic	412
+1765	178_split	split	Shuri	Shuri	sakijuɴ	s.a.k.i.j.u.ɴ	s a k i j u ɴ	shur1243			Japonic	412
+1766	178_split	split	Kochi	Kōchi	ɕakeru	ɕ.a.k.e.r.u	ɕ a k e r u	shik1243			Japonic	412
+1767	178_split	split	Sado	Sado	sakeru	s.a.k.e.r.u	s a k e r u	sado1237			Japonic	412
+1768	178_split	split	Oki	Oki	sakeru	s.a.k.e.r.u	s a k e r u	okin1246	27.3738	128.619	Japonic	412
+1769	178_split	split	Kagoshima	Kagoshima	saku	s.a.k.u	s a k u	kyus1238			Japonic	412
+1898	192_squeeze	squeeze	Miyako	Miyako	ʃimiɭ	ʃ.i.m.i.ɭ	ʃ i m i ɭ	miya1259	24.7564	125.363	Japonic	442
+1899	192_squeeze	squeeze	Tokyo	Tōkyō	simeʦukeru	s.i.m.e.ʦ.u.k.e.r.u	s i m e ts u k e r u	toky1238			Japonic	442
+1900	192_squeeze	squeeze	Amami	Amami	semeʦɨkɨruri	s.e.m.e.ʦ.ɨ.k.ɨ.r.u.r.i	s e m e ts ɨ k ɨ r u r i	naze1238			Japonic	442
+1901	192_squeeze	squeeze	Hachijo	Hachijō	simeʦukeru	s.i.m.e.ʦ.u.k.e.r.u	s i m e ts u k e r u	hach1238			Japonic	442
+1902	192_squeeze	squeeze	Shuri	Shuri	simijuɴ	s.i.m.i.j.u.ɴ	s i m i j u ɴ	shur1243			Japonic	442
+1903	192_squeeze	squeeze	Kochi	Kōchi	simeru	s.i.m.e.r.u	s i m e r u	shik1243			Japonic	442
+1904	192_squeeze	squeeze	Sado	Sado	simeʦukeru	s.i.m.e.ʦ.u.k.e.r.u	s i m e ts u k e r u	sado1237			Japonic	442
+1905	192_squeeze	squeeze	Oki	Oki	simeru	s.i.m.e.r.u	s i m e r u	okin1246	27.3738	128.619	Japonic	442
+1906	192_squeeze	squeeze	Kagoshima	Kagoshima	simeʦuku	s.i.m.e.ʦ.u.k.u	s i m e ts u k u	kyus1238			Japonic	442
+680	69_stand	stand	Miyako	Miyako	takiː	t.a.k.iː	t a k iː	miya1259	24.7564	125.363	Japonic	156
+681	69_stand	stand	Tokyo	Tōkyō	tatːeru	t.a.tː.e.r.u	t a tː e r u	toky1238			Japonic	156
+682	69_stand	stand	Amami	Amami	θaʨːuri	θ.a.ʨː.u.r.i	θ a tɕː u r i	naze1238			Japonic	156
+683	69_stand	stand	Kyoto	Kyōto	tatːeru	t.a.tː.e.r.u	t a tː e r u	kyot1238			Japonic	156
+684	69_stand	stand	Hachijo	Hachijō	tatːe	t.a.tː.e	t a tː e	hach1238			Japonic	156
+685	69_stand	stand	Shuri	Shuri	taʦːoːn	t.a.ʦː.oː.n	t a tsː oː n	shur1243			Japonic	156
+686	69_stand	stand	Kochi	Kōchi	tatetːjuː	t.a.t.e.tː.j.uː	t a t e tː j uː	shik1243			Japonic	156
+687	69_stand	stand	Sado	Sado	tatːoru	t.a.tː.o.r.u	t a tː o r u	sado1237			Japonic	156
+688	69_stand	stand	Oki	Oki	taʨːoru	t.a.ʨː.o.r.u	t a tɕː o r u	okin1246	27.3738	128.619	Japonic	156
+689	69_stand	stand	Kagoshima	Kagoshima	taʨːo	t.a.ʨː.o	t a tɕː o	kyus1238			Japonic	156
+730	74_star	star	Miyako	Miyako	pusɨ	p.u.s.ɨ	p u s ɨ	miya1259	24.7564	125.363	Japonic	169
+731	74_star	star	Tokyo	Tōkyō	hosi	h.o.s.i	h o s i	toky1238			Japonic	169
+732	74_star	star	Amami	Amami	husi	h.u.s.i	h u s i	naze1238			Japonic	169
+733	74_star	star	Kyoto	Kyōto	hosi	h.o.s.i	h o s i	kyot1238			Japonic	169
+734	74_star	star	Hachijo	Hachijō	hosi	h.o.s.i	h o s i	hach1238			Japonic	169
+735	74_star	star	Shuri	Shuri	husi	h.u.s.i	h u s i	shur1243			Japonic	169
+736	74_star	star	Kochi	Kōchi	hosi	h.o.s.i	h o s i	shik1243			Japonic	169
+737	74_star	star	Sado	Sado	hosi	h.o.s.i	h o s i	sado1237			Japonic	169
+738	74_star	star	Oki	Oki	ɸosi	ɸ.o.s.i	ɸ o s i	okin1246	27.3738	128.619	Japonic	169
+739	74_star	star	Kagoshima	Kagoshima	hoiɕ	h.oi.ɕ	h o i ɕ	kyus1238			Japonic	169
+1770	179_stickstab	stick (stab)	Miyako	Miyako	ʦɨfu	ʦ.ɨ.f.u	ts ɨ f u	miya1259	24.7564	125.363	Japonic	413
+1771	179_stickstab	stick (stab)	Tokyo	Tōkyō	ʦukisasu	ʦ.u.k.i.s.a.s.u	ts u k i s a s u	toky1238			Japonic	413
+1772	179_stickstab	stick (stab)	Amami	Amami	ʦɨkisasuri	ʦ.ɨ.k.i.s.a.s.u.r.i	ts ɨ k i s a s u r i	naze1238			Japonic	413
+1773	179_stickstab	stick (stab)	Kyoto	Kyōto	ʦukisasu	ʦ.u.k.i.s.a.s.u	ts u k i s a s u	kyot1238			Japonic	413
+1774	179_stickstab	stick (stab)	Hachijo	Hachijō	ʦuʨːasu	ʦ.u.ʨː.a.s.u	ts u tɕː a s u	hach1238			Japonic	413
+1775	179_stickstab	stick (stab)	Shuri	Shuri	ɕiʨikuʥijuɴ	ɕ.i.ʨ.i.k.u.ʥ.i.j.u.ɴ	ɕ i tɕ i k u dʑ i j u ɴ	shur1243			Japonic	413
+1776	179_stickstab	stick (stab)	Kochi	Kōchi	tukisasu	t.u.k.i.s.a.s.u	t u k i s a s u	shik1243			Japonic	413
+1777	179_stickstab	stick (stab)	Sado	Sado	ʦukisasu	ʦ.u.k.i.s.a.s.u	ts u k i s a s u	sado1237			Japonic	413
+1778	179_stickstab	stick (stab)	Oki	Oki	sasu	s.a.s.u	s a s u	okin1246	27.3738	128.619	Japonic	413
+1779	179_stickstab	stick (stab)	Kagoshima	Kagoshima	ʦu.iːsa	ʦ.u.iː.s.a	ts u iː s a	kyus1238			Japonic	413
+760	77_stone	stone	Miyako	Miyako	isɨ	i.s.ɨ	i s ɨ	miya1259	24.7564	125.363	Japonic	173
+761	77_stone	stone	Tokyo	Tōkyō	isi	i.s.i	i s i	toky1238			Japonic	173
+762	77_stone	stone	Amami	Amami	ʔisi	ʔ.i.s.i	ʔ i s i	naze1238			Japonic	173
+763	77_stone	stone	Kyoto	Kyōto	isi	i.s.i	i s i	kyot1238			Japonic	173
+764	77_stone	stone	Hachijo	Hachijō	isi	i.s.i	i s i	hach1238			Japonic	173
+765	77_stone	stone	Shuri	Shuri	ʔisi	ʔ.i.s.i	ʔ i s i	shur1243			Japonic	173
+766	77_stone	stone	Kochi	Kōchi	isi	i.s.i	i s i	shik1243			Japonic	173
+767	77_stone	stone	Sado	Sado	isi	i.s.i	i s i	sado1237			Japonic	173
+768	77_stone	stone	Oki	Oki	esi	e.s.i	e s i	okin1246	27.3738	128.619	Japonic	173
+769	77_stone	stone	Kagoshima	Kagoshima	iːɕ	iː.ɕ	iː ɕ	kyus1238			Japonic	173
+1661	168_straight	straight	Miyako	Miyako	matːoːβu	m.a.tː.oː.β.u	m a tː oː β u	miya1259	24.7564	125.363	Japonic	386
+1662	168_straight	straight	Tokyo	Tōkyō	masːuŋuna	m.a.sː.u.ŋ.u.n.a	m a sː u ŋ u n a	toky1238			Japonic	384
+1663	168_straight	straight	Amami	Amami	masːɨgu	m.a.sː.ɨ.g.u	m a sː ɨ g u	naze1238			Japonic	384
+1664	168_straight	straight	Kyoto	Kyōto	masːuŋuna	m.a.sː.u.ŋ.u.n.a	m a sː u ŋ u n a	kyot1238			Japonic	384
+1665	168_straight	straight	Hachijo	Hachijō	masːugudua	m.a.sː.u.g.u.d.ua	m a sː u g u d u a	hach1238			Japonic	384
+1666	168_straight	straight	Shuri	Shuri	matːoːba	m.a.tː.oː.b.a	m a tː oː b a	shur1243			Japonic	386
+1667	168_straight	straight	Kochi	Kōchi	masːugu	m.a.sː.u.g.u	m a sː u g u	shik1243			Japonic	384
+1668	168_straight	straight	Sado	Sado	masːugu	m.a.sː.u.g.u	m a sː u g u	sado1237			Japonic	384
+1669	168_straight	straight	Oki	Oki	nosana	n.o.s.a.n.a	n o s a n a	okin1246	27.3738	128.619	Japonic	385
+1670	168_straight	straight	Kagoshima	Kagoshima	masːugu	m.a.sː.u.g.u	m a sː u g u	kyus1238			Japonic	384
+1868	189_suck	suck	Miyako	Miyako	jub͡zɨ	j.u.b͡z.ɨ	j u bˢ ɨ	miya1259	24.7564	125.363	Japonic	434
+1869	189_suck	suck	Tokyo	Tōkyō	suː	s.uː	s uː	toky1238			Japonic	432
+1870	189_suck	suck	Amami	Amami	sibururi	s.i.b.u.r.u.r.i	s i b u r u r i	naze1238			Japonic	433
+1871	189_suck	suck	Kyoto	Kyōto	suː	s.uː	s uː	kyot1238			Japonic	432
+1872	189_suck	suck	Hachijo	Hachijō	nomu	n.o.m.u	n o m u	hach1238			Japonic	431
+1873	189_suck	suck	Shuri	Shuri	ʃipujuɴ	ʃ.i.p.u.j.u.ɴ	ʃ i p u j u ɴ	shur1243			Japonic	433
+1874	189_suck	suck	Kochi	Kōchi	nomu	n.o.m.u	n o m u	shik1243			Japonic	431
+1875	189_suck	suck	Sado	Sado	suː	s.uː	s uː	sado1237			Japonic	432
+1876	189_suck	suck	Oki	Oki	suː	s.uː	s uː	okin1246	27.3738	128.619	Japonic	432
+1877	189_suck	suck	Kagoshima	Kagoshima	suiu	s.uiu	s u i u	kyus1238			Japonic	432
+710	72_sun	sun	Miyako	Miyako	tida	t.i.d.a	t i d a	miya1259	24.7564	125.363	Japonic	167
+711	72_sun	sun	Tokyo	Tōkyō	ohisama	o.h.i.s.a.m.a	o h i s a m a	toky1238			Japonic	164
+712	72_sun	sun	Amami	Amami	θeda	θ.e.d.a	θ e d a	naze1238			Japonic	167
+713	72_sun	sun	Kyoto	Kyōto	ohisaɴ	o.h.i.s.a.ɴ	o h i s a ɴ	kyot1238			Japonic	164
+714	72_sun	sun	Hachijo	Hachijō	teɴtoːsama	t.e.ɴ.t.oː.s.a.m.a	t e ɴ t oː s a m a	hach1238			Japonic	163
+715	72_sun	sun	Shuri	Shuri	tiːda	t.iː.d.a	t iː d a	shur1243			Japonic	167
+716	72_sun	sun	Kochi	Kōchi	ohisama	o.h.i.s.a.m.a	o h i s a m a	shik1243			Japonic	164
+717	72_sun	sun	Sado	Sado	nitːeɴsama	n.i.tː.e.ɴ.s.a.m.a	n i tː e ɴ s a m a	sado1237			Japonic	165
+718	72_sun	sun	Oki	Oki	oɸisaɴ	o.ɸ.i.s.a.ɴ	o ɸ i s a ɴ	okin1246	27.3738	128.619	Japonic	164
+719	72_sun	sun	Kagoshima	Kagoshima	oteɴtosaː	o.t.e.ɴ.t.o.s.aː	o t e ɴ t o s aː	kyus1238			Japonic	166
+1819	184_swell	swell	Miyako	Miyako	fukuriɭ	f.u.k.u.r.i.ɭ	f u k u r i ɭ	miya1259	24.7564	125.363	Japonic	422
+1820	184_swell	swell	Tokyo	Tōkyō	hukureru	h.u.k.u.r.e.r.u	h u k u r e r u	toky1238			Japonic	422
+1821	184_swell	swell	Amami	Amami	hukurɨruri	h.u.k.u.r.ɨ.r.u.r.i	h u k u r ɨ r u r i	naze1238			Japonic	422
+1822	184_swell	swell	Kyoto	Kyōto	hukureru	h.u.k.u.r.e.r.u	h u k u r e r u	kyot1238			Japonic	422
+1823	184_swell	swell	Hachijo	Hachijō	hukureru	h.u.k.u.r.e.r.u	h u k u r e r u	hach1238			Japonic	422
+1824	184_swell	swell	Shuri	Shuri	hukːwijuɴ	h.u.kː.w.i.j.u.ɴ	h u kː w i j u ɴ	shur1243			Japonic	422
+1825	184_swell	swell	Kochi	Kōchi	hukureru	h.u.k.u.r.e.r.u	h u k u r e r u	shik1243			Japonic	422
+1826	184_swell	swell	Sado	Sado	hukureru	h.u.k.u.r.e.r.u	h u k u r e r u	sado1237			Japonic	422
+1827	184_swell	swell	Oki	Oki	ɸukureru	ɸ.u.k.u.r.e.r.u	ɸ u k u r e r u	okin1246	27.3738	128.619	Japonic	422
+1828	184_swell	swell	Kagoshima	Kagoshima	hukuru	h.u.k.u.r.u	h u k u r u	kyus1238			Japonic	422
+620	63_swim	swim	Miyako	Miyako	uːʣɨ	uː.ʣ.ɨ	uː dz ɨ	miya1259	24.7564	125.363	Japonic	140
+621	63_swim	swim	Tokyo	Tōkyō	ojoŋu	o.j.o.ŋ.u	o j o ŋ u	toky1238			Japonic	140
+622	63_swim	swim	Amami	Amami	ʔwɨːguri	ʔ.w.ɨː.g.u.r.i	ʔ w ɨː g u r i	naze1238			Japonic	140
+623	63_swim	swim	Kyoto	Kyōto	ojoŋu	o.j.o.ŋ.u	o j o ŋ u	kyot1238			Japonic	140
+624	63_swim	swim	Hachijo	Hachijō	ojogu	o.j.o.g.u	o j o g u	hach1238			Japonic	140
+625	63_swim	swim	Shuri	Shuri	ʔwiːzuɴ	ʔ.w.iː.z.u.ɴ	ʔ w iː z u ɴ	shur1243			Japonic	140
+626	63_swim	swim	Kochi	Kōchi	ojogu	o.j.o.g.u	o j o g u	shik1243			Japonic	140
+627	63_swim	swim	Sado	Sado	ojogu	o.j.o.g.u	o j o g u	sado1237			Japonic	140
+628	63_swim	swim	Oki	Oki	ojoŋu	o.j.o.ŋ.u	o j o ŋ u	okin1246	27.3738	128.619	Japonic	140
+629	63_swim	swim	Kagoshima	Kagoshima	ojo	o.j.o	o j o	kyus1238			Japonic	140
+341	35_tail	tail	Miyako	Miyako	ʣuː	ʣ.uː	dz uː	miya1259	24.7564	125.363	Japonic	85
+342	35_tail	tail	Tokyo	Tōkyō	sipːo	s.i.pː.o	s i pː o	toky1238			Japonic	86
+343	35_tail	tail	Amami	Amami	zubu	z.u.b.u	z u b u	naze1238			Japonic	85
+344	35_tail	tail	Kyoto	Kyōto	oː	oː	oː	kyot1238			Japonic	84
+345	35_tail	tail	Hachijo	Hachijō	oba	o.b.a	o b a	hach1238			Japonic	84
+346	35_tail	tail	Shuri	Shuri	zuː	z.uː	z uː	shur1243			Japonic	85
+347	35_tail	tail	Kochi	Kōchi	o	o	o	shik1243			Japonic	84
+348	35_tail	tail	Sado	Sado	o	o	o	sado1237			Japonic	84
+349	35_tail	tail	Oki	Oki	o	o	o	okin1246	27.3738	128.619	Japonic	84
+350	35_tail	tail	Kagoshima	Kagoshima	siːbo	s.iː.b.o	s iː b o	kyus1238			Japonic	86
+41	5_that	that	Miyako	Miyako	kari	k.a.r.i	k a r i	miya1259	24.7564	125.363	Japonic	16
+42	5_that	that	Tokyo	Tōkyō	are	a.r.e	a r e	toky1238			Japonic	15
+43	5_that	that	Amami	Amami	ʔarɨ	ʔ.a.r.ɨ	ʔ a r ɨ	naze1238			Japonic	15
+44	5_that	that	Kyoto	Kyōto	are	a.r.e	a r e	kyot1238			Japonic	15
+45	5_that	that	Hachijo	Hachijō	ore	o.r.e	o r e	hach1238			Japonic	17
+46	5_that	that	Shuri	Shuri	ʔari	ʔ.a.r.i	ʔ a r i	shur1243			Japonic	15
+47	5_that	that	Kochi	Kōchi	are	a.r.e	a r e	shik1243			Japonic	15
+48	5_that	that	Sado	Sado	are	a.r.e	a r e	sado1237			Japonic	15
+49	5_that	that	Oki	Oki	are	a.r.e	a r e	okin1246	27.3738	128.619	Japonic	15
+50	5_that	that	Kagoshima	Kagoshima	aiː	aiː	a iː	kyus1238			Japonic	15
+1070	108_there	there	Miyako	Miyako	kama	k.a.m.a	k a m a	miya1259	24.7564	125.363	Japonic	249
+1071	108_there	there	Tokyo	Tōkyō	asuko	a.s.u.k.o	a s u k o	toky1238			Japonic	247
+1072	108_there	there	Amami	Amami	ʔama	ʔ.a.m.a	ʔ a m a	naze1238			Japonic	248
+1073	108_there	there	Kyoto	Kyōto	ako	a.k.o	a k o	kyot1238			Japonic	247
+1074	108_there	there	Hachijo	Hachijō	uku	u.k.u	u k u	hach1238			Japonic	246
+1075	108_there	there	Shuri	Shuri	ʔama	ʔ.a.m.a	ʔ a m a	shur1243			Japonic	248
+1076	108_there	there	Kochi	Kōchi	ako	a.k.o	a k o	shik1243			Japonic	247
+1077	108_there	there	Sado	Sado	ako	a.k.o	a k o	sado1237			Japonic	247
+1078	108_there	there	Oki	Oki	asuko	a.s.u.k.o	a s u k o	okin1246	27.3738	128.619	Japonic	247
+1079	108_there	there	Kagoshima	Kagoshima	asiko	a.s.i.k.o	a s i k o	kyus1238			Japonic	247
+1020	103_they	they	Miyako	Miyako	kanukʲa	k.a.n.u.kʲ.a	k a n u kʲ a	miya1259	24.7564	125.363	Japonic	234
+1021	103_they	they	Tokyo	Tōkyō	anohitotaʨi	a.n.o.h.i.t.o.t.a.ʨ.i	a n o h i t o t a tɕ i	toky1238			Japonic	233
+1022	103_they	they	Amami	Amami	ʔaɴʨuɴxja	ʔ.a.ɴ.ʨ.u.ɴ.x.j.a	ʔ a ɴ tɕ u ɴ x j a	naze1238			Japonic	233
+1023	103_they	they	Kyoto	Kyōto	anohitojara	a.n.o.h.i.t.o.j.a.r.a	a n o h i t o j a r a	kyot1238			Japonic	233
+1024	103_they	they	Hachijo	Hachijō	oraɴsia	o.r.a.ɴ.s.ia	o r a ɴ s i a	hach1238			Japonic	232
+1025	103_they	they	Shuri	Shuri	ʔatːaː	ʔ.a.tː.aː	ʔ a tː aː	shur1243			Japonic	233
+1026	103_they	they	Kochi	Kōchi	anohitotati	a.n.o.h.i.t.o.t.a.t.i	a n o h i t o t a t i	shik1243			Japonic	233
+1027	103_they	they	Sado	Sado	anohitotaʨi	a.n.o.h.i.t.o.t.a.ʨ.i	a n o h i t o t a tɕ i	sado1237			Japonic	233
+1028	103_they	they	Oki	Oki	aera	ae.r.a	a e r a	okin1246	27.3738	128.619	Japonic	233
+1029	103_they	they	Kagoshima	Kagoshima	aiːdoɴ	aiː.d.o.ɴ	a iː d o ɴ	kyus1238			Japonic	233
+1561	158_thick	thick	Miyako	Miyako	uda	u.d.a	u d a	miya1259	24.7564	125.363	Japonic	355
+1562	158_thick	thick	Tokyo	Tōkyō	aʦui	a.ʦ.ui	a ts ui	toky1238			Japonic	354
+1563	158_thick	thick	Amami	Amami	ʔaʨiɕari	ʔ.a.ʨ.i.ɕ.a.r.i	ʔ a tɕ i ɕ a r i	naze1238			Japonic	354
+1564	158_thick	thick	Kyoto	Kyōto	goʦui	g.o.ʦ.ui	g o ts ui	kyot1238			Japonic	355
+1565	158_thick	thick	Hachijo	Hachijō	aʦukʲa	a.ʦ.u.kʲ.a	a ts u kʲ a	hach1238			Japonic	354
+1566	158_thick	thick	Shuri	Shuri	ʔaɕisaɴ	ʔ.a.ɕ.i.s.a.ɴ	ʔ a ɕ i s a ɴ	shur1243			Japonic	354
+1567	158_thick	thick	Kochi	Kōchi	atui	a.t.ui	a t ui	shik1243			Japonic	354
+1568	158_thick	thick	Sado	Sado	aʦui	a.ʦ.ui	a ts ui	sado1237			Japonic	354
+1569	158_thick	thick	Oki	Oki	aʨiː	a.ʨ.iː	a tɕ iː	okin1246	27.3738	128.619	Japonic	354
+1570	158_thick	thick	Kagoshima	Kagoshima	aiʨi	ai.ʨ.i	a i tɕ i	kyus1238			Japonic	354
+1571	159_thin	thin	Miyako	Miyako	p͡sɨsɨ	p͡s.ɨ.s.ɨ	pˢ ɨ s ɨ	miya1259	24.7564	125.363	Japonic	357
+1572	159_thin	thin	Tokyo	Tōkyō	usui	u.s.ui	u s ui	toky1238			Japonic	356
+1573	159_thin	thin	Amami	Amami	hisːari	h.i.sː.a.r.i	h i sː a r i	naze1238			Japonic	357
+1574	159_thin	thin	Kyoto	Kyōto	usui	u.s.ui	u s ui	kyot1238			Japonic	356
+1575	159_thin	thin	Hachijo	Hachijō	usukʲa	u.s.u.kʲ.a	u s u kʲ a	hach1238			Japonic	356
+1576	159_thin	thin	Shuri	Shuri	hwisːaɴ	h.w.i.sː.a.ɴ	h w i sː a ɴ	shur1243			Japonic	357
+1577	159_thin	thin	Kochi	Kōchi	usui	u.s.ui	u s ui	shik1243			Japonic	356
+1578	159_thin	thin	Sado	Sado	usui	u.s.ui	u s ui	sado1237			Japonic	356
+1579	159_thin	thin	Oki	Oki	osiː	o.s.iː	o s iː	okin1246	27.3738	128.619	Japonic	356
+1580	159_thin	thin	Kagoshima	Kagoshima	uisi	ui.s.i	ui s i	kyus1238			Japonic	356
+1829	185_think	think	Miyako	Miyako	kaŋgaiɭ	k.a.ŋ.g.ai.ɭ	k a ŋ g a i ɭ	miya1259	24.7564	125.363	Japonic	423
+1830	185_think	think	Tokyo	Tōkyō	kaɴŋaeru	k.a.ɴ.ŋ.ae.r.u	k a ɴ ŋ a e r u	toky1238			Japonic	423
+1831	185_think	think	Amami	Amami	xaɴgeruri	x.a.ɴ.g.e.r.u.r.i	x a ɴ g e r u r i	naze1238			Japonic	423
+1832	185_think	think	Kyoto	Kyōto	kaɴŋaeru	k.a.ɴ.ŋ.ae.r.u	k a ɴ ŋ a e r u	kyot1238			Japonic	423
+1833	185_think	think	Hachijo	Hachijō	kaɴgiaru	k.a.ɴ.g.ia.r.u	k a ɴ g i a r u	hach1238			Japonic	423
+1834	185_think	think	Shuri	Shuri	kaɴgeːjuɴ	k.a.ɴ.g.eː.j.u.ɴ	k a ɴ g eː j u ɴ	shur1243			Japonic	423
+1835	185_think	think	Kochi	Kōchi	kaɴgaeru	k.a.ɴ.g.ae.r.u	k a ɴ g a e r u	shik1243			Japonic	423
+1836	185_think	think	Sado	Sado	kaɴgaeru	k.a.ɴ.g.ae.r.u	k a ɴ g a e r u	sado1237			Japonic	423
+1837	185_think	think	Oki	Oki	kaɴŋaeru	k.a.ɴ.ŋ.ae.r.u	k a ɴ ŋ a e r u	okin1246	27.3738	128.619	Japonic	423
+1838	185_think	think	Kagoshima	Kagoshima	kaɴgu	k.a.ɴ.g.u	k a ɴ g u	kyus1238			Japonic	423
+31	4_this	this	Miyako	Miyako	kuri	k.u.r.i	k u r i	miya1259	24.7564	125.363	Japonic	14
+32	4_this	this	Tokyo	Tōkyō	kore	k.o.r.e	k o r e	toky1238			Japonic	14
+33	4_this	this	Amami	Amami	xurɨ	x.u.r.ɨ	x u r ɨ	naze1238			Japonic	14
+34	4_this	this	Kyoto	Kyōto	kore	k.o.r.e	k o r e	kyot1238			Japonic	14
+35	4_this	this	Hachijo	Hachijō	kore	k.o.r.e	k o r e	hach1238			Japonic	14
+36	4_this	this	Shuri	Shuri	kuri	k.u.r.i	k u r i	shur1243			Japonic	14
+37	4_this	this	Kochi	Kōchi	kore	k.o.r.e	k o r e	shik1243			Japonic	14
+38	4_this	this	Sado	Sado	kore	k.o.r.e	k o r e	sado1237			Japonic	14
+39	4_this	this	Oki	Oki	kore	k.o.r.e	k o r e	okin1246	27.3738	128.619	Japonic	14
+40	4_this	this	Kagoshima	Kagoshima	koiː	k.oiː	k o iː	kyus1238			Japonic	14
+11	2_thou	thou	Miyako	Miyako	vːa	vː.a	vː a	miya1259	24.7564	125.363	Japonic	10
+12	2_thou	thou	Tokyo	Tōkyō	anata	a.n.a.t.a	a n a t a	toky1238			Japonic	5
+13	2_thou	thou	Amami	Amami	ʔʲa	ʔʲ.a	ʔʲ a	naze1238			Japonic	10
+14	2_thou	thou	Kyoto	Kyōto	aɴta	a.ɴ.t.a	a ɴ t a	kyot1238			Japonic	5
+15	2_thou	thou	Hachijo	Hachijō	omi	o.m.i	o m i	hach1238			Japonic	4
+16	2_thou	thou	Shuri	Shuri	ʔʲaː	ʔʲ.aː	ʔʲ aː	shur1243			Japonic	10
+17	2_thou	thou	Kochi	Kōchi	oɴsi	o.ɴ.s.i	o ɴ s i	shik1243			Japonic	7
+18	2_thou	thou	Sado	Sado	ɴna	ɴ.n.a	ɴ n a	sado1237			Japonic	6
+19	2_thou	thou	Oki	Oki	omae	o.m.ae	o m a e	okin1246	27.3738	128.619	Japonic	8
+20	2_thou	thou	Kagoshima	Kagoshima	waiː	w.aiː	w a iː	kyus1238			Japonic	9
+1090	110_three	three	Miyako	Miyako	miːʦɨ	m.iː.ʦ.ɨ	m iː ts ɨ	miya1259	24.7564	125.363	Japonic	252
+1091	110_three	three	Tokyo	Tōkyō	miʦːu	m.i.ʦː.u	m i tsː u	toky1238			Japonic	252
+1092	110_three	three	Amami	Amami	miːʦɨ	m.iː.ʦ.ɨ	m iː ts ɨ	naze1238			Japonic	252
+1093	110_three	three	Kyoto	Kyōto	miʦːu	m.i.ʦː.u	m i tsː u	kyot1238			Japonic	252
+1094	110_three	three	Hachijo	Hachijō	miʦːu	m.i.ʦː.u	m i tsː u	hach1238			Japonic	252
+1095	110_three	three	Shuri	Shuri	miːɕi	m.iː.ɕ.i	m iː ɕ i	shur1243			Japonic	252
+1096	110_three	three	Kochi	Kōchi	mitːu	m.i.tː.u	m i tː u	shik1243			Japonic	252
+1097	110_three	three	Sado	Sado	miʦːu	m.i.ʦː.u	m i tsː u	sado1237			Japonic	252
+1098	110_three	three	Oki	Oki	miʦːu	m.i.ʦː.u	m i tsː u	okin1246	27.3738	128.619	Japonic	252
+1099	110_three	three	Kagoshima	Kagoshima	mi	m.i	m i	kyus1238			Japonic	252
+1740	176_throw	throw	Miyako	Miyako	jaɭ	j.a.ɭ	j a ɭ	miya1259	24.7564	125.363	Japonic	405
+1741	176_throw	throw	Tokyo	Tōkyō	naŋeru	n.a.ŋ.e.r.u	n a ŋ e r u	toky1238			Japonic	404
+1742	176_throw	throw	Amami	Amami	nagɨruri	n.a.g.ɨ.r.u.r.i	n a g ɨ r u r i	naze1238			Japonic	404
+1743	176_throw	throw	Kyoto	Kyōto	horu	h.o.r.u	h o r u	kyot1238			Japonic	403
+1744	176_throw	throw	Hachijo	Hachijō	hoːru	h.oː.r.u	h oː r u	hach1238			Japonic	403
+1745	176_throw	throw	Shuri	Shuri	nagijuɴ	n.a.g.i.j.u.ɴ	n a g i j u ɴ	shur1243			Japonic	404
+1746	176_throw	throw	Kochi	Kōchi	hoːru	h.oː.r.u	h oː r u	shik1243			Japonic	403
+1747	176_throw	throw	Sado	Sado	nageru	n.a.g.e.r.u	n a g e r u	sado1237			Japonic	404
+1748	176_throw	throw	Oki	Oki	naŋeru	n.a.ŋ.e.r.u	n a ŋ e r u	okin1246	27.3738	128.619	Japonic	404
+1749	176_throw	throw	Kagoshima	Kagoshima	nagu	n.a.g.u	n a g u	kyus1238			Japonic	404
+1790	181_tie	tie	Tokyo	Tōkyō	musubu	m.u.s.u.b.u	m u s u b u	toky1238			Japonic	415
+1791	181_tie	tie	Amami	Amami	musuburi	m.u.s.u.b.u.r.i	m u s u b u r i	naze1238			Japonic	415
+1792	181_tie	tie	Kyoto	Kyōto	musubu	m.u.s.u.b.u	m u s u b u	kyot1238			Japonic	415
+1793	181_tie	tie	Hachijo	Hachijō	musubu	m.u.s.u.b.u	m u s u b u	hach1238			Japonic	415
+1794	181_tie	tie	Shuri	Shuri	musubuɴ	m.u.s.u.b.u.ɴ	m u s u b u ɴ	shur1243			Japonic	415
+1795	181_tie	tie	Kochi	Kōchi	musubu	m.u.s.u.b.u	m u s u b u	shik1243			Japonic	415
+1796	181_tie	tie	Sado	Sado	musubu	m.u.s.u.b.u	m u s u b u	sado1237			Japonic	415
+1797	181_tie	tie	Oki	Oki	mosubu	m.o.s.u.b.u	m o s u b u	okin1246	27.3738	128.619	Japonic	415
+1798	181_tie	tie	Kagoshima	Kagoshima	kiːbi	k.iː.b.i	k iː b i	kyus1238			Japonic	416
+432	44_tongue	tongue	Miyako	Miyako	sɨta	s.ɨ.t.a	s ɨ t a	miya1259	24.7564	125.363	Japonic	-102
+433	44_tongue	tongue	Tokyo	Tōkyō	sita	s.i.t.a	s i t a	toky1238			Japonic	-102
+434	44_tongue	tongue	Amami	Amami	sɨba	s.ɨ.b.a	s ɨ b a	naze1238			Japonic	-102
+435	44_tongue	tongue	Kyoto	Kyōto	sita	s.i.t.a	s i t a	kyot1238			Japonic	-102
+436	44_tongue	tongue	Hachijo	Hachijō	sita	s.i.t.a	s i t a	hach1238			Japonic	-102
+437	44_tongue	tongue	Shuri	Shuri	ʃiba	ʃ.i.b.a	ʃ i b a	shur1243			Japonic	-102
+438	44_tongue	tongue	Kochi	Kōchi	sita	s.i.t.a	s i t a	shik1243			Japonic	-102
+439	44_tongue	tongue	Sado	Sado	sitabera	s.i.t.a.b.e.r.a	s i t a b e r a	sado1237			Japonic	-102
+440	44_tongue	tongue	Oki	Oki	bero	b.e.r.o	b e r o	okin1246	27.3738	128.619	Japonic	-102
+441	44_tongue	tongue	Kagoshima	Kagoshima	sita	s.i.t.a	s i t a	kyus1238			Japonic	-102
+422	43_tooth	tooth	Miyako	Miyako	paː	p.aː	p aː	miya1259	24.7564	125.363	Japonic	101
+423	43_tooth	tooth	Tokyo	Tōkyō	ha	h.a	h a	toky1238			Japonic	101
+424	43_tooth	tooth	Amami	Amami	hwa	h.w.a	h w a	naze1238			Japonic	101
+425	43_tooth	tooth	Kyoto	Kyōto	haː	h.aː	h aː	kyot1238			Japonic	101
+426	43_tooth	tooth	Hachijo	Hachijō	nukaba	n.u.k.a.b.a	n u k a b a	hach1238			Japonic	100
+427	43_tooth	tooth	Shuri	Shuri	haː	h.aː	h aː	shur1243			Japonic	101
+428	43_tooth	tooth	Kochi	Kōchi	ha	h.a	h a	shik1243			Japonic	101
+429	43_tooth	tooth	Sado	Sado	ha	h.a	h a	sado1237			Japonic	101
+430	43_tooth	tooth	Oki	Oki	ɸa	ɸ.a	ɸ a	okin1246	27.3738	128.619	Japonic	101
+431	43_tooth	tooth	Kagoshima	Kagoshima	ha	h.a	h a	kyus1238			Japonic	101
+221	23_tree	tree	Miyako	Miyako	kiː	k.iː	k iː	miya1259	24.7564	125.363	Japonic	64
+222	23_tree	tree	Tokyo	Tōkyō	ki	k.i	k i	toky1238			Japonic	64
+223	23_tree	tree	Amami	Amami	xɨ	x.ɨ	x ɨ	naze1238			Japonic	64
+224	23_tree	tree	Kyoto	Kyōto	kiː	k.iː	k iː	kyot1238			Japonic	64
+225	23_tree	tree	Hachijo	Hachijō	ki	k.i	k i	hach1238			Japonic	64
+226	23_tree	tree	Shuri	Shuri	kiː	k.iː	k iː	shur1243			Japonic	64
+227	23_tree	tree	Kochi	Kōchi	ki	k.i	k i	shik1243			Japonic	64
+228	23_tree	tree	Sado	Sado	ki	k.i	k i	sado1237			Japonic	64
+229	23_tree	tree	Oki	Oki	ki	k.i	k i	okin1246	27.3738	128.619	Japonic	64
+230	23_tree	tree	Kagoshima	Kagoshima	ki	k.i	k i	kyus1238			Japonic	64
+111	12_two	two	Miyako	Miyako	futaːʦɨ	f.u.t.aː.ʦ.ɨ	f u t aː ts ɨ	miya1259	24.7564	125.363	Japonic	36
+112	12_two	two	Tokyo	Tōkyō	hutaʦːu	h.u.t.a.ʦː.u	h u t a tsː u	toky1238			Japonic	36
+113	12_two	two	Amami	Amami	taːʦɨ	t.aː.ʦ.ɨ	t aː ts ɨ	naze1238			Japonic	36
+114	12_two	two	Kyoto	Kyōto	hutaʦu	h.u.t.a.ʦ.u	h u t a ts u	kyot1238			Japonic	36
+115	12_two	two	Hachijo	Hachijō	hutaʦu	h.u.t.a.ʦ.u	h u t a ts u	hach1238			Japonic	36
+116	12_two	two	Shuri	Shuri	taːɕi	t.aː.ɕ.i	t aː ɕ i	shur1243			Japonic	36
+117	12_two	two	Kochi	Kōchi	hutaːtu	h.u.t.aː.t.u	h u t aː t u	shik1243			Japonic	36
+118	12_two	two	Sado	Sado	hutaʦu	h.u.t.a.ʦ.u	h u t a ts u	sado1237			Japonic	36
+119	12_two	two	Oki	Oki	ɸutaːʦu	ɸ.u.t.aː.ʦ.u	ɸ u t aː ts u	okin1246	27.3738	128.619	Japonic	36
+120	12_two	two	Kagoshima	Kagoshima	hutai	h.u.t.ai	h u t a i	kyus1238			Japonic	36
+1927	195_up	up	Miyako	Miyako	waːra	w.aː.r.a	w aː r a	miya1259	24.7564	125.363	Japonic	447
+1928	195_up	up	Tokyo	Tōkyō	ueː	ueː	u eː	toky1238			Japonic	447
+1929	195_up	up	Amami	Amami	ʔwɨːʨi	ʔ.w.ɨː.ʨ.i	ʔ w ɨː tɕ i	naze1238			Japonic	447
+1930	195_up	up	Kyoto	Kyōto	ueː	ueː	u eː	kyot1238			Japonic	447
+1931	195_up	up	Hachijo	Hachijō	we	w.e	w e	hach1238			Japonic	447
+1932	195_up	up	Shuri	Shuri	ʔwiːɴkai	ʔ.w.iː.ɴ.k.ai	ʔ w iː ɴ k a i	shur1243			Japonic	447
+1933	195_up	up	Kochi	Kōchi	ue	ue	u e	shik1243			Japonic	447
+1934	195_up	up	Sado	Sado	ue	ue	u e	sado1237			Japonic	447
+1935	195_up	up	Oki	Oki	ewe	e.w.e	e w e	okin1246	27.3738	128.619	Japonic	447
+1936	195_up	up	Kagoshima	Kagoshima	ueː	ueː	u eː	kyus1238			Japonic	447
+640	65_walk	walk	Miyako	Miyako	aɭɨfu	a.ɭ.ɨ.f.u	a ɭ ɨ f u	miya1259	24.7564	125.363	Japonic	146
+641	65_walk	walk	Tokyo	Tōkyō	aruku	a.r.u.k.u	a r u k u	toky1238			Japonic	146
+642	65_walk	walk	Amami	Amami	ʔakːuri	ʔ.a.kː.u.r.i	ʔ a kː u r i	naze1238			Japonic	146
+643	65_walk	walk	Kyoto	Kyōto	aruku	a.r.u.k.u	a r u k u	kyot1238			Japonic	146
+644	65_walk	walk	Hachijo	Hachijō	jamu	j.a.m.u	j a m u	hach1238			Japonic	145
+645	65_walk	walk	Shuri	Shuri	ʔaʦːuɴ	ʔ.a.ʦː.u.ɴ	ʔ a tsː u ɴ	shur1243			Japonic	146
+646	65_walk	walk	Kochi	Kōchi	aruku	a.r.u.k.u	a r u k u	shik1243			Japonic	146
+647	65_walk	walk	Sado	Sado	aruku	a.r.u.k.u	a r u k u	sado1237			Japonic	146
+648	65_walk	walk	Oki	Oki	aruku	a.r.u.k.u	a r u k u	okin1246	27.3738	128.619	Japonic	146
+649	65_walk	walk	Kagoshima	Kagoshima	ajuɴ	a.j.u.ɴ	a j u ɴ	kyus1238			Japonic	146
+1219	123_wash	wash	Miyako	Miyako	arau	a.r.au	a r a u	miya1259	24.7564	125.363	Japonic	276
+1220	123_wash	wash	Tokyo	Tōkyō	arau	a.r.au	a r a u	toky1238			Japonic	276
+1221	123_wash	wash	Amami	Amami	ʔarauri	ʔ.a.r.au.r.i	ʔ a r a u r i	naze1238			Japonic	276
+1222	123_wash	wash	Kyoto	Kyōto	arau	a.r.au	a r a u	kyot1238			Japonic	276
+1223	123_wash	wash	Hachijo	Hachijō	arau	a.r.au	a r a u	hach1238			Japonic	276
+1224	123_wash	wash	Shuri	Shuri	ʔarajuɴ	ʔ.a.r.a.j.u.ɴ	ʔ a r a j u ɴ	shur1243			Japonic	276
+1225	123_wash	wash	Kochi	Kōchi	arau	a.r.au	a r a u	shik1243			Japonic	276
+1226	123_wash	wash	Sado	Sado	arau	a.r.au	a r a u	sado1237			Japonic	276
+1227	123_wash	wash	Oki	Oki	arao	a.r.ao	a r a o	okin1246	27.3738	128.619	Japonic	276
+1228	123_wash	wash	Kagoshima	Kagoshima	airu	ai.r.u	a i r u	kyus1238			Japonic	276
+740	75_water	water	Miyako	Miyako	miʣɨ	m.i.ʣ.ɨ	m i dz ɨ	miya1259	24.7564	125.363	Japonic	170
+741	75_water	water	Tokyo	Tōkyō	mizu	m.i.z.u	m i z u	toky1238			Japonic	170
+742	75_water	water	Amami	Amami	mɨzɨ	m.ɨ.z.ɨ	m ɨ z ɨ	naze1238			Japonic	170
+743	75_water	water	Kyoto	Kyōto	mizu	m.i.z.u	m i z u	kyot1238			Japonic	170
+744	75_water	water	Hachijo	Hachijō	mizu	m.i.z.u	m i z u	hach1238			Japonic	170
+745	75_water	water	Shuri	Shuri	miʤi	m.i.ʤ.i	m i dʒ i	shur1243			Japonic	170
+746	75_water	water	Kochi	Kōchi	midu	m.i.d.u	m i d u	shik1243			Japonic	170
+747	75_water	water	Sado	Sado	mizu	m.i.z.u	m i z u	sado1237			Japonic	170
+748	75_water	water	Oki	Oki	mezu	m.e.z.u	m e z u	okin1246	27.3738	128.619	Japonic	170
+749	75_water	water	Kagoshima	Kagoshima	miː	m.iː	m iː	kyus1238			Japonic	170
+21	3_we	we	Miyako	Miyako	bantiː	b.a.n.t.iː	b a n t iː	miya1259	24.7564	125.363	Japonic	11
+22	3_we	we	Tokyo	Tōkyō	watasitaʨi	w.a.t.a.s.i.t.a.ʨ.i	w a t a s i t a tɕ i	toky1238			Japonic	12
+23	3_we	we	Amami	Amami	waxja	w.a.x.j.a	w a x j a	naze1238			Japonic	11
+24	3_we	we	Kyoto	Kyōto	watera	w.a.t.e.r.a	w a t e r a	kyot1238			Japonic	12
+25	3_we	we	Hachijo	Hachijō	wareɴisa	w.a.r.e.ɴ.i.s.a	w a r e ɴ i s a	hach1238			Japonic	11
+26	3_we	we	Shuri	Shuri	watːaː	w.a.tː.aː	w a tː aː	shur1243			Japonic	11
+27	3_we	we	Kochi	Kōchi	asiraː	a.s.i.r.aː	a s i r aː	shik1243			Japonic	12
+28	3_we	we	Sado	Sado	oraʨi	o.r.a.ʨ.i	o r a tɕ i	sado1237			Japonic	13
+29	3_we	we	Oki	Oki	orara	o.r.a.r.a	o r a r a	okin1246	27.3738	128.619	Japonic	13
+30	3_we	we	Kagoshima	Kagoshima	oidoɴ	oi.d.o.ɴ	o i d o ɴ	kyus1238			Japonic	13
+1209	122_wet	wet	Miyako	Miyako	mːiɭ	mː.i.ɭ	mː i ɭ	miya1259	24.7564	125.363	Japonic	275
+1210	122_wet	wet	Tokyo	Tōkyō	nureta	n.u.r.e.t.a	n u r e t a	toky1238			Japonic	274
+1211	122_wet	wet	Amami	Amami	neːθa	n.eː.θ.a	n eː θ a	naze1238			Japonic	274
+1212	122_wet	wet	Kyoto	Kyōto	nureta	n.u.r.e.t.a	n u r e t a	kyot1238			Japonic	274
+1213	122_wet	wet	Hachijo	Hachijō	pietua	p.ie.t.ua	p i e t u a	hach1238			Japonic	273
+1214	122_wet	wet	Shuri	Shuri	ɴditoːru	ɴ.d.i.t.oː.r.u	ɴ d i t oː r u	shur1243			Japonic	274
+1215	122_wet	wet	Kochi	Kōchi	nureta	n.u.r.e.t.a	n u r e t a	shik1243			Japonic	274
+1216	122_wet	wet	Sado	Sado	nureta	n.u.r.e.t.a	n u r e t a	sado1237			Japonic	274
+1217	122_wet	wet	Oki	Oki	noreta	n.o.r.e.t.a	n o r e t a	okin1246	27.3738	128.619	Japonic	274
+1218	122_wet	wet	Kagoshima	Kagoshima	nureita	n.u.r.ei.t.a	n u r e i t a	kyus1238			Japonic	274
+61	7_what	what	Miyako	Miyako	nau	n.au	n a u	miya1259	24.7564	125.363	Japonic	21
+62	7_what	what	Tokyo	Tōkyō	nani	n.a.n.i	n a n i	toky1238			Japonic	20
+63	7_what	what	Amami	Amami	nuː	n.uː	n uː	naze1238			Japonic	21
+64	7_what	what	Kyoto	Kyōto	nani	n.a.n.i	n a n i	kyot1238			Japonic	20
+65	7_what	what	Hachijo	Hachijō	ani	a.n.i	a n i	hach1238			Japonic	19
+66	7_what	what	Shuri	Shuri	nuː	n.uː	n uː	shur1243			Japonic	21
+67	7_what	what	Kochi	Kōchi	nani	n.a.n.i	n a n i	shik1243			Japonic	20
+68	7_what	what	Sado	Sado	nani	n.a.n.i	n a n i	sado1237			Japonic	20
+69	7_what	what	Oki	Oki	nani	n.a.n.i	n a n i	okin1246	27.3738	128.619	Japonic	20
+70	7_what	what	Kagoshima	Kagoshima	naiː	n.aiː	n a iː	kyus1238			Japonic	20
+1040	105_when	when	Miyako	Miyako	iʦɨ	i.ʦ.ɨ	i ts ɨ	miya1259	24.7564	125.363	Japonic	239
+1041	105_when	when	Tokyo	Tōkyō	iʦu	i.ʦ.u	i ts u	toky1238			Japonic	239
+1042	105_when	when	Amami	Amami	ʔiʦɨ	ʔ.i.ʦ.ɨ	ʔ i ts ɨ	naze1238			Japonic	239
+1043	105_when	when	Kyoto	Kyōto	iʦu	i.ʦ.u	i ts u	kyot1238			Japonic	239
+1044	105_when	when	Hachijo	Hachijō	iʦu	i.ʦ.u	i ts u	hach1238			Japonic	239
+1045	105_when	when	Shuri	Shuri	ʔiɕi	ʔ.i.ɕ.i	ʔ i ɕ i	shur1243			Japonic	239
+1046	105_when	when	Kochi	Kōchi	itu	i.t.u	i t u	shik1243			Japonic	239
+1047	105_when	when	Sado	Sado	iʦu	i.ʦ.u	i ts u	sado1237			Japonic	239
+1048	105_when	when	Oki	Oki	eʦu	e.ʦ.u	e ts u	okin1246	27.3738	128.619	Japonic	239
+1049	105_when	when	Kagoshima	Kagoshima	iː	iː	iː	kyus1238			Japonic	239
+1050	106_where	where	Miyako	Miyako	izaŋ	i.z.a.ŋ	i z a ŋ	miya1259	24.7564	125.363	Japonic	243
+1051	106_where	where	Tokyo	Tōkyō	doko	d.o.k.o	d o k o	toky1238			Japonic	240
+1052	106_where	where	Amami	Amami	daː	d.aː	d aː	naze1238			Japonic	241
+1053	106_where	where	Kyoto	Kyōto	doko	d.o.k.o	d o k o	kyot1238			Japonic	240
+1054	106_where	where	Hachijo	Hachijō	doko	d.o.k.o	d o k o	hach1238			Japonic	240
+1055	106_where	where	Shuri	Shuri	maː	m.aː	m aː	shur1243			Japonic	242
+1056	106_where	where	Kochi	Kōchi	doko	d.o.k.o	d o k o	shik1243			Japonic	240
+1057	106_where	where	Sado	Sado	doko	d.o.k.o	d o k o	sado1237			Japonic	240
+1058	106_where	where	Oki	Oki	doko	d.o.k.o	d o k o	okin1246	27.3738	128.619	Japonic	240
+1059	106_where	where	Kagoshima	Kagoshima	doko	d.o.k.o	d o k o	kyus1238			Japonic	240
+890	90_white	white	Miyako	Miyako	sːu	sː.u	sː u	miya1259	24.7564	125.363	Japonic	194
+891	90_white	white	Tokyo	Tōkyō	siroi	s.i.r.oi	s i r o i	toky1238			Japonic	194
+892	90_white	white	Amami	Amami	sirusari	s.i.r.u.s.a.r.i	s i r u s a r i	naze1238			Japonic	194
+893	90_white	white	Kyoto	Kyōto	siroi	s.i.r.oi	s i r o i	kyot1238			Japonic	194
+894	90_white	white	Hachijo	Hachijō	sirokʲa	s.i.r.o.kʲ.a	s i r o kʲ a	hach1238			Japonic	194
+895	90_white	white	Shuri	Shuri	sirusaɴ	s.i.r.u.s.a.ɴ	s i r u s a ɴ	shur1243			Japonic	194
+896	90_white	white	Kochi	Kōchi	siroi	s.i.r.oi	s i r o i	shik1243			Japonic	194
+897	90_white	white	Sado	Sado	siroi	s.i.r.oi	s i r o i	sado1237			Japonic	194
+898	90_white	white	Oki	Oki	sireː	s.i.r.eː	s i r eː	okin1246	27.3738	128.619	Japonic	194
+899	90_white	white	Kagoshima	Kagoshima	sire	s.i.r.e	s i r e	kyus1238			Japonic	194
+51	6_who	who	Miyako	Miyako	taru	t.a.r.u	t a r u	miya1259	24.7564	125.363	Japonic	18
+52	6_who	who	Tokyo	Tōkyō	dare	d.a.r.e	d a r e	toky1238			Japonic	18
+53	6_who	who	Amami	Amami	θaru	θ.a.r.u	θ a r u	naze1238			Japonic	18
+54	6_who	who	Kyoto	Kyōto	dare	d.a.r.e	d a r e	kyot1238			Japonic	18
+55	6_who	who	Hachijo	Hachijō	dare	d.a.r.e	d a r e	hach1238			Japonic	18
+56	6_who	who	Shuri	Shuri	taː	t.aː	t aː	shur1243			Japonic	18
+57	6_who	who	Kochi	Kōchi	dare	d.a.r.e	d a r e	shik1243			Japonic	18
+58	6_who	who	Sado	Sado	dare	d.a.r.e	d a r e	sado1237			Japonic	18
+59	6_who	who	Oki	Oki	dare	d.a.r.e	d a r e	okin1246	27.3738	128.619	Japonic	18
+60	6_who	who	Kagoshima	Kagoshima	daiː	d.aiː	d a iː	kyus1238			Japonic	18
+1521	154_wide	wide	Miyako	Miyako	p͡sɨsu	p͡s.ɨ.s.u	pˢ ɨ s u	miya1259	24.7564	125.363	Japonic	348
+1522	154_wide	wide	Tokyo	Tōkyō	hiroi	h.i.r.oi	h i r o i	toky1238			Japonic	348
+1523	154_wide	wide	Amami	Amami	hirusari	h.i.r.u.s.a.r.i	h i r u s a r i	naze1238			Japonic	348
+1524	154_wide	wide	Kyoto	Kyōto	hiroi	h.i.r.oi	h i r o i	kyot1238			Japonic	348
+1525	154_wide	wide	Hachijo	Hachijō	hirokʲa	h.i.r.o.kʲ.a	h i r o kʲ a	hach1238			Japonic	348
+1526	154_wide	wide	Shuri	Shuri	hwirusaɴ	h.w.i.r.u.s.a.ɴ	h w i r u s a ɴ	shur1243			Japonic	348
+1527	154_wide	wide	Kochi	Kōchi	hiroi	h.i.r.oi	h i r o i	shik1243			Japonic	348
+1528	154_wide	wide	Sado	Sado	hiroi	h.i.r.oi	h i r o i	sado1237			Japonic	348
+1529	154_wide	wide	Oki	Oki	ɸureː	ɸ.u.r.eː	ɸ u r eː	okin1246	27.3738	128.619	Japonic	348
+1530	154_wide	wide	Kagoshima	Kagoshima	hire	h.i.r.e	h i r e	kyus1238			Japonic	348
+1447	146_wife	wife	Miyako	Miyako	tuʣɨ	t.u.ʣ.ɨ	t u dz ɨ	miya1259	24.7564	125.363	Japonic	336
+1448	146_wife	wife	Tokyo	Tōkyō	kanai	k.a.n.ai	k a n a i	toky1238			Japonic	338
+1449	146_wife	wife	Amami	Amami	θuʥi	θ.u.ʥ.i	θ u dʑ i	naze1238			Japonic	336
+1450	146_wife	wife	Kyoto	Kyōto	kaka	k.a.k.a	k a k a	kyot1238			Japonic	338
+1451	146_wife	wife	Hachijo	Hachijō	jome	j.o.m.e	j o m e	hach1238			Japonic	337
+1452	146_wife	wife	Shuri	Shuri	tuʥi	t.u.ʥ.i	t u dʑ i	shur1243			Japonic	336
+1453	146_wife	wife	Kochi	Kōchi	kanai	k.a.n.ai	k a n a i	shik1243			Japonic	338
+1454	146_wife	wife	Sado	Sado	kaːsaɴ	k.aː.s.a.ɴ	k aː s a ɴ	sado1237			Japonic	338
+1455	146_wife	wife	Oki	Oki	nʲoːba	nʲ.oː.b.a	nʲ oː b a	okin1246	27.3738	128.619	Japonic	334
+1456	146_wife	wife	Kagoshima	Kagoshima	ukːaita	u.kː.ai.t.a	u kː a i t a	kyus1238			Japonic	335
+1160	117_wind	wind	Miyako	Miyako	kaʤi	k.a.ʤ.i	k a dʒ i	miya1259	24.7564	125.363	Japonic	266
+1161	117_wind	wind	Tokyo	Tōkyō	kaze	k.a.z.e	k a z e	toky1238			Japonic	266
+1162	117_wind	wind	Amami	Amami	xaze	x.a.z.e	x a z e	naze1238			Japonic	266
+1163	117_wind	wind	Kyoto	Kyōto	kaze	k.a.z.e	k a z e	kyot1238			Japonic	266
+1164	117_wind	wind	Hachijo	Hachijō	kaze	k.a.z.e	k a z e	hach1238			Japonic	266
+1165	117_wind	wind	Shuri	Shuri	kaʤi	k.a.ʤ.i	k a dʒ i	shur1243			Japonic	266
+1166	117_wind	wind	Kochi	Kōchi	kaze	k.a.z.e	k a z e	shik1243			Japonic	266
+1167	117_wind	wind	Sado	Sado	kaze	k.a.z.e	k a z e	sado1237			Japonic	266
+1168	117_wind	wind	Oki	Oki	kaze	k.a.z.e	k a z e	okin1246	27.3738	128.619	Japonic	266
+1169	117_wind	wind	Kagoshima	Kagoshima	kaize	k.ai.z.e	k a i z e	kyus1238			Japonic	266
+1278	129_wing	wing	Miyako	Miyako	panigazɨ	p.a.n.i.g.a.z.ɨ	p a n i g a z ɨ	miya1259	24.7564	125.363	Japonic	292
+1279	129_wing	wing	Tokyo	Tōkyō	hane	h.a.n.e	h a n e	toky1238			Japonic	294
+1280	129_wing	wing	Amami	Amami	haɴge	h.a.ɴ.g.e	h a ɴ g e	naze1238			Japonic	294
+1281	129_wing	wing	Kyoto	Kyōto	hane	h.a.n.e	h a n e	kyot1238			Japonic	294
+1282	129_wing	wing	Hachijo	Hachijō	hane	h.a.n.e	h a n e	hach1238			Japonic	294
+1283	129_wing	wing	Shuri	Shuri	hani	h.a.n.i	h a n i	shur1243			Japonic	294
+1284	129_wing	wing	Kochi	Kōchi	tubasa	t.u.b.a.s.a	t u b a s a	shik1243			Japonic	293
+1285	129_wing	wing	Sado	Sado	hane	h.a.n.e	h a n e	sado1237			Japonic	295
+1286	129_wing	wing	Oki	Oki	hane	h.a.n.e	h a n e	okin1246	27.3738	128.619	Japonic	294
+1287	129_wing	wing	Kagoshima	Kagoshima	haine	h.ai.n.e	h a i n e	kyus1238			Japonic	294
+1377	139_with	with	Miyako	Miyako	tu	t.u	t u	miya1259	24.7564	125.363	Japonic	310
+1378	139_with	with	Tokyo	Tōkyō	to	t.o	t o	toky1238			Japonic	310
+1379	139_with	with	Amami	Amami	θu	θ.u	θ u	naze1238			Japonic	310
+1380	139_with	with	Kyoto	Kyōto	to	t.o	t o	kyot1238			Japonic	310
+1381	139_with	with	Hachijo	Hachijō	to	t.o	t o	hach1238			Japonic	310
+1382	139_with	with	Shuri	Shuri	tu	t.u	t u	shur1243			Japonic	310
+1383	139_with	with	Kochi	Kōchi	to	t.o	t o	shik1243			Japonic	310
+1384	139_with	with	Sado	Sado	to	t.o	t o	sado1237			Japonic	310
+1385	139_with	with	Oki	Oki	to	t.o	t o	okin1246	27.3738	128.619	Japonic	310
+1386	139_with	with	Kagoshima	Kagoshima	to	t.o	t o	kyus1238			Japonic	310
+151	16_woman	woman	Miyako	Miyako	midum	m.i.d.u.m	m i d u m	miya1259	24.7564	125.363	Japonic	51
+152	16_woman	woman	Tokyo	Tōkyō	oɴna	o.ɴ.n.a	o ɴ n a	toky1238			Japonic	49
+153	16_woman	woman	Amami	Amami	onagu	o.n.a.g.u	o n a g u	naze1238			Japonic	49
+154	16_woman	woman	Kyoto	Kyōto	onaŋo	o.n.a.ŋ.o	o n a ŋ o	kyot1238			Japonic	49
+155	16_woman	woman	Hachijo	Hachijō	oɴnago	o.ɴ.n.a.g.o	o ɴ n a g o	hach1238			Japonic	49
+156	16_woman	woman	Shuri	Shuri	winagu	w.i.n.a.g.u	w i n a g u	shur1243			Japonic	49
+157	16_woman	woman	Kochi	Kōchi	onago	o.n.a.g.o	o n a g o	shik1243			Japonic	49
+158	16_woman	woman	Sado	Sado	oɴna	o.ɴ.n.a	o ɴ n a	sado1237			Japonic	49
+159	16_woman	woman	Oki	Oki	nʲoːba	nʲ.oː.b.a	nʲ oː b a	okin1246	27.3738	128.619	Japonic	50
+160	16_woman	woman	Kagoshima	Kagoshima	onago	o.n.a.g.o	o n a g o	kyus1238			Japonic	49
+1239	125_worm	worm	Miyako	Miyako	musɨ	m.u.s.ɨ	m u s ɨ	miya1259	24.7564	125.363	Japonic	281
+1240	125_worm	worm	Tokyo	Tōkyō	musi	m.u.s.i	m u s i	toky1238			Japonic	281
+1241	125_worm	worm	Amami	Amami	musi	m.u.s.i	m u s i	naze1238			Japonic	281
+1242	125_worm	worm	Kyoto	Kyōto	musi	m.u.s.i	m u s i	kyot1238			Japonic	281
+1243	125_worm	worm	Hachijo	Hachijō	musime	m.u.s.i.m.e	m u s i m e	hach1238			Japonic	281
+1244	125_worm	worm	Shuri	Shuri	musi	m.u.s.i	m u s i	shur1243			Japonic	281
+1245	125_worm	worm	Kochi	Kōchi	musi	m.u.s.i	m u s i	shik1243			Japonic	281
+1246	125_worm	worm	Sado	Sado	musi	m.u.s.i	m u s i	sado1237			Japonic	281
+1247	125_worm	worm	Oki	Oki	mosi	m.o.s.i	m o s i	okin1246	27.3738	128.619	Japonic	281
+1248	125_worm	worm	Kagoshima	Kagoshima	muiɕ	m.ui.ɕ	m ui ɕ	kyus1238			Japonic	281
+1000	101_ye	ye	Miyako	Miyako	vːadu	vː.a.d.u	vː a d u	miya1259	24.7564	125.363	Japonic	222
+1001	101_ye	ye	Tokyo	Tōkyō	aɴtataʨi	a.ɴ.t.a.t.a.ʨ.i	a ɴ t a t a tɕ i	toky1238			Japonic	224
+1002	101_ye	ye	Amami	Amami	ʔʲaxja	ʔʲ.a.x.j.a	ʔʲ a x j a	naze1238			Japonic	222
+1003	101_ye	ye	Kyoto	Kyōto	aɴtara	a.ɴ.t.a.r.a	a ɴ t a r a	kyot1238			Japonic	224
+1004	101_ye	ye	Hachijo	Hachijō	omiɴsia	o.m.i.ɴ.s.ia	o m i ɴ s i a	hach1238			Japonic	223
+1005	101_ye	ye	Shuri	Shuri	ʔitːaː	ʔ.i.tː.aː	ʔ i tː aː	shur1243			Japonic	222
+1006	101_ye	ye	Kochi	Kōchi	oɴsiraː	o.ɴ.s.i.r.aː	o ɴ s i r aː	shik1243			Japonic	226
+1007	101_ye	ye	Sado	Sado	unaʨi	u.n.a.ʨ.i	u n a tɕ i	sado1237			Japonic	225
+1008	101_ye	ye	Oki	Oki	omaera	o.m.ae.r.a	o m a e r a	okin1246	27.3738	128.619	Japonic	227
+1009	101_ye	ye	Kagoshima	Kagoshima	waidoɴ	w.ai.d.o.ɴ	w a i d o ɴ	kyus1238			Japonic	228
+1977	200_year	year	Miyako	Miyako	tusɨ	t.u.s.ɨ	t u s ɨ	miya1259	24.7564	125.363	Japonic	458
+1978	200_year	year	Tokyo	Tōkyō	tosi	t.o.s.i	t o s i	toky1238			Japonic	458
+1979	200_year	year	Amami	Amami	θusi	θ.u.s.i	θ u s i	naze1238			Japonic	458
+1980	200_year	year	Kyoto	Kyōto	tosi	t.o.s.i	t o s i	kyot1238			Japonic	458
+1981	200_year	year	Hachijo	Hachijō	tosi	t.o.s.i	t o s i	hach1238			Japonic	458
+1982	200_year	year	Shuri	Shuri	tusi	t.u.s.i	t u s i	shur1243			Japonic	458
+1983	200_year	year	Kochi	Kōchi	tosi	t.o.s.i	t o s i	shik1243			Japonic	458
+1984	200_year	year	Sado	Sado	tosi	t.o.s.i	t o s i	sado1237			Japonic	458
+1985	200_year	year	Oki	Oki	tosi	t.o.s.i	t o s i	okin1246	27.3738	128.619	Japonic	458
+1986	200_year	year	Kagoshima	Kagoshima	toɕ	t.o.ɕ	t o ɕ	kyus1238			Japonic	458
+880	89_yellow	yellow	Miyako	Miyako	ʦɨːru	ʦ.ɨː.r.u	ts ɨː r u	miya1259	24.7564	125.363	Japonic	193
+881	89_yellow	yellow	Tokyo	Tōkyō	kiːroi	k.iː.r.oi	k iː r o i	toky1238			Japonic	193
+882	89_yellow	yellow	Amami	Amami	kiːsari	k.iː.s.a.r.i	k iː s a r i	naze1238			Japonic	193
+883	89_yellow	yellow	Kyoto	Kyōto	kiːroi	k.iː.r.oi	k iː r o i	kyot1238			Japonic	193
+884	89_yellow	yellow	Hachijo	Hachijō	kiːrokʲa	k.iː.r.o.kʲ.a	k iː r o kʲ a	hach1238			Japonic	193
+885	89_yellow	yellow	Shuri	Shuri	ʨiːru	ʨ.iː.r.u	tɕ iː r u	shur1243			Japonic	193
+886	89_yellow	yellow	Kochi	Kōchi	kiːroi	k.iː.r.oi	k iː r o i	shik1243			Japonic	193
+887	89_yellow	yellow	Sado	Sado	kiːroi	k.iː.r.oi	k iː r o i	sado1237			Japonic	193
+888	89_yellow	yellow	Oki	Oki	kiːro	k.iː.r.o	k iː r o	okin1246	27.3738	128.619	Japonic	193
+889	89_yellow	yellow	Kagoshima	Kagoshima	kiː	k.iː	k iː	kyus1238			Japonic	193
