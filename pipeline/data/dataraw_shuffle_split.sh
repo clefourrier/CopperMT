@@ -42,18 +42,18 @@ for lang_pair in ${LANGS}; do
             $(( $(wc -l < "${DATA_DIR}/${seed}/preprocess_${l_in}_${l_out}_train_vs_rest01") * VAL_TEST_SPLIT / 100 + 1))
 
         # Split the files back to their respective languages
-        awk -v in_path="${DATA_DIR}/${seed}/train_${l_in}_${l_out}.${l_in}" \
-            -v out_path="${DATA_DIR}/${seed}/train_${l_in}_${l_out}.${l_out}" \
+        awk -v in_path="${DATA_DIR}/${seed}/train.${l_in}-${l_out}.${l_in}" \
+            -v out_path="${DATA_DIR}/${seed}/train.${l_in}-${l_out}.${l_out}" \
             'BEGIN { FS=";" } { print $1 > in_path; print $2 > out_path}' \
             < "${DATA_DIR}/${seed}/preprocess_${l_in}_${l_out}_train_vs_rest00"
 
-        awk -v in_path="${DATA_DIR}/${seed}/fine_tune_${l_in}_${l_out}.${l_in}" \
-            -v out_path="${DATA_DIR}/${seed}/fine_tune_${l_in}_${l_out}.${l_out}" \
+        awk -v in_path="${DATA_DIR}/${seed}/valid.${l_in}-${l_out}.${l_in}" \
+            -v out_path="${DATA_DIR}/${seed}/valid.${l_in}-${l_out}.${l_out}" \
             'BEGIN { FS=";" } { print $1 > in_path; print $2 > out_path}' \
             < "${DATA_DIR}/${seed}/preprocess_${l_in}_${l_out}_val_vs_test00"
 
-        awk -v in_path="${DATA_DIR}/${seed}/test_${l_in}_${l_out}.${l_in}" \
-            -v out_path="${DATA_DIR}/${seed}/test_${l_in}_${l_out}.${l_out}" \
+        awk -v in_path="${DATA_DIR}/${seed}/test.${l_in}-${l_out}.${l_in}" \
+            -v out_path="${DATA_DIR}/${seed}/test.${l_in}-${l_out}.${l_out}" \
             'BEGIN { FS=";" } { print $1 > in_path; print $2 > out_path}' \
             < "${DATA_DIR}/${seed}/preprocess_${l_in}_${l_out}_val_vs_test01"
         rm "${DATA_DIR}/${seed}/preprocess_${l_in}_${l_out}_"*

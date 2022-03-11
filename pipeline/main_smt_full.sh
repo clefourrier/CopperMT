@@ -1,46 +1,47 @@
 #!/bin/bash
 source $1
-export WK_DIR INPUTS_DIR MOSES_DIR DATA_NAME langs
+export WK_DIR INPUTS_DIR MOSES_DIR DATA_NAME langs_bi
+source ../pyenv/bin/activate
 
-DATA_DIR="${INPUTS_DIR}/split_data/${DATA_NAME}"  # Where the data will be saved
-WORK_DIR="${WK_DIR}/reference_models/statistical"  # Where the models will be saved
+DATA_DIR="${INPUTS_DIR}/split_data/shared_${DATA_NAME}"  # Where the data will be saved
+WORK_DIR="${WK_DIR}/statistical/"  # Where the models will be saved
 
 # CREATING NEEDED FOLDERS
-for lang_pair in $(echo ${langs} | tr "," "\n"); do
+for lang_pair in $(echo ${langs_bi} | tr "," "\n"); do
     mkdir -p ${WORK_DIR}
-    for seed in 0 1 2; do
+    for splits in 0.10 0.20 0.30 0.40 0.50; do
         IFS="-" read l_in l_out <<< "${lang_pair}";
-        mkdir -p "${WORK_DIR}/${seed}/${l_in}_${l_out}/lm"
-        mkdir -p "${WORK_DIR}/${seed}/${l_out}_${l_in}/lm"
-        mkdir -p "${WORK_DIR}/${seed}/${l_in}_${l_out}/out"
-        mkdir -p "${WORK_DIR}/${seed}/${l_out}_${l_in}/out"
+        mkdir -p "${WORK_DIR}/${splits}/${l_in}_${l_out}/lm"
+        mkdir -p "${WORK_DIR}/${splits}/${l_out}_${l_in}/lm"
+        mkdir -p "${WORK_DIR}/${splits}/${l_in}_${l_out}/out"
+        mkdir -p "${WORK_DIR}/${splits}/${l_out}_${l_in}/out"
     done
 done
 
-for seed in 0 1 2; do
+for splits in 0.10 0.20 0.30 0.40 0.50; do
     for lang_pair in $(echo ${langs} | tr "," "\n"); do
         IFS="-" read l_in l_out <<< "${lang_pair}";
         echo "========== PREPROCESS"
         bash statistical_translation/data_preprocess_lm.sh \
             -i "${l_in}" -o "${l_out}" \
-            -m "${MOSES_DIR}" -w "${WORK_DIR}/${seed}" \
-            -d "${DATA_DIR}/${seed}"
+            -m "${MOSES_DIR}" -w "${WORK_DIR}/${splits}" \
+            -d "${DATA_DIR}/${splits}"
         echo "========== TRAIN"
 
         bash statistical_translation/model_train.sh \
             -i "${l_in}" -o "${l_out}" \
-            -m "${MOSES_DIR}" -w "${WORK_DIR}/${seed}"
+            -m "${MOSES_DIR}" -w "${WORK_DIR}/${splits}"
 
         echo "========== FINETUNE"
         bash statistical_translation/model_finetune.sh \
             -i "${l_in}" -o "${l_out}" \
-            -m "${MOSES_DIR}" -w "${WORK_DIR}/${seed}" \
-            -d "${DATA_DIR}/${seed}"
+            -m "${MOSES_DIR}" -w "${WORK_DIR}/${splits}" \
+            -d "${DATA_DIR}/${splits}"
 
         bash statistical_translation/model_test_nbest.sh \
             -i "${l_in}" -o "${l_out}" \
-            -m "${MOSES_DIR}" -w "${WORK_DIR}/${seed}" \
-            -d "${DATA_DIR}/${seed}" -n 10
+            -m "${MOSES_DIR}" -w "${WORK_DIR}/${splits}" \
+            -d "${DATA_DIR}/${splits}" -n 10
 
     done
 done

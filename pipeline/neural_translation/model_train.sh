@@ -1,8 +1,9 @@
 #!/bin/bash
 
-while getopts w:l:u:p:d:e: o
+while getopts w:a:l:u:p:d:e: o
 do  case "$o" in
-	l)	LANGS="$OPTARG";;
+	  l)	LANGS="$OPTARG";;
+    a)  LANGS_SHARED="$OPTARG";;
     w)  WORK_DIR="$OPTARG";;
     d)  DATA_DIR="$OPTARG";;
     u)  USR_DIR="$OPTARG";;
@@ -31,19 +32,14 @@ export model_type attention \
     batch_size dropout learning_rate \
     share_encoders share_decoders
 
-if [[ ${share_encoders} = true ]]; then share_encoders="--share-encoders"; else share_encoders=""; fi
-if [[ ${share_decoders} = true ]]; then share_decoders="--share-decoders"; else share_decoders=""; fi
+if [[ -z ${encoders_sharing} ]]; then encoders_sharing=""; else encoders_sharing="--encoders-sharing ${encoders_sharing}" ; fi
+if [[ -z ${decoders_sharing} ]]; then decoders_sharing=""; else decoders_sharing="--decoders-sharing ${decoders_sharing}" ; fi
+if [[ -z ${encoder_embeddings_sharing} ]]; then encoder_embeddings_sharing=""; else encoder_embeddings_sharing="--encoder-embeddings-sharing ${LANGS_SHARED}" ; fi
+if [[ -z ${decoder_embeddings_sharing} ]]; then decoder_embeddings_sharing=""; else decoder_embeddings_sharing="--decoder-embeddings-sharing ${LANGS_SHARED}" ; fi
 
-if [[ ${model_type} == "transformer" ]];
-then
-   encoder_params="--encoder-ffn-embed-dim ${enc_hid_dim} --encoder-attention-heads ${enc_heads}";
-   decoder_params="--decoder-ffn-embed-dim ${dec_hid_dim} --decoder-attention-heads ${enc_heads}";
-   attention="";
-else
-   encoder_params="--encoder-hidden-size ${enc_hid_dim}";
-   decoder_params="--decoder-hidden-size ${dec_hid_dim}";
-   attention="--attention-type ${attention}";
-fi
+encoder_params="--encoder-hidden-size ${enc_hid_dim}";
+decoder_params="--decoder-hidden-size ${dec_hid_dim}";
+attention="--attention-type ${attention}";
 
 echo "--lr ${learning_rate} --batch-size ${batch_size} --dropout ${dropout} --max-epoch ${epoch} \
   --save-dir ${WORK_DIR}/checkpoints/ --optimizer adam --scoring sacrebleu \
@@ -51,13 +47,15 @@ echo "--lr ${learning_rate} --batch-size ${batch_size} --dropout ${dropout} --ma
   --task multilingual_translation --lang-pairs ${LANGS} \
   --encoder-layers ${enc_layer} --encoder-embed-dim ${enc_emb_dim} ${encoder_params} \
   --decoder-layers ${dec_layer} --decoder-embed-dim ${dec_emb_dim} ${decoder_params} \
-  ${attention} --share-encoders ${share_encoders} --share-decoders ${share_decoders}"
+  ${attention} ${encoders_sharing} ${decoders_sharing}"
 
 CUDA_VISIBLE_DEVICES=0 fairseq-train "${DATA_DIR}/data-bin/" \
+  --disable-validation --valid-subset "train" \
   --lr ${learning_rate} --batch-size ${batch_size} --dropout ${dropout} --max-epoch ${epoch} \
   --save-dir "${WORK_DIR}/checkpoints/" --optimizer adam --scoring sacrebleu \
   --user-dir ${USR_DIR} --arch multilingual_${model_type} \
   --task multilingual_translation --lang-pairs ${LANGS} \
   --encoder-layers ${enc_layer} --encoder-embed-dim ${enc_emb_dim} ${encoder_params} \
   --decoder-layers ${dec_layer} --decoder-embed-dim ${dec_emb_dim} ${decoder_params} \
-  ${attention} ${share_encoders} ${share_decoders}
+    ${attention} \
+    ${encoders_sharing} ${encoders_sharing} ${encoder_embeddings_sharing} ${decoder_embeddings_sharing}
