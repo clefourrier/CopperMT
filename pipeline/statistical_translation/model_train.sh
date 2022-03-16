@@ -18,15 +18,15 @@ do  case "$o" in
 done
 
 # Default LM path
-LM_PATH=${WORK_DIR}/${l_in}_${l_out}/lm
+LM_PATH=${WORK_DIR}/${l_in}-${l_out}/lm
 
 if ! [[ ${EXTRA_LANGUAGE_MODEL} == "" ]]; then
-    add_lm="-lm 0:3:${EXTRA_LANGUAGE_MODEL}/${l_in}_${l_out}/lm/train_${l_in}_${l_out}_language_model.blm.${l_out}:8";
+    add_lm="-lm 0:3:${EXTRA_LANGUAGE_MODEL}/${l_in}-${l_out}/lm/train.${l_in}-${l_out}_language_model.blm.${l_out}:8";
 fi
 
 nohup nice ${MOSES_DIR}/mosesdecoder/scripts/training/train-model.perl \
       -mgiza -external-bin-dir="${MOSES_DIR}/mgiza/mgizapp/bin" \
-      -root-dir "${WORK_DIR}/${l_in}_${l_out}/train" -corpus ${LM_PATH}/train_${l_in}_${l_out}.clean -f ${l_in} -e ${l_out} \
+      -root-dir "${WORK_DIR}/${l_in}-${l_out}/train" -corpus ${LM_PATH}/train.${l_in}-${l_out}.clean -f ${l_in} -e ${l_out} \
       -alignment grow-diag-final-and -reordering msd-bidirectional-fe \
-      -lm 0:3:${LM_PATH}/train_${l_in}_${l_out}_language_model.blm.${l_out}:8 \
+      -lm 0:3:${LM_PATH}/train.${l_in}-${l_out}_language_model.blm.${l_out}:8 \
       ${add_lm}

@@ -20,13 +20,13 @@ do  case "$o" in
 done
 
 echo "nice ${MOSES_DIR}/mosesdecoder/bin/moses \
-     -f ${WORK_DIR}/${l_in}_${l_out}/train/model/moses.ini \
-     -n-best-list ${WORK_DIR}/out/test_${l_in}_${l_out}_nbest_${n_best}.${l_out} \
-     ${n_best} distinct < ${DATA_DIR}/test_${l_in}_${l_out}.${l_in} \
-     > ${WORK_DIR}/${l_in}_${l_out}/out/test_${l_in}_${l_out}_translated_${n_best}.${l_out}"
+     -f ${WORK_DIR}/${l_in}-${l_out}/train/model/moses.ini \
+     -n-best-list ${WORK_DIR}/out/test.${l_in}-${l_out}_nbest_${n_best}.${l_out} \
+     ${n_best} distinct < ${DATA_DIR}/test.${l_in}-${l_out}.${l_in} \
+     > ${WORK_DIR}/${l_in}-${l_out}/out/test.${l_in}-${l_out}_translated_${n_best}.${l_out}"
 
 nohup nice ${MOSES_DIR}/mosesdecoder/bin/moses \
-     -f ${WORK_DIR}/${l_in}_${l_out}/train/model/moses.ini \
-     -n-best-list ${WORK_DIR}/${l_in}_${l_out}/out/test_${l_in}_${l_out}_nbest_${n_best}.${l_out} \
-     ${n_best} distinct < ${DATA_DIR}/test_${l_in}_${l_out}.${l_in} \
-     > ${WORK_DIR}/${l_in}_${l_out}/out/test_${l_in}_${l_out}_translated_${n_best}.${l_out}
+     -f ${WORK_DIR}/${l_in}-${l_out}/train/model/moses.ini \
+     -n-best-list ${WORK_DIR}/${l_in}-${l_out}/out/test.${l_in}-${l_out}_nbest_${n_best}.${l_out} \
+     ${n_best} distinct < ${DATA_DIR}/test.${l_in}-${l_out}.${l_in} \
+     > ${WORK_DIR}/${l_in}-${l_out}/out/test.${l_in}-${l_out}_translated_${n_best}.${l_out}

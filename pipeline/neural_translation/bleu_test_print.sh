@@ -12,7 +12,7 @@ done
 
 for lang_pair in ${LANGS}; do
     IFS="-" read l_in l_out <<< "${lang_pair}";
-    bleu=$(tail -n1 "${WORK_DIR}/bleu/bleu_checkpoint_best_${l_in}_${l_out}.${l_out}" | \
+    bleu=$(tail -n1 "${WORK_DIR}/bleu/bleu_checkpoint_best_${l_in}-${l_out}.${l_out}" | \
            awk -F 'BLEU = ' '{print $2"\n"}'  | \
            awk -F '(' '{printf $1"\n"}' | awk 'NF > 0')
     echo "$l_in $l_out $bleu";

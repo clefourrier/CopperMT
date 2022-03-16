@@ -18,9 +18,7 @@ echo "${ORIGIN_DATA_DIR} ${PARAMETER_DIR} ${DATA_DIR} ${WORK_DIR}"
 
 # ------ Copying PREPROCESSed data
 for splits in 0.10 0.20 0.30 0.40 0.50; do
-    # l for languages, o for origin data dir, d for data dir to write the files to
-    # f to store fine-tuning data
-    cp -r $ORIGIN_DATA_DIR/$splits/ $DATA_DIR/${splits}/
+    cp -r $ORIGIN_DATA_DIR/${splits} $DATA_DIR/${splits}/
 done
 
 # ------- TRAINING RNN AND TRANSFORMER
@@ -33,18 +31,18 @@ for splits in 0.10 0.20 0.30 0.40 0.50; do
             -p "${PARAMETER_DIR}/default_parameters_rnn.txt" \
             -u "${USER_DIR}" -e 20
 
-        bash "${DIR}/neural_translation/checkpoint_select_best.sh" \
-            -l ${lang_pairs} -r ${lang_pairs} \
-            -w "${WORK_DIR}/${lang_pairs}/${splits}" \
-            -d "${DATA_DIR}/${splits}" \
-            -u "${USER_DIR}" \
-            -n 1 -b 1
+        #bash "${DIR}/neural_translation/checkpoint_select_best.sh" \
+        #    -l ${lang_pairs} -r ${lang_pairs} \
+        #    -w "${WORK_DIR}/${lang_pairs}/${splits}" \
+        #    -d "${DATA_DIR}/${splits}" \
+        #    -u "${USER_DIR}" \
+        #    -n 1 -b 1
 
-        bash "${DIR}/neural_translation/bleu_test_save_best.sh" \
-            -l ${lang_pairs} -r ${lang_pairs} \
-            -w "${WORK_DIR}/${lang_pairs}/${splits}" \
-            -d "${DATA_DIR}/${splits}" \
-            -u "${USER_DIR}" \
-            -n 10 -b 10
+        #bash "${DIR}/neural_translation/bleu_test_save_best.sh" \
+        #    -l ${lang_pairs} -r ${lang_pairs} \
+        #    -w "${WORK_DIR}/${lang_pairs}/${splits}" \
+        #    -d "${DATA_DIR}/${splits}" \
+        #    -u "${USER_DIR}" \
+        #    -n 10 -b 10
     done
 done

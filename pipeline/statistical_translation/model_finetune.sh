@@ -18,10 +18,10 @@ do  case "$o" in
 done
 
 
-cd "${WORK_DIR}/${l_in}_${l_out}/train"
+cd "${WORK_DIR}/${l_in}-${l_out}/train"
 
 nohup nice ${MOSES_DIR}/mosesdecoder/scripts/training/mert-moses.pl \
-    ${DATA_DIR}/fine_tune_${l_in}_${l_out}.${l_in} ${DATA_DIR}/fine_tune_${l_in}_${l_out}.${l_out} \
-    ${MOSES_DIR}/mosesdecoder/bin/moses ${WORK_DIR}/${l_in}_${l_out}/train/model/moses.ini \
+    ${DATA_DIR}/valid.${l_in}-${l_out}.${l_in} ${DATA_DIR}/valid.${l_in}-${l_out}.${l_out} \
+    ${MOSES_DIR}/mosesdecoder/bin/moses ${WORK_DIR}/${l_in}-${l_out}/train/model/moses.ini \
     --mertdir ${MOSES_DIR}/mosesdecoder/bin/ \
 	--mertargs="--sctype BLEU" --return-best-dev

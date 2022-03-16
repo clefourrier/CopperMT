@@ -22,16 +22,16 @@ if [[ ${WORK_DIR} == "" ]]; then
     exit 1;
 fi
 
-mkdir -p ${WORK_DIR}/${l_in}_${l_out}/lm
-LM_PATH=${WORK_DIR}/${l_in}_${l_out}/lm
+mkdir -p ${WORK_DIR}/${l_in}-${l_out}/lm
+LM_PATH=${WORK_DIR}/${l_in}-${l_out}/lm
 
 ${MOSES_DIR}/mosesdecoder/scripts/training/clean-corpus-n.perl \
-    ${DATA_DIR}/train_${l_in}_${l_out} ${l_in} ${l_out} \
-    ${LM_PATH}/train_${l_in}_${l_out}.clean 1 80
+    ${DATA_DIR}/train.${l_in}-${l_out} ${l_in} ${l_out} \
+    ${LM_PATH}/train.${l_in}-${l_out}.clean 1 80
 ${MOSES_DIR}/mosesdecoder/bin/lmplz -o 3 --discount_fallback \
-    <${DATA_DIR}/train_${l_in}_${l_out}.${l_out} > \
-    ${LM_PATH}/train_${l_in}_${l_out}_language_model.arpa.${l_out}
+    <${DATA_DIR}/train.${l_in}-${l_out}.${l_out} > \
+    ${LM_PATH}/train.${l_in}-${l_out}_language_model.arpa.${l_out}
 ${MOSES_DIR}/mosesdecoder/bin/build_binary \
-    ${LM_PATH}/train_${l_in}_${l_out}_language_model.arpa.${l_out} \
-    ${LM_PATH}/train_${l_in}_${l_out}_language_model.blm.${l_out}
+    ${LM_PATH}/train.${l_in}-${l_out}_language_model.arpa.${l_out} \
+    ${LM_PATH}/train.${l_in}-${l_out}_language_model.blm.${l_out}
 echo "---- Clean and build data done"

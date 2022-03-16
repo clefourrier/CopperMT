@@ -30,32 +30,32 @@ for lang_pair in ${LANGS}; do
     for seed in ${SEEDS}; do
         mkdir "${DATA_DIR}/${seed}"
         # Union and shuffle of data
-        paste -d ';' "${RAW_DATA_DIR}/${l_in}_${l_out}.${l_in}" "${RAW_DATA_DIR}/${l_in}_${l_out}.${l_out}" | \
-        shuf --random-source=<(get_seeded_random seed) > "${DATA_DIR}/${seed}/preprocess_${l_in}_${l_out}_shuffled"
+        paste -d ';' "${RAW_DATA_DIR}/${l_in}-${l_out}.${l_in}" "${RAW_DATA_DIR}/${l_in}-${l_out}.${l_out}" | \
+        shuf --random-source=<(get_seeded_random seed) > "${DATA_DIR}/${seed}/preprocess_${l_in}-${l_out}_shuffled"
 
         # Split
-        csplit -f "${DATA_DIR}/${seed}/preprocess_${l_in}_${l_out}_train_vs_rest" \
-            "${DATA_DIR}/${seed}/preprocess_${l_in}_${l_out}_shuffled" \
-            $(( $(wc -l < "${DATA_DIR}/${seed}/preprocess_${l_in}_${l_out}_shuffled") * TRAIN_SPLIT / 100 + 1))
-        csplit -f "${DATA_DIR}/${seed}/preprocess_${l_in}_${l_out}_val_vs_test" \
-            "${DATA_DIR}/${seed}/preprocess_${l_in}_${l_out}_train_vs_rest01" \
-            $(( $(wc -l < "${DATA_DIR}/${seed}/preprocess_${l_in}_${l_out}_train_vs_rest01") * VAL_TEST_SPLIT / 100 + 1))
+        csplit -f "${DATA_DIR}/${seed}/preprocess_${l_in}-${l_out}_train_vs_rest" \
+            "${DATA_DIR}/${seed}/preprocess_${l_in}-${l_out}_shuffled" \
+            $(( $(wc -l < "${DATA_DIR}/${seed}/preprocess_${l_in}-${l_out}_shuffled") * TRAIN_SPLIT / 100 + 1))
+        csplit -f "${DATA_DIR}/${seed}/preprocess_${l_in}-${l_out}_val_vs_test" \
+            "${DATA_DIR}/${seed}/preprocess_${l_in}-${l_out}_train_vs_rest01" \
+            $(( $(wc -l < "${DATA_DIR}/${seed}/preprocess_${l_in}-${l_out}_train_vs_rest01") * VAL_TEST_SPLIT / 100 + 1))
 
         # Split the files back to their respective languages
         awk -v in_path="${DATA_DIR}/${seed}/train.${l_in}-${l_out}.${l_in}" \
             -v out_path="${DATA_DIR}/${seed}/train.${l_in}-${l_out}.${l_out}" \
             'BEGIN { FS=";" } { print $1 > in_path; print $2 > out_path}' \
-            < "${DATA_DIR}/${seed}/preprocess_${l_in}_${l_out}_train_vs_rest00"
+            < "${DATA_DIR}/${seed}/preprocess_${l_in}-${l_out}_train_vs_rest00"
 
         awk -v in_path="${DATA_DIR}/${seed}/valid.${l_in}-${l_out}.${l_in}" \
             -v out_path="${DATA_DIR}/${seed}/valid.${l_in}-${l_out}.${l_out}" \
             'BEGIN { FS=";" } { print $1 > in_path; print $2 > out_path}' \
-            < "${DATA_DIR}/${seed}/preprocess_${l_in}_${l_out}_val_vs_test00"
+            < "${DATA_DIR}/${seed}/preprocess_${l_in}-${l_out}_val_vs_test00"
 
         awk -v in_path="${DATA_DIR}/${seed}/test.${l_in}-${l_out}.${l_in}" \
             -v out_path="${DATA_DIR}/${seed}/test.${l_in}-${l_out}.${l_out}" \
             'BEGIN { FS=";" } { print $1 > in_path; print $2 > out_path}' \
-            < "${DATA_DIR}/${seed}/preprocess_${l_in}_${l_out}_val_vs_test01"
-        rm "${DATA_DIR}/${seed}/preprocess_${l_in}_${l_out}_"*
+            < "${DATA_DIR}/${seed}/preprocess_${l_in}-${l_out}_val_vs_test01"
+        rm "${DATA_DIR}/${seed}/preprocess_${l_in}-${l_out}_"*
     done
 done

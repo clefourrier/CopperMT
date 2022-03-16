@@ -41,6 +41,6 @@ for lang_pair in ${LANGS}; do
     --batch-size 1000 --beam ${beam} --nbest ${nbest} \
     --task "multilingual_translation" --lang-pairs ${REF_MODEL_LANGS} \
     --scoring sacrebleu -s ${l_in} -t ${l_out} \
-    > "${WORK_DIR}/bleu/bleu_checkpoint_best_${l_in}_${l_out}.${l_out}"
+    > "${WORK_DIR}/bleu/bleu_checkpoint_best_${l_in}-${l_out}.${l_out}"
     echo "$l_in $l_out DONE"
 done
