@@ -54,4 +54,4 @@ done
 
 # Select and save the best checkpoint
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null 2>&1 && pwd )"
-python ${DIR}/checkpoint_select_best_from_file.py "${WORK_DIR}" "${CP}"
+python3 ${DIR}/checkpoint_select_best_from_file.py "${WORK_DIR}" "${CP}"

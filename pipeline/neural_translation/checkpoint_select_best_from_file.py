@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 import sys
 import shutil
 import pandas
@@ -43,8 +43,7 @@ if __name__ == "__main__":
     work_dir = sys.argv[1]
     cp_dir = sys.argv[2]
 
-    df = pandas.read_csv(f"{work_dir}/bleu/all_bleu.csv",
-                         sep=" ", names=["name", "l_in", "l_out", "bleu"])
+    df = pandas.read_csv(f"{work_dir}/bleu/all_bleu.csv", sep=" ", names=["name", "l_in", "l_out", "bleu"])
     df = df[~df["name"].isin(["checkpoint_best.pt", "checkpoint_last.pt"])]
 
     names = df["name"].unique().tolist()

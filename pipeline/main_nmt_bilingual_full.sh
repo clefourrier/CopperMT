@@ -24,25 +24,25 @@ done
 # ------- TRAINING RNN AND TRANSFORMER
 for splits in 0.10 0.20 0.30 0.40 0.50; do
     for lang_pairs in $(echo ${langs_bi} | tr "," "\n"); do
-        bash "${DIR}/neural_translation/model_train.sh" \
-            -l ${lang_pairs} -a ${lang_pairs} \
-            -d "${DATA_DIR}/${splits}" \
+        #bash "${DIR}/neural_translation/model_train.sh" \
+        #    -l ${lang_pairs} -a ${lang_pairs} \
+        #    -d "${DATA_DIR}/${splits}" \
+        #    -w "${WORK_DIR}/${lang_pairs}/${splits}" \
+        #    -p "${PARAMETER_DIR}/default_parameters_rnn.txt" \
+        #    -u "${USER_DIR}" -e 20
+
+        bash "${DIR}/neural_translation/checkpoint_select_best.sh" \
+            -l ${lang_pairs} -r ${lang_pairs} \
             -w "${WORK_DIR}/${lang_pairs}/${splits}" \
-            -p "${PARAMETER_DIR}/default_parameters_rnn.txt" \
-            -u "${USER_DIR}" -e 20
+            -d "${DATA_DIR}/${splits}" \
+            -u "${USER_DIR}" \
+            -n 1 -b 1
 
-        #bash "${DIR}/neural_translation/checkpoint_select_best.sh" \
-        #    -l ${lang_pairs} -r ${lang_pairs} \
-        #    -w "${WORK_DIR}/${lang_pairs}/${splits}" \
-        #    -d "${DATA_DIR}/${splits}" \
-        #    -u "${USER_DIR}" \
-        #    -n 1 -b 1
-
-        #bash "${DIR}/neural_translation/bleu_test_save_best.sh" \
-        #    -l ${lang_pairs} -r ${lang_pairs} \
-        #    -w "${WORK_DIR}/${lang_pairs}/${splits}" \
-        #    -d "${DATA_DIR}/${splits}" \
-        #    -u "${USER_DIR}" \
-        #    -n 10 -b 10
+        bash "${DIR}/neural_translation/bleu_test_save_best.sh" \
+            -l ${lang_pairs} -r ${lang_pairs} \
+            -w "${WORK_DIR}/${lang_pairs}/${splits}" \
+            -d "${DATA_DIR}/${splits}" \
+            -u "${USER_DIR}" \
+            -n 10 -b 10
     done
 done
