@@ -1,0 +1,168 @@
+)0.10 - baseline
+Language          ED    ED (Normalized)    B-Cubed FS
+-------------  -----  -----------------  ------------
+Bankan_Tey     2.310              0.563         0.459
+Ben_Tey        2.043              0.493         0.463
+Bunoge         3.204              0.706         0.413
+Jamsay         1.550              0.424         0.576
+Mombo          2.419              0.571         0.470
+Najamba        2.242              0.506         0.499
+Nanga          2.059              0.473         0.449
+Penange        2.070              0.506         0.539
+Perge_Tegu     1.402              0.371         0.587
+Tebul_Ure      1.736              0.439         0.504
+Tiranige_Diga  2.212              0.558         0.473
+Togo_Kan       1.573              0.417         0.553
+Tommo_So       1.432              0.363         0.579
+Toro_Tegu      1.970              0.498         0.527
+Yanda_Dom      1.544              0.382         0.555
+Yorno_So       0.953              0.266         0.686
+TOTAL          1.920              0.471         0.521
+)0.10 - BiNMT
+Language          ED    ED (Normalized)    B-Cubed FS
+-------------  -----  -----------------  ------------
+Bankan_Tey     2.574              0.711         0.293
+Ben_Tey        2.648              0.724         0.299
+Bunoge         2.867              0.710         0.333
+Jamsay         2.163              0.638         0.350
+Mombo          8.486              0.737         0.669
+Najamba        3.075              0.841         0.266
+Nanga          2.741              0.670         0.304
+Penange        3.029              0.802         0.301
+Perge_Tegu     2.586              0.663         0.314
+Tebul_Ure      2.788              0.760         0.256
+Tiranige_Diga  2.690              0.773         0.307
+Togo_Kan       2.426              0.656         0.359
+Tommo_So       2.686              0.771         0.283
+Toro_Tegu      2.773              0.792         0.311
+Yanda_Dom      2.733              0.764         0.265
+Yorno_So       2.208              0.618         0.342
+TOTAL          3.030              0.727         0.328
+)0.10 - MNMT
+)0.10 - SMT
+Language          ED    ED (Normalized)    B-Cubed FS
+-------------  -----  -----------------  ------------
+Bankan_Tey     1.667              0.432         0.516
+Ben_Tey        1.574              0.426         0.515
+Bunoge         2.100              0.573         0.522
+Jamsay         1.551              0.446         0.525
+Mombo          1.914              0.521         0.508
+Najamba        2.050              0.568         0.466
+Nanga          1.889              0.499         0.494
+Penange        1.971              0.516         0.483
+Perge_Tegu     1.672              0.485         0.529
+Tebul_Ure      1.673              0.461         0.483
+Tiranige_Diga  1.833              0.521         0.532
+Togo_Kan       1.681              0.503         0.522
+Tommo_So       1.745              0.467         0.463
+Toro_Tegu      1.977              0.531         0.462
+Yanda_Dom      1.578              0.449         0.479
+Yorno_So       1.509              0.434         0.532
+TOTAL          1.774              0.489         0.502
+)0.50 - baseline
+Language          ED    ED (Normalized)    B-Cubed FS
+-------------  -----  -----------------  ------------
+Bankan_Tey     4.232              1.000         0.108
+Ben_Tey        4.022              0.926         0.195
+Bunoge         4.420              1.000         0.102
+Jamsay         3.040              0.714         0.357
+Mombo          4.340              0.963         0.143
+Najamba        4.374              1.000         0.111
+Nanga          3.860              0.915         0.239
+Penange        4.389              1.000         0.111
+Perge_Tegu     3.024              0.712         0.323
+Tebul_Ure      3.664              0.817         0.291
+Tiranige_Diga  4.267              0.980         0.145
+Togo_Kan       2.677              0.626         0.416
+Tommo_So       2.304              0.583         0.380
+Toro_Tegu      3.530              0.832         0.292
+Yanda_Dom      3.860              0.882         0.260
+Yorno_So       1.814              0.467         0.451
+TOTAL          3.614              0.838         0.245
+)0.50 - BiNMT
+)0.50 - MNMT
+)0.50 - SMT
+)0.10 - baseline
+Language          ED    ED (Normalized)    B-Cubed FS
+-------------  -----  -----------------  ------------
+Bankan_Tey     2.310              0.563         0.459
+Ben_Tey        2.043              0.493         0.463
+Bunoge         3.204              0.706         0.413
+Jamsay         1.550              0.424         0.576
+Mombo          2.419              0.571         0.470
+Najamba        2.242              0.506         0.499
+Nanga          2.059              0.473         0.449
+Penange        2.070              0.506         0.539
+Perge_Tegu     1.402              0.371         0.587
+Tebul_Ure      1.736              0.439         0.504
+Tiranige_Diga  2.212              0.558         0.473
+Togo_Kan       1.573              0.417         0.553
+Tommo_So       1.432              0.363         0.579
+Toro_Tegu      1.970              0.498         0.527
+Yanda_Dom      1.544              0.382         0.555
+Yorno_So       0.953              0.266         0.686
+TOTAL          1.920              0.471         0.521
+)0.10 - BiNMT
+Language           ED    ED (Normalized)    B-Cubed FS
+-------------  ------  -----------------  ------------
+Bankan_Tey      2.463              0.690         0.307
+Ben_Tey         2.556              0.740         0.319
+Bunoge          2.967              0.817         0.353
+Jamsay          2.571              0.760         0.290
+Mombo          19.714              0.802         0.833
+Najamba         3.050              0.861         0.274
+Nanga           2.759              0.714         0.294
+Penange         3.088              0.883         0.301
+Perge_Tegu      5.966              0.725         0.599
+Tebul_Ure       2.808              0.830         0.247
+Tiranige_Diga   2.810              0.846         0.255
+Togo_Kan        2.638              0.787         0.288
+Tommo_So        2.725              0.784         0.274
+Toro_Tegu       2.705              0.797         0.302
+Yanda_Dom       2.644              0.794         0.263
+Yorno_So        2.528              0.740         0.305
+TOTAL           4.000              0.786         0.344
+)0.10 - MNMT
+)0.10 - SMT
+Language          ED    ED (Normalized)    B-Cubed FS
+-------------  -----  -----------------  ------------
+Bankan_Tey     2.574              0.661         0.436
+Ben_Tey        2.870              0.719         0.401
+Bunoge         3.233              0.752         0.409
+Jamsay         2.714              0.721         0.375
+Mombo          2.886              0.729         0.412
+Najamba        2.850              0.712         0.403
+Nanga          2.907              0.706         0.374
+Penange        2.853              0.703         0.413
+Perge_Tegu     2.690              0.682         0.390
+Tebul_Ure      2.558              0.675         0.377
+Tiranige_Diga  2.667              0.665         0.417
+Togo_Kan       2.787              0.712         0.416
+Tommo_So       2.843              0.695         0.347
+Toro_Tegu      3.000              0.738         0.380
+Yanda_Dom      2.644              0.706         0.363
+Yorno_So       2.528              0.658         0.390
+TOTAL          2.788              0.702         0.394
+)0.50 - baseline
+Language          ED    ED (Normalized)    B-Cubed FS
+-------------  -----  -----------------  ------------
+Bankan_Tey     4.232              1.000         0.108
+Ben_Tey        4.022              0.926         0.195
+Bunoge         4.420              1.000         0.102
+Jamsay         3.040              0.714         0.357
+Mombo          4.340              0.963         0.143
+Najamba        4.374              1.000         0.111
+Nanga          3.860              0.915         0.239
+Penange        4.389              1.000         0.111
+Perge_Tegu     3.024              0.712         0.323
+Tebul_Ure      3.664              0.817         0.291
+Tiranige_Diga  4.267              0.980         0.145
+Togo_Kan       2.677              0.626         0.416
+Tommo_So       2.304              0.583         0.380
+Toro_Tegu      3.530              0.832         0.292
+Yanda_Dom      3.860              0.882         0.260
+Yorno_So       1.814              0.467         0.451
+TOTAL          3.614              0.838         0.245
+)0.50 - BiNMT
+)0.50 - MNMT
+)0.50 - SMT

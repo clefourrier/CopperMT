@@ -1,0 +1,208 @@
+)0.10 - baseline
+Language               ED    ED (Normalized)    B-Cubed FS
+------------------  -----  -----------------  ------------
+ClassicalNahuatl    4.333              0.599         0.494
+JalupaNahuat        3.917              0.576         0.472
+MecayapanNahuat     3.500              0.502         0.555
+NorthPueblaNahuatl  3.083              0.453         0.516
+PajapanNahuat       3.333              0.560         0.566
+Pipil               4.083              0.624         0.544
+Pochutec            4.250              0.700         0.442
+ProtoAztecan        4.500              0.618         0.554
+TetelcingoNahuatl   2.250              0.319         0.616
+TOTAL               3.694              0.550         0.529
+)0.10 - BiNMT
+Language               ED    ED (Normalized)    B-Cubed FS
+------------------  -----  -----------------  ------------
+ClassicalNahuatl    4.857              0.802         0.439
+JalupaNahuat        3.571              0.803         0.500
+MecayapanNahuat     4.143              0.716         0.500
+NorthPueblaNahuatl  2.714              0.470         0.551
+PajapanNahuat       4.429              0.850         0.567
+Pipil               3.429              0.709         0.501
+Pochutec            4.571              0.799         0.475
+ProtoAztecan        3.333              0.694         0.637
+TetelcingoNahuatl   3.857              0.565         0.562
+TOTAL               3.878              0.712         0.526
+)0.10 - MNMT
+Language               ED    ED (Normalized)    B-Cubed FS
+------------------  -----  -----------------  ------------
+ClassicalNahuatl    4.571              0.683         0.523
+JalupaNahuat        4.143              0.733         0.522
+MecayapanNahuat     3.571              0.710         0.538
+NorthPueblaNahuatl  3.429              0.555         0.502
+PajapanNahuat       4.571              0.815         0.571
+Pipil               3.286              0.741         0.549
+Pochutec            4.429              0.758         0.450
+ProtoAztecan        3.333              0.736         0.612
+TetelcingoNahuatl   4.000              0.585         0.561
+TOTAL               3.926              0.702         0.536
+)0.10 - SMT
+Language               ED    ED (Normalized)    B-Cubed FS
+------------------  -----  -----------------  ------------
+ClassicalNahuatl    2.857              0.427         0.627
+JalupaNahuat        1.857              0.424         0.706
+MecayapanNahuat     2.429              0.488         0.647
+NorthPueblaNahuatl  2.286              0.377         0.653
+PajapanNahuat       2.429              0.443         0.667
+Pipil               1.857              0.435         0.750
+Pochutec            3.000              0.435         0.554
+ProtoAztecan        2.000              0.428         0.757
+TetelcingoNahuatl   2.429              0.418         0.643
+TOTAL               2.349              0.431         0.667
+)0.50 - baseline
+Language               ED    ED (Normalized)    B-Cubed FS
+------------------  -----  -----------------  ------------
+ClassicalNahuatl    4.356              0.559         0.492
+JalupaNahuat        5.339              0.742         0.333
+MecayapanNahuat     3.569              0.551         0.481
+NorthPueblaNahuatl  3.140              0.430         0.589
+PajapanNahuat       3.661              0.579         0.520
+Pipil               4.052              0.562         0.489
+Pochutec            3.841              0.726         0.378
+ProtoAztecan        4.508              0.574         0.472
+TetelcingoNahuatl   2.552              0.394         0.533
+TOTAL               3.891              0.568         0.476
+)0.50 - BiNMT
+Language               ED    ED (Normalized)    B-Cubed FS
+------------------  -----  -----------------  ------------
+ClassicalNahuatl    4.500              0.740         0.358
+JalupaNahuat        4.500              0.821         0.314
+MecayapanNahuat     4.000              0.767         0.311
+NorthPueblaNahuatl  4.778              0.734         0.314
+PajapanNahuat       4.407              0.818         0.349
+Pipil               4.038              0.859         0.269
+Pochutec            3.565              0.839         0.260
+ProtoAztecan        5.038              0.802         0.343
+TetelcingoNahuatl   5.577              0.831         0.285
+TOTAL               4.489              0.801         0.311
+)0.50 - MNMT
+Language               ED    ED (Normalized)    B-Cubed FS
+------------------  -----  -----------------  ------------
+ClassicalNahuatl    4.885              0.720         0.323
+JalupaNahuat        4.875              0.798         0.308
+MecayapanNahuat     5.296              0.798         0.286
+NorthPueblaNahuatl  4.037              0.647         0.343
+PajapanNahuat       4.370              0.754         0.306
+Pipil               4.462              0.720         0.355
+Pochutec            3.696              0.801         0.293
+ProtoAztecan        4.154              0.721         0.356
+TetelcingoNahuatl   4.885              0.765         0.293
+TOTAL               4.518              0.747         0.318
+)0.50 - SMT
+Language               ED    ED (Normalized)    B-Cubed FS
+------------------  -----  -----------------  ------------
+ClassicalNahuatl    3.154              0.527         0.401
+JalupaNahuat        2.375              0.492         0.446
+MecayapanNahuat     2.185              0.467         0.490
+NorthPueblaNahuatl  2.148              0.415         0.510
+PajapanNahuat       2.630              0.556         0.420
+Pipil               1.808              0.424         0.549
+Pochutec            3.130              0.643         0.427
+ProtoAztecan        2.192              0.509         0.482
+TetelcingoNahuatl   2.654              0.505         0.484
+TOTAL               2.475              0.504         0.468
+)0.10 - baseline
+Language               ED    ED (Normalized)    B-Cubed FS
+------------------  -----  -----------------  ------------
+ClassicalNahuatl    4.333              0.599         0.494
+JalupaNahuat        3.917              0.576         0.472
+MecayapanNahuat     3.500              0.502         0.555
+NorthPueblaNahuatl  3.083              0.453         0.516
+PajapanNahuat       3.333              0.560         0.566
+Pipil               4.083              0.624         0.544
+Pochutec            4.250              0.700         0.442
+ProtoAztecan        4.500              0.618         0.554
+TetelcingoNahuatl   2.250              0.319         0.616
+TOTAL               3.694              0.550         0.529
+)0.10 - BiNMT
+Language               ED    ED (Normalized)    B-Cubed FS
+------------------  -----  -----------------  ------------
+ClassicalNahuatl    4.143              0.790         0.483
+JalupaNahuat        3.571              0.839         0.530
+MecayapanNahuat     3.143              0.662         0.507
+NorthPueblaNahuatl  3.857              0.687         0.482
+PajapanNahuat       4.429              0.835         0.534
+Pipil               3.714              0.759         0.454
+Pochutec            4.429              0.780         0.418
+ProtoAztecan        3.500              0.736         0.578
+TetelcingoNahuatl   3.857              0.582         0.570
+TOTAL               3.849              0.741         0.506
+)0.10 - MNMT
+Language               ED    ED (Normalized)    B-Cubed FS
+------------------  -----  -----------------  ------------
+ClassicalNahuatl    4.429              0.773         0.507
+JalupaNahuat        4.000              0.790         0.529
+MecayapanNahuat     4.000              0.728         0.452
+NorthPueblaNahuatl  3.857              0.675         0.519
+PajapanNahuat       4.000              0.759         0.592
+Pipil               3.286              0.733         0.487
+Pochutec            4.714              0.839         0.459
+ProtoAztecan        3.000              0.708         0.627
+TetelcingoNahuatl   4.857              0.732         0.440
+TOTAL               4.016              0.749         0.512
+)0.10 - SMT
+Language               ED    ED (Normalized)    B-Cubed FS
+------------------  -----  -----------------  ------------
+ClassicalNahuatl    4.286              0.687         0.534
+JalupaNahuat        2.714              0.600         0.621
+MecayapanNahuat     2.714              0.572         0.619
+NorthPueblaNahuatl  2.714              0.474         0.642
+PajapanNahuat       3.429              0.636         0.569
+Pipil               2.429              0.518         0.560
+Pochutec            4.000              0.652         0.529
+ProtoAztecan        2.667              0.558         0.645
+TetelcingoNahuatl   3.286              0.520         0.572
+TOTAL               3.138              0.580         0.588
+)0.50 - baseline
+Language               ED    ED (Normalized)    B-Cubed FS
+------------------  -----  -----------------  ------------
+ClassicalNahuatl    4.356              0.559         0.492
+JalupaNahuat        5.339              0.742         0.333
+MecayapanNahuat     3.569              0.551         0.481
+NorthPueblaNahuatl  3.140              0.430         0.589
+PajapanNahuat       3.661              0.579         0.520
+Pipil               4.052              0.562         0.489
+Pochutec            3.841              0.726         0.378
+ProtoAztecan        4.508              0.574         0.472
+TetelcingoNahuatl   2.552              0.394         0.533
+TOTAL               3.891              0.568         0.476
+)0.50 - BiNMT
+Language               ED    ED (Normalized)    B-Cubed FS
+------------------  -----  -----------------  ------------
+ClassicalNahuatl    4.269              0.786         0.300
+JalupaNahuat        4.125              0.832         0.299
+MecayapanNahuat     4.148              0.766         0.302
+NorthPueblaNahuatl  4.630              0.745         0.285
+PajapanNahuat       3.778              0.769         0.311
+Pipil               3.846              0.877         0.256
+Pochutec            3.609              0.862         0.266
+ProtoAztecan        4.192              0.846         0.273
+TetelcingoNahuatl   5.115              0.822         0.269
+TOTAL               4.190              0.812         0.285
+)0.50 - MNMT
+Language               ED    ED (Normalized)    B-Cubed FS
+------------------  -----  -----------------  ------------
+ClassicalNahuatl    5.115              0.733         0.345
+JalupaNahuat        4.750              0.829         0.278
+MecayapanNahuat     4.815              0.779         0.274
+NorthPueblaNahuatl  4.407              0.716         0.319
+PajapanNahuat       4.556              0.790         0.283
+Pipil               3.846              0.769         0.299
+Pochutec            3.826              0.846         0.268
+ProtoAztecan        4.000              0.752         0.343
+TetelcingoNahuatl   5.077              0.791         0.253
+TOTAL               4.488              0.778         0.296
+)0.50 - SMT
+Language               ED    ED (Normalized)    B-Cubed FS
+------------------  -----  -----------------  ------------
+ClassicalNahuatl    3.846              0.705         0.398
+JalupaNahuat        2.917              0.660         0.431
+MecayapanNahuat     3.074              0.702         0.402
+NorthPueblaNahuatl  3.481              0.669         0.346
+PajapanNahuat       3.370              0.732         0.356
+Pipil               3.000              0.700         0.408
+Pochutec            3.652              0.754         0.408
+ProtoAztecan        3.115              0.672         0.398
+TetelcingoNahuatl   3.654              0.685         0.366
+TOTAL               3.346              0.698         0.390

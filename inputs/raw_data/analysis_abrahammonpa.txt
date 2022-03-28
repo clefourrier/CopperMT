@@ -1,0 +1,192 @@
+)0.10 - baseline
+Language           ED    ED (Normalized)    B-Cubed FS
+--------------  -----  -----------------  ------------
+MonpaBalemu     0.650              0.120         0.826
+MonpaDirang     0.475              0.088         0.863
+MonpaDirangDum  0.600              0.110         0.858
+MonpaKalaktang  0.575              0.112         0.876
+MonpaNamsu      0.375              0.071         0.911
+MonpaSangti     0.400              0.074         0.879
+MonpaTembang    0.300              0.062         0.920
+MonpaTomko      0.300              0.062         0.937
+TOTAL           0.459              0.088         0.884
+)0.10 - BiNMT
+Language           ED    ED (Normalized)    B-Cubed FS
+--------------  -----  -----------------  ------------
+MonpaBalemu     0.235              0.078         0.979
+MonpaDirang     0.176              0.059         0.967
+MonpaDirangDum  0.471              0.132         0.868
+MonpaKalaktang  0.529              0.148         0.829
+MonpaNamsu      0.235              0.078         0.950
+MonpaSangti     0.353              0.081         0.918
+MonpaTembang    0.176              0.059         0.957
+MonpaTomko      0.235              0.074         0.942
+TOTAL           0.301              0.089         0.926
+)0.10 - MNMT
+Language           ED    ED (Normalized)    B-Cubed FS
+--------------  -----  -----------------  ------------
+MonpaBalemu     0.235              0.050         0.927
+MonpaDirang     0.706              0.175         0.807
+MonpaDirangDum  0.294              0.083         0.900
+MonpaKalaktang  0.412              0.114         0.854
+MonpaNamsu      0.118              0.039         0.972
+MonpaSangti     0.529              0.157         0.810
+MonpaTembang    0.235              0.078         0.912
+MonpaTomko      0.235              0.055         0.946
+TOTAL           0.346              0.094         0.891
+)0.10 - SMT
+Language           ED    ED (Normalized)    B-Cubed FS
+--------------  -----  -----------------  ------------
+MonpaBalemu     0.176              0.043         0.945
+MonpaDirang     0.000              0.000         1.000
+MonpaDirangDum  0.118              0.029         0.989
+MonpaKalaktang  0.176              0.043         0.934
+MonpaNamsu      0.059              0.020         0.989
+MonpaSangti     0.000              0.000         1.000
+MonpaTembang    0.118              0.039         0.968
+MonpaTomko      0.118              0.034         0.973
+TOTAL           0.096              0.026         0.975
+)0.50 - baseline
+Language           ED    ED (Normalized)    B-Cubed FS
+--------------  -----  -----------------  ------------
+MonpaBalemu     1.559              0.290         0.660
+MonpaDirang     1.251              0.239         0.760
+MonpaDirangDum  1.855              0.367         0.624
+MonpaKalaktang  1.822              0.335         0.615
+MonpaNamsu      1.335              0.242         0.711
+MonpaSangti     1.479              0.279         0.697
+MonpaTembang    1.686              0.317         0.664
+MonpaTomko      0.899              0.180         0.768
+TOTAL           1.486              0.281         0.687
+)0.50 - BiNMT
+Language           ED    ED (Normalized)    B-Cubed FS
+--------------  -----  -----------------  ------------
+MonpaBalemu     3.058              0.678         0.382
+MonpaDirang     2.057              0.555         0.431
+MonpaDirangDum  2.420              0.612         0.389
+MonpaKalaktang  2.556              0.611         0.423
+MonpaNamsu      2.400              0.592         0.365
+MonpaSangti     2.145              0.573         0.378
+MonpaTembang    2.606              0.572         0.398
+MonpaTomko      4.203              0.795         0.355
+TOTAL           2.681              0.624         0.390
+)0.50 - MNMT
+Language           ED    ED (Normalized)    B-Cubed FS
+--------------  -----  -----------------  ------------
+MonpaBalemu     2.855              0.671         0.365
+MonpaDirang     2.786              0.659         0.354
+MonpaDirangDum  2.638              0.643         0.337
+MonpaKalaktang  2.714              0.649         0.354
+MonpaNamsu      2.853              0.653         0.360
+MonpaSangti     2.797              0.651         0.390
+MonpaTembang    3.225              0.669         0.346
+MonpaTomko      3.174              0.718         0.340
+TOTAL           2.880              0.664         0.356
+)0.50 - SMT
+Language           ED    ED (Normalized)    B-Cubed FS
+--------------  -----  -----------------  ------------
+MonpaBalemu     0.522              0.150         0.798
+MonpaDirang     0.186              0.049         0.924
+MonpaDirangDum  0.812              0.176         0.710
+MonpaKalaktang  0.540              0.149         0.776
+MonpaNamsu      0.227              0.055         0.901
+MonpaSangti     0.420              0.127         0.838
+MonpaTembang    0.732              0.156         0.777
+MonpaTomko      0.754              0.191         0.711
+TOTAL           0.524              0.131         0.805
+)0.10 - baseline
+Language           ED    ED (Normalized)    B-Cubed FS
+--------------  -----  -----------------  ------------
+MonpaBalemu     0.650              0.120         0.826
+MonpaDirang     0.475              0.088         0.863
+MonpaDirangDum  0.600              0.110         0.858
+MonpaKalaktang  0.575              0.112         0.876
+MonpaNamsu      0.375              0.071         0.911
+MonpaSangti     0.400              0.074         0.879
+MonpaTembang    0.300              0.062         0.920
+MonpaTomko      0.300              0.062         0.937
+TOTAL           0.459              0.088         0.884
+)0.10 - BiNMT
+Language           ED    ED (Normalized)    B-Cubed FS
+--------------  -----  -----------------  ------------
+MonpaBalemu     0.353              0.094         0.902
+MonpaDirang     0.353              0.113         0.940
+MonpaDirangDum  0.647              0.191         0.855
+MonpaKalaktang  0.647              0.182         0.794
+MonpaNamsu      0.471              0.147         0.865
+MonpaSangti     0.353              0.118         0.915
+MonpaTembang    0.471              0.157         0.840
+MonpaTomko      0.235              0.069         0.924
+TOTAL           0.441              0.134         0.879
+)0.10 - MNMT
+Language           ED    ED (Normalized)    B-Cubed FS
+--------------  -----  -----------------  ------------
+MonpaBalemu     0.706              0.177         0.764
+MonpaDirang     0.647              0.216         0.830
+MonpaDirangDum  0.824              0.284         0.741
+MonpaKalaktang  0.588              0.190         0.814
+MonpaNamsu      0.529              0.206         0.852
+MonpaSangti     0.471              0.147         0.851
+MonpaTembang    0.529              0.191         0.851
+MonpaTomko      0.588              0.216         0.840
+TOTAL           0.610              0.203         0.818
+)0.10 - SMT
+Language           ED    ED (Normalized)    B-Cubed FS
+--------------  -----  -----------------  ------------
+MonpaBalemu     0.412              0.122         0.886
+MonpaDirang     0.176              0.059         0.978
+MonpaDirangDum  0.294              0.093         0.936
+MonpaKalaktang  0.765              0.269         0.795
+MonpaNamsu      0.412              0.167         0.883
+MonpaSangti     0.176              0.059         0.950
+MonpaTembang    0.353              0.137         0.912
+MonpaTomko      0.294              0.088         0.908
+TOTAL           0.360              0.124         0.906
+)0.50 - baseline
+Language           ED    ED (Normalized)    B-Cubed FS
+--------------  -----  -----------------  ------------
+MonpaBalemu     1.559              0.290         0.660
+MonpaDirang     1.251              0.239         0.760
+MonpaDirangDum  1.855              0.367         0.624
+MonpaKalaktang  1.822              0.335         0.615
+MonpaNamsu      1.335              0.242         0.711
+MonpaSangti     1.479              0.279         0.697
+MonpaTembang    1.686              0.317         0.664
+MonpaTomko      0.899              0.180         0.768
+TOTAL           1.486              0.281         0.687
+)0.50 - BiNMT
+Language           ED    ED (Normalized)    B-Cubed FS
+--------------  -----  -----------------  ------------
+MonpaBalemu     2.667              0.703         0.369
+MonpaDirang     1.943              0.600         0.399
+MonpaDirangDum  2.029              0.649         0.405
+MonpaKalaktang  1.984              0.595         0.431
+MonpaNamsu      2.133              0.622         0.343
+MonpaSangti     1.928              0.605         0.380
+MonpaTembang    2.577              0.610         0.386
+MonpaTomko      2.957              0.700         0.345
+TOTAL           2.277              0.635         0.382
+)0.50 - MNMT
+Language           ED    ED (Normalized)    B-Cubed FS
+--------------  -----  -----------------  ------------
+MonpaBalemu     2.812              0.697         0.333
+MonpaDirang     2.514              0.662         0.347
+MonpaDirangDum  2.435              0.666         0.326
+MonpaKalaktang  2.476              0.696         0.335
+MonpaNamsu      2.560              0.640         0.351
+MonpaSangti     2.942              0.681         0.374
+MonpaTembang    3.042              0.692         0.327
+MonpaTomko      2.855              0.721         0.331
+TOTAL           2.705              0.682         0.340
+)0.50 - SMT
+Language           ED    ED (Normalized)    B-Cubed FS
+--------------  -----  -----------------  ------------
+MonpaBalemu     2.174              0.629         0.406
+MonpaDirang     1.743              0.521         0.483
+MonpaDirangDum  1.812              0.527         0.460
+MonpaKalaktang  2.175              0.643         0.400
+MonpaNamsu      1.907              0.551         0.425
+MonpaSangti     1.870              0.552         0.445
+MonpaTembang    1.592              0.467         0.515
+MonpaTomko      2.130              0.598         0.400
+TOTAL           1.925              0.561         0.442

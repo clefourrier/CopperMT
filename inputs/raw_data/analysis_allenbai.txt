@@ -1,0 +1,136 @@
+)0.10 - baseline
+Language       ED    ED (Normalized)    B-Cubed FS
+----------  -----  -----------------  ------------
+Eryuan      0.577              0.192         0.800
+Heqing      1.093              0.345         0.706
+Jianchuan   0.887              0.296         0.767
+Lanping     1.206              0.389         0.651
+Luobenzhuo  2.031              0.668         0.500
+Qiliqiao    0.361              0.112         0.861
+Xiangyun    0.784              0.261         0.784
+Yunlong     0.649              0.216         0.761
+Zhoucheng   0.351              0.116         0.853
+TOTAL       0.882              0.288         0.743
+)0.10 - BiNMT
+)0.10 - MNMT
+)0.10 - SMT
+)0.50 - baseline
+Language       ED    ED (Normalized)    B-Cubed FS
+----------  -----  -----------------  ------------
+Eryuan      0.754              0.248         0.722
+Heqing      1.428              0.455         0.634
+Jianchuan   1.073              0.351         0.721
+Lanping     1.609              0.498         0.542
+Luobenzhuo  2.380              0.734         0.362
+Qiliqiao    0.587              0.188         0.737
+Xiangyun    1.267              0.414         0.620
+Yunlong     1.036              0.329         0.638
+Zhoucheng   0.599              0.192         0.759
+TOTAL       1.192              0.379         0.637
+)0.50 - BiNMT
+Language       ED    ED (Normalized)    B-Cubed FS
+----------  -----  -----------------  ------------
+Eryuan      1.063              0.346         0.540
+Heqing      1.317              0.415         0.521
+Jianchuan   0.946              0.313         0.600
+Lanping     1.371              0.436         0.472
+Luobenzhuo  2.330              0.767         0.264
+Qiliqiao    0.885              0.281         0.599
+Xiangyun    1.534              0.492         0.426
+Yunlong     1.179              0.383         0.520
+Zhoucheng   1.080              0.348         0.555
+TOTAL       1.301              0.420         0.500
+)0.50 - MNMT
+Language       ED    ED (Normalized)    B-Cubed FS
+----------  -----  -----------------  ------------
+Eryuan      0.958              0.312         0.585
+Heqing      1.236              0.394         0.527
+Jianchuan   0.946              0.312         0.609
+Lanping     1.402              0.447         0.481
+Luobenzhuo  1.824              0.600         0.386
+Qiliqiao    1.087              0.342         0.546
+Xiangyun    1.390              0.439         0.484
+Yunlong     1.099              0.358         0.541
+Zhoucheng   1.000              0.329         0.564
+TOTAL       1.216              0.392         0.525
+)0.50 - SMT
+Language       ED    ED (Normalized)    B-Cubed FS
+----------  -----  -----------------  ------------
+Eryuan      0.541              0.177         0.764
+Heqing      0.885              0.281         0.642
+Jianchuan   0.680              0.224         0.692
+Lanping     1.110              0.354         0.571
+Luobenzhuo  1.674              0.551         0.449
+Qiliqiao    0.615              0.197         0.721
+Xiangyun    1.052              0.343         0.568
+Yunlong     0.859              0.274         0.644
+Zhoucheng   0.623              0.204         0.716
+TOTAL       0.893              0.289         0.641
+)0.10 - baseline
+Language       ED    ED (Normalized)    B-Cubed FS
+----------  -----  -----------------  ------------
+Eryuan      0.577              0.192         0.800
+Heqing      1.093              0.345         0.706
+Jianchuan   0.887              0.296         0.767
+Lanping     1.206              0.389         0.651
+Luobenzhuo  2.031              0.668         0.500
+Qiliqiao    0.361              0.112         0.861
+Xiangyun    0.784              0.261         0.784
+Yunlong     0.649              0.216         0.761
+Zhoucheng   0.351              0.116         0.853
+TOTAL       0.882              0.288         0.743
+)0.10 - BiNMT
+)0.10 - MNMT
+)0.10 - SMT
+)0.50 - baseline
+Language       ED    ED (Normalized)    B-Cubed FS
+----------  -----  -----------------  ------------
+Eryuan      0.754              0.248         0.722
+Heqing      1.428              0.455         0.634
+Jianchuan   1.073              0.351         0.721
+Lanping     1.609              0.498         0.542
+Luobenzhuo  2.380              0.734         0.362
+Qiliqiao    0.587              0.188         0.737
+Xiangyun    1.267              0.414         0.620
+Yunlong     1.036              0.329         0.638
+Zhoucheng   0.599              0.192         0.759
+TOTAL       1.192              0.379         0.637
+)0.50 - BiNMT
+Language       ED    ED (Normalized)    B-Cubed FS
+----------  -----  -----------------  ------------
+Eryuan      1.189              0.388         0.513
+Heqing      1.429              0.456         0.490
+Jianchuan   1.117              0.372         0.567
+Lanping     1.613              0.516         0.425
+Luobenzhuo  2.380              0.784         0.255
+Qiliqiao    1.028              0.330         0.543
+Xiangyun    1.557              0.502         0.412
+Yunlong     1.317              0.429         0.480
+Zhoucheng   1.126              0.366         0.528
+TOTAL       1.417              0.460         0.468
+)0.50 - MNMT
+Language       ED    ED (Normalized)    B-Cubed FS
+----------  -----  -----------------  ------------
+Eryuan      1.111              0.364         0.541
+Heqing      1.299              0.414         0.506
+Jianchuan   1.054              0.350         0.559
+Lanping     1.491              0.476         0.458
+Luobenzhuo  1.814              0.598         0.396
+Qiliqiao    1.261              0.402         0.498
+Xiangyun    1.508              0.470         0.469
+Yunlong     1.253              0.410         0.503
+Zhoucheng   1.178              0.391         0.512
+TOTAL       1.330              0.431         0.494
+)0.50 - SMT
+Language       ED    ED (Normalized)    B-Cubed FS
+----------  -----  -----------------  ------------
+Eryuan      0.991              0.290         0.604
+Heqing      1.230              0.369         0.550
+Jianchuan   1.015              0.309         0.620
+Lanping     1.144              0.362         0.562
+Luobenzhuo  2.403              0.682         0.301
+Qiliqiao    1.280              0.370         0.517
+Xiangyun    1.393              0.409         0.501
+Yunlong     1.083              0.333         0.582
+Zhoucheng   0.779              0.233         0.666
+TOTAL       1.258              0.373         0.545

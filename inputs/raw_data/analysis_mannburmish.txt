@@ -1,0 +1,96 @@
+)0.10 - baseline
+Language           ED    ED (Normalized)    B-Cubed FS
+--------------  -----  -----------------  ------------
+Achang          3.017              0.727         0.404
+Bela            3.172              0.769         0.408
+Lashi           2.569              0.618         0.482
+Maru            2.828              0.656         0.424
+Phon            2.672              0.664         0.444
+WrittenBurmese  2.966              0.751         0.429
+Zaiwa           1.879              0.480         0.585
+TOTAL           2.729              0.666         0.454
+)0.10 - BiNMT
+)0.10 - MNMT
+)0.10 - SMT
+Language           ED    ED (Normalized)    B-Cubed FS
+--------------  -----  -----------------  ------------
+Achang          2.255              0.560         0.448
+Bela            2.109              0.580         0.425
+Lashi           2.213              0.566         0.513
+Maru            2.596              0.678         0.458
+Phon            1.511              0.386         0.587
+WrittenBurmese  1.781              0.576         0.477
+Zaiwa           2.043              0.536         0.469
+TOTAL           2.072              0.554         0.482
+)0.50 - baseline
+Language           ED    ED (Normalized)    B-Cubed FS
+--------------  -----  -----------------  ------------
+Achang          3.328              0.792         0.237
+Bela            3.620              0.829         0.261
+Lashi           3.010              0.720         0.308
+Maru            3.244              0.752         0.258
+Phon            3.087              0.764         0.296
+WrittenBurmese  3.215              0.811         0.259
+Zaiwa           2.101              0.542         0.399
+TOTAL           3.087              0.744         0.288
+)0.50 - BiNMT
+)0.50 - MNMT
+)0.50 - SMT
+Language           ED    ED (Normalized)    B-Cubed FS
+--------------  -----  -----------------  ------------
+Achang          2.889              0.710         0.255
+Bela            2.700              0.728         0.295
+Lashi           2.706              0.695         0.289
+Maru            2.995              0.747         0.252
+Phon            2.675              0.711         0.325
+WrittenBurmese  2.525              0.747         0.276
+Zaiwa           2.665              0.677         0.294
+TOTAL           2.736              0.716         0.284
+)0.10 - baseline
+Language           ED    ED (Normalized)    B-Cubed FS
+--------------  -----  -----------------  ------------
+Achang          3.017              0.727         0.404
+Bela            3.172              0.769         0.408
+Lashi           2.569              0.618         0.482
+Maru            2.828              0.656         0.424
+Phon            2.672              0.664         0.444
+WrittenBurmese  2.966              0.751         0.429
+Zaiwa           1.879              0.480         0.585
+TOTAL           2.729              0.666         0.454
+)0.10 - BiNMT
+)0.10 - MNMT
+)0.10 - SMT
+Language           ED    ED (Normalized)    B-Cubed FS
+--------------  -----  -----------------  ------------
+Achang          2.574              0.636         0.401
+Bela            2.348              0.601         0.449
+Lashi           2.404              0.609         0.467
+Maru            2.596              0.689         0.441
+Phon            2.578              0.608         0.422
+WrittenBurmese  2.406              0.704         0.407
+Zaiwa           2.404              0.618         0.434
+TOTAL           2.473              0.638         0.432
+)0.50 - baseline
+Language           ED    ED (Normalized)    B-Cubed FS
+--------------  -----  -----------------  ------------
+Achang          3.328              0.792         0.237
+Bela            3.620              0.829         0.261
+Lashi           3.010              0.720         0.308
+Maru            3.244              0.752         0.258
+Phon            3.087              0.764         0.296
+WrittenBurmese  3.215              0.811         0.259
+Zaiwa           2.101              0.542         0.399
+TOTAL           3.087              0.744         0.288
+)0.50 - BiNMT
+)0.50 - MNMT
+)0.50 - SMT
+Language           ED    ED (Normalized)    B-Cubed FS
+--------------  -----  -----------------  ------------
+Achang          3.437              0.808         0.220
+Bela            3.367              0.811         0.304
+Lashi           3.402              0.789         0.258
+Maru            3.479              0.809         0.240
+Phon            3.231              0.810         0.283
+WrittenBurmese  2.926              0.807         0.300
+Zaiwa           3.411              0.794         0.242
+TOTAL           3.322              0.804         0.264

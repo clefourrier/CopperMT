@@ -1,0 +1,92 @@
+)0.10 - baseline
+Language                   ED    ED (Normalized)    B-Cubed FS
+----------------------  -----  -----------------  ------------
+AntangWesternSandong    0.219              0.052         0.940
+BanliangYangAn          0.590              0.157         0.862
+DujiangEasternSandong   0.171              0.044         0.967
+JiaoliPandong           0.619              0.154         0.826
+JiarongSouthernSandong  0.286              0.072         0.917
+JiuqianSouthernSandong  0.210              0.052         0.931
+Pandong                 0.667              0.164         0.836
+RenliEasternSandong     0.333              0.087         0.931
+SanjiangEasternSandong  0.305              0.083         0.946
+ShuigenCentralSandong   0.076              0.018         0.979
+ShuiweiSouthernSandong  0.171              0.041         0.947
+ShuiyaoSouthernSandong  0.305              0.071         0.905
+TangnianYangAn          0.476              0.125         0.880
+TangzhouWesternSandong  0.267              0.072         0.945
+TingpaiWesternSandong   0.229              0.052         0.933
+ZhongheCentralSandong   0.057              0.015         0.983
+TOTAL                   0.311              0.079         0.920
+)0.10 - BiNMT
+)0.10 - MNMT
+)0.10 - SMT
+)0.50 - baseline
+Language                   ED    ED (Normalized)    B-Cubed FS
+----------------------  -----  -----------------  ------------
+AntangWesternSandong    0.496              0.130         0.863
+BanliangYangAn          0.817              0.204         0.783
+DujiangEasternSandong   0.520              0.133         0.889
+JiaoliPandong           1.046              0.264         0.753
+JiarongSouthernSandong  0.850              0.212         0.823
+JiuqianSouthernSandong  0.647              0.163         0.855
+Pandong                 0.933              0.230         0.800
+RenliEasternSandong     0.642              0.162         0.870
+SanjiangEasternSandong  0.631              0.159         0.882
+ShuigenCentralSandong   0.328              0.085         0.917
+ShuiweiSouthernSandong  0.748              0.192         0.841
+ShuiyaoSouthernSandong  1.000              0.246         0.803
+TangnianYangAn          0.864              0.217         0.789
+TangzhouWesternSandong  0.607              0.158         0.852
+TingpaiWesternSandong   0.711              0.179         0.829
+ZhongheCentralSandong   0.234              0.062         0.930
+TOTAL                   0.692              0.175         0.842
+)0.50 - BiNMT
+)0.50 - MNMT
+)0.50 - SMT
+)0.10 - baseline
+Language                   ED    ED (Normalized)    B-Cubed FS
+----------------------  -----  -----------------  ------------
+AntangWesternSandong    0.219              0.052         0.940
+BanliangYangAn          0.590              0.157         0.862
+DujiangEasternSandong   0.171              0.044         0.967
+JiaoliPandong           0.619              0.154         0.826
+JiarongSouthernSandong  0.286              0.072         0.917
+JiuqianSouthernSandong  0.210              0.052         0.931
+Pandong                 0.667              0.164         0.836
+RenliEasternSandong     0.333              0.087         0.931
+SanjiangEasternSandong  0.305              0.083         0.946
+ShuigenCentralSandong   0.076              0.018         0.979
+ShuiweiSouthernSandong  0.171              0.041         0.947
+ShuiyaoSouthernSandong  0.305              0.071         0.905
+TangnianYangAn          0.476              0.125         0.880
+TangzhouWesternSandong  0.267              0.072         0.945
+TingpaiWesternSandong   0.229              0.052         0.933
+ZhongheCentralSandong   0.057              0.015         0.983
+TOTAL                   0.311              0.079         0.920
+)0.10 - BiNMT
+)0.10 - MNMT
+)0.10 - SMT
+)0.50 - baseline
+Language                   ED    ED (Normalized)    B-Cubed FS
+----------------------  -----  -----------------  ------------
+AntangWesternSandong    0.496              0.130         0.863
+BanliangYangAn          0.817              0.204         0.783
+DujiangEasternSandong   0.520              0.133         0.889
+JiaoliPandong           1.046              0.264         0.753
+JiarongSouthernSandong  0.850              0.212         0.823
+JiuqianSouthernSandong  0.647              0.163         0.855
+Pandong                 0.933              0.230         0.800
+RenliEasternSandong     0.642              0.162         0.870
+SanjiangEasternSandong  0.631              0.159         0.882
+ShuigenCentralSandong   0.328              0.085         0.917
+ShuiweiSouthernSandong  0.748              0.192         0.841
+ShuiyaoSouthernSandong  1.000              0.246         0.803
+TangnianYangAn          0.864              0.217         0.789
+TangzhouWesternSandong  0.607              0.158         0.852
+TingpaiWesternSandong   0.711              0.179         0.829
+ZhongheCentralSandong   0.234              0.062         0.930
+TOTAL                   0.692              0.175         0.842
+)0.50 - BiNMT
+)0.50 - MNMT
+)0.50 - SMT

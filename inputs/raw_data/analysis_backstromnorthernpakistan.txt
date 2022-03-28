@@ -1,0 +1,176 @@
+)0.10 - baseline
+Language          ED    ED (Normalized)    B-Cubed FS
+-------------  -----  -----------------  ------------
+ChorbatBalti   0.960              0.192         0.805
+KhapaluBalti   1.520              0.326         0.772
+KharmangBalti  0.760              0.148         0.882
+RonduBalti     1.600              0.328         0.802
+ShigarBalti    1.800              0.382         0.806
+SkarduBalti    1.640              0.346         0.837
+SkarduPurki    1.440              0.292         0.732
+TOTAL          1.389              0.288         0.805
+)0.10 - BiNMT
+Language          ED    ED (Normalized)    B-Cubed FS
+-------------  -----  -----------------  ------------
+ChorbatBalti   0.600              0.175         0.844
+KhapaluBalti   0.600              0.192         0.858
+KharmangBalti  0.900              0.233         0.814
+RonduBalti     0.600              0.183         0.853
+ShigarBalti    0.556              0.204         0.926
+SkarduBalti    0.800              0.187         0.796
+SkarduPurki    1.000              0.290         0.791
+TOTAL          0.722              0.209         0.840
+)0.10 - MNMT
+Language          ED    ED (Normalized)    B-Cubed FS
+-------------  -----  -----------------  ------------
+ChorbatBalti   1.200              0.358         0.728
+KhapaluBalti   1.500              0.433         0.648
+KharmangBalti  1.000              0.283         0.781
+RonduBalti     1.200              0.317         0.719
+ShigarBalti    1.444              0.407         0.800
+SkarduBalti    1.100              0.275         0.740
+SkarduPurki    1.100              0.315         0.810
+TOTAL          1.221              0.341         0.747
+)0.10 - SMT
+Language          ED    ED (Normalized)    B-Cubed FS
+-------------  -----  -----------------  ------------
+ChorbatBalti   0.400              0.117         0.926
+KhapaluBalti   0.200              0.058         0.948
+KharmangBalti  0.500              0.125         0.937
+RonduBalti     0.200              0.067         0.925
+ShigarBalti    0.333              0.111         0.936
+SkarduBalti    0.100              0.033         0.976
+SkarduPurki    0.600              0.183         0.930
+TOTAL          0.333              0.099         0.940
+)0.50 - baseline
+Language          ED    ED (Normalized)    B-Cubed FS
+-------------  -----  -----------------  ------------
+ChorbatBalti   1.194              0.265         0.710
+KhapaluBalti   1.419              0.315         0.701
+KharmangBalti  1.403              0.315         0.719
+RonduBalti     1.887              0.408         0.672
+ShigarBalti    1.903              0.420         0.664
+SkarduBalti    1.839              0.407         0.675
+SkarduPurki    1.524              0.345         0.681
+TOTAL          1.596              0.354         0.689
+)0.50 - BiNMT
+Language          ED    ED (Normalized)    B-Cubed FS
+-------------  -----  -----------------  ------------
+ChorbatBalti   2.239              0.650         0.422
+KhapaluBalti   2.000              0.643         0.443
+KharmangBalti  2.370              0.706         0.367
+RonduBalti     2.000              0.607         0.472
+ShigarBalti    1.977              0.600         0.494
+SkarduBalti    2.065              0.600         0.436
+SkarduPurki    2.489              0.703         0.388
+TOTAL          2.163              0.644         0.432
+)0.50 - MNMT
+Language          ED    ED (Normalized)    B-Cubed FS
+-------------  -----  -----------------  ------------
+ChorbatBalti   2.370              0.649         0.432
+KhapaluBalti   2.261              0.652         0.441
+KharmangBalti  2.522              0.693         0.394
+RonduBalti     2.196              0.630         0.424
+ShigarBalti    2.341              0.667         0.406
+SkarduBalti    2.478              0.661         0.414
+SkarduPurki    2.556              0.705         0.355
+TOTAL          2.389              0.665         0.409
+)0.50 - SMT
+Language          ED    ED (Normalized)    B-Cubed FS
+-------------  -----  -----------------  ------------
+ChorbatBalti   0.326              0.100         0.897
+KhapaluBalti   0.543              0.167         0.798
+KharmangBalti  0.630              0.187         0.792
+RonduBalti     0.543              0.174         0.870
+ShigarBalti    0.409              0.125         0.859
+SkarduBalti    0.435              0.122         0.838
+SkarduPurki    0.733              0.228         0.768
+TOTAL          0.517              0.157         0.832
+)0.10 - baseline
+Language          ED    ED (Normalized)    B-Cubed FS
+-------------  -----  -----------------  ------------
+ChorbatBalti   0.960              0.192         0.805
+KhapaluBalti   1.520              0.326         0.772
+KharmangBalti  0.760              0.148         0.882
+RonduBalti     1.600              0.328         0.802
+ShigarBalti    1.800              0.382         0.806
+SkarduBalti    1.640              0.346         0.837
+SkarduPurki    1.440              0.292         0.732
+TOTAL          1.389              0.288         0.805
+)0.10 - BiNMT
+Language          ED    ED (Normalized)    B-Cubed FS
+-------------  -----  -----------------  ------------
+ChorbatBalti   0.900              0.258         0.778
+KhapaluBalti   0.600              0.173         0.902
+KharmangBalti  1.100              0.300         0.768
+RonduBalti     0.700              0.217         0.836
+ShigarBalti    0.556              0.204         0.864
+SkarduBalti    0.300              0.100         0.973
+SkarduPurki    1.400              0.407         0.688
+TOTAL          0.794              0.237         0.830
+)0.10 - MNMT
+Language          ED    ED (Normalized)    B-Cubed FS
+-------------  -----  -----------------  ------------
+ChorbatBalti   1.000              0.298         0.746
+KhapaluBalti   1.100              0.350         0.702
+KharmangBalti  1.300              0.383         0.694
+RonduBalti     1.000              0.317         0.739
+ShigarBalti    1.333              0.407         0.850
+SkarduBalti    1.100              0.350         0.732
+SkarduPurki    0.900              0.257         0.825
+TOTAL          1.105              0.337         0.756
+)0.10 - SMT
+Language          ED    ED (Normalized)    B-Cubed FS
+-------------  -----  -----------------  ------------
+ChorbatBalti   1.300              0.302         0.740
+KhapaluBalti   1.800              0.458         0.671
+KharmangBalti  1.300              0.350         0.815
+RonduBalti     1.600              0.400         0.665
+ShigarBalti    1.111              0.352         0.738
+SkarduBalti    1.300              0.350         0.757
+SkarduPurki    1.700              0.425         0.729
+TOTAL          1.444              0.377         0.731
+)0.50 - baseline
+Language          ED    ED (Normalized)    B-Cubed FS
+-------------  -----  -----------------  ------------
+ChorbatBalti   1.194              0.265         0.710
+KhapaluBalti   1.419              0.315         0.701
+KharmangBalti  1.403              0.315         0.719
+RonduBalti     1.887              0.408         0.672
+ShigarBalti    1.903              0.420         0.664
+SkarduBalti    1.839              0.407         0.675
+SkarduPurki    1.524              0.345         0.681
+TOTAL          1.596              0.354         0.689
+)0.50 - BiNMT
+Language          ED    ED (Normalized)    B-Cubed FS
+-------------  -----  -----------------  ------------
+ChorbatBalti   2.043              0.620         0.447
+KhapaluBalti   2.065              0.647         0.452
+KharmangBalti  2.413              0.747         0.377
+RonduBalti     2.043              0.625         0.453
+ShigarBalti    2.182              0.673         0.452
+SkarduBalti    1.913              0.589         0.469
+SkarduPurki    2.400              0.740         0.381
+TOTAL          2.151              0.663         0.433
+)0.50 - MNMT
+Language          ED    ED (Normalized)    B-Cubed FS
+-------------  -----  -----------------  ------------
+ChorbatBalti   2.261              0.662         0.380
+KhapaluBalti   2.174              0.621         0.467
+KharmangBalti  2.413              0.718         0.381
+RonduBalti     2.152              0.683         0.438
+ShigarBalti    2.341              0.688         0.411
+SkarduBalti    2.326              0.641         0.401
+SkarduPurki    2.556              0.742         0.351
+TOTAL          2.318              0.679         0.404
+)0.50 - SMT
+Language          ED    ED (Normalized)    B-Cubed FS
+-------------  -----  -----------------  ------------
+ChorbatBalti   1.783              0.529         0.507
+KhapaluBalti   2.109              0.618         0.456
+KharmangBalti  1.935              0.552         0.480
+RonduBalti     2.087              0.613         0.457
+ShigarBalti    1.864              0.532         0.501
+SkarduBalti    1.891              0.551         0.464
+SkarduPurki    2.222              0.647         0.406
+TOTAL          1.984              0.578         0.467
