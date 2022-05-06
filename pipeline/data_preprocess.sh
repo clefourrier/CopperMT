@@ -18,7 +18,7 @@ for split in 0.10 0.20 0.30 0.40 0.50; do
 	-l=${langs} \
 	-le=${langs_shared} \
 	-ld=${langs_shared} \
-	-t="char" -v=100 \
+	-t="char" -v=200 \
 	2>&1 | tee log.log
 
 	# Preprocess according to fairseq

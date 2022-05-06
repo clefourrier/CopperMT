@@ -24,19 +24,12 @@ done
 # ------ TRAINING RNN AND TRANSFORMER
 for splits in 0.10 0.20 0.30 0.40 0.50; do
     # Train rnn
-    #bash "${DIR}/neural_translation/model_train.sh" \
-    #    -l ${langs_bi} -a ${langs_shared} \
-    #    -d "${DATA_DIR}/${splits}" \
-    #    -w "${WORK_DIR}/${splits}" \
-    #    -p "${PARAMETER_DIR}/default_parameters_rnn.txt" \
-    #    -u "${USER_DIR}" -e 20
-
-    bash neural_translation/checkpoint_select_best.sh \
-        -l ${langs_bi} -r ${langs_bi} \
-        -w "${WORK_DIR}/${splits}" \
+    bash "${DIR}/neural_translation/model_train.sh" \
+        -l ${langs_bi} -a ${langs_shared} \
         -d "${DATA_DIR}/${splits}" \
-        -u "${USER_DIR}" \
-        -n 1 -b 1
+        -w "${WORK_DIR}/${splits}" \
+        -p "${PARAMETER_DIR}/default_parameters_rnn.txt" \
+        -u "${USER_DIR}" -e 20
 
     bash neural_translation/bleu_test_save_best.sh \
         -l ${langs_bi} -r ${langs_bi} \
