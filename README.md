@@ -52,6 +52,16 @@ cd pipeline
 bash main_<your script of choice>.sh parameters.cfg
 ```
 
+### If you want to run the code on other datasets
+You can choose to extract cognate data from EtymDB using pipeline/data/extractor_script_cognates.py, monolingual data from YaMTG using  pipeline/data/extractor_script_monolingual.py, or use your own data.
+
+If you use your own data, you will first need to phonetize it. In this paper, we used espeak text2speech, which is available for a number of widely spoken languages (and Latin for example). To use it if your languages are available, use code similar to what can be found in pipeline/data/extractor_script_monolingual.py, in the `phonetize` case. Then you will need to tokenize it (separate all phones on space, while sticking diacritics 
+to the relevant phone, managing double consonnants in an homogeneous fashion, ...), for which there is a util function `clean_phones` at line 113 of file pipeline/data/management/from_file/utils.py. (This step is automatically done for EtymDB/YamTG extraction).
+
+Then, you will need to create binary files for fairseq to be able to manage your data, which should be done almost without modifications by the script pipeline/neural_translation/data_preprocess.sh. (You will need to adapt the vocabulary size to your vocabulary size).
+
+pipeline/data/dataraw_shuffle_split.sh will finally shuffle your datasets to create random train/dev/test sets for you.
+
 ## Licence
 All code here is mine (clefourrier) except for the spm_train.py script
 (in pipeline/neural_translation/) which comes from fairseq (under
